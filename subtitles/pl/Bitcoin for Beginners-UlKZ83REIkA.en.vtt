@@ -1,0 +1,1129 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.720 --> 00:00:06.600
+An expert on cryptocurrency, and ladies and gentlemen without further ado
+
+00:00:06.600 --> 00:00:10.260
+Please help me give a warm malaysian welcome to
+
+00:00:11.050 --> 00:00:13.050
+Andreas Antonopoulos
+
+00:00:16.960 --> 00:00:18.960
+Thank you very much. Thank you
+
+00:00:21.310 --> 00:00:23.310
+Hi, everyone
+
+00:00:23.560 --> 00:00:28.470
+good afternoon, salaam alaikum. It's a real pleasure to be here
+
+00:00:29.289 --> 00:00:31.269
+it's my first time
+
+00:00:31.269 --> 00:00:35.039
+in Malaysia. I've now been in Kuala lumpur for less than 24 hours
+
+00:00:36.219 --> 00:00:38.219
+and I'm enjoying it a lot
+
+00:00:38.950 --> 00:00:44.279
+very much so. This is my latest book. It was published in September. It's called The Internet of Money
+
+00:00:45.280 --> 00:00:49.169
+people often find that this is a difficult topic to understand
+
+00:00:50.829 --> 00:00:56.639
+Bitcoin is a difficult topic to understand and I've published two books on it. The first book
+
+00:00:57.280 --> 00:01:02.309
+Mastering Bitcoin, which is over there, is for software developers, engineers,
+
+00:01:04.210 --> 00:01:09.419
+technical people. How many people here are software developers, engineers, technical, anyone?
+
+00:01:11.380 --> 00:01:14.189
+Okay, so five people in this room can read that book
+
+00:01:16.200 --> 00:01:19.980
+it explains how Bitcoin works
+
+00:01:20.280 --> 00:01:27.200
+and you can probably read the first three chapters before you get into the very technical stuff and from that point on it
+
+00:01:27.280 --> 00:01:29.280
+It's a bit challenging
+
+00:01:29.380 --> 00:01:32.250
+it's challenging not because I aim it to be challenging
+
+00:01:32.250 --> 00:01:37.320
+but because Bitcoin is a complex subject. Now for everybody who is not a developer
+
+00:01:37.440 --> 00:01:40.740
+the reason I published that book, The Internet of Money is
+
+00:01:41.409 --> 00:01:47.639
+this isn't about how it works. This is about why it matters and it's a collection of
+
+00:01:48.189 --> 00:01:50.879
+eleven of my talks delivered in this format
+
+00:01:51.729 --> 00:01:56.129
+and it explains the philosophy of money
+
+00:01:57.159 --> 00:02:00.749
+the implications of Bitcoin on Society, and it's a book for everyone
+
+00:02:01.930 --> 00:02:08.880
+It's the book I gave my mom to read and she doesn't understand anything about computers or money. So that's a good start
+
+00:02:11.080 --> 00:02:14.789
+Great so before I get started. I'd like to get a feel for
+
+00:02:15.810 --> 00:02:17.810
+the people in the audience
+
+00:02:17.820 --> 00:02:24.320
+and get a bit of an understanding of how many people are familiar with these technologies that we're going to be discussing today
+
+00:02:24.380 --> 00:02:26.380
+so by show of hands
+
+00:02:26.760 --> 00:02:31.680
+Let's start with the narrowest. Which is: how many people here own Bitcoin?
+
+00:02:34.440 --> 00:02:37.820
+Okay, someone did a good turnout for the community
+
+00:02:38.730 --> 00:02:40.110
+Hi
+
+00:02:40.110 --> 00:02:42.860
+Thank you for coming. hi. Thank you for coming
+
+00:02:43.590 --> 00:02:45.590
+how many people have..
+
+00:02:46.650 --> 00:02:52.039
+seen or conducted a transaction in Bitcoin, but don't own any? ...have just experienced it
+
+00:02:53.490 --> 00:02:55.640
+okay, just a few very good
+
+00:02:56.820 --> 00:03:02.420
+and how many people have never conducted a transaction have no idea
+
+00:03:02.420 --> 00:03:06.049
+what Bitcoin is or how it works and are new to this topic?
+
+00:03:08.940 --> 00:03:10.940
+Great, now
+
+00:03:11.370 --> 00:03:16.549
+That was about maybe 30 people, I would say. Now for those of you, who are new to this topic,
+
+00:03:16.590 --> 00:03:21.590
+what I'd like to suggest is that whether you understand or not what we're discussing today
+
+00:03:22.050 --> 00:03:25.100
+And please ask your questions.
+
+00:03:25.920 --> 00:03:32.089
+I want to hear even the most basic questions about Bitcoin because I believe those are the most powerful questions
+
+00:03:33.360 --> 00:03:35.360
+After we're done with the presentation
+
+00:03:35.940 --> 00:03:37.940
+after we're done with the Q&amp;A
+
+00:03:38.250 --> 00:03:45.890
+I would like to see as many of the people in the audience who have never experienced Bitcoin to install a Bitcoin wallet on your
+
+00:03:46.500 --> 00:03:48.500
+mobile device and
+
+00:03:50.070 --> 00:03:54.170
+someone in the audience will give you, for free, some Bitcoin
+
+00:03:55.830 --> 00:03:57.830
+not a whole Bitcoin
+
+00:03:58.260 --> 00:03:59.970
+a fraction of a Bitcoin
+
+00:03:59.970 --> 00:04:05.029
+just so you can see how a transaction works, and then you can turn to your friend who just started
+
+00:04:05.970 --> 00:04:13.190
+and exchange Bitcoin with them, so you can experiment with this. I can assure you it's entirely legal. It's very easy to do
+
+00:04:13.860 --> 00:04:20.450
+and it will allow you to really experience this technology, which is much easier experienced than it is
+
+00:04:21.060 --> 00:04:23.060
+explained
+
+00:04:23.520 --> 00:04:30.740
+so let's try the next question: How many people in this audience who have Bitcoin, have Bitcoin on their mobile devices, and are
+
+00:04:31.230 --> 00:04:36.349
+willing to help people install a wallet and give them one or two dollars?
+I will.
+
+00:04:37.470 --> 00:04:40.399
+Look around, the new people, look around who's
+
+00:04:40.400 --> 00:04:43.970
+raised their hands find these people after the Q&amp;A.
+
+00:04:44.220 --> 00:04:49.190
+Ask them to give you a small amount of Bitcoin and help you set up a wallet. Don't be shy. I will be happy to do
+
+00:04:49.190 --> 00:04:51.190
+it myself
+
+00:04:52.220 --> 00:04:57.060
+All right with that. Let's get started with Bitcoin basics
+
+00:05:00.640 --> 00:05:03.400
+In October of 2008
+
+00:05:04.760 --> 00:05:06.760
+on an obscure
+
+00:05:06.900 --> 00:05:11.630
+anonymous mailing list called the cypherpunk mailing list
+
+00:05:13.260 --> 00:05:18.079
+an anonymous participant using the pseudonym Satoshi Nakamoto
+
+00:05:19.590 --> 00:05:20.640
+announced
+
+00:05:20.640 --> 00:05:22.640
+the publication of a paper
+
+00:05:23.190 --> 00:05:27.829
+and said: 
+I think I have solved a problem in computer science
+
+00:05:27.830 --> 00:05:31.699
+I have found a way to create a system of electronic cash
+
+00:05:34.050 --> 00:05:39.860
+That is direct between people, peer-to-peer as we use the term in computer science
+
+00:05:40.980 --> 00:05:42.980
+in this system of electronic cash
+
+00:05:44.160 --> 00:05:49.369
+I've written a white paper, and I have implemented it in Software
+
+00:05:50.910 --> 00:05:56.119
+and on that day Satoshi Nakamoto published the white paper. You can download it online
+
+00:05:57.030 --> 00:05:59.030
+it's available at Bitcoin.org
+
+00:06:00.680 --> 00:06:09.300
+You can do a search for it: the Satoshi Nakamoto white paper, or the Bitcoin white paper.
+
+00:06:09.380 --> 00:06:11.660
+And in nine pages, Satoshi Nakamoto described
+
+00:06:12.300 --> 00:06:14.990
+in detail and in ways that predicted
+
+00:06:15.870 --> 00:06:18.259
+many of the things that happened over the next seven years
+
+00:06:19.800 --> 00:06:25.190
+What Bitcoin was, and what Bitcoin could become, and how it would work
+
+00:06:27.330 --> 00:06:29.330
+But he didn't stop there
+
+00:06:30.150 --> 00:06:32.070
+or
+
+00:06:32.070 --> 00:06:34.070
+she didn't stop there
+
+00:06:35.460 --> 00:06:41.930
+or they didn't stop there. Because we don't know if Satoshi Nakamoto is a man a woman or a group of people
+
+00:06:42.900 --> 00:06:45.560
+Or an alien being from the future
+
+00:06:48.120 --> 00:06:50.120
+Okay, probably not that last one
+
+00:06:52.020 --> 00:06:56.720
+Satoshi Nakamoto, then published software and invited people
+
+00:06:57.480 --> 00:07:03.259
+to participate in running a network and this gives you the first hint as to how Bitcoin works
+
+00:07:04.919 --> 00:07:06.919
+Bitcoin is software
+
+00:07:07.380 --> 00:07:09.380
+Bitcoin is an application
+
+00:07:09.870 --> 00:07:11.610
+among other things
+
+00:07:11.610 --> 00:07:13.610
+You download this application
+
+00:07:13.740 --> 00:07:18.260
+You run it on your computer. You can run it on a laptop. You can run it on a desktop
+
+00:07:18.990 --> 00:07:22.130
+Preferably on a computer that's permanently connected to the internet
+
+00:07:23.460 --> 00:07:26.690
+It uses quite a bit of RAM and disk space right now
+
+00:07:27.840 --> 00:07:30.260
+but in those days it was very lightweight
+
+00:07:31.050 --> 00:07:33.050
+and if you run this program
+
+00:07:33.270 --> 00:07:39.559
+it reaches out on the internet, and it finds other people running this program
+
+00:07:41.790 --> 00:07:43.790
+you don't know who these people are
+
+00:07:44.729 --> 00:07:51.229
+It doesn't reach out to specific people, it creates a random
+
+00:07:52.560 --> 00:07:56.479
+mesh network, what we call a Peer-to-peer network
+
+00:07:57.330 --> 00:07:59.870
+Where every participant in the system is equal
+
+00:08:00.479 --> 00:08:02.479
+There is no special computer
+
+00:08:02.970 --> 00:08:05.539
+They're all just talking to each other it
+
+00:08:06.210 --> 00:08:10.100
+Creates what in network terms we would call a crowd
+
+00:08:11.669 --> 00:08:15.919
+So, randomly reaches out and connects to various
+
+00:08:17.190 --> 00:08:22.639
+other computers running the Bitcoin software and together they create a network
+
+00:08:23.610 --> 00:08:25.610
+and that network is used to
+
+00:08:26.669 --> 00:08:28.669
+exchange and propagate
+
+00:08:29.250 --> 00:08:30.930
+transactions
+
+00:08:30.930 --> 00:08:35.870
+These transactions are encoded in a digital format. They contain information
+
+00:08:36.599 --> 00:08:40.369
+about the transfer of value and the Authorization
+
+00:08:41.370 --> 00:08:43.400
+to Transfer value between participants
+
+00:08:46.800 --> 00:08:48.800
+Nobody controls this network
+
+00:08:51.340 --> 00:08:55.040
+and this is a critical concept, nobody controls this network
+
+00:08:56.660 --> 00:09:01.180
+You can be running one of these computers. You do not control this network
+
+00:09:02.200 --> 00:09:04.620
+You run one of these applications
+
+00:09:05.330 --> 00:09:09.730
+It connects to other people and you run another one of these applications
+
+00:09:10.430 --> 00:09:17.379
+And it talks Bitcoin to the other computers that are talking Bitcoin, but no one is in control. No one is in charge
+
+00:09:19.160 --> 00:09:20.840
+just like
+
+00:09:20.840 --> 00:09:24.819
+when you're running a computer that speaks on the internet
+
+00:09:25.550 --> 00:09:27.579
+and communicates with other computers on the internet
+
+00:09:28.940 --> 00:09:35.950
+No one is in control, if you interact directly between these systems
+
+00:09:37.850 --> 00:09:39.850
+that network started
+
+00:09:40.550 --> 00:09:42.550
+on January 3rd 2009
+
+00:09:43.070 --> 00:09:47.170
+and on that day the world changed
+
+00:09:48.410 --> 00:09:52.329
+for the first time in the history of money
+
+00:09:53.300 --> 00:09:59.199
+in the history of Trust in the history of institutions in the history of humanity
+
+00:09:59.660 --> 00:10:04.749
+a system that is completely independent of Authority is completely independent of institutions
+
+00:10:06.320 --> 00:10:10.150
+a system that develops trusts as the result of collaboration
+
+00:10:11.510 --> 00:10:13.490
+communication
+
+00:10:13.490 --> 00:10:15.609
+and computation through cryptography
+
+00:10:16.310 --> 00:10:18.110
+was born
+
+00:10:18.110 --> 00:10:20.110
+this system allows
+
+00:10:20.330 --> 00:10:26.080
+people to Exchange value to transmit money
+
+00:10:27.890 --> 00:10:29.890
+and this money is called Bitcoin
+
+00:10:31.550 --> 00:10:36.279
+So Bitcoin is the application. It's the software that you run on your computer
+
+00:10:36.940 --> 00:10:41.050
+That communicates with all of the other computers running the Bitcoin software
+
+00:10:42.230 --> 00:10:48.369
+Bitcoin is the name of the network that runs the Bitcoin network, which is the collection of all of these computers
+
+00:10:50.240 --> 00:10:53.110
+some six and a half thousand of them around the world
+
+00:10:53.750 --> 00:10:55.750
+Anywhere, there is internet
+
+00:10:56.090 --> 00:11:01.509
+are the ones we know that advertise their presence several thousand more that don't
+
+00:11:02.750 --> 00:11:05.169
+and tens of thousands that simply listen
+
+00:11:05.810 --> 00:11:08.979
+onto this Network without actively participating
+
+00:11:09.649 --> 00:11:11.649
+the Bitcoin Network
+
+00:11:11.870 --> 00:11:14.829
+and all of this is an infrastructure that is used to
+
+00:11:15.439 --> 00:11:19.059
+Create and transmit value in the form of transactions
+
+00:11:19.610 --> 00:11:21.610
+expressed in a new
+
+00:11:21.829 --> 00:11:23.240
+currency
+
+00:11:23.240 --> 00:11:25.509
+the Bitcoin currency
+
+00:11:26.360 --> 00:11:28.360
+and the Bitcoin Currency is
+
+00:11:29.000 --> 00:11:33.279
+Unlike any other form of money we have ever seen before
+
+00:11:34.790 --> 00:11:38.379
+first of all, as a form of money
+
+00:11:39.470 --> 00:11:41.769
+it does not exist in physical form
+
+00:11:42.439 --> 00:11:47.499
+it is the culmination of a trajectory we've seen in human history
+
+00:11:48.439 --> 00:11:49.970
+over
+
+00:11:49.970 --> 00:11:51.319
+thousands of Years
+
+00:11:51.319 --> 00:11:55.419
+Money has become a more abstract form of value
+
+00:11:56.720 --> 00:12:01.329
+You start with very very tangible forms of value
+
+00:12:04.129 --> 00:12:06.129
+commodities
+
+00:12:06.680 --> 00:12:10.299
+a goat, a banana, a pineapple
+
+00:12:11.959 --> 00:12:14.589
+These are very poor forms of money
+
+00:12:16.129 --> 00:12:20.558
+because you can eat them, and they rot or die
+
+00:12:21.920 --> 00:12:27.339
+and they can be lost. They're not very good forms of money because they are the thing of value
+
+00:12:29.899 --> 00:12:35.438
+We went from that to gold, precious metals, and stamped coins
+
+00:12:36.889 --> 00:12:43.688
+These are better forms of money because you cannot eat them, they do not die or rot
+
+00:12:45.050 --> 00:12:51.039
+They do not represent the value itself. They are not the value
+
+00:12:51.860 --> 00:12:53.860
+and this is an interesting concept
+
+00:12:54.410 --> 00:12:57.850
+Money is not the valuable thing itself
+
+00:12:59.029 --> 00:13:03.849
+Money is the thing you exchange for the valuable thing itself
+
+00:13:04.759 --> 00:13:10.149
+The reason bananas are not good money is because bananas are the value you're trying to get
+
+00:13:11.809 --> 00:13:19.479
+Money is the thing you exchange for bananas that has no value in itself. It is simply a symbol and abstraction
+
+00:13:20.690 --> 00:13:22.190
+it represents
+
+00:13:22.190 --> 00:13:28.390
+something that can be carried, that I can give to someone tomorrow and they will probably give me bananas
+
+00:13:29.900 --> 00:13:34.030
+That future promise of value is the essence of money
+
+00:13:34.640 --> 00:13:38.619
+So the essence of money is the ability to have an abstract
+
+00:13:39.230 --> 00:13:42.249
+token that in itself is immutable
+
+00:13:43.370 --> 00:13:45.320
+unforgeable
+
+00:13:45.320 --> 00:13:47.320
+eternal
+
+00:13:47.960 --> 00:13:49.960
+maintains its value
+
+00:13:51.140 --> 00:13:54.759
+and represents the exchange of value in the future as a promise
+
+00:13:56.390 --> 00:14:02.259
+and over time these things have become less and less physical and more and more abstract
+
+00:14:04.460 --> 00:14:05.900
+Why?
+
+00:14:05.900 --> 00:14:08.050
+because people don't like changing
+
+00:14:09.290 --> 00:14:14.230
+and if you tell someone:
+I'm not going to give you bananas for the work you did
+
+00:14:14.330 --> 00:14:19.689
+I'm going to give you a shiny gold coin, but don't worry you can use this to get bananas
+
+00:14:20.600 --> 00:14:25.089
+They look at you, and they say I've always had bananas for my work
+
+00:14:25.090 --> 00:14:28.689
+I think I would like to have bananas, not this yellow thing
+
+00:14:29.870 --> 00:14:31.790
+a hundred years later
+
+00:14:31.790 --> 00:14:35.110
+they now believe the yellow thing is valuable
+
+00:14:36.170 --> 00:14:39.459
+and then you tell them: Now I'm going to give you a piece of paper
+
+00:14:39.950 --> 00:14:41.350
+instead of the yellow thing
+
+00:14:41.350 --> 00:14:47.350
+but don't worry you can still convert this into bananas. And most people say: I don't think that's real money
+
+00:14:48.290 --> 00:14:51.279
+I want the yellow thing and the world moves on
+
+00:14:51.920 --> 00:14:57.459
+and eventually we change and we say:
+You know what? You won't get the piece of paper either
+
+00:14:58.340 --> 00:15:00.340
+You won't get the coin
+
+00:15:01.190 --> 00:15:03.190
+You will go and look at
+
+00:15:03.710 --> 00:15:05.710
+numbers on a page
+
+00:15:05.930 --> 00:15:07.930
+or on a webpage
+
+00:15:08.480 --> 00:15:12.579
+and that represents the amount you have in the bank, but don't worry you can still use that
+
+00:15:13.130 --> 00:15:14.930
+to acquire food,
+
+00:15:14.930 --> 00:15:20.769
+products, services, it really is money. You can't touch it. You can't see it. It's just a number.
+
+00:15:22.220 --> 00:15:24.220
+and finally we arrived at Bitcoin
+
+00:15:24.860 --> 00:15:29.259
+Bitcoin has no physical form it doesn't exist in any way
+
+00:15:29.810 --> 00:15:33.569
+it is entirely intangible, it cannot be touched
+
+00:15:35.050 --> 00:15:38.190
+it is simply a digital form of money
+
+00:15:40.630 --> 00:15:45.059
+But it is a digital form of money that is entirely different from everything we've seen before
+
+00:15:47.290 --> 00:15:53.580
+What it does that is different? Is that it is not a form of money that is recorded in
+
+00:15:54.490 --> 00:16:01.380
+the database or records of a company. It is not a digital form of money that
+
+00:16:01.720 --> 00:16:03.720
+represents a debt owed
+
+00:16:04.120 --> 00:16:11.760
+to a central bank or government. It is not a digital form of money that has been issued by a sovereign,
+
+00:16:12.670 --> 00:16:15.240
+a central bank, a nation, a king
+
+00:16:16.120 --> 00:16:20.070
+It is a form of digital money that has been issued through
+
+00:16:20.980 --> 00:16:25.860
+complex and energy intensive computation, on the internet
+
+00:16:26.800 --> 00:16:32.130
+is recorded simultaneously on every computer that participates in the Bitcoin network
+
+00:16:32.980 --> 00:16:37.529
+is validated independently by every computer that participates in the Bitcoin Network
+
+00:16:38.260 --> 00:16:43.049
+Cannot be forged, cannot be counterfeited, cannot be censored
+
+00:16:43.990 --> 00:16:45.990
+Cannot be seized or frozen
+
+00:16:47.350 --> 00:16:50.279
+Can be transmitted anywhere in the world
+
+00:16:51.880 --> 00:16:57.659
+as information. Can be verified independently by anyone who receives it
+
+00:16:59.380 --> 00:17:03.510
+And is not controlled by anyone
+
+00:17:05.020 --> 00:17:07.170
+Its value is not controlled
+
+00:17:07.540 --> 00:17:11.489
+its issuance is not controlled, its ownership is not controlled
+
+00:17:11.490 --> 00:17:15.900
+It is direct from one person to another person
+
+00:17:16.540 --> 00:17:18.859
+with no intermediaries
+
+00:17:18.859 --> 00:17:21.389
+If I use my mobile phone
+
+00:17:22.809 --> 00:17:30.059
+to make a Bitcoin payment to someone in this room. I am creating a digital transaction
+
+00:17:31.540 --> 00:17:38.759
+That recognizes the fact that a certain number of Bitcoin that the network knows belongs to me
+
+00:17:39.850 --> 00:17:42.540
+through the proof of my digital signature
+
+00:17:43.330 --> 00:17:46.620
+I have authorized the transfer of that value
+
+00:17:49.240 --> 00:17:51.240
+to another
+
+00:17:51.280 --> 00:17:53.140
+owner of
+
+00:17:53.140 --> 00:17:55.410
+Bitcoin who will then be able to
+
+00:17:56.260 --> 00:18:01.589
+control that Bitcoin through their own digital signature, through their own
+
+00:18:02.290 --> 00:18:04.769
+cryptographic key
+
+00:18:05.860 --> 00:18:09.809
+Now, you don't need to know anything about digital signatures or cryptographic keys
+
+00:18:10.540 --> 00:18:16.139
+When you use Bitcoin you see an application on your mobile device or on your desktop
+
+00:18:17.380 --> 00:18:20.669
+This application tells you you have three Bitcoin
+
+00:18:21.700 --> 00:18:27.569
+It allows you to enter the address of a recipient which is a number just like an email address
+
+00:18:28.990 --> 00:18:34.199
+it allows you to select an amount of Bitcoin you wish to transact
+
+00:18:35.860 --> 00:18:39.599
+and when you click send on your application
+
+00:18:40.720 --> 00:18:45.000
+it uses the digital signature and private key that is embedded in your device
+
+00:18:46.360 --> 00:18:54.209
+to create and sign a transaction that is advertised to the entire Bitcoin network, and says, "I have transferred
+
+00:18:54.790 --> 00:19:00.330
+this value". And then the entire network now knows that this value belongs to someone else
+
+00:19:01.270 --> 00:19:04.830
+They don't know who this someone else is, nobody knows
+
+00:19:05.860 --> 00:19:10.620
+When you do a Bitcoin transaction, it is not related or attached to identity
+
+00:19:11.470 --> 00:19:13.679
+You do not need to create an account
+
+00:19:14.770 --> 00:19:20.700
+You do not need to register, you do not need to provide Id, or name
+
+00:19:21.460 --> 00:19:23.490
+or location, or address, age
+
+00:19:24.220 --> 00:19:25.960
+gender, race
+
+00:19:25.960 --> 00:19:27.250
+religion
+
+00:19:27.250 --> 00:19:28.390
+nationality
+
+00:19:28.390 --> 00:19:30.390
+nothing
+
+00:19:31.210 --> 00:19:33.449
+You don't even need to be human
+
+00:19:34.930 --> 00:19:36.820
+and
+
+00:19:36.820 --> 00:19:42.330
+You laugh, but it is true.
+Bitcoin enables for the first time in human history
+
+00:19:43.660 --> 00:19:48.630
+for non-Human entities to actively control and own value
+
+00:19:49.960 --> 00:19:54.269
+Which is bizarre because we've never had that in any legal system in the world
+
+00:19:55.600 --> 00:20:02.359
+we have the legal fiction of corporations, and corporations can own value, but corporations can only exist as
+
+00:20:03.330 --> 00:20:06.380
+associations between living human beings
+
+00:20:08.250 --> 00:20:10.140
+in Bitcoin
+
+00:20:10.140 --> 00:20:13.489
+a software agent that is not owned by anyone
+
+00:20:14.610 --> 00:20:17.900
+through the use of Cryptography can own
+
+00:20:18.929 --> 00:20:20.490
+and transact in
+
+00:20:20.490 --> 00:20:21.900
+Bitcoin
+
+00:20:21.900 --> 00:20:23.900
+internationally
+
+00:20:24.299 --> 00:20:28.969
+This creates some very interesting and also very disturbing
+
+00:20:30.570 --> 00:20:32.570
+possibilities for the future
+
+00:20:32.669 --> 00:20:34.559
+artificial intelligence
+
+00:20:34.559 --> 00:20:40.819
+systems can own and control money without any living human being involved
+
+00:20:41.250 --> 00:20:43.609
+You can have corporations that have
+
+00:20:44.250 --> 00:20:46.250
+no directors
+
+00:20:46.799 --> 00:20:51.229
+No living humans in control that are controlled entirely by software
+
+00:20:52.950 --> 00:20:58.669
+Back to people though if you are a person who has installed a Bitcoin wallet
+
+00:21:01.080 --> 00:21:03.080
+you must pass
+
+00:21:05.370 --> 00:21:08.149
+a complex test in order to install this software
+
+00:21:09.480 --> 00:21:14.120
+You must be able to download an application. That's it!
+
+00:21:15.779 --> 00:21:20.209
+Now if you happen to own an iPhone,
+
+00:21:21.929 --> 00:21:25.609
+you must remember your iTunes password
+
+00:21:26.309 --> 00:21:33.829
+in order to install an application. And so far, I have found that this is the most difficult part
+
+00:21:34.710 --> 00:21:40.730
+of becoming part of the global economy of Bitcoin, is remembering your iTunes password
+
+00:21:42.779 --> 00:21:49.879
+But if you can do that. If you can access the Google Play store. If you have basic familiarity with mobile applications
+
+00:21:50.279 --> 00:21:55.819
+If you can download an .exe on Windows and install it. If you can double-click a mouse
+
+00:21:57.120 --> 00:22:03.739
+That's it. You don't have to provide your name, your email address. You don't register or create an account
+
+00:22:03.740 --> 00:22:08.419
+You don't have to prove who you are, where you are, or show that you are worthy
+
+00:22:08.610 --> 00:22:13.079
+you do not have to have a credit score. You do not have to be authorized
+
+00:22:15.250 --> 00:22:20.699
+This is something that is entirely different from every system of money we've ever had before
+
+00:22:22.090 --> 00:22:27.029
+Now, for the internet generation this is a very familiar concept
+
+00:22:27.820 --> 00:22:31.740
+When you open a browser, and you start using the web
+
+00:22:33.639 --> 00:22:40.829
+Do you have to register or get a license to use the web?
+Do you have to create an account to visit Wikipedia?
+
+00:22:42.190 --> 00:22:49.830
+No, the only requirement is that you are able to download install and operate a web browser
+
+00:22:52.360 --> 00:22:58.620
+There was a time when the idea of allowing every human to be able to communicate
+
+00:22:59.019 --> 00:23:02.699
+without borders or censorship on the World Wide Web
+
+00:23:03.669 --> 00:23:08.398
+was terrifying to people. To some people it still is terrifying
+
+00:23:09.100 --> 00:23:13.949
+Most of the younger generation find it liberating in a global sense
+
+00:23:15.669 --> 00:23:17.669
+Bitcoin does that to money!
+
+00:23:18.070 --> 00:23:20.549
+What happens when every human being on the planet,
+
+00:23:21.580 --> 00:23:24.569
+through the simple act of downloading and installing an application
+
+00:23:25.360 --> 00:23:33.120
+can become a member of a global economy without borders, one that allows people to transmit and receive money at will
+
+00:23:33.549 --> 00:23:35.049
+anywhere in the world
+
+00:23:35.049 --> 00:23:37.049
+24 hours a day
+
+00:23:37.840 --> 00:23:40.079
+uninterrupted for the last seven years
+
+00:23:42.009 --> 00:23:50.699
+With fees that do not depend on the amount of money you're sending, but paid simply for the capacity you use on the network
+
+00:23:51.759 --> 00:23:55.378
+You can transmit a Bitcoin transaction for about $1
+
+00:23:56.110 --> 00:24:02.429
+And it doesn't matter if you send $1 or $100,000 dollars, you still pay $1
+
+00:24:03.490 --> 00:24:06.929
+It doesn't matter if you're sending it from here to another
+
+00:24:07.750 --> 00:24:09.580
+province
+
+00:24:09.580 --> 00:24:15.179
+in Malaysia, or if you're sending it from here to the opposite end of the planet
+
+00:24:15.399 --> 00:24:17.110
+it doesn't matter if
+
+00:24:17.110 --> 00:24:22.559
+you are an individual or corporation, or if you're sending it to an individual or corporation
+
+00:24:22.559 --> 00:24:26.909
+it doesn't matter if you're sending it to someone who is rich or someone who is poor
+
+00:24:27.880 --> 00:24:29.880
+You can
+
+00:24:31.570 --> 00:24:33.570
+Bitcoin changes
+
+00:24:33.669 --> 00:24:36.209
+the way we approach finance completely
+
+00:24:37.059 --> 00:24:39.059
+But that's just the first layer
+
+00:24:39.700 --> 00:24:46.860
+Because the technology that makes Bitcoin possible that allows two people from opposite ends of the planet
+
+00:24:47.380 --> 00:24:52.859
+To securely transact with each other without knowing each other and without trusting each other
+
+00:24:53.440 --> 00:24:55.000
+opens up
+
+00:24:55.000 --> 00:24:58.619
+an entire range of applications that we haven't yet imagined
+
+00:24:59.799 --> 00:25:02.668
+Bitcoin is not just money for the internet
+
+00:25:03.429 --> 00:25:10.289
+Bitcoin is a platform, the technology that Bitcoin uses, a combination of the blockchain
+
+00:25:10.600 --> 00:25:13.260
+which is the global transaction ledger
+
+00:25:13.780 --> 00:25:15.780
+that records every transaction
+
+00:25:16.150 --> 00:25:23.729
+The decentralized consensus mechanism called proof-of-work that allows security on the Bitcoin blockchain
+
+00:25:24.549 --> 00:25:29.789
+the open system of access that allows anyone to participate without barriers
+
+00:25:29.790 --> 00:25:33.029
+and it's borderless and neutral nature
+
+00:25:34.059 --> 00:25:37.678
+that make it possible for anyone to participate regardless of who they are
+
+00:25:38.470 --> 00:25:44.309
+Where the only thing that matters is whether a transaction IS valid, not who is the source or destination
+
+00:25:45.010 --> 00:25:47.010
+not what is the amount
+
+00:25:47.590 --> 00:25:51.030
+These fundamental building blocks that make Bitcoin possible
+
+00:25:51.429 --> 00:25:58.559
+open the door to dozens, and then hundreds, and then thousands of applications of trust
+
+00:25:59.260 --> 00:26:02.260
+at its core
+
+00:26:02.260 --> 00:26:12.059
+Bitcoin represents the replacement of 
+"Trust through institutions" to "Trust through networks"
+
+00:26:13.210 --> 00:26:14.860
+for centuries
+
+00:26:14.860 --> 00:26:17.189
+Human Society has been based
+
+00:26:17.620 --> 00:26:24.839
+on the fact that in order to coordinate the activity between large numbers of people we have to have
+
+00:26:25.330 --> 00:26:30.330
+something to trust. And until now the best answer to that problem
+
+00:26:30.940 --> 00:26:32.940
+was institutions
+
+00:26:34.030 --> 00:26:39.410
+collections of people governed by rules policies
+
+00:26:40.410 --> 00:26:47.450
+with oversight, transparency and accountability built into the rules, run by humans, in order to create centers of trust
+
+00:26:47.850 --> 00:26:52.190
+through tradition, through reputation, through longevity
+
+00:26:54.990 --> 00:26:56.990
+institutions of trust are failing
+
+00:26:57.630 --> 00:27:04.520
+They're failing all over the world. They're failing when they are newspapers. They are failing
+
+00:27:05.310 --> 00:27:12.589
+in political institutions. They are failing in numbers of ways, and the reason they are failing is because they represent
+
+00:27:13.440 --> 00:27:15.889
+systems of scale for Industrial Societies,
+
+00:27:16.770 --> 00:27:18.889
+and we are no longer
+
+00:27:20.430 --> 00:27:24.229
+Industrial nation state societies
+
+00:27:25.350 --> 00:27:32.180
+we are now information societies of global scale, that collaborate across borders at massive scale
+
+00:27:33.240 --> 00:27:38.180
+We are now solving problems that affect, not 30 million people in one country,
+
+00:27:38.430 --> 00:27:41.869
+but seven and a half billion people on one planet
+
+00:27:42.450 --> 00:27:44.450
+and for problems of that scale
+
+00:27:45.060 --> 00:27:47.060
+and collaboration of that scale
+
+00:27:48.030 --> 00:27:52.339
+traditional institutions do not work, they fail to scale
+
+00:27:53.640 --> 00:27:55.640
+They're not evil
+
+00:27:56.130 --> 00:28:03.349
+They're not deliberately corrupt. 
+They simply fail to solve the problems of a global society
+
+00:28:04.410 --> 00:28:10.820
+and yet during that very time that we see these institutions failing, we have seen the emergence of new
+
+00:28:11.730 --> 00:28:18.800
+systems of governance. Of new systems of Global Collaboration. Systems that do allow us to collaborate, communicate
+
+00:28:19.050 --> 00:28:21.169
+and solve problems at scale
+
+00:28:22.200 --> 00:28:24.559
+and the first of those systems was the internet
+
+00:28:25.230 --> 00:28:27.230
+and with that
+
+00:28:27.900 --> 00:28:33.229
+we see the first system of communication that transcends nations, that transcends borders
+
+00:28:35.310 --> 00:28:40.070
+That allows anyone, everywhere, and anywhere to communicate
+
+00:28:42.600 --> 00:28:49.550
+Bitcoin represents that, happening to money, it represents a metric network-centric
+
+00:28:50.809 --> 00:28:54.439
+system of money that is beyond the Nation-State
+
+00:28:56.249 --> 00:29:02.689
+a network-centric system of money that scales and allows people to collaborate on a global basis
+
+00:29:03.120 --> 00:29:07.699
+That allows anyone everywhere and anywhere to participate in
+
+00:29:08.309 --> 00:29:09.990
+a global economy
+
+00:29:09.990 --> 00:29:13.939
+without barriers, without borders, without ID
+
+00:29:14.639 --> 00:29:16.639
+without credentials
+
+00:29:17.070 --> 00:29:21.259
+simply through the act of running Software
+
+00:29:21.899 --> 00:29:23.070
+and that
+
+00:29:23.070 --> 00:29:25.780
+will change the world.
+Thank you
+
