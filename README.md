@@ -16,3 +16,5 @@ As you can read on [Andreas website](https://antonopoulos.com/donate/):
 
 This repository is under MIT licence.
 
+# Donations
+
