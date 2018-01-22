@@ -1,4 +1,4 @@
-# Subtitles of Andreas Antonopoulos videos
+# Subtitles to Andreas Antonopoulos videos
 
 The goal of this project is simple - we want to help Andreas spread the word about new amazing technologies like Bitcoin or many other project based on Blockchain.
 
