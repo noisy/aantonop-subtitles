@@ -1,0 +1,160 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.859
+Where does supply of Bitcoin come from and how are you sure the market doesn't get oversupplied?
+
+00:00:06.000 --> 00:00:13.360
+The supply of Bitcoin is determined algorithmically, based on a geometrically declining supply function...
+
+00:00:13.440 --> 00:00:21.960
+meaning that: in the beginning, every ten minutes, fifty new bitcoin [were] created. Every block -- the heartbeat...
+
+00:00:22.080 --> 00:00:25.860
+...ten minutes, created fifty new bitcoin.
+
+00:00:26.080 --> 00:00:33.860
+This bitcoin is used as a reward in a game theory-based security model that ensures every transaction is...
+
+00:00:33.860 --> 00:00:40.320
+independently validated by completely anonymous actors, who have to stake electricity as a guarantee...
+
+00:00:40.380 --> 00:00:41.940
+....of the security work they've done.
+
+00:00:41.940 --> 00:00:49.460
+If they succeed in doing the security work of validating transactions correctly, they earn -- as a reward based on
+
+00:00:49.620 --> 00:00:53.420
+... a probabilistic return -- that reward.
+
+00:00:53.620 --> 00:00:57.460
+Fifty bitcoin every ten minutes. That's how currency is introduced into the economy.
+
+00:00:58.000 --> 00:01:08.700
+Every four years, it gets cut in half. Fifty to twenty-five in November of 2012. This year in July, this past July,
+
+00:01:08.700 --> 00:01:14.780
+... we had our second halving event, which was celebrated with birthday parties all over the world.
+
+00:01:15.380 --> 00:01:20.480
+Bitcoin's [block] reward went from 25 to 12.5 bitcoin.
+
+00:01:21.560 --> 00:01:27.960
+The system is designed to have a monetary policy that is purposely deflationary and simulates...
+
+00:01:28.120 --> 00:01:34.940
+...the issuance of precious metals. It gets harder and harder to mine gold at greater and greater cost.
+
+00:01:35.760 --> 00:01:44.180
+Bitcoin is the same, the idea being that less and less is issued over time. If you follow that geometric curve,
+
+00:01:44.360 --> 00:01:53.820
+...at some point you reach the end. In the year 2141, bitcoin is no longer issued. Twenty-one million coins is...
+
+00:01:54.020 --> 00:02:01.740
+...the asymptotic cap. It will never reach 21 million coins. That is part of the protocol. It is an unchangeable part...
+
+00:02:01.820 --> 00:02:07.940
+...of the protocol and it is a rule enforced by every system that participates in the Bitcoin network.
+
+00:02:12.120 --> 00:02:17.960
+It is meant to be sound money, but it's not the only monetary policy that exists. There are several other...
+
+00:02:17.960 --> 00:02:26.580
+... currencies that implement different monetary policies. The idea is really for bitcoin to serve as a very solid...
+
+00:02:26.660 --> 00:02:28.660
+reserve currency for many other things.
+
+00:02:30.800 --> 00:02:32.920
+[QUESTIONER] I have a question about bitcoin economics.
+
+00:02:33.140 --> 00:02:34.640
+[ANDREAS] Bitcoin economics, great!
+
+00:02:34.760 --> 00:02:35.820
+[QUESTIONER] Referring to your first talk...
+
+00:02:35.820 --> 00:02:37.720
+[ANDREAS] Yes, thank you.
+
+00:02:37.720 --> 00:02:41.540
+[QUESTIONER] So there's... 70% of all bitcoins in the world have been given out?
+
+00:02:41.800 --> 00:02:43.100
+[ANDREAS] Mined already, yes.
+
+00:02:43.100 --> 00:02:45.260
+[QUESTIONER] Okay. You seem to be a fan of bitcoin...
+
+00:02:45.480 --> 00:02:46.440
+[ANDREAS] I am.
+
+00:02:46.440 --> 00:02:51.660
+[QUESTIONER] If there's gonna be widespread adoption, do you think the supply of new bitcoins is going to be...
+
+00:02:51.680 --> 00:02:56.980
+...sufficient for that widespread adoption? Or is that going to be in the way of adoption?
+
+00:02:57.520 --> 00:03:05.100
+[ANDREAS] No. In my opinion, if there is demand for bitcoin, the bitcoin that's already been issued is going...
+
+00:03:05.100 --> 00:03:11.520
+.. to circulate and create velocity in the economy. You have to think of this economy not as a static thing, but...
+
+00:03:11.520 --> 00:03:18.860
+... as a dynamic thing, where the people who hold bitcoin are better off -- if you have an environment of adoption --
+
+00:03:18.860 --> 00:03:20.080
+...investing that bitcoin.
+
+00:03:20.280 --> 00:03:27.040
+[QUESTIONER] Okay, I get that. But I hold bitcoin, as many of us do here. Would that make us the new 1%?
+
+00:03:27.720 --> 00:03:33.480
+[ANDREAS] It might make you the new 1%. I certainly wouldn't promise you that. It also might make you...
+
+00:03:33.480 --> 00:03:36.660
+... the new 0%. We'll see how it goes. In which case-
+
+00:03:36.660 --> 00:03:38.540
+[QUESTIONER] But in your world?
+
+00:03:38.540 --> 00:03:45.500
+[Andreas] Yes, there is- To go to the root of the question, Bitcoin's current monetary distribution has a pretty...
+
+00:03:45.500 --> 00:03:52.440
+...nasty Gini coefficient, which means that it's unequally distributed. The fundamental difference, of course,
+
+00:03:52.440 --> 00:03:58.620
+...is that the reason you will be the new 1% is because you took an enormous risk on an untested technology,
+
+00:03:58.640 --> 00:04:04.440
+...based on a vision you had, rather than because your grandfather killed more people than my grandfather.
+
+00:04:05.620 --> 00:04:08.460
+Which is how the 1% have their money today.
+
+00:04:08.460 --> 00:04:11.900
+[QUESTIONER] But you don't think that's going to be in the way of adoption? Because that's my concern.
+
+00:04:12.320 --> 00:04:16.580
+[ANDREAS] I don't think it is going to be in the way of adoption. Also because we're going to see other...
+
+00:04:16.580 --> 00:04:23.540
+monetary policies and other cryptocurrencies; they'll serve different needs. We might see ones that are...
+
+00:04:23.540 --> 00:04:30.700
+...more geared towards higher velocity currency, and Bitcoin may become more of a long-term store of value.
+
+00:04:30.700 --> 00:04:37.320
+I don't know, we don't know The market will have to decide these things. But I'm not particularly worried...
+
+00:04:37.320 --> 00:04:44.660
+...about the fact that people who took enormous risk early on get to have a significant reward if this works.
+
+00:04:44.660 --> 00:04:48.200
+Because if it doesn't, nobody is going to bail you out.
+

@@ -1,0 +1,1999 @@
+WEBVTT
+Kind: captions
+Language: es-419
+
+00:00:00.000 --> 00:00:07.280
+Entonces...
+
+00:00:07.520 --> 00:00:09.460
+Todo esto comenzó
+
+00:00:10.260 --> 00:00:12.440
+el  3 de Enero del 2009
+
+00:00:12.440 --> 00:00:15.400
+Con la publicación simultánea de un ensayo
+
+00:00:15.900 --> 00:00:17.900
+Y un fragmento de software
+
+00:00:18.520 --> 00:00:21.300
+Por un colaborador anónimo en la Internet
+
+00:00:21.580 --> 00:00:23.460
+Quien usó el nombre de Satoshi Nakamoto
+
+00:00:23.800 --> 00:00:26.140
+Y ellos propusieron un sistema de dinero
+
+00:00:26.580 --> 00:00:29.560
+Que se comporta como "efectivo electrónico"
+
+00:00:29.940 --> 00:00:33.580
+Pero con algunas propiedades únicas, que nunca antes habían sido vistas
+
+00:00:33.660 --> 00:00:35.840
+Un sistema que es descentralizado
+
+00:00:35.840 --> 00:00:37.820
+Es decir, que nadie lo controla
+
+00:00:37.980 --> 00:00:41.940
+Un sistema que tiene ciertas propiedades matemáticas
+
+00:00:42.560 --> 00:00:47.540
+Esto permite un fenómeno llamado Escasez Digital
+
+00:00:47.800 --> 00:00:51.180
+Lo cual significa que puedes tener algo que es simultáneamente digital
+
+00:00:51.360 --> 00:00:53.420
+Y al mismo tiempo escaso
+
+00:00:53.460 --> 00:00:55.260
+No puede ser copiado
+
+00:00:55.580 --> 00:00:57.540
+Suena como una antítesis, cierto?
+
+00:00:57.540 --> 00:01:00.660
+Porque cuando piensas sobre información digital
+
+00:01:01.100 --> 00:01:05.040
+La característica por excelencia de la información digital
+
+00:01:05.040 --> 00:01:07.040
+Es que puede ser copiada libremente
+
+00:01:07.040 --> 00:01:10.940
+Puedes crear infinitas copias de ésta, casi sin costo alguno
+
+00:01:11.360 --> 00:01:13.000
+Pero no Bitcoin
+
+00:01:13.260 --> 00:01:15.260
+No puedes crear infinitas copias de esto
+
+00:01:15.680 --> 00:01:17.960
+No puedes crearlas sin costo alguno
+
+00:01:18.420 --> 00:01:22.140
+Así que esta idea de tener una "cosa" digital
+
+00:01:23.160 --> 00:01:28.220
+Que es al mismo tiempo inusual, y que no puede ser copiada
+
+00:01:28.300 --> 00:01:32.340
+Fue un invento único y revolucionario
+
+00:01:32.400 --> 00:01:34.260
+Nunca había ocurrido antes
+
+00:01:34.260 --> 00:01:36.400
+Combinando eso
+
+00:01:36.920 --> 00:01:39.780
+Con una red de Par a Par (P2P)
+
+00:01:39.780 --> 00:01:41.620
+Una red descentralizada
+
+00:01:41.620 --> 00:01:43.800
+Que permite a los participantes de la moneda
+
+00:01:43.800 --> 00:01:45.620
+Validarse entre ellos
+
+00:01:45.620 --> 00:01:46.860
+Para que
+
+00:01:47.040 --> 00:01:48.480
+Si yo hago una transacción
+
+00:01:48.480 --> 00:01:52.640
+Todo aquel que esté usando un software de sistema de Bitcoin
+
+00:01:53.340 --> 00:01:56.320
+Validará, verificará, y comprobará
+
+00:01:56.520 --> 00:01:59.140
+Todos los aspectos de mi transacción
+
+00:02:00.560 --> 00:02:01.480
+Y...
+
+00:02:01.700 --> 00:02:02.820
+Finalmente...
+
+00:02:02.820 --> 00:02:08.660
+Un sistema abierto para asegurar y secuenciar transacciones
+
+00:02:08.660 --> 00:02:12.980
+Que asegura de que nadie pueda gastar la misma cantidad, dos veces
+
+00:02:13.180 --> 00:02:16.280
+Resolviendo un problema fundamental en sistemas distribuidos
+
+00:02:16.280 --> 00:02:21.000
+Aportando una optimización para lo que es conocido como "El Problema de los Generales Bizantinos"
+
+00:02:21.100 --> 00:02:23.980
+Que es una clase de problema para los sistemas distribuidos
+
+00:02:24.860 --> 00:02:26.440
+Pero la idea básica es
+
+00:02:26.660 --> 00:02:30.840
+Cómo sabes si yo gasté dinero digital
+
+00:02:31.340 --> 00:02:33.480
+Y se lo entregué a un comerciante
+
+00:02:33.640 --> 00:02:36.680
+Qué me detiene de tomar la misma información digital
+
+00:02:36.680 --> 00:02:38.680
+Cruzar la calle
+
+00:02:38.680 --> 00:02:40.860
+Y entregárselo a otro comerciante
+
+00:02:41.180 --> 00:02:46.080
+Hasta la invención de Bitcoin, había solo una respuesta apropiada a eso
+
+00:02:46.360 --> 00:02:48.820
+Tienes que grabar todas las transacciones
+
+00:02:49.300 --> 00:02:51.400
+En una autoridad central
+
+00:02:51.400 --> 00:02:54.620
+Y esa autoridad central, cuando vea la primera transacción
+
+00:02:54.680 --> 00:02:56.940
+No permitirá la segunda transacción
+
+00:02:57.320 --> 00:02:58.840
+Eso funciona
+
+00:02:59.000 --> 00:03:00.180
+Es eficiente
+
+00:03:00.560 --> 00:03:01.940
+Es muy eficiente
+
+00:03:01.940 --> 00:03:03.120
+VISA lo hace
+
+00:03:03.600 --> 00:03:07.260
+Si compras algo por 10 dólares en una tienda con VISA
+
+00:03:07.260 --> 00:03:08.380
+Luego cruzas la calle
+
+00:03:08.480 --> 00:03:10.480
+Y compras algo más por 10 dólares
+
+00:03:10.480 --> 00:03:12.480
+Ellos se asegurarán de que ahora tengas
+
+00:03:12.480 --> 00:03:15.320
+Por lo menos 20 dólares por pagar en tu cuenta
+
+00:03:15.820 --> 00:03:18.780
+Ellos no te permitirán gastar lo mismo dos veces
+
+00:03:18.900 --> 00:03:21.320
+Ellos no te permitirán gastar más de lo que tienes
+
+00:03:21.600 --> 00:03:23.660
+... o más de lo que tu crédito permite
+
+00:03:24.440 --> 00:03:25.800
+Excelente!
+
+00:03:25.800 --> 00:03:30.760
+Esos sistemas funcionan, son eficientes, pueden hacer cientos de miles de transacciones por segundo
+
+00:03:31.320 --> 00:03:34.140
+Pero hay un pequeño problema
+
+00:03:35.220 --> 00:03:40.200
+Y este es, que estás depositando tu confianza en esa única organización o en esa única compañía
+
+00:03:40.200 --> 00:03:43.220
+Y tu no solo estás confiando en que esa compañía lo haga bien
+
+00:03:43.220 --> 00:03:45.220
+Por que ellos hacen un buen trabajo
+
+00:03:45.800 --> 00:03:47.660
+Con esa confianza viene poder
+
+00:03:47.780 --> 00:03:49.300
+Un poder enorme
+
+00:03:49.520 --> 00:03:51.200
+El poder a rehusarse...
+
+00:03:51.480 --> 00:03:53.040
+... a tomar tu transacción
+
+00:03:53.180 --> 00:03:55.400
+El poder de rehusarse a darte una cuenta
+
+00:03:55.520 --> 00:03:57.960
+El poder de rehusarse a que participes
+
+00:03:58.180 --> 00:03:59.960
+En esta actividad económica
+
+00:04:00.340 --> 00:04:03.700
+El poder de exigir que primero te identifiques
+
+00:04:04.080 --> 00:04:06.220
+Muestres tus papeles
+
+00:04:06.560 --> 00:04:08.860
+Demostrar capacidad crediticia
+
+00:04:09.360 --> 00:04:10.480
+Cierto?
+
+00:04:11.040 --> 00:04:14.780
+Y eso es algo que es diferente a los sistemas de dinero que hemos tenido antes
+
+00:04:14.980 --> 00:04:18.120
+Porque yo puedo usar efectivo sin mostrar mis papeles
+
+00:04:18.320 --> 00:04:20.260
+Sin probar capacidad crediticia
+
+00:04:20.260 --> 00:04:22.260
+Yo no tengo un intermediario
+
+00:04:22.260 --> 00:04:24.040
+Yo no pago una tarifa de transacción
+
+00:04:24.040 --> 00:04:25.320
+Yo no necesito equipos especiales
+
+00:04:25.500 --> 00:04:28.440
+Yo puedo negociar, directamente, de persona a persona
+
+00:04:28.920 --> 00:04:30.920
+Si introduces a una tercera compañía
+
+00:04:31.520 --> 00:04:33.140
+Tienes un problema
+
+00:04:34.180 --> 00:04:37.240
+Digamos que yo tengo una tarjeta VISA en mi bolsillo, en este momento
+
+00:04:37.680 --> 00:04:39.960
+Y quiero darle a uno de ustedes 10 dólares
+
+00:04:41.240 --> 00:04:42.880
+Quién puede procesar mi tarjeta VISA
+
+00:04:42.880 --> 00:04:43.700
+Hoy
+
+00:04:43.800 --> 00:04:44.960
+En este grupo
+
+00:04:46.460 --> 00:04:47.340
+Alguien?
+
+00:04:47.340 --> 00:04:48.900
+Puede alguien recibirme una tarjeta VISA
+
+00:04:48.900 --> 00:04:50.680
+Les doy 10 dólares de mi tarjeta VISA
+
+00:04:50.680 --> 00:04:51.360
+Alguien?
+
+00:04:51.900 --> 00:04:53.080
+No en tu negocio
+
+00:04:53.080 --> 00:04:54.480
+En tu capacidad personal
+
+00:04:54.480 --> 00:04:56.480
+Quién acepta VISA aquí?
+
+00:04:57.060 --> 00:04:58.100
+Nadie
+
+00:04:58.600 --> 00:05:00.100
+Ni una sola persona
+
+00:05:00.840 --> 00:05:03.580
+Por que ya no se trata de gente pagándole a gente
+
+00:05:04.000 --> 00:05:08.600
+Se trata de gente pagándole a compañías,  para pagarle a compañías, para tal vez pagarle a la gente
+
+00:05:08.940 --> 00:05:09.740
+Cierto?
+
+00:05:10.140 --> 00:05:11.780
+Bitcoin es Par a Par (P2P)
+
+00:05:12.360 --> 00:05:14.940
+Nuestros sistemas financieros tradicionales, ahora se han convertido en
+
+00:05:15.120 --> 00:05:19.440
+Par a corporación, a corporación a corporación a Par
+
+00:05:19.840 --> 00:05:21.400
+Cada uno se queda con una pequeña parte
+
+00:05:21.580 --> 00:05:23.520
+Cada uno añade su propio
+
+00:05:23.720 --> 00:05:24.720
+-- Poder --
+
+00:05:24.720 --> 00:05:25.780
+Al sistema
+
+00:05:25.880 --> 00:05:28.100
+Le sacan un gran provecho a eso
+
+00:05:28.280 --> 00:05:30.280
+Cuál es el resultado final?
+
+00:05:31.140 --> 00:05:34.320
+Millones de personas que no tienen acceso al sistema bancario
+
+00:05:34.700 --> 00:05:37.380
+Millones de personas que nunca tendrán una cuenta bancaria
+
+00:05:37.520 --> 00:05:39.740
+Muchos de ellos no tienen siquiera identificación
+
+00:05:40.060 --> 00:05:42.680
+Muchos de ellos, incluso si tuvieran identificación
+
+00:05:43.020 --> 00:05:47.840
+No tienen el nivel necesario de educación, alfabetización y habilidad con los números, para entrar a un banco
+
+00:05:47.840 --> 00:05:49.420
+O no "se ven bien"
+
+00:05:49.420 --> 00:05:52.820
+O son de la raza "equivocada", color o religión
+
+00:05:52.820 --> 00:05:58.200
+Son intocables. No podrían siquiera entrar en un banco, los sacaría seguridad antes de que ser atendidos
+
+00:05:58.820 --> 00:06:00.820
+Esto pasa al rededor del mundo
+
+00:06:01.280 --> 00:06:03.280
+Y es un resultado directo
+
+00:06:03.860 --> 00:06:07.920
+Del hecho de que descentralizamos nuestro dinero, bajo estos proveedores
+
+00:06:08.760 --> 00:06:10.220
+Y Bitcoin es diferente
+
+00:06:10.760 --> 00:06:15.480
+Porque en un nivel fundamental, lo que hace es que nos permite usar dinero digital
+
+00:06:15.620 --> 00:06:17.020
+Como efectivo
+
+00:06:18.460 --> 00:06:21.240
+Al final del día, todos en esta sala
+
+00:06:21.460 --> 00:06:23.640
+Podrán recibir Bitcoin
+
+00:06:24.240 --> 00:06:26.320
+Directamente, a su control
+
+00:06:26.860 --> 00:06:29.260
+Con software ejecutado en sus smartphones
+
+00:06:31.040 --> 00:06:33.080
+Y en ese punto
+
+00:06:33.660 --> 00:06:36.160
+Yo les puedo pagar. Ustedes me pueden pagar a mi
+
+00:06:36.300 --> 00:06:37.740
+Podemos comerciar
+
+00:06:37.920 --> 00:06:40.200
+En un nivel local. Como una comunidad
+
+00:06:40.620 --> 00:06:43.300
+Sin involucrar ninguna tercera persona
+
+00:06:43.600 --> 00:06:46.200
+Ningún intermediario. Ninguna corporación
+
+00:06:46.540 --> 00:06:48.080
+Que tenga Poder sobre nosotros
+
+00:06:48.320 --> 00:06:51.860
+Sin el requerimiento de presentar identificación
+
+00:06:52.400 --> 00:06:56.020
+Sin el requerimiento de que consigas capacidad crediticia
+
+00:06:57.280 --> 00:07:00.420
+Tu tienes "Capacidad Humana"
+
+00:07:00.580 --> 00:07:02.260
+De hecho
+
+00:07:02.460 --> 00:07:04.460
+Bitcoin ni siquiera requiere eso
+
+00:07:05.080 --> 00:07:08.060
+Porque no tienes que ser humano para usar Bitcoin
+
+00:07:08.460 --> 00:07:13.740
+Un software puede usar Bitcoin, por sí solo. Sin tener que involucrar humanos
+
+00:07:14.000 --> 00:07:15.180
+Software autónomo
+
+00:07:16.700 --> 00:07:21.320
+Así que este invento del 2009, lanzó una Era completamente nueva
+
+00:07:22.160 --> 00:07:26.460
+No es tan solo una "rara" forma de PayPal
+
+00:07:27.160 --> 00:07:31.160
+Esto no es un nuevo sistema de pago
+
+00:07:32.100 --> 00:07:34.360
+Esto es un invento
+
+00:07:34.820 --> 00:07:39.820
+Que toma una oscura rama de las matemáticas, llamada Criptografía
+
+00:07:41.700 --> 00:07:45.440
+Lo cual es el arte de escribir secretos
+
+00:07:46.120 --> 00:07:48.060
+Usando matemáticas
+
+00:07:49.080 --> 00:07:51.920
+Esa oscura rama de las matemáticas, es luego aplicada
+
+00:07:52.300 --> 00:07:55.700
+Al dominio de establecer
+
+00:07:56.060 --> 00:07:57.340
+-- Confianza --
+
+00:07:57.340 --> 00:07:59.420
+Entre los participantes del sistema
+
+00:07:59.420 --> 00:08:01.660
+Sin darle a ninguno control sobre el sistema
+
+00:08:02.400 --> 00:08:05.580
+Esta única propiedad, es lo que hace especial a Bitcoin
+
+00:08:06.280 --> 00:08:12.140
+Si puedes enviarle dinero a alguien más, sin conocerlo, sin tener que confiar en él
+
+00:08:12.300 --> 00:08:14.300
+Sin tener que confiar en nadie
+
+00:08:14.300 --> 00:08:16.760
+Porque puedes confiar en el sistema
+
+00:08:17.040 --> 00:08:22.380
+Y las reglas matemáticas en el sistema garantizan que ese dinero, si tu lo recibes
+
+00:08:22.840 --> 00:08:24.620
+Es real
+
+00:08:25.600 --> 00:08:27.460
+Infalsificable
+
+00:08:27.820 --> 00:08:31.860
+Será gastable, tan pronto como sea confirmado, en al rededor de diez minutos
+
+00:08:33.440 --> 00:08:37.760
+Y puede ser usar por ti, para hacer otro pago
+
+00:08:39.020 --> 00:08:42.080
+Tu no necesitas conocer a la persona que te lo dió
+
+00:08:42.960 --> 00:08:46.180
+Ahora, en finanzas modernas eso parece raro
+
+00:08:46.380 --> 00:08:48.840
+Y sin embargo lo hacemos todos los días con el efectivo
+
+00:08:49.260 --> 00:08:51.720
+Si le doy propina al conductor de taxi
+
+00:08:52.340 --> 00:08:54.520
+Con una nota de 2.000 rupias
+
+00:08:54.560 --> 00:08:57.360
+Lo cual es demasiado... Pero si lo hiciera...
+
+00:09:00.620 --> 00:09:03.240
+Necesita él mi identificación?
+
+00:09:03.780 --> 00:09:08.740
+Necesita él procesar la transacción? Necesita él pagar una comisión de transacción? - No
+
+00:09:08.920 --> 00:09:13.480
+El efectivo mismo es la representación de valor
+
+00:09:13.760 --> 00:09:16.200
+Y para verificar que es real
+
+00:09:16.380 --> 00:09:18.060
+Por mucho
+
+00:09:18.060 --> 00:09:21.140
+La persona que lo recibe lo sostendrá a contra luz
+
+00:09:21.400 --> 00:09:22.880
+Buscando por una marca de agua
+
+00:09:22.880 --> 00:09:25.060
+Verificando que no es falso
+
+00:09:25.240 --> 00:09:27.360
+Pero ellos pueden hacerlo ellos mismo
+
+00:09:27.360 --> 00:09:33.900
+No tienen que llamar a alguien y decir: "Tengo el número de serie 1323532"
+
+00:09:34.160 --> 00:09:35.720
+"¿Es este real?"
+
+00:09:36.020 --> 00:09:39.760
+No necesitas chequear con una tercera persona o una autoridad central
+
+00:09:39.920 --> 00:09:43.160
+Puedes verificar con tus propios ojos que esto es dinero real
+
+00:09:43.360 --> 00:09:46.420
+Bitcoin traduce eso a un dominio digital
+
+00:09:46.420 --> 00:09:48.800
+Si tu recibes una transacción de Bitcoin
+
+00:09:48.800 --> 00:09:55.920
+El software que tu estás usando, puede verificar independiente y autoritariamente
+
+00:09:56.400 --> 00:09:57.820
+Que es real
+
+00:09:58.080 --> 00:10:00.640
+Sin preguntarle a nadie más
+
+00:10:00.840 --> 00:10:02.680
+Sin validar con nadie más
+
+00:10:02.680 --> 00:10:04.320
+Y en ese punto
+
+00:10:04.320 --> 00:10:07.520
+La identidad de la persona que te la envió es irrelevante
+
+00:10:07.820 --> 00:10:09.440
+Porque el valor está ahí
+
+00:10:09.440 --> 00:10:11.080
+No necesitas confiar en él
+
+00:10:12.340 --> 00:10:14.260
+Eso es revolucionario
+
+00:10:14.760 --> 00:10:20.560
+Es revolucionario en un sentido que hemos visto antes al menos una vez, en mi generación
+
+00:10:20.560 --> 00:10:23.620
+Y eso fue con la introducción de la Internet
+
+00:10:24.520 --> 00:10:30.020
+Mucha gente que ha crecido con la Internet, incluso hoy, fundamentalmente todavía malinterpretan
+
+00:10:30.240 --> 00:10:32.240
+Por qué la Internet es especial
+
+00:10:32.740 --> 00:10:36.580
+Ven al Internet y lo ven como una forma de publicar
+
+00:10:37.120 --> 00:10:39.120
+Un sistema de contenido
+
+00:10:40.880 --> 00:10:43.880
+Pero teníamos formas de publicar antes del Internet
+
+00:10:43.880 --> 00:10:46.560
+Teníamos publicaciones digitales antes del Internet
+
+00:10:46.560 --> 00:10:49.880
+Teníamos formas de difundir contenido antes del Internet
+
+00:10:50.120 --> 00:10:52.480
+Lo que era diferente a cerca del Internet
+
+00:10:52.600 --> 00:10:55.420
+Es que por primera vez en la historia
+
+00:10:55.480 --> 00:10:59.280
+Éste permitió una Libertad Global
+
+00:10:59.500 --> 00:11:01.760
+Para el flujo de información
+
+00:11:02.240 --> 00:11:05.560
+Permitió el flujo libre de información
+
+00:11:05.920 --> 00:11:07.620
+En todos los lugares del mundo
+
+00:11:07.880 --> 00:11:13.660
+A cualquiera que tuviera la capacidad técnica de conectarse al Internet
+
+00:11:14.420 --> 00:11:17.480
+Y mientras tengas la capacidad técnica para conectarte al Internet
+
+00:11:17.480 --> 00:11:19.540
+Al Internet no le interesa quién eres
+
+00:11:20.980 --> 00:11:22.460
+Cuál es tu edad
+
+00:11:22.620 --> 00:11:27.820
+Si eres humano o un agente de software, o de que religión, raza o género eres
+
+00:11:28.040 --> 00:11:33.340
+Te da el Poder del flujo libre de información, sin restricción
+
+00:11:34.300 --> 00:11:36.160
+Esa es la magia del Internet
+
+00:11:36.360 --> 00:11:40.320
+Ese es el poder de transformación de esa tecnología
+
+00:11:40.500 --> 00:11:43.520
+El    Flujo   Libre   de   Información
+
+00:11:43.760 --> 00:11:46.340
+Y para muchas personas, ésto es aterrador
+
+00:11:48.640 --> 00:11:53.720
+La idea de que cualquiera pueda decir cualquier cosa, y cualquiera pueda leer cualquier cosa
+
+00:11:54.240 --> 00:11:56.800
+Cualquiera pueda hablar a cerda de cualquier cosa
+
+00:11:57.020 --> 00:12:04.520
+Sin control, sin una licencia, sin un título, sin un diploma, sin un certificado, sin una identidad
+
+00:12:05.160 --> 00:12:06.980
+Sin censura
+
+00:12:07.380 --> 00:12:09.160
+Es aterrador
+
+00:12:09.900 --> 00:12:13.080
+Para mi generación, y las generaciones que vienen
+
+00:12:13.340 --> 00:12:15.220
+No solo es liberador
+
+00:12:15.480 --> 00:12:17.200
+Es normal
+
+00:12:17.460 --> 00:12:20.360
+Es como las cosas han sido siempre
+
+00:12:20.940 --> 00:12:23.540
+Y la forma en que las cosas deben ser
+
+00:12:24.620 --> 00:12:26.360
+Lo que Bitcoin hace
+
+00:12:26.360 --> 00:12:32.060
+Es que crea exactamente las mismas circunstancias, por primera vez en la categoría del dinero
+
+00:12:32.200 --> 00:12:35.100
+Permite el flujo libre de dinero
+
+00:12:35.380 --> 00:12:37.840
+Y también el flujo libre de confianza
+
+00:12:38.000 --> 00:12:41.400
+Al rededor del mundo, a cualquier persona
+
+00:12:41.960 --> 00:12:46.520
+Simplemente a través su elección de participar, al descargar una aplicación
+
+00:12:46.760 --> 00:12:48.760
+El flujo libre de dinero
+
+00:12:49.220 --> 00:12:51.340
+El flujo libre de valor
+
+00:12:51.720 --> 00:12:55.500
+La libre asociación de confianza. De eso se trata
+
+00:12:55.720 --> 00:12:57.660
+No es un esquema de inversión
+
+00:12:57.780 --> 00:12:59.600
+No es una red de pagos
+
+00:12:59.660 --> 00:13:02.620
+No es una versión rara de PayPal
+
+00:13:03.160 --> 00:13:09.280
+Es el Internet añadiendo el flujo libre de dinero a las libertades que ya nos ha dado
+
+00:13:09.660 --> 00:13:13.420
+Yo les garantizo que esto es una idea aterradora para muchos
+
+00:13:14.240 --> 00:13:18.200
+La idea de que cualquier persona pueda enviarle dinero a cualquier otra, sin preguntar
+
+00:13:18.380 --> 00:13:22.600
+Sin permiso, sin control, sin censura, sin identificación
+
+00:13:23.020 --> 00:13:25.020
+Es aterradora
+
+00:13:25.940 --> 00:13:28.360
+Mi generación lo encuentra liberador
+
+00:13:28.600 --> 00:13:33.420
+La generación que sigue, lo ve como Normal
+
+00:13:34.100 --> 00:13:40.200
+Ellos nunca conocerán un mundo en el cual no puedas enviar dinero a cualquier lugar, a cualquier persona
+
+00:13:40.340 --> 00:13:45.100
+Un mundo en el cual el dinero solo trabaje de lunes a viernes de 9 a 5
+
+00:13:45.320 --> 00:13:51.120
+Un mundo en el cual el "privilegio" de tener una cuenta bancaria, tiene una tarifa mensual
+
+00:13:51.360 --> 00:13:53.740
+Para que otras personas guarden tu dinero
+
+00:13:53.860 --> 00:13:58.720
+Un mundo en el cual algunos destinos son prohibidos
+
+00:13:58.960 --> 00:14:04.720
+Un mundo en el cual, para poder abrir una cuenta bancaria, tienes que tener dieciséis
+
+00:14:05.300 --> 00:14:07.940
+Lo que parece una extraña idea
+
+00:14:08.160 --> 00:14:13.500
+Prepárense para un mundo en el cual niños de seis años, tienen cuentas de Bitcoin
+
+00:14:14.020 --> 00:14:15.460
+Y billeteras de Bitcoin
+
+00:14:15.460 --> 00:14:17.460
+Yo ya los he conocido
+
+00:14:18.500 --> 00:14:22.180
+Ellos aman el hecho de que ahora pueden comprar cosas en la Internet
+
+00:14:22.700 --> 00:14:25.160
+Los padres encontrarán esto aterrador
+
+00:14:25.460 --> 00:14:27.620
+Ellos verán esto como normal
+
+00:14:28.260 --> 00:14:32.560
+Y diez años después de tener su primera billetera de Bitcoin, entrarán en un banco
+
+00:14:32.940 --> 00:14:36.100
+Porque la abuela quiere darles una cuenta de ahorros
+
+00:14:36.660 --> 00:14:39.360
+Y tendrán una conversación con el banquero
+
+00:14:39.360 --> 00:14:46.600
+Que parecerá tan raro como si le hablaran a un corsario del siglo XVIII
+
+00:14:49.000 --> 00:14:51.600
+Para poder abrir una cuenta
+
+00:14:52.500 --> 00:14:56.580
+Tendrán que presentar todo tipo de documentación y papeleo
+
+00:14:56.580 --> 00:14:58.760
+Un proceso que tomará una hora
+
+00:14:58.980 --> 00:15:03.520
+Después de esto, tendrán un acceso muy limitado, por una tarifa muy alta
+
+00:15:03.520 --> 00:15:07.060
+Únicamente durante horas laborales, de lunes a viernes, de 9 a 5
+
+00:15:07.060 --> 00:15:11.600
+A una cuenta que puede usar solo una moneda, y únicamente envía a destinatarios específicos
+
+00:15:11.600 --> 00:15:13.300
+La mayoría empresas
+
+00:15:13.480 --> 00:15:15.940
+Una cuenta que no pueden usar para enviar dinero a sus amigos
+
+00:15:16.120 --> 00:15:18.200
+Ni comprar cosas desde Internet
+
+00:15:18.820 --> 00:15:21.420
+Y ellos verán eso y dirán...
+
+00:15:21.880 --> 00:15:24.420
+"Mis abuelos están locos"
+
+00:15:25.200 --> 00:15:27.200
+"Por qué usarían esto"
+
+00:15:27.200 --> 00:15:28.880
+"No sirve"
+
+00:15:29.120 --> 00:15:33.480
+Es casi tan extraño, como cuando me piden enviar un Fax
+
+00:15:33.800 --> 00:15:35.800
+Yo no entiendo
+
+00:15:36.340 --> 00:15:38.600
+Este es el mundo que hemos creado
+
+00:15:38.600 --> 00:15:40.340
+Esto ha ocurrido
+
+00:15:40.740 --> 00:15:43.400
+Y la gente que le teme a esta idea
+
+00:15:43.400 --> 00:15:48.140
+No se dan cuenta de que una vez ocurre, ya ocurrió, ahora vivimos en un nuevo mundo
+
+00:15:48.140 --> 00:15:50.440
+Hay dos caminos con los que nos podemos ajustar
+
+00:15:50.440 --> 00:15:53.060
+Podemos pretender que no está ocurriendo
+
+00:15:53.400 --> 00:15:57.660
+O podemos aceptarlo, y adaptarnos al nuevo mundo
+
+00:15:57.660 --> 00:16:04.820
+Ahora vivimos en un mundo en el cual puedes enviar valor a cualquier lugar, a cualquier persona, en cualquier momento, sin restricción
+
+00:16:04.820 --> 00:16:06.360
+Podemos acoger eso
+
+00:16:06.360 --> 00:16:08.760
+O podemos pretender que no está ocurriendo
+
+00:16:09.160 --> 00:16:14.320
+En mi anterior conferencia usé una analogía que creo que funcionó bastante bien
+
+00:16:14.900 --> 00:16:22.580
+Si ves las noticias, y el del pronóstico del tiempo te dice que va a haber una tormenta esta tarde
+
+00:16:23.060 --> 00:16:27.480
+Y eso no encaja con tus planes porque tienes una fiesta de cumpleaños
+
+00:16:28.360 --> 00:16:30.860
+Puedes apagar las noticias
+
+00:16:32.000 --> 00:16:35.800
+Si eres poderoso, puedes llamar al canal de noticias y quejarte
+
+00:16:36.140 --> 00:16:41.940
+Si eres realmente poderoso, tal vez puedas hacer que despidan a la persona del pronóstico del tiempo
+
+00:16:43.680 --> 00:16:46.880
+Aún así lloverá
+
+00:16:47.640 --> 00:16:48.740
+Cierto?
+
+00:16:48.740 --> 00:16:54.100
+Así que ahora encontramos a los gobiernos viendo a este nuevo tema del Bitcoin
+
+00:16:54.100 --> 00:16:59.840
+Y la primer pregunta que viene a la cabeza es cómo lo controlamos, cómo lo cambiamos, cómo lo detenemos
+
+00:16:59.880 --> 00:17:04.020
+Cómo forzamos nuestra autoridad y nuestra permeabilidad legal sobre esto
+
+00:17:04.860 --> 00:17:08.900
+Y ellos miran a la fuente
+
+00:17:08.900 --> 00:17:11.820
+Ellos no entienden el concepto básico
+
+00:17:11.820 --> 00:17:14.880
+Ellos hacen preguntas como "¿Quién está a cargo?"
+
+00:17:16.080 --> 00:17:19.440
+"¿Quién controla esto?"
+
+00:17:21.460 --> 00:17:24.920
+Y la respuesta no es satisfactoria
+
+00:17:25.500 --> 00:17:27.500
+Nadie controla esto
+
+00:17:28.560 --> 00:17:30.720
+Nadie está a cargo
+
+00:17:31.440 --> 00:17:34.760
+O puedes irte con un acercamiento más sofisticado
+
+00:17:35.920 --> 00:17:37.640
+Bueno, verás...
+
+00:17:37.640 --> 00:17:41.140
+Está basado en un modelo participativo de acceso abierto
+
+00:17:41.140 --> 00:17:43.840
+En una competición económica basada en el mercado
+
+00:17:43.840 --> 00:17:48.700
+A través de estrategias riesgo y recompensas, basadas en resultados de teorías de juegos
+
+00:17:48.700 --> 00:17:53.940
+Que aseguran participación colaborativa de múltiples participantes
+
+00:17:53.940 --> 00:17:57.160
+Sin que alguien pueda tener la habilidad de hacer trampa
+
+00:17:57.160 --> 00:18:00.160
+Debido a un sistema de consenso emergente
+
+00:18:00.160 --> 00:18:03.720
+Basado en reglas matemáticas y criptografía solida
+
+00:18:04.140 --> 00:18:07.020
+A lo que ellos responden...
+
+00:18:10.520 --> 00:18:13.480
+"Si, si, pero... ¿Quién está a cargo?"
+
+00:18:14.560 --> 00:18:16.720
+"¿Quién lo controla?"
+
+00:18:18.520 --> 00:18:22.000
+He tenido gente que se me acerca después de reuniones, y me dicen...
+
+00:18:22.000 --> 00:18:26.660
+"Ok, no le diré a nadie, esto es entre los dos"...
+
+00:18:28.520 --> 00:18:30.520
+"¿Quién está a cargo?"
+
+00:18:32.720 --> 00:18:36.040
+Creen que estoy bromeando
+
+00:18:36.040 --> 00:18:39.060
+creen que estoy intentando masajear la informacion
+
+00:18:39.640 --> 00:18:40.820
+por que
+
+00:18:42.320 --> 00:18:44.320
+es realmente un concepto bizarro decir
+
+00:18:44.540 --> 00:18:46.540
+aqui hay un sistema de confianza sin autoridad
+
+00:18:47.060 --> 00:18:49.060
+un sistema de confianza sin un centro
+
+00:18:49.360 --> 00:18:51.360
+un sistema de confianza sin jerarquia
+
+00:18:51.660 --> 00:18:53.660
+un sistema de confianza sin control
+
+00:18:54.200 --> 00:18:56.200
+por que ? Por que nunca hemos tenido ninguna de esas cosas
+
+00:18:57.380 --> 00:18:59.800
+por que todos los sistemas de confianza que hemos tenido en nuestra sociedad
+
+00:19:00.000 --> 00:19:03.120
+estan basado en exactamente el mismo modelo
+
+00:19:04.640 --> 00:19:09.900
+un modelo del siglo 19 de organizacion jerarquia que es el resultado de una era industrial
+
+00:19:11.320 --> 00:19:16.100
+que es un sistema de burocracia y autoridad basada  en procesos internos y reglas
+
+00:19:16.320 --> 00:19:19.920
+que supervisan capaz ultimando en figuras de autoridad
+
+00:19:21.620 --> 00:19:26.840
+autoridad en alguien, quizas autoridad que es elegida a traves de la democracia
+
+00:19:27.240 --> 00:19:32.020
+quizas autoridad que no es elegida, quizas es heredada, quizas es dictatorial
+
+00:19:32.720 --> 00:19:39.680
+pero siempre puedes apuntar, miras a la piramide, la jerarquia, y solo dejas que tus ojos apunten hacia la punta
+
+00:19:40.040 --> 00:19:43.160
+y usualmente hay alguien en la punta
+
+00:19:44.620 --> 00:19:55.220
+en algunos casos, esa persona es un actor con todo un grupo sombrio jugando al titere pero sin embargo la autoridad recae en esa persona
+
+00:19:55.980 --> 00:19:58.260
+y luego miras a bitcoin, y es un sistema plano
+
+00:19:58.720 --> 00:20:02.040
+y hay unas cuantas personas que parecerian tener un rol especial
+
+00:20:02.620 --> 00:20:06.520
+entonces dices "ok entonces esas personas estan en control"
+
+00:20:06.700 --> 00:20:13.380
+son los mineros? son los desarrolladores del software? es alguna parte del sistema de nodos?
+
+00:20:13.700 --> 00:20:17.600
+y luego te das cuenta que estas personas no pueden hacer nada en realidad
+
+00:20:20.780 --> 00:20:29.140
+y la parte graciosa es que cuando la gente mira a Bitcoin, ven sus mas grandes virtudes como si fuesen fallas
+
+00:20:30.560 --> 00:20:32.780
+algo que es muy caracteristico de nuevas tecnologias
+
+00:20:32.940 --> 00:20:40.000
+miran a bitcoin y dicen "pero ni siquiera pueden hacer que los mineros y los desarrolladores acuerden en como escalar el sistema"
+
+00:20:41.440 --> 00:20:47.000
+"por que uno de los grupos simplemente no dice asi es como vamos a hacerlo"
+
+00:20:47.440 --> 00:20:51.700
+por que eso no es bitcoin, por que no tenemos esa habilidad
+
+00:20:51.960 --> 00:20:54.820
+va a existir una competicion adversarial
+
+00:20:54.980 --> 00:20:58.300
+es un sistema de fuerzas de mercado compitiendo entre si mismas
+
+00:20:58.560 --> 00:21:08.580
+la razon por la que estamos en "estancamiento" es por que el consenso se sobrepone a la ambicion personal, popularidad y todo lo demas
+
+00:21:10.760 --> 00:21:14.340
+asi que miran a bitcoin y dicen "siguen dando vueltas, no pueden tomar una decision"
+
+00:21:14.660 --> 00:21:18.220
+si, por diseño, cualidad, no error..
+
+00:21:20.260 --> 00:21:25.080
+miran a bitcoin y dicen "pero, no pueden revertir una transaccion"
+
+00:21:26.940 --> 00:21:39.260
+los pagos son irreversibles, y dicen eso es un problema, es un error...como pueden hacer eso? que pasa si algo sale mal ? a quien llamo para revertir esa transaccion?
+
+00:21:41.300 --> 00:21:43.300
+cualidad, no error...
+
+00:21:44.100 --> 00:21:51.040
+Bitcoin garantiza la ejecucion de los "scripts" que escribes, ahora si pones un script que dice
+
+00:21:51.260 --> 00:21:55.900
+"hey Sandip, aqui hay un bitcoin espero que me envies ese televisor que ordene
+
+00:21:56.800 --> 00:21:59.280
+ese es el script que va a ser irreversible
+
+00:21:59.440 --> 00:22:04.320
+y garantizado por la red...no es un script muy bueno, por que Sandip quizas no envie el televisor
+
+00:22:05.620 --> 00:22:10.040
+y no hay nadie que pueda regresarte ese Bitcoin que no sea Sandip una vez que lo enviaste
+
+00:22:11.380 --> 00:22:14.160
+asi que esa es una forma de una promesa irreversible
+
+00:22:16.060 --> 00:22:19.920
+por supuesto, esa no es la unica promesa que puedo hacer que la red me garantice
+
+00:22:20.880 --> 00:22:29.920
+puedo decir: "hey Sandip, aqui hay un bitcoin, esta actualmente lockeado en una direccion de firmas multiples por los proximos 30 dias
+
+00:22:30.440 --> 00:22:40.560
+si despues de 30 dias no existe una disputa, va a automaticamente transferirse a ti, pero una vez que un tercero verifique
+
+00:22:40.640 --> 00:22:44.440
+que yo haya elegido, esta parte de confianza, o aquella parte de confianza
+
+00:22:44.740 --> 00:22:48.160
+puedo introducir terceros si quiero, pero no tengo que hacerlo
+
+00:22:48.360 --> 00:22:54.460
+puero introducir irreversibilidad si quiero, pero si escribo ese script, ese script es irreversible
+
+00:22:57.000 --> 00:22:59.080
+y puedo elegir quien mi agente "escrow" es
+
+00:22:59.360 --> 00:23:01.440
+y puedo elegir quien haga resolucion de disputas
+
+00:23:01.920 --> 00:23:09.820
+asi que puedo agarrar la cualidad natural de irreversivilidad y puedo aplicarla y suavizar esa promesa
+
+00:23:10.740 --> 00:23:15.260
+y hacerla proteccion al consumidor a traves de dinero programable
+
+00:23:16.700 --> 00:23:18.800
+es una cualidad, no un error
+
+00:23:21.260 --> 00:23:29.060
+bitcoin es este ser extraño, realmente lo es, viola todo lo que creemos que sabemos acerca del dinero
+
+00:23:29.320 --> 00:23:33.500
+y nos obliga a considerar si siquiera entendimos el dinero en primer lugar
+
+00:23:35.320 --> 00:23:52.260
+asi que, recuerdas cuando estabas en la escuela e hiciste esa clase sobre economia basica y el dinero? No? Ustedes tampoco? Nosotros no lo hicimos tampoco
+
+00:23:53.720 --> 00:23:59.200
+pensarias que una de las tecnologias mas ancestrales
+
+00:23:59.880 --> 00:24:05.180
+uno de los artefactos mas importantes de la civilizacion humana: la moneda
+
+00:24:06.040 --> 00:24:11.520
+el sistema de comercio que es la base, y, domina nuestras vidas en muchas maneras
+
+00:24:12.020 --> 00:24:14.180
+sderia un tema importante en la escuela
+
+00:24:14.880 --> 00:24:16.120
+ni un solo dia
+
+00:24:16.560 --> 00:24:20.040
+quizas en algunos lugares te dan un curso acelerado en economia de hogar
+
+00:24:20.480 --> 00:24:22.740
+o en historia, o en algo similar
+
+00:24:22.940 --> 00:24:26.240
+que te da esta idea vaga que en realidad no entiendes
+
+00:24:27.460 --> 00:24:32.540
+la mayoria de nosotros no podemos sostener una conversacion de 15 minutos con un un niño de 6 años sobre el dinero
+
+00:24:34.480 --> 00:24:38.440
+por que el niño de 6 años tiene buenas preguntas y nosotros no tenemos las respuestas
+
+00:24:40.260 --> 00:24:41.960
+"como funciona el dinero mami?"
+
+00:24:44.360 --> 00:24:48.440
+bueno, la respuesta correcta es: no tengo la menor idea hijito
+
+00:24:51.880 --> 00:24:54.440
+creo que tiene algo que ver
+
+00:24:55.860 --> 00:24:58.460
+con la alocacion de derechos especiales de giro
+
+00:24:58.880 --> 00:25:01.920
+a traves del fondo monetario internacional y el banco mundial
+
+00:25:02.600 --> 00:25:09.860
+en un sistema flotante libre de intercambio de mercado de monedas que compiten a traves de balances de comercio a lo largo de un espectro internacional
+
+00:25:09.960 --> 00:25:16.300
+de cotizaciones de intercambio ajustadas a la inflacion que luego pueden ser utilizadas para crear deuda local
+
+00:25:16.400 --> 00:25:28.520
+que es emitida por el tesoro en retorno de moneda que es impresa por el banco central, distribuida a los bancos que luego la prestan a traves de un sistema de reserva parcial de encaje
+
+00:25:29.080 --> 00:25:31.080
+de aproximadamente 10 a 1
+
+00:25:32.140 --> 00:25:37.160
+y distribuida a la economia creando ya sea efectos inflacionarios o deflacionarios
+
+00:25:38.800 --> 00:25:49.980
+permitiendonos a todos experimentar la velocidad del comercio en el intercambio de un token abstracto que representa la promesa de valor futuro depreciado
+
+00:25:51.120 --> 00:25:52.880
+por la tasa de inflacion
+
+00:25:53.500 --> 00:25:57.340
+y ajustado por el retorno en inversion
+
+00:26:04.800 --> 00:26:07.220
+"y por que no podemos tener mas dinero mami?"
+
+00:26:09.300 --> 00:26:11.760
+"por que simplemente no podemos darle mas dinero a todo el mundo?"
+
+00:26:14.520 --> 00:26:25.460
+esa conversacion no suecede de esa manera, generalmente sucede asi: "come tu desayuno, ve a tu cama, limpia tu cuarto, algun dia entenderas"
+
+00:26:25.700 --> 00:26:27.180
+y esa es la primera mentira
+
+00:26:27.760 --> 00:26:29.760
+por que aun todavia no entiendes
+
+00:26:30.980 --> 00:26:34.700
+si preguntas al comun de las personas en la calle: "que le da valor al dinero?"
+
+00:26:35.240 --> 00:26:38.440
+"por que el dinero tiene valor?" No tienen la menor idea!
+
+00:26:39.500 --> 00:26:43.760
+tienen una teoria de un cuentito de hadas, una historia
+
+00:26:44.700 --> 00:26:46.120
+y esa historia
+
+00:26:47.140 --> 00:26:49.140
+es tan ingenua
+
+00:26:50.020 --> 00:26:53.260
+como creer que los niños vienen de las cigueñas
+
+00:26:54.540 --> 00:26:57.520
+que los entregan en pañuelos y los sueltan en la chimenea
+
+00:26:59.060 --> 00:27:03.360
+es tan solida como Santa Claus (Papa Noel)
+
+00:27:05.100 --> 00:27:07.100
+Que le da valor al dinero?
+
+00:27:09.260 --> 00:27:12.840
+pero si ahi dice, en el pedazo de papel, dice...
+
+00:27:13.500 --> 00:27:18.460
+por el total credito y fe del Banco Real de India, o dice...
+
+00:27:18.740 --> 00:27:22.280
+por la fe total y credito del sistema de Reserva Federal
+
+00:27:22.580 --> 00:27:26.820
+dice, una nota de reserva federal
+
+00:27:29.220 --> 00:27:32.540
+aplica a toda deuda, publica y privada
+
+00:27:33.600 --> 00:27:37.540
+ok, esto es lo que le da valor, una promesa..
+
+00:27:38.740 --> 00:27:41.360
+pero la mayoria de las personas no tienen idea de como funciona eso
+
+00:27:41.800 --> 00:27:46.740
+les garantizo que si le preguntan a la persona promedio en la calle te van a decir que la razon por la cual el dinero tiene valor
+
+00:27:47.020 --> 00:27:55.960
+es por que en algun lugar hay una cueva, una boveda o una caja donde el gobierno tiene oro en proporciones equivalentes al dinero que circula
+
+00:27:57.020 --> 00:28:00.400
+lo que no ha sido cierto desde el 1930, en cualquier lugar del mundo
+
+00:28:01.320 --> 00:28:05.660
+y aun asi, esa es la fantasia de Santa Claus que muchas personas creen
+
+00:28:06.620 --> 00:28:14.200
+o tambien creen que el gobierno garantiza el valor del dinero de alguna manera
+
+00:28:15.780 --> 00:28:19.400
+lo que crea otras preguntas interesantes como ser...
+
+00:28:20.000 --> 00:28:31.060
+entonces por que la inflacion sucede? por que la moneda esta colapsando en Zimbawe? acaso el gobierno no intento lo suficiente para garantizarlo?
+
+00:28:33.140 --> 00:28:40.640
+esa es la verdad incomoda en el centro de nuestro entendimiento de la tecnologia mas antigua del mundo, el dinero...
+
+00:28:40.680 --> 00:28:44.460
+es que no lo entendemos, simplemente, no lo entendemos
+
+00:28:46.080 --> 00:28:47.460
+la verdad es
+
+00:28:48.140 --> 00:28:51.920
+ustedes le dan valor al dinero
+
+00:28:53.080 --> 00:29:00.000
+por que? por que estan participando en una halucinacion compartida
+
+00:29:01.400 --> 00:29:03.760
+con mil quinientas millones de otras personas
+
+00:29:04.080 --> 00:29:14.880
+en la cual creen firmemente que este dinero mañana va a tener valor, si vas a la tienda y presentas uno de estos pedazos de papel coloridos
+
+00:29:15.700 --> 00:29:24.320
+alguien va a darte huevos, pollo, condimentos, agua, azucar, sal, vivienda, salud, algo..
+
+00:29:24.580 --> 00:29:26.400
+por este pedazo de papel colorido
+
+00:29:26.740 --> 00:29:32.000
+y realmente se necesita una halucinacion increible para que nosotros creamos esto
+
+00:29:32.140 --> 00:29:34.440
+por que el papel en si mismo no sirve para nada
+
+00:29:36.120 --> 00:29:37.100
+es lindo
+
+00:29:38.540 --> 00:29:41.100
+pero no es tan lindo a ese nivel
+
+00:29:41.340 --> 00:29:46.160
+nadie te da servicios y productos por que tan lindo sea
+
+00:29:46.800 --> 00:29:47.580
+cierto?
+
+00:29:49.040 --> 00:29:52.780
+a esa halucinacion compartida le llevo cientos de años para establecerse
+
+00:29:53.500 --> 00:29:54.820
+y empezo
+
+00:29:55.940 --> 00:29:57.400
+en algun punto
+
+00:29:58.120 --> 00:30:00.120
+a finales del siglo XV
+
+00:30:01.360 --> 00:30:03.620
+con la introduccion del dinero en forma de papel
+
+00:30:03.960 --> 00:30:08.640
+certificados de oro, IOUS, certificados de intercambio, notas de prestamo, etc
+
+00:30:09.120 --> 00:30:12.720
+pedazos de papel que podian ser intercambiados en la promesa de otra cosa
+
+00:30:13.240 --> 00:30:19.000
+y luego, en el mas increible truco de magia que nuestra sociedad jamas haya visto
+
+00:30:21.500 --> 00:30:23.500
+cambiaron los vasos de lugar
+
+00:30:24.660 --> 00:30:26.980
+y levantas el vaso, y la pelota no esta ahi
+
+00:30:27.600 --> 00:30:29.600
+y entonces dices: que?
+
+00:30:29.840 --> 00:30:33.320
+esto era supuestamente redimible por 1 onza de oro
+
+00:30:34.020 --> 00:30:36.020
+una libra de plata, algo...
+
+00:30:36.940 --> 00:30:38.940
+No, ahora ya no...
+
+00:30:39.940 --> 00:30:41.940
+es solo un pedazo de papel
+
+00:30:42.580 --> 00:30:48.600
+lo que da valor es tu creencia de que si mañana vas a la tienda puedes comprar algo con ello
+
+00:30:49.000 --> 00:30:51.860
+en el momento en que esa creencia
+
+00:30:52.440 --> 00:30:54.520
+sufre una ruptura
+
+00:30:55.020 --> 00:30:56.760
+se destroza
+
+00:30:57.480 --> 00:31:00.200
+y ahi tienes problemas muy grandes
+
+00:31:00.440 --> 00:31:07.560
+me refiero, imaginense, un escenario loco donde la promesa de la total fe y credito
+
+00:31:08.440 --> 00:31:19.060
+un dia se transforma en un anuncio que de aqui a 4 horas estos dos pedazos de papel tienen 0 valor, o sea, eso no seria posible que suceda...
+
+00:31:22.580 --> 00:31:24.100
+pero aqui esta la parte interesante
+
+00:31:24.400 --> 00:31:36.300
+si el valor estaba basado en la promesa, y esa promesa se rompe, y la gente que hizo esa promesa te acaba de decir que eso ahora tiene valor 0 en 4 horas
+
+00:31:36.700 --> 00:31:38.700
+cual es el valor de ese pedazo de papel?
+
+00:31:40.360 --> 00:31:42.200
+cero...cierto?
+
+00:31:42.900 --> 00:31:44.480
+pero eso no es lo que sucedio...
+
+00:31:45.060 --> 00:31:46.720
+eso no es lo que sucedio para nada...
+
+00:31:48.420 --> 00:31:52.160
+por meses luego de que ese anuncio se hizo
+
+00:31:53.300 --> 00:31:55.740
+si, el papel ese tenia menos valor
+
+00:31:56.480 --> 00:32:00.100
+10% menos? 15% menos? 20% menos?
+
+00:32:00.840 --> 00:32:02.460
+pero todavia tenia valor
+
+00:32:03.260 --> 00:32:06.540
+aun asi siendo que la gente que hizo la promesa les dijo que valia 0
+
+00:32:06.940 --> 00:32:09.800
+podias intercambiarlo por un 80% de valor de cara
+
+00:32:10.300 --> 00:32:12.460
+en uno de los varios lugares disponibles
+
+00:32:13.120 --> 00:32:13.880
+donde
+
+00:32:14.460 --> 00:32:16.420
+la corrupcion ya no existe
+
+00:32:17.100 --> 00:32:19.580
+y no puedes intercambiar dinero, ustedes saben, toda esa historia
+
+00:32:20.460 --> 00:32:26.680
+a menos que por supuesto, tengas contactos y seas lo suficientemente rico para afrontar la depreciacion del 20%
+
+00:32:26.920 --> 00:32:29.780
+pero solo se deprecio un 20%
+
+00:32:30.320 --> 00:32:31.080
+como maximo
+
+00:32:31.980 --> 00:32:34.680
+les apuesto que aun hoy todavia pueden encontrar algunos en circulacion
+
+00:32:34.960 --> 00:32:37.120
+y les apuesto que aun todavia no tienen valor de 0
+
+00:32:37.420 --> 00:32:38.240
+de hecho...
+
+00:32:38.560 --> 00:32:42.120
+el la historia de las monedas, raramente encontramos alguna que se vaya a 0...
+
+00:32:45.220 --> 00:32:47.220
+puedo ir a Roma, en Italia...
+
+00:32:48.960 --> 00:32:52.720
+y puedo obtener monedas de plata que tienen la cara de Julio Cesar en ellas
+
+00:32:53.680 --> 00:32:56.100
+monedas que no han estado en circulacion
+
+00:32:56.780 --> 00:32:59.480
+por casi mil años
+
+00:33:01.220 --> 00:33:06.800
+y aun asi su valor no es 0, de hecho, su valor excede su valor en plata
+
+00:33:07.720 --> 00:33:10.820
+aun siguen siendo una abstraccion intercambiable de valor
+
+00:33:12.440 --> 00:33:15.340
+la razon por la cual su dinero no se fue a 0
+
+00:33:15.580 --> 00:33:19.300
+es por que su valor no era la promesa
+
+00:33:19.920 --> 00:33:23.400
+es por que su valor era esa ilusion
+
+00:33:25.560 --> 00:33:28.140
+y esa ilusion fue sacudida
+
+00:33:28.420 --> 00:33:39.540
+pero no destruida, por que, primero entran en panico "esto tiene valor cero" y luego alguien te dice "oh, no te preocupes, conozco a este señor, que conoce a otro señor
+
+00:33:39.920 --> 00:33:46.800
+que conoce a otro señor, que esta dispuesto a darte un 80% por ese papel.." y ahora ya no tiene 0 valor, ahora solo esta depreciado...
+
+00:33:48.140 --> 00:33:54.780
+por que ustedes le dan valor a travez de su uso, por que ustedes le dan valor creyendo en esa promesa
+
+00:33:55.720 --> 00:33:59.060
+pero para que esa promesa se mantenga tienen que existir otras caracteristicas
+
+00:33:59.940 --> 00:34:01.600
+tiene que ser infalsificable
+
+00:34:02.340 --> 00:34:03.860
+si puede ser falsificable
+
+00:34:04.680 --> 00:34:09.060
+entonces tienes un fenomeno emergente que en economia se llama "Ley de Gresham"
+
+00:34:10.140 --> 00:34:12.760
+donde el dinero malo persigue al dinero bueno
+
+00:34:13.500 --> 00:34:20.380
+donde si tienes en tus manos el buen dinero, no lo gastas, lo escondes bajo el colchon
+
+00:34:21.040 --> 00:34:23.460
+les suena familiar? Sucedio aqui.
+
+00:34:24.160 --> 00:34:33.340
+si tenias un billete viejo, y un billete nuevo, no hay manera que gastes el nuevo billete hasta que te deshagas de todos los billetes viejos
+
+00:34:33.620 --> 00:34:40.500
+asi que todos los billetes nuevos desaparecen de circulacion inmediatamente, su velocidad se va a 0
+
+00:34:41.560 --> 00:34:48.820
+y la gente intercambia el billete viejo, pero si intercambian el billete viejo, esta en circulacion, y mientras mas tiempo este en circulacion
+
+00:34:49.740 --> 00:34:54.480
+mas tiempo la gente lo utiliza, y guarda los nuevos: la ley de Gresham en accion
+
+00:34:54.720 --> 00:35:05.800
+yo no creia que iba a poder ver esto en mi vida, gracias India, por validar a mi profesor de economia, por demostrar la ley de Gresham en un laboratorio de mil quinientos millones de personas
+
+00:35:07.440 --> 00:35:11.460
+apesta, doloroso, pero sin embargo, muy interesante economia
+
+00:35:14.320 --> 00:35:17.580
+el dinero tiene que ser infalsificable
+
+00:35:17.700 --> 00:35:20.820
+el dinero tiene que ser portable, cierto?
+
+00:35:21.900 --> 00:35:26.340
+por que no pagaron con oro en la puerta?
+
+00:35:27.480 --> 00:35:29.700
+estoy seguro que aceptarian oro, yo definitivamente lo aceptaria
+
+00:35:30.600 --> 00:35:31.260
+cierto?
+
+00:35:31.820 --> 00:35:36.300
+la razon por la cual no pagan en oro es por que el oro apesta como dinero
+
+00:35:36.420 --> 00:35:39.360
+y la razon primaria por la cual apesta como dinero es por que es pesado
+
+00:35:39.480 --> 00:35:41.120
+es muy muy pesado
+
+00:35:41.520 --> 00:35:47.480
+para el valor que contiene, es irrealisticamente pesado
+
+00:35:47.680 --> 00:35:49.140
+no puedes hacerlo mas liviano
+
+00:35:49.520 --> 00:35:53.840
+su densidad esta fijada, el oro apesta como moneda por que no es portable
+
+00:35:55.680 --> 00:35:58.600
+en este momento, otras moendas tambien tienen una situacion similar
+
+00:35:58.880 --> 00:36:01.880
+el dinero de Zimbawe apesta como dinero por que no es portable
+
+00:36:02.240 --> 00:36:05.140
+por que para comprar una taza de cafe necesitas una carretilla de efectivo
+
+00:36:07.000 --> 00:36:12.680
+recuerdo mirar la entrevista de la BBC donde le preguntan al granjero: "no estas preocupado que alguien va a robarte el dinero?"
+
+00:36:13.320 --> 00:36:17.260
+y le contesta "no estoy preocupado que alguien vaya a robarme la carretilla"
+
+00:36:19.120 --> 00:36:21.260
+por que vale mas que el dinero que contiene en ella
+
+00:36:24.800 --> 00:36:26.600
+el dinero malo persigue al dinero bueno
+
+00:36:26.860 --> 00:36:32.040
+tiene que ser infalsificable, tiene que ser portable, tiene que ser universalmente reconocible
+
+00:36:32.300 --> 00:36:38.220
+necesitas poder validarte a ti mismo que esto es dinero real, tienes que poder verificarlo independientemente
+
+00:36:38.820 --> 00:36:39.360
+cierto?
+
+00:36:40.020 --> 00:36:43.340
+tiene que poder ser utilizado como unidad de cuenta
+
+00:36:43.660 --> 00:36:46.140
+tienes que poder contar cosas en ello
+
+00:36:46.940 --> 00:36:49.840
+una de las razones por las cual el trueque no funciona
+
+00:36:50.020 --> 00:36:57.380
+una de las razones por las cuales el trueque no es un tipo de economia adecuada a ningun nivel mas que el extremadamente local
+
+00:36:58.240 --> 00:37:01.580
+es por la problematica carga que pone a fijar precios
+
+00:37:01.960 --> 00:37:16.360
+si, puedo darte pollo por una cabra, y puedo darle al peluquero pollo por un corte de pelo, y puedo darle al aguatero pollo por litros de agua, cierto?
+
+00:37:16.400 --> 00:37:20.260
+el trueque a un nivel teorico es efectivo
+
+00:37:21.340 --> 00:37:27.340
+el problema con el trueque es que ahora tengo que rastrear la cotizacion de intercambio
+
+00:37:28.060 --> 00:37:32.420
+de cortes de pelo en unidades de pollo,
+
+00:37:33.340 --> 00:37:35.400
+de cabras en unidades de pollo
+
+00:37:35.700 --> 00:37:37.700
+y de agua en unidades de pollo
+
+00:37:38.060 --> 00:37:49.520
+mientras tanto el peluquero tiene que rastrear el precio de un corte de pelo en pollo, cabras, arroz, azucar, sal, agua, servicios de contabilidad, etc etc
+
+00:37:49.780 --> 00:37:58.200
+el problema con el trueque es que tenemos que rastrear cada cotizacion de intercambio por cada unidad de valor que estamos intercambiando en forma de un comodity
+
+00:37:58.460 --> 00:38:00.020
+la gracia del dinero
+
+00:38:00.960 --> 00:38:12.740
+es que solo tienes que rastrear todo con la unica cosa que no tiene valor, la cosa que no puedes comer, la cosa que no puedes utilizar para cortarte el cabello
+
+00:38:13.660 --> 00:38:19.780
+por que no es el valor, es el token de valor, es la representacion de valor
+
+00:38:20.260 --> 00:38:25.360
+asi que tiene que ser infalsificable, tiene que ser portable, tiene que ser util como unidad de cuenta
+
+00:38:26.560 --> 00:38:28.780
+y luego vienen los dificiles
+
+00:38:29.100 --> 00:38:31.100
+tiene que ser escaso
+
+00:38:32.160 --> 00:38:36.060
+no puedes utilizar conchas como moneda si vives en una playa
+
+00:38:38.660 --> 00:38:46.220
+y aun asi la gente utiliza conchas como moneda, en las montañas, encontramos sitios de escavacion arquelogica
+
+00:38:46.920 --> 00:38:49.040
+donde gente, gente antigua
+
+00:38:49.660 --> 00:38:56.200
+utilizaron conchas como moneda, no en la playa, siempre en la montaña, por que son escasas
+
+00:38:57.360 --> 00:39:04.120
+y utilizaron cristales, quarzo y minerales en la playa por que vienen de la montaña
+
+00:39:05.540 --> 00:39:07.460
+mientras que no exista
+
+00:39:07.680 --> 00:39:11.020
+donde estas, es una gran forma de dinero
+
+00:39:11.720 --> 00:39:16.340
+y ese es uno de los grandes problemas que tenemos con nuestros sistemas de dinero hoy en dia
+
+00:39:16.900 --> 00:39:20.760
+por que tengo malas noticias para ustedes: la rupia no es escasa
+
+00:39:21.300 --> 00:39:22.760
+no tiene limites
+
+00:39:23.320 --> 00:39:25.820
+puede ser creada en cantidades infinitas
+
+00:39:26.360 --> 00:39:33.240
+puede ser creada en cantidades infinitas al igual que el dolar, el euro, el yen y todas las otras monedas
+
+00:39:33.440 --> 00:39:44.700
+estas pueden ser creadas en cantidades infinitas, y lo peor, el poder de decidir que cantidad crear recae en las personas que tienen un conflicto de interes directo
+
+00:39:46.340 --> 00:39:48.780
+por que si tu eres un deudor
+
+00:39:50.540 --> 00:39:55.400
+entonces quieres que el dinero valga menos cosa de que tengas que devolver menos
+
+00:39:55.960 --> 00:40:02.500
+si tu eres un ahorrista, quieres que tu dinero valga mas, cosa de que puedas ganar mas
+
+00:40:03.260 --> 00:40:11.660
+si le das al gobierno, el cual es el deudor mas grande de todos, la decision de cuanto va a valer el dinero, ellos van a imprimir una infinidad de dinero
+
+00:40:11.980 --> 00:40:14.100
+para asegurarse de que no valga nada
+
+00:40:14.300 --> 00:40:19.400
+y en el proceso transfieren riqueza de los ahorristas a los deudores
+
+00:40:20.560 --> 00:40:25.060
+y en una cultura de ahorristas eso es un pensamiento aterrador
+
+00:40:25.620 --> 00:40:28.720
+tienes que explicarselo a las personas de manera muy calma
+
+00:40:29.560 --> 00:40:31.860
+asi que lo decimos con un pequeño truquito
+
+00:40:32.180 --> 00:40:39.020
+le decimos a la gente: hay una tasa de inflacion que no va a exceder 2% o 2.2% por año
+
+00:40:40.360 --> 00:40:47.780
+suena a nada, 2%? que es 2%? Ni siquiera se cuanto 2% es, no preste atencion en la escuela...
+
+00:40:48.060 --> 00:40:54.880
+tiene algo que ver con centenas y divisiones, nunca fui bueno con divisiones, 2%, que hace eso?
+
+00:40:55.400 --> 00:41:02.560
+Si le dices a la gente que la tasa de inflacion es 2%..bah, 2%, 10%, 5%, no entiendo eso en realidad..
+
+00:41:02.880 --> 00:41:07.320
+expresemos eso de otra manera: en 10 años, la mitad de tu dinero no va a existir...
+
+00:41:07.980 --> 00:41:11.880
+"Santa mierda! Eso si entiendo!"
+
+00:41:12.680 --> 00:41:26.220
+"He estado ahorrando como loco, tengo 2 trabajos, apenas me pagan! la mitad se va a ir? A donde? A donde se va? quien me lo quito? atrapen a esas personas! son ladrones!
+
+00:41:26.320 --> 00:41:29.500
+"Oh dios mio! se llevaron la mitad de mi dinero en 10 años??"
+
+00:41:30.820 --> 00:41:32.400
+La inflacion se llevo tu dinero
+
+00:41:32.940 --> 00:41:34.520
+mas precisamente...
+
+00:41:35.320 --> 00:41:41.100
+el gobierno, la corporacion, el banco, que esta en deuda se llevo tu dinero a traves de la inflacion
+
+00:41:41.500 --> 00:41:42.940
+por que para ellos
+
+00:41:43.400 --> 00:41:49.400
+ahora el dinero que ellos deben, tambien vale la mitad en 10 años, que concepto tan brillante!
+
+00:41:52.580 --> 00:41:57.100
+y ahi es donde vemos una diferencia fundamental entre Bitcoin y el dinero tradicional
+
+00:41:57.720 --> 00:42:04.420
+Bitcoin es dinero, bitcoin es resguardo de valor, bitcoin es medio de intercambio, bitcoin puede llegar a ser unidad de cuenta eventualmente
+
+00:42:04.820 --> 00:42:08.540
+gradualmente adquiere estas caracteristicas mientras crece mas establemente
+
+00:42:08.880 --> 00:42:12.280
+mejor establecido, mejor adoptado, mientras mas gente participa...
+
+00:42:12.760 --> 00:42:18.700
+en el intercambio de valor a traves de bitcoin, ellos crean una economia y esa economia crea valor
+
+00:42:20.540 --> 00:42:23.000
+ese valor crea estabilidad
+
+00:42:23.140 --> 00:42:31.460
+crea liquides, reduce la volatilidad, lo que lo hace mas adepto para que sea un medio de cambio para pequeñas compras
+
+00:42:31.680 --> 00:42:43.200
+lo hace mejor como resguardo de valor, mientras el medio de intercambio y resguardo de valor incrementan, la velocidad incrementa: la misma unidad se transfiere varias veces por la gente realizando varias transacciones
+
+00:42:43.600 --> 00:42:49.000
+y eventualmente su valor se estabiliza a tal punto que puede convertirse en unidad de cuenta
+
+00:42:49.720 --> 00:42:53.760
+donde puedes decir: "una de estas charlas, vale medio bitcoin"
+
+00:42:54.340 --> 00:43:01.180
+y no le pongo precio en dolares, le pongo precio en rupias...no puedo hacer eso hoy, pero un dia voy a poder hacerlo...
+
+00:43:01.480 --> 00:43:04.880
+algun dia estare poniendo precio a mis bitcoins en bitcoins
+
+00:43:05.540 --> 00:43:08.860
+la gente me pregunta: "cuanto vale un bitcoin?"
+
+00:43:11.380 --> 00:43:14.220
+la respuesta correcta es: mil milibits
+
+00:43:14.760 --> 00:43:19.980
+y llegara un dia donde la pregunta no sera "cuanto vale un bitcoin?"
+
+00:43:20.640 --> 00:43:22.820
+la pregunta sera: "cuanto vale una rupia?"
+
+00:43:23.960 --> 00:43:26.040
+y luego dire "Oh, es un microbit"
+
+00:43:27.660 --> 00:43:29.620
+y ahi es donde sabes que las cosas han cambiado
+
+00:43:29.780 --> 00:43:34.360
+va a ocurrir muy muy lentamente, y luego, todo de golpe!
+
+00:43:35.860 --> 00:43:38.520
+por que hay algo especial acerca de una moneda global
+
+00:43:38.920 --> 00:43:46.900
+y aqui esta el truco de magia: 21 millones, ese es el limite, esta impuesto matematicamente, no hay muchas monedas que puedan hacer eso
+
+00:43:48.880 --> 00:43:55.520
+hay solo una cosa en el mundo que comparte las caracteristicas de oferta que disminuye geometricamente
+
+00:43:55.860 --> 00:43:59.220
+que no puede ser modificada no importa cuan duro lo intentes
+
+00:43:59.540 --> 00:44:03.620
+por que mientras mas intentas quitar valor de ello, mas dificil se vuelve
+
+00:44:04.220 --> 00:44:05.420
+y ese es el oro
+
+00:44:06.480 --> 00:44:10.280
+excepto que no puedes enviar oro por e-mail y si puedes enviar bitcoin por email
+
+00:44:11.120 --> 00:44:12.440
+y de repente
+
+00:44:12.920 --> 00:44:13.940
+te das cuenta
+
+00:44:14.140 --> 00:44:21.600
+que esta cosa puede que tenga un impacto mayor del que todos los que estamos participando nos imaginamos
+
+00:44:22.480 --> 00:44:26.680
+y la gente cuando lo vea va a decir "es dinero falso"
+
+00:44:27.980 --> 00:44:29.280
+no es real
+
+00:44:30.700 --> 00:44:31.860
+y el mercado
+
+00:44:32.260 --> 00:44:37.780
+le dara un valor, y en el final, ese valor es la verdad
+
+00:44:38.560 --> 00:44:45.700
+pueden utilizar controles de capitales, propaganda, mentiras, restricciones, leyes...
+
+00:44:46.120 --> 00:44:53.520
+vemos eso en Venezuela, estan haciendo todas esas cosas, apuntan a bitcoin y dicen "eso es dinero falso"
+
+00:44:55.160 --> 00:45:02.380
+y cualquiera que esta involucrado en bitcoin en ese lugar, apunta a Venezuela y dice "Oh no, el tuyo es el dinero falso "
+
+00:45:03.320 --> 00:45:04.280
+esta mierda es real
+
+00:45:05.580 --> 00:45:07.240
+puedo puedo comprar comida con esto...
+
+00:45:07.660 --> 00:45:12.780
+de amazon, entregado a colombia y traficado en la frontera, pero aun asi puedo comprar comida con esto...
+
+00:45:13.580 --> 00:45:17.200
+el dinero falso puede ser resuelto por el mercado
+
+00:45:18.160 --> 00:45:24.580
+estamos en el inicio, esto no es una oportunidad de inversion, esto no es un esquema de riqueza rapida
+
+00:45:25.300 --> 00:45:32.720
+es una tecnologia, es una tecnologia que tiene implicaciones radicales, disruptivas para el mundo
+
+00:45:32.900 --> 00:45:35.620
+crea por primera vez en la historia de la humanidad
+
+00:45:35.860 --> 00:45:45.540
+la posibilidad del flujo libre del dinero entre cualquiera, a cualquier lado en cualquier momento sin ninguna restriccion, control o autoridad central
+
+00:45:45.900 --> 00:45:51.560
+crea la posibilidad del flujo libre del dienero para toda la humanidad
+
+00:45:52.620 --> 00:46:04.380
+y esa tecnologia va a ser dificil de utilizar, va a ser extraña, va a recibir ataques, va a ser hackeada, va a tener fallas, igual que el internet, que solia caerse todo el tiempo
+
+00:46:04.840 --> 00:46:06.140
+en varias partes
+
+00:46:07.260 --> 00:46:10.880
+y algunas de las compañias que estan en el espacio no existiran de aqui a 10 años
+
+00:46:12.080 --> 00:46:13.760
+eso tambien paso con internet
+
+00:46:14.120 --> 00:46:18.880
+en el 2000 el 90% de las compañias en el espacio desaparecieron
+
+00:46:19.540 --> 00:46:22.600
+en un "lavaje unico" del mercado de la bolsa
+
+00:46:23.340 --> 00:46:25.340
+pero el internet no se fue a ningun lado
+
+00:46:26.060 --> 00:46:29.040
+simplemente encontro nuevas compañias para construir la proxima generacion
+
+00:46:29.540 --> 00:46:32.020
+y eso va a pasar en las monedas digitales tambien
+
+00:46:32.280 --> 00:46:33.860
+quizas le cambiemos el nombre
+
+00:46:34.240 --> 00:46:37.060
+quizas cambiemos las compañias que estan participando
+
+00:46:37.340 --> 00:46:39.480
+de seguro vamos a cambiar la tecnologia
+
+00:46:40.880 --> 00:46:42.000
+y al final
+
+00:46:42.360 --> 00:46:43.760
+las monedas digitales
+
+00:46:44.260 --> 00:46:50.660
+van a suceder, ya han sucedido, y van a ser una parte fundamental del futuro de la humanidad
+
+00:46:50.840 --> 00:46:54.640
+y absolutamente nada puede frenar eso
+
+00:46:55.080 --> 00:46:59.180
+de que suceda por que ya ha sucedido gracias
+

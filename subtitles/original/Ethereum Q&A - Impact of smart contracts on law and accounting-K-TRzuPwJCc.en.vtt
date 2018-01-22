@@ -1,0 +1,199 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:07.180
+[Q] My youngest brother, he is a professor in law.
+He teaches his students to read the word of the law,
+
+00:00:07.180 --> 00:00:13.100
+write the word of the law, but judge according
+to the spirit of the law. When we look at these...
+
+00:00:13.100 --> 00:00:18.600
+.. new technologies, like distributed ledgers
+and Ethereum smart contracts, suddenly we're [faced]
+
+00:00:18.600 --> 00:00:25.040
+with the dilemma where you have to decide
+who is judging the spirit of a piece of code.
+
+00:00:25.040 --> 00:00:36.100
+So if you look at it from that perspective... 
+maybe national, maybe regional, maybe global...
+
+00:00:36.100 --> 00:00:42.060
+Is a legal framework necessary, preemptively?
+If so, how urgent is that?
+
+00:00:45.520 --> 00:00:54.420
+[A] As a system that overrides the consensus
+algorithm? No. Not only is it not necessary,
+
+00:00:54.420 --> 00:01:01.700
+it is odious, it is contrary to the very concept
+we're trying to build. We already have plenty...
+
+00:01:01.700 --> 00:01:08.800
+.. of institutions that allow you the flexibility
+to try and see if your problem will be adjudicated...
+
+00:01:08.800 --> 00:01:13.420
+.. based on the spirit of law, in front of an
+impartial judge or jury of your peers.
+
+00:01:13.420 --> 00:01:20.920
+We already have all of that. Everything we have
+is all of that. Your [brother's] students will...
+
+00:01:20.920 --> 00:01:27.720
+.. leave law school believing in the spirit of law and
+be gradually ground down through the system of...
+
+00:01:27.720 --> 00:01:36.440
+.. prosecution and courts until eventually they
+don't believe in anything -- other than winning the case.
+
+00:01:36.440 --> 00:01:41.660
+That's usually what happens. The reason
+we have a consensus algorithm is because...
+
+00:01:41.660 --> 00:01:46.820
+.. we're trying to build an alternative system
+where the outcome is known based on the...
+
+00:01:46.820 --> 00:01:53.840
+.. formulation of a contract, and it is completely
+neutral and impartial. Will that always work?
+
+00:01:53.840 --> 00:02:02.280
+Hell no, it won't! Sometimes it will backfire badly, 
+and we will have a DAO-saster. [LAUGHTER]
+
+00:02:02.280 --> 00:02:10.020
+But then the question is: how can law create
+a safety net? The worst case you can have,
+
+00:02:10.020 --> 00:02:18.800
+if you have a system where the smart contract
+has failed, is that every participant in the smart...
+
+00:02:18.800 --> 00:02:28.320
+.. contract finds anyone they can specifically
+identify (jurisdictionally, geographically, individually)
+
+00:02:28.320 --> 00:02:35.660
+sue them in whichever court they choose,
+or find themselves at the time. Then you have...
+
+00:02:35.660 --> 00:02:39.920
+.. to deal with this morass. I'm not suggesting
+that's a good outcome, I'm suggesting that...
+
+00:02:39.920 --> 00:02:46.240
+.. it's an inevitable outcome. If you have disputes
+that arise in this system and you don't have the...
+
+00:02:46.240 --> 00:02:51.740
+.. means of resolving them other than a consensus
+mechanism, people will start firing lawsuits...
+
+00:02:51.740 --> 00:02:59.020
+.. at each other. There's this really interesting framework
+called the New York Convention On Arbitration,
+
+00:02:59.020 --> 00:03:08.260
+which is an international treaty that allows you
+-- in 156 countries -- to claim independence,
+
+00:03:08.260 --> 00:03:14.820
+legal arbitration, through a private system of
+law that you can pre-define: the duration, discovery,
+
+00:03:14.820 --> 00:03:18.780
+who the judges are going to be, how it's going
+to be adjudicated, etc. Perhaps we should be...
+
+00:03:18.780 --> 00:03:26.580
+.. building systems that say, 'If there is a failure
+in this consensus system, we agree to waive our...
+
+00:03:26.580 --> 00:03:31.200
+.. rights under the New York Convention to
+local courts, and instead subject ourselves...
+
+00:03:31.200 --> 00:03:40.920
+.. arbitration under a crowd-jury, selected by smart
+contract 0XABCDEF, to provide the final solution.'
+
+00:03:40.920 --> 00:03:46.200
+Maybe you do that. I don't know if it's a good
+solution; I know it's better than trying to defend...
+
+00:03:46.200 --> 00:03:51.700
+.. yourself in a hundred local courts.
+[Q] What if it's not the consensus algorithm,
+
+00:03:51.700 --> 00:04:00.540
+but in the use, or rather abuse, of the system?
+For example, TheDAO... but I can imagine much worse.
+
+00:04:00.540 --> 00:04:05.160
+[A] The trick is distinguishing between what is
+'use' and what is 'abuse' of the system.
+
+00:04:05.160 --> 00:04:11.860
+In a system that has no spirit of law, but
+only has rule of consensus, there is no such...
+
+00:04:11.860 --> 00:04:17.280
+.. thing as a distinction between 'use' and 
+'abuse' of the system. If you can use the system,
+
+00:04:17.280 --> 00:04:23.780
+it is 'use' of the system. If the consensus algorithm
+allowed it, it is 'use.' The distinction you're putting,
+
+00:04:23.780 --> 00:04:33.420
+which is a normative judgement of the spirit,
+doesn't apply. It simply doesn't. Quite honestly,
+
+00:04:33.420 --> 00:04:38.920
+I think TheDAO was a great lesson in that.
+The lesson wasn't "should we fork or...
+
+00:04:38.920 --> 00:04:45.620
+.. should we not fork?" The leson is: don't put
+$150 million in an untested contract, you idiots!
+
+00:04:45.620 --> 00:04:53.340
+[LAUGHTER] But that is a lesson that is
+self-correcting. People got hurt by that.
+
+00:04:53.340 --> 00:04:57.960
+They're going to learn, and we're going to
+get better. We have to realise that what...
+
+00:04:57.960 --> 00:05:04.980
+.. we're building here, these systems...
+Their defining characteristic is caveat emptor:
+
+00:05:04.980 --> 00:05:11.120
+they are free market systems. They are free,
+collaborative, voluntary participation systems.
+
+00:05:11.120 --> 00:05:18.120
+Caveat emptor - buyer beware. 
+That is not a warning, that is a fact.
+
+00:05:18.120 --> 00:05:23.780
+You take it as it is. If you don't like it, you
+can use the other systems. We have plenty...
+
+00:05:23.780 --> 00:05:27.300
+.. of them. But we're not going to change
+this one and make it into one of the others.
+
+00:05:27.300 --> 00:05:31.400
+In fact, we're going to fiercely resist that change.
+

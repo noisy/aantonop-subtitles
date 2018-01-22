@@ -1,0 +1,805 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.540 --> 00:00:07.600
+Coming here is a great pleasure and great honor! This is my first time in Scandinavia.
+
+00:00:07.600 --> 00:00:16.000
+I've travelled to 44 countries so far, but [this is] the first visit to Scandinavia. Certainly hoping it won't be my last.
+
+00:00:17.080 --> 00:00:26.120
+But it's also been a bit challenging for me to think about what exactly I would talk about in the context of...
+
+00:00:26.120 --> 00:00:34.120
+.. this conference. Now, the conference is "Oslo Blockchain Day." Those of you who know me probably...
+
+00:00:34.120 --> 00:00:40.800
+.. know that I'm interested in the open public blockchains: the ones that are disruptive, the ones...
+
+00:00:40.800 --> 00:00:49.040
+... that are global, free, and censorship-resistant. Things like Bitcoin, like Ethereum. I'm interested in those...
+
+00:00:49.040 --> 00:00:59.500
+.. because they provide remedies for some big societal problems. Problems such as corrupt governance.
+
+00:00:59.500 --> 00:01:08.800
+Problems such as failing democratic institutions. Problems such as large populations of unbanked people,
+
+00:01:08.800 --> 00:01:15.600
+corrupt banks and banking practices. Difficulties in finance and international finance.
+
+00:01:15.780 --> 00:01:26.740
+Problems - in short - that Norway doesn't have. [laughter] So that's a bit of a challenge. If I go to Argentina and...
+
+00:01:26.740 --> 00:01:34.160
+I say, "You know... it's probably not a good idea to have your government in charge of money," they say:
+
+00:01:34.160 --> 00:01:42.500
+"Well... obviously!" Obviously. Thirty-five years ago, they were throwing people out of aircraft for disagreeing...
+
+00:01:42.500 --> 00:01:48.740
+.. with them. Not exactly the kind of government you want to give power over the banking system.
+
+00:01:48.740 --> 00:01:55.860
+Currency controls, hyperinflation... you can't have that conversation with a Norwegian.
+
+00:01:56.060 --> 00:02:00.900
+If I go to a Norwegian and say, "I really don't think government should be in charge of money,"
+
+00:02:01.040 --> 00:02:05.580
+the average Norwegian would say, "Why not? They're doing a very good job."
+
+00:02:05.580 --> 00:02:08.340
+"I'm very pleased with my government."
+
+00:02:08.860 --> 00:02:17.100
+It's true, right? This is a bit of a challenge, to explain why these technologies matter in one of the few places...
+
+00:02:17.100 --> 00:02:27.220
+.. in the world where government mostly works in a very good way. It's not tyrannical, it's not oppressive.
+
+00:02:27.520 --> 00:02:37.220
+Quite the opposite, quite the opposite... In fact two days ago, I was walking around the city &amp; I noticed a whole...
+
+00:02:37.220 --> 00:02:48.400
+.. lot of people wearing turbans. Many of them didn't look like Sikhs, but they were wearing turbans anyway.
+
+00:02:49.020 --> 00:02:58.840
+I asked, "What is this?" "Oh, it's Turban Day today!" On Turban Day, in order to show solidarity with immigrant...
+
+00:02:58.900 --> 00:03:05.540
+.. populations, especially Sikhs, we all wear colorful turbans and we have a competition for who has...
+
+00:03:05.540 --> 00:03:12.620
+.. the best turban, which then gets displayed. Like... oh my god!
+
+00:03:13.360 --> 00:03:22.500
+In the United States, we're building a wall to keep out the wave of refugees who are coming from countries...
+
+00:03:22.500 --> 00:03:26.840
+.. that we recently bombed. Kind of the same thing? [laughter]
+
+00:03:28.520 --> 00:03:39.320
+It's a bit of a strange situation, trying to explain why you would need such a thing. Norwegians have very...
+
+00:03:39.320 --> 00:03:47.860
+.. effective banking. Efficient, convenient. This is one of the most cashless societies in the world.
+
+00:03:47.860 --> 00:03:55.280
+Actually, it's the second most cashless country in the world. Do you know who the first cashless country...
+
+00:03:55.280 --> 00:04:03.960
+.. in the world is? Anyone? [AUDIENCE]: Sweden? [ANDREAS]: Kenya. Whoa, you didn't expect that one!
+
+00:04:03.960 --> 00:04:13.640
+Kenya. Because of M-Pesa, a system of digital money that's transmitted using SMS. But Norway is #2.
+
+00:04:14.000 --> 00:04:20.920
+Almost there. You can catch up soon. This is a country in which cash is almost invisible.
+
+00:04:22.500 --> 00:04:29.660
+I haven't used cash at all since I've been here. Credit cards, debit cards, very convenient. You also have...
+
+00:04:29.660 --> 00:04:38.080
+.. mobile payment systems. You can use this system called Vipps, I believe? Very easily you can send money...
+
+00:04:38.080 --> 00:04:45.460
+.. to anyone, up to about five thousand kroner. You can send more to some organisations. You have to pay...
+
+00:04:45.460 --> 00:04:52.560
+.. a fee if you want that. But under five thousand is basically free and fast, instantaneous almost.
+
+00:04:54.340 --> 00:05:02.600
+Do you use checks in this country? When is the last time you saw a check? Let's see who's over fifty [years old].
+
+00:05:02.600 --> 00:05:11.460
+[Has] anybody seen a check here? No? You've seen checks? Very good. Could you explain a check to...
+
+00:05:11.460 --> 00:05:17.080
+.. a fifteen-year old Norwegian? They'd think you're an alien, right? It would be a bit like trying to explain...
+
+00:05:17.140 --> 00:05:25.500
+.. a fax machine. This is the challenge: explaining this technology. Well, the rest of the world isn't like Norway.
+
+00:05:26.160 --> 00:05:36.720
+It simply isn't. In hundreds of countries, more than a hundred, government is not benevolent, functioning,
+
+00:05:36.720 --> 00:05:50.800
+and incorrupt. Banks are rapacious predators, not partners in business. Control of money by institutions...
+
+00:05:50.800 --> 00:05:57.940
+.. leads to power concentration and corruption. But I'm not going to try and sell you these technologies on that...
+
+00:05:57.940 --> 00:06:03.840
+.. basis. I'm not trying to sell these technologies. What I'm trying to understand is, what is the perspective...
+
+00:06:03.840 --> 00:06:10.800
+.. from which a country like Norway can benefit from a technology such as Bitcoin or Ethereum.
+
+00:06:10.800 --> 00:06:24.120
+What is a blockchain's purpose in this country? The real idea here is an issue of functionality to me.
+
+00:06:24.780 --> 00:06:37.780
+If you look at what you can do with Vipps, for example, and you look at what you can do with Bitcoin, it seems...
+
+00:06:37.780 --> 00:06:46.920
+.. like Bitcoin is just a weird, geeky version of Vipps that's difficult to explain - but other than that doesn't seem to...
+
+00:06:46.920 --> 00:06:54.300
+.. have any benefit. The fees are higher on Bitcoin too. How many of you here have done at least one transaction...
+
+00:06:54.300 --> 00:07:02.140
+.. using an open cryptocurrency? Bitcoin, Ethereum, or anything else? Pretty much everyone? At least 80%.
+
+00:07:02.640 --> 00:07:13.400
+So why would you use this technology here? I'd like to take a moment to think back about the early days...
+
+00:07:13.400 --> 00:07:21.260
+.. of the internet, and give you a comparison of a time which may give you some insight. In the 1990s,
+
+00:07:21.260 --> 00:07:30.680
+I was trying to introduce a new technology to financial services companies in London. At the time,
+
+00:07:30.680 --> 00:07:38.520
+I came with this new technology as a young consultant and I told them, "This is called the internet."
+
+00:07:38.520 --> 00:07:45.260
+"We have a system called 'electronic mail.' You can use it to communicate with other financial services...
+
+00:07:45.260 --> 00:07:55.620
+.. companies." It was very difficult, because they said, "But we already have faxes, we already have telexes."
+
+00:07:56.920 --> 00:08:07.380
+If you make the comparison, email at the time wasn't working so well. [With] fax, you could send text,
+
+00:08:07.380 --> 00:08:14.520
+but you could also send a drawing, you could send a diagram, you could send a chart. You could hand-write...
+
+00:08:14.520 --> 00:08:21.040
+.. a note and fax it. You couldn't do any of those things with email. Attachments were not working very well,
+
+00:08:21.040 --> 00:08:27.220
+capacity wasn't there. If you tried to attach an image, we didn't have scanners and cameras, things like that...
+
+00:08:27.220 --> 00:08:34.360
+.. [which] made it easy. You couldn't really do that. Email didn't have guaranteed delivery for text.
+
+00:08:35.000 --> 00:08:44.840
+But every single institution that I had working with me had telex, and telex had guaranteed delivery with proof...
+
+00:08:44.840 --> 00:08:52.000
+.. that you could take to a court, so they used it for the settlement of securities instruments, because they...
+
+00:08:52.000 --> 00:09:00.120
+.. could prove that a telex had been received. So how do you tell people this [internet] is going to be better,
+
+00:09:00.120 --> 00:09:11.700
+when at the time it's not better? If you looked at the internet then, what you see is only a glimpse of what...
+
+00:09:11.700 --> 00:09:18.540
+.. is yet to come. What you see is a protocol that can kind of do what already exists, but not very well.
+
+00:09:18.900 --> 00:09:26.600
+But it's much more flexible, and in the future can do a lot more. If you look at Bitcoin versus Vipps today,
+
+00:09:26.600 --> 00:09:33.620
+it looks like Vipps is a lot easier, right? But Bitcoin is a lot more flexible, Bitcoin is programmable,
+
+00:09:33.620 --> 00:09:43.040
+"Bitcoin" isn't owned by anyone. If you try to think about where that will take us in the future, imagine the entire...
+
+00:09:43.040 --> 00:09:52.600
+.. world had Vipps; imagine if you could Vipps money to 7.5 billion people anywhere on the planet, just as easily...
+
+00:09:52.600 --> 00:10:04.380
+.. as you can someone in Norway. Eventually, a technology like Bitcoin will be able to do that. Not yet.
+
+00:10:04.380 --> 00:10:11.140
+There aren't enough people using it. It's not as easy to use. There isn't the capacity to do it for...
+
+00:10:11.140 --> 00:10:19.320
+.. 7.5 billion people, just like there wasn't the capacity to do image attachments on email. But if you try to...
+
+00:10:19.320 --> 00:10:29.200
+.. imagine where this is going as the flexibility increases, things become easier and easier. There's this very...
+
+00:10:29.200 --> 00:10:36.860
+.. strange thing that happens with new and disruptive technologies - which is that at first, they completely fail...
+
+00:10:36.860 --> 00:10:44.220
+.. to even simulate the technology they're replacing. Think about the introduction of the first car.
+
+00:10:45.040 --> 00:10:51.400
+You have a horse, you have a carriage, and someone tries to sell you a car. They're there demonstrating this...
+
+00:10:51.400 --> 00:11:04.160
+.. vehicle. Compared to the horse you have, the car sucks in every way. First of all, horses are the original...
+
+00:11:04.160 --> 00:11:12.280
+.. self-driving vehicle: full autonomy. In cars we would call that "level four autonomy." [laughter]
+
+00:11:13.100 --> 00:11:21.720
+You know, when the guy walks out of the saloon, [whistles], and a horse comes? We just managed...
+
+00:11:21.720 --> 00:11:28.300
+.. to do that with a Tesla in the last three years, where it comes from the parking lot and picks you up.
+
+00:11:28.300 --> 00:11:38.300
+Horses could do that for thousands of years, right? You arrive outside of the bar at the saloon, jump off...
+
+00:11:38.300 --> 00:11:44.860
+.. the horse, and the horse just goes by itself to go refill on water and fuel.
+
+00:11:46.880 --> 00:11:58.380
+It has independent, four-leg drive with traction control, autonomous obstacle avoidance, distance keeping...
+
+00:11:58.380 --> 00:12:07.120
+.. and lane management. Meanwhile, if you try to use a car in the roads they had then, it would get stuck.
+
+00:12:07.160 --> 00:12:16.400
+It wouldn't be able to move, because the roads were not viable. This happens again and again with technology,
+
+00:12:16.400 --> 00:12:27.080
+not just in the past but also in the near present. 3D printing - most people hear about 3D printing, they read...
+
+00:12:27.080 --> 00:12:32.120
+.. about it, and it got really popular in the last few years, with a small company called MakerBot.
+
+00:12:32.120 --> 00:12:38.740
+How many people have heard of MakerBot and 3D printing? Yes. Have you seen it? 3D printing was not...
+
+00:12:38.740 --> 00:12:45.740
+.. invented by MakerBot, of course. You could buy 3D printers at the time when MakerBot was released.
+
+00:12:46.100 --> 00:12:56.740
+They were the size of four refrigerators stacked next to each other. They used either laser sintering or other...
+
+00:12:56.740 --> 00:13:06.020
+.. forms of metal deposition. They cost about $300,00 to about $1 million dollars. They produce beautiful,
+
+00:13:06.020 --> 00:13:15.600
+beautiful prototypes that can be used directly even in engines, out of metal components. They have a...
+
+00:13:15.600 --> 00:13:26.180
+.. MakerBot in the corner that stinks of plastic, is rickety, very low resolution, and it produces this gnarly little...
+
+00:13:26.180 --> 00:13:35.700
+.. plastic cube. And you say, "Behold the revolution of 3D printing!" It shipped. Anyone in the 3D printing...
+
+00:13:35.700 --> 00:13:43.280
+.. business would say, "That's ridiculous. Why are you even pretending to try to compete?"
+
+00:13:43.280 --> 00:13:53.900
+The answer is simple: because that thing cost $1. It looks crap now, but give it 30 years, put it on every...
+
+00:13:53.960 --> 00:13:58.700
+.. desktop, and see it change the world, because you're never going to change it with this $1 million piece of...
+
+00:13:58.700 --> 00:14:07.860
+.. equipment that you built - that's the size of a bus. We have drones. Everybody excited about drones?
+
+00:14:07.860 --> 00:14:18.580
+Who has played with a drone? Fascinating, right? Imagine a platform that can be released from your...
+
+00:14:18.580 --> 00:14:29.000
+.. hand, guided to an altitude, provide remote surveillance, perhaps monitor your location to tell you...
+
+00:14:29.000 --> 00:14:36.980
+.. if someone is approaching (like a guard duty), return automatically, and land back on your hand whenever...
+
+00:14:36.980 --> 00:14:48.420
+.. you wanted. Arabs had this technology 6,000 years ago, they called it birds of prey. They taught a hawk...
+
+00:14:48.420 --> 00:14:59.160
+.. how to do that: take off from the hand, do wide-area surveillance, come back. Faster than a drone,
+
+00:14:59.160 --> 00:15:09.840
+higher than a drone, feeds itself. [It] can actually go hunting for you too. Doesn't get lost, doesn't crash,
+
+00:15:09.920 --> 00:15:19.480
+doesn't have twenty minutes of endurance -- [but] twenty hours of endurance on a single meal. A drone looks...
+
+00:15:19.480 --> 00:15:31.920
+.. terrible compared to a bird of prey. Yet can you make a swarm of a thousand that can move at 500 miles/ hour?
+
+00:15:32.140 --> 00:15:37.940
+You can never do that with a bird of prey. Give us ten years with drones and watch what happens!
+
+00:15:38.760 --> 00:15:47.460
+This is what happens with technology again and again. In the first iteration, what it does isn't improve on...
+
+00:15:47.460 --> 00:15:57.020
+.. the existing capabilities. Instead, it widens the field. It opens up the door for a much wider set of applications...
+
+00:15:57.020 --> 00:16:08.180
+.. that were never possible before. In doing so, it fails to excel at applications you can already do - momentarily.
+
+00:16:08.180 --> 00:16:16.840
+Until economies of scale, volume, coordination, and productivity make it much better at everything else...
+
+00:16:16.840 --> 00:16:24.720
+.. and the thing that it originally failed at. We see this happen again and again with technology.
+
+00:16:24.720 --> 00:16:32.940
+Now we're going to see it with the technology of money. Vipps is great - as long as you're over 15 [years old],
+
+00:16:32.940 --> 00:16:39.560
+have a debit card or bank accounts denominated in Norway, and only want to send money to Norwegians.
+
+00:16:41.260 --> 00:16:48.980
+Bitcoin looks like it can't do any of those things, but all you need to qualify is the ability to download...
+
+00:16:48.980 --> 00:16:56.860
+.. an application on an Android phone that can cost $25, anywhere in the world. You can then send money to...
+
+00:16:56.860 --> 00:17:05.820
+.. 7.5 billion people with that same application, as long as they download it too. At first, it looks inferior,
+
+00:17:05.820 --> 00:17:15.260
+but it opens the door to create a completely unified financial system without borders. But it's not just...
+
+00:17:15.260 --> 00:17:24.340
+.. a payments network. One of the other things that this technology does is provide a global store of value,
+
+00:17:24.340 --> 00:17:35.860
+a universal reserve currency, a system of digital gold. We will look back (I think) ten years from now, if this...
+
+00:17:35.860 --> 00:17:45.660
+.. experiment is successful, and see the emergence of this global standard, this new asset, that allows both...
+
+00:17:45.660 --> 00:17:54.200
+.. individuals to preserve [their] wealth, and eventually even states to preserve wealth. It sounds preposterous,
+
+00:17:54.200 --> 00:18:03.840
+if I say it today. But one day, countries will accumulate cryptocurrencies as part of their foreign reserves,
+
+00:18:03.840 --> 00:18:14.380
+as part of their capital reserves. It seems ridiculous [but] it will happen. It will happen and they will be able to...
+
+00:18:14.380 --> 00:18:23.260
+.. acquire these cryptocurrencies - that will not only represent value, but will also represent neutrality.
+
+00:18:23.420 --> 00:18:32.060
+They will not belong to any flag, they will not reflect any geopolitics. Every form of reserve currency we have...
+
+00:18:32.060 --> 00:18:43.440
+.. today reflects geopolitics, reflects national interests. But cryptocurrencies are reflective of math,
+
+00:18:43.440 --> 00:18:50.960
+not geopolitical interests. You can have this emergence of a global asset class, a stable store of value,
+
+00:18:50.960 --> 00:19:06.800
+that provides us with independence. And that's just the beginning. There are other blockchains, they're doing...
+
+00:19:06.800 --> 00:19:17.600
+.. different things, things more in the area of governance. How many here have heard of / used Ethereum?
+
+00:19:20.300 --> 00:19:27.340
+Now you keep hearing these words "smart contract." Most people have no idea what a smart contract is.
+
+00:19:27.340 --> 00:19:36.380
+It sounds 'smart,' it sounds like a 'contract,' so maybe it will be related to legal language. But really, that term...
+
+00:19:36.380 --> 00:19:43.320
+.. is quite misleading. A "smart contract" is really a dumb program. It's a very simple, dumb program.
+
+00:19:43.720 --> 00:19:53.040
+What's special isn't the program [or] the smart contract. What's special is the platform it's running on,
+
+00:19:53.040 --> 00:20:03.680
+a platform that allows you to execute code in a persistent, consistent, worldwide, secure, neutral,
+
+00:20:03.680 --> 00:20:11.840
+censorship-resistant way. Unstoppable code that runs everywhere, that runs the same everywhere. A platform...
+
+00:20:11.840 --> 00:20:21.180
+.. that can be trusted to combine financial activity and governance in a single program. That's a really exciting...
+
+00:20:21.180 --> 00:20:30.560
+.. opportunity. Now, what are we using this opportunity for? To do initial coin offerings? That's a waste of that...
+
+00:20:30.560 --> 00:20:37.600
+.. fantastic opportunity, and it's going to create some spectacular explosions when these ICOs go 'boom'!
+
+00:20:38.760 --> 00:20:49.720
+But that doesn't change the fact that behind this is the possibility to reinvent governance. If you understand...
+
+00:20:49.720 --> 00:21:01.680
+.. what Bitcoin is doing, Bitcoin is a direct disruption to the basis of central banking, store of value,
+
+00:21:01.680 --> 00:21:12.200
+payment networks,  and international wire transfers. Those are obvious. Bitcoin offers solutions that disrupt...
+
+00:21:12.200 --> 00:21:20.280
+.. these four functions: central banking, store of value, payment networks, international wires. It offers a novel...
+
+00:21:20.280 --> 00:21:29.220
+.. way of doing these things in a way that's open, global, neutral, censorship-resistant. That's exciting.
+
+00:21:29.400 --> 00:21:36.260
+What exactly is Ethereum doing? What does that disrupt? For that, you have to look at one of the most...
+
+00:21:36.260 --> 00:21:47.300
+.. important inventions of the 19th century, which was the modern shareholder corporation. It's not really...
+
+00:21:47.300 --> 00:21:55.280
+.. a 19th century invention, it's actually a 16th century invention. In the 19th century, we see the modern...
+
+00:21:55.280 --> 00:22:07.700
+.. version of that, which is available across the world. It goes back to the East India Company.
+
+00:22:07.700 --> 00:22:15.220
+The Dutch East India Company and British East India Company, the first two corporations, that under a royal...
+
+00:22:15.220 --> 00:22:22.160
+.. charter allowed individuals to invest in a journey across the seas in order to get spices and bring them...
+
+00:22:22.160 --> 00:22:32.380
+.. to Europe. That institution is the basis of commerce, and has been the basis of commerce for 400 years.
+
+00:22:32.600 --> 00:22:43.740
+It's about to get majorly disrupted. What are the key characteristics of a corporation? 1. Jurisdiction.
+
+00:22:44.400 --> 00:22:57.560
+Corporations have a domicile, they have a location. They have a specific country of registration. Who needs that?
+
+00:22:57.900 --> 00:23:06.220
+Forget jurisdiction. How about we do that on completely global basis, with companies not registered anywhere,
+
+00:23:06.220 --> 00:23:15.080
+but are registered everywhere? Or really not registered, they simply exist. The decentralized autonomous...
+
+00:23:15.080 --> 00:23:24.520
+.. organisation is the reinvention of a 500-year old concept, of a corporation for the modern age.
+
+00:23:24.700 --> 00:23:32.780
+It allows any number of humans or software agents to collaborate on the long-term or short-term basis,
+
+00:23:32.780 --> 00:23:39.940
+to engage in a common venture with a governance structure that allows them to vote, a system that...
+
+00:23:39.940 --> 00:23:47.900
+.. allows them to share in equity, contribute to funding, and receive returns on investments.
+
+00:23:48.480 --> 00:23:57.760
+Most of the early examples we have so far are focused on the funding side, which in my opinion is the wrong...
+
+00:23:57.760 --> 00:24:06.940
+.. side of the equation. Funding before governance is a very dangerous example. Most of the initial coin...
+
+00:24:06.940 --> 00:24:13.220
+.. offerings we see coming out to Ethereum have a lot of funding and very little governance. The modern...
+
+00:24:13.220 --> 00:24:21.520
+.. corporation is going to be reinvented as we introduce systems that offer us modern, new, novel mechanisms...
+
+00:24:21.520 --> 00:24:31.440
+.. for governance. Eventually they'll reinvent financing as well, but governance is where it starts. I use a simple
+
+00:24:31.440 --> 00:24:45.900
+... analogy to explain this concept: what is the difference between a rocket and a bomb? Rocket science is really...
+
+00:24:45.900 --> 00:24:52.860
+.. the fundamental difference. It comes down to governance. If you look at a rocket, chemically speaking,
+
+00:24:52.860 --> 00:25:00.020
+it's a bomb. The components of a rocket are exactly the same chemical components you would use to...
+
+00:25:00.020 --> 00:25:08.960
+.. construct a bomb. The only difference is one is an exothermic, violet reaction, that happens almost...
+
+00:25:08.960 --> 00:25:16.260
+.. instantaneously and in every direction. The other one is an exothermic, violent reaction that happens...
+
+00:25:16.260 --> 00:25:26.600
+.. gradually over time, in one direction. Sometimes, if you get the governance wrong, the rocket turns into a bomb.
+
+00:25:27.660 --> 00:25:38.000
+It goes from one direction - measured - to every direction instantaneously. How you learn how to do governance,
+
+00:25:38.000 --> 00:25:46.300
+is by building several of these, having most of them blow up before they leave the launch pad, learning how to...
+
+00:25:46.320 --> 00:25:55.880
+.. do better governance - until one day, you can get quite high with these devices. You can achieve rocket science.
+
+00:25:55.880 --> 00:26:02.300
+But if you look at the early days of rocket science, it doesn't seem possible. These things [kept] exploding.
+
+00:26:03.240 --> 00:26:10.880
+Ethereum's ICOs are rocket science without governance, and what we're creating is a lot of pretty powerful...
+
+00:26:10.880 --> 00:26:16.420
+.. bombs that are exploding on the launch pad. More of them are going to blow up. Some of them are going to...
+
+00:26:16.420 --> 00:26:23.360
+.. reach a few hundred feet in altitude and then blow up spectacularly. Part of the reason is: we're putting a lot...
+
+00:26:23.360 --> 00:26:29.920
+.. of fuel (which is the money) behind very little governance. The more fuel you put, and the less...
+
+00:26:29.920 --> 00:26:35.880
+.. governance you have, the more likely you are to make the transition from rocket to bomb. The worst thing...
+
+00:26:35.880 --> 00:26:44.160
+.. you can do to a startup is take a group of professionals who have never worked together and...
+
+00:26:44.160 --> 00:26:52.760
+.. then hand them $10-15 million dollars on the basis of an idea. Watch how quickly friendships fall apart,
+
+00:26:52.760 --> 00:27:01.720
+how quickly the people you thought were your friends give you a call from Bermuda saying, "I'm really sorry..."
+
+00:27:01.720 --> 00:27:12.320
+"man, but it was too tempting. I had to take the money and run." This is going to keep happening, but don't let...
+
+00:27:12.320 --> 00:27:20.780
+.. that distract from the very fundamental thing that's happening underneath. We are gradually building...
+
+00:27:20.780 --> 00:27:31.500
+.. reusable, mature governance models. Governance models that will reinvent the modern corporation.
+
+00:27:31.500 --> 00:27:38.540
+This is no small task. Reinventing the modern corporation will radically transform international...
+
+00:27:38.540 --> 00:27:48.280
+.. commerce. These two examples are just what happened in the first eight years of this technology...
+
+00:27:48.280 --> 00:27:56.660
+.. called the blockchain. Out of this technology, we have these two examples: 1) a system of money, payments,
+
+00:27:56.660 --> 00:28:02.820
+international currency, and possibly a reserve currency 2) a system of governance through smart contracts,
+
+00:28:02.820 --> 00:28:13.660
+that will revolutionize the modern corporation. Don't let that distract you though, there's a lot more "blockchain"...
+
+00:28:13.660 --> 00:28:25.700
+.. going on, and most of it is bullshit. The very difficult task is being able to tell the difference between these...
+
+00:28:25.700 --> 00:28:35.100
+.. very real, meaningful, disruptive, innovative technologies that we see, and the meaningless,
+
+00:28:35.100 --> 00:28:44.000
+marketing-driven, funding-oriented excuses that people call "blockchain" in order to raise money.
+
+00:28:44.380 --> 00:28:54.100
+It's often very difficult to tell which is which. You have to start with: what are the principles a blockchain delivers?
+
+00:28:54.480 --> 00:29:04.500
+I prefer to speak of open public blockchains, because "open public blockchain" is the magic technology.
+
+00:29:05.260 --> 00:29:16.420
+It's like the difference between internet and TCP/IP. TCP/IP is not revolutionary, TCP/IP is not what made...
+
+00:29:16.420 --> 00:29:25.020
+.. the internet magical. In fact, the early internet didn't use TCP/IP and it was still revolutionary.
+
+00:29:25.020 --> 00:29:33.400
+Today's internet could change to a different protocol and still be revolutionary. What's magical about the internet...
+
+00:29:33.400 --> 00:29:44.200
+.. is that it is open, borderless, neutral, and censorship-resistant. It is a global, equalizing communication...
+
+00:29:44.200 --> 00:29:52.720
+.. system, and TCP/IP is just a means by which it gets that done. The open public blockchains today are...
+
+00:29:52.720 --> 00:30:04.600
+.. the internet of money, the internet of corporations, that we see now emerging. "Blockchain" is just the TCP/IP.
+
+00:30:04.600 --> 00:30:12.100
+You can take TCP/IP and make something very boring. How many of you work in corporate environments?
+
+00:30:13.120 --> 00:30:20.880
+My condolences. How many of you have an intranet in your company? How many of you love the applications...
+
+00:30:20.880 --> 00:30:31.300
+.. you have on your intranet? TCP/IP, right? You take this technology, and what you do is remove all the things...
+
+00:30:31.300 --> 00:30:39.420
+.. that make the internet interesting. The internet is open, an intranet is closed. The internet is borderless,
+
+00:30:39.420 --> 00:30:45.920
+an intranet has firewalls. The internet has permissionless applications anyone can write,
+
+00:30:45.920 --> 00:30:53.260
+the intranet is controlled by the IT department and has applications from Oracle and Microsoft.
+
+00:30:53.260 --> 00:30:59.780
+The internet connects you to the world, the intranet isolates you from the world.
+
+00:31:00.160 --> 00:31:08.180
+So you've taken the same technology, changed the culture, and built something that doesn't resemble...
+
+00:31:08.180 --> 00:31:16.680
+.. what you started with. You end up with something that is insecure, stale, boring, and that sucks productivity...
+
+00:31:16.680 --> 00:31:26.560
+.. instead of increasing it. The very same companies that luxuriated intranets - banks, large corporations -
+
+00:31:26.560 --> 00:31:34.180
+.. are now luxuriating in "blockchain," because they failed to learn the fundamental lesson. What is magical in...
+
+00:31:34.180 --> 00:31:42.100
+.. these technologies is the open, permissionless, interconnected, borderless nature. Connecting the world,
+
+00:31:42.100 --> 00:31:50.460
+freeing the flow of information. In the case of Bitcoin, freeing the flow of money globally. In the case of...
+
+00:31:50.460 --> 00:31:58.100
+.. Ethereum, freeing the constraints of governance and corporations globally. You take that technology...
+
+00:31:58.100 --> 00:32:08.160
+.. you close it, control it, control access, control innovation, and build a system that is inside your...
+
+00:32:08.160 --> 00:32:18.780
+.. company. What you've built is the intranet of money, the intranet of corporations. It is boring. But it's worse...
+
+00:32:18.780 --> 00:32:27.780
+.. than that. It's not just boring, it's also insecure. It is almost impossible to secure the system because...
+
+00:32:27.780 --> 00:32:35.220
+.. you centralise control over it. The only reason Bitcoin is secure, the only reason Ethereum is secure, the only...
+
+00:32:35.220 --> 00:32:41.400
+.. reason all of these open public blockchains are secure, is because control is completely decentralised.
+
+00:32:42.180 --> 00:32:50.440
+Centralising control does not make things more secure, it makes them vulnerable. You've also taken away...
+
+00:32:50.440 --> 00:32:56.360
+.. immutability. Immutability is one of the great characteristics of these open public blockchains.
+
+00:32:56.880 --> 00:33:06.160
+Information stored in them cannot be retroactively changed - unless you have a closed private blockchain,
+
+00:33:06.160 --> 00:33:14.220
+in which case it is no longer immutable. It can be changed by whoever has the keys, which today is the...
+
+00:33:14.220 --> 00:33:23.180
+.. corporation or consortium. Tomorrow, it's a gang of 14-year old hackers called Anonymous. They take over...
+
+00:33:23.180 --> 00:33:32.240
+changing your "immutable" blockchain, which turned out was very mutable. If you take away the characteristics...
+
+00:33:32.240 --> 00:33:39.420
+.. that make these open public blockchains interesting, what you end up with is stale, insecure, and boring.
+
+00:33:39.420 --> 00:33:50.000
+Be very skeptical when you hear a company say, "We're going to use a blockchain." 90% of the time, what they...
+
+00:33:50.000 --> 00:34:01.800
+.. mean is, "We're going to use a database." The reason is, the first hurdle that any company or government...
+
+00:34:01.800 --> 00:34:13.360
+.. must overcome before they can really use this technology, is to relinquish the illusion of control.
+
+00:34:13.780 --> 00:34:23.900
+That's step one. You want to use "blockchain"? There are several open public blockchains. Use those! "But..."
+
+00:34:23.900 --> 00:34:33.400
+"..we don't control them!" Exactly. Relinquish the illusion of control. Embrace the security of decentralisation.
+
+00:34:33.900 --> 00:34:42.340
+Embrace the innovation of the commons. Embrace the openness of global communication. Those are the...
+
+00:34:42.340 --> 00:34:50.200
+.. revolutionary things, those are the things that make these technologies interesting. Give up control.
+
+00:34:50.200 --> 00:34:58.640
+That is very difficult to sell, it's a very difficult idea to even communicate within a large corporation.
+
+00:34:58.640 --> 00:35:07.380
+"You will be more secure if you have no control over this system." That is a very difficult concept to convey, [but]...
+
+00:35:07.380 --> 00:35:16.980
+.. it is the truth. You have to be brave when you have these conversations. You have to be able to "call...
+
+00:35:16.980 --> 00:35:23.800
+.. a spade a spade," as we say. I know this is not part of the culture here.
+
+00:35:24.520 --> 00:35:31.460
+American culture being very direct is, I'm sure - as in most of Europe - considered rude here. Right?
+
+00:35:31.840 --> 00:35:39.460
+If your boss comes and says, "We're going to use a private blockchain," it is not proper to say...
+
+00:35:39.460 --> 00:35:48.460
+"You know what, Bjorn? That's bullshit!" You can hire an American consultant to come in and do exactly that...
+
+00:35:48.460 --> 00:36:00.120
+.. little thing. It's probably much more credible if they're well-paid. But be brave! Speak your mind! If you see...
+
+00:36:00.120 --> 00:36:11.680
+.. that what your companies are trying to do is simply a database, repeating business as usual, but sticking...
+
+00:36:11.680 --> 00:36:19.520
+.. the word "blockchain" to make it sound cool and modern, it's not really a blockchain. It's just a database.
+
+00:36:20.200 --> 00:36:27.960
+Speak up and say, "That's not what this technology is designed to do." Ask the important questions.
+
+00:36:28.840 --> 00:36:38.420
+Which of the promises, features, capabilities of the open public blockchain are we trying to leverage with...
+
+00:36:38.420 --> 00:36:41.500
+.. this application? What is it that this application
+
+00:36:41.500 --> 00:36:46.720
+What [about] this application says that we need a blockchain? Because not every application needs one.
+
+00:36:46.720 --> 00:36:56.160
+In fact, very few applications need a global trust platform. It's inefficient, it doesn't scale.
+
+00:36:57.140 --> 00:37:04.940
+Democracy doesn't scale. Blockchains that are open and public are inherently egalitarian systems.
+
+00:37:05.140 --> 00:37:13.040
+That does not scale. It's not intended to scale. It's intended to be egalitarian. There's a difference.
+
+00:37:13.040 --> 00:37:19.920
+What are the principles you're trying to achieve? "We want to use 'blockchain' to put healthcare information-"
+
+00:37:20.340 --> 00:37:31.580
+Really? Which part of open, neutral, censorship-resistant, borderless, transparent, resilient are you going to use?
+
+00:37:32.660 --> 00:37:39.800
+At least five of those are antithetical to any application where you would put private healthcare information.
+
+00:37:39.800 --> 00:37:49.420
+I hear this a lot. How many of you heard of healthcare on the blockchain? Oh my god, it's a nightmare!
+
+00:37:49.600 --> 00:37:55.600
+Can you imagine having your healthcare information on a public ledger that can never be changed, even if...
+
+00:37:55.600 --> 00:38:03.000
+.. there's a mistake? We already have a system like that in the modern world: it's credit scoring. It's where...
+
+00:38:03.000 --> 00:38:09.520
+.. a single corporation controls your credit rating and when they make a mistake, they don't have to fix it...
+
+00:38:09.620 --> 00:38:16.720
+.. and you are punished for life for somebody else's erroneous data. Now we want to do this in healthcare?!
+
+00:38:16.720 --> 00:38:23.440
+With our DNA? What a brilliant idea... Sign me out! I don't want anything to do with it.
+
+00:38:24.740 --> 00:38:32.600
+"Blockchain in transportation," "blockchain for clearance securities," "blockchain for logistics," "blockchain for..."
+
+00:38:32.600 --> 00:38:42.160
+Blah blah, blah blah, blah... [For] 90% of those applications, the word "blockchain" means "database."
+
+00:38:42.600 --> 00:38:50.080
+Learn the difference, teach the difference, and be brave enough to speak up when you see the difference.
+
+00:38:50.360 --> 00:39:01.680
+This technology is revolutionary because it is open, public, global. If you used it for the right applications,
+
+00:39:01.680 --> 00:39:11.080
+the applications that need to be open, transparent, highly innovative, censorship-resistant, neutral, and global,
+
+00:39:11.080 --> 00:39:19.140
+then this technology is really, really powerful. Use it for the right things. Thank you!
+

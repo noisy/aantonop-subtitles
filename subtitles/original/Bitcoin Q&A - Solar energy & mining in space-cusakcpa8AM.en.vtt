@@ -1,0 +1,97 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.620
+[QUESTIONER]: Suppose the solar technology advances very well...  [ANDREAS]: Yes.
+
+00:00:03.620 --> 00:00:08.960
+[QUESTIONER]: It will capture a lot of [solar energy] with very high efficiency. So marginal costs will become zero.
+
+00:00:09.320 --> 00:00:14.000
+Then would proof-of-work still work, with marginal costs at zero? [ANDREAS]: That's a good question.
+
+00:00:14.000 --> 00:00:21.280
+Suppose that solar energy advances with its efficiency and you can capture a lot of the solar energy,
+
+00:00:21.280 --> 00:00:27.440
+would that make proof-of-work unworkable, because the marginal costs of the solar energy are zero?
+
+00:00:27.440 --> 00:00:37.720
+Well, yes and no. Mostly no. Even if you have really efficient solar energy, you have to consider three factors:
+
+00:00:37.880 --> 00:00:45.600
+the first one is that you pay for the solar panels, so you have capital costs; the second is you pay for the...
+
+00:00:45.600 --> 00:00:50.800
+.. mining equipment, so you have more capital costs. [QUESTIONER]: Competition depends on marginal cost.
+
+00:00:50.800 --> 00:00:57.740
+[ANDREAS]: Yes, but at the same time you're competing against people who will] apply more and more capital.
+
+00:00:58.280 --> 00:01:05.600
+But the third one, the most important one, is that presumes you have basically no opportunity costs,
+
+00:01:05.600 --> 00:01:13.360
+meaning that there is no other use the energy could go to other than mining, meaning that either you've so far...
+
+00:01:13.360 --> 00:01:19.240
+.. exceeded the demand for electricity that you have all of this excess capacity. [QUESTIONER]: That's right.
+
+00:01:19.600 --> 00:01:24.920
+[ANDREAS]: Right. The problem is, at that point we've solved the energy problem of the world. At that point,
+
+00:01:24.920 --> 00:01:33.540
+if proof-of-work is the one thing that doesn't work, you've gone to a Star Trek universe where money doesn't exist.
+
+00:01:33.540 --> 00:01:42.440
+[laughter] Right? If you solve the fundamental issue of energy scarcity on this planet, completely solve it,
+
+00:01:42.440 --> 00:01:47.400
+for the marginal costs to go to zero, you have to have zero opportunity costs - which means that you can...
+
+00:01:47.400 --> 00:01:55.280
+.. generate abundant energy anywhere, anytime, and always have excess capacity. You've solved much...
+
+00:01:55.280 --> 00:02:01.900
+.. bigger problems. I hope we get there. Then we need someone as brilliant as Satoshi Nakamoto to come up...
+
+00:02:01.900 --> 00:02:15.600
+.. with a new proof-of-work algorithm. I would suggest Sudoku. [laughter] It works. Sudoku is an asymmetric...
+
+00:02:15.600 --> 00:02:22.720
+.. algorithm, meaning that if you make the Sudoku puzzle bigger it still can be verified relatively quickly as to...
+
+00:02:22.720 --> 00:02:32.680
+.. whether it's correct. If you make it billions and billions of times bigger, then it gets really hard. You could...
+
+00:02:32.680 --> 00:02:41.920
+.. make it so that you only have to do it on paper, with pencil, with human beings. That would literally be a...
+
+00:02:41.920 --> 00:02:49.440
+.. proof-of-work algorithm, just like the slaves of Egypt who built the pyramids. "Solve Sudoku harder!"
+
+00:02:49.440 --> 00:02:57.620
+[whiplash] Okay, enough of that. Yes? [QUESTIONER]: Another problem with what he's saying is that another...
+
+00:02:57.620 --> 00:03:03.420
+.. party who has the same technology- [ANDREAS]: Well, it equalises everybody. So then it's about access to...
+
+00:03:03.420 --> 00:03:08.340
+.. miners, access to internet capacity, access to storage to put the blockchain on. There's still costs.
+
+00:03:08.340 --> 00:03:12.860
+[QUESTIONER]: Secondly, you're still limited by the amount of solar radiation received, which is 2000 watts..
+
+00:03:12.860 --> 00:03:16.880
+.. per square meter, so that's the facts from an engineering point of view. [ANDREAS]: You're limited...
+
+00:03:16.880 --> 00:03:22.260
+.. by 2000 watts per square meter, which is the maximum energy you can get - on the surface!
+
+00:03:22.560 --> 00:03:35.700
+Which means: mining... in... space! [laughter] Actually, that's not a joke. There are many reasons why mining...
+
+00:03:35.700 --> 00:03:44.440
+.. in space could become a very interesting possibility. Solar panels, no atmosphere obscuring anything...
+

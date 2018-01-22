@@ -1,0 +1,1795 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:02.400 --> 00:00:04.400
+buenos días a todos
+
+00:00:05.520 --> 00:00:08.200
+no creo que todos se hayan despertado
+
+00:00:09.000 --> 00:00:11.000
+Buenos días
+
+00:00:16.580 --> 00:00:18.580
+Me prometieron una habitación con vista
+
+00:00:19.480 --> 00:00:21.960
+y hasta ahora a donde sea que mire todo lo que puedo ver son montañas
+
+00:00:22.720 --> 00:00:23.800
+qué pasó con eso ?
+
+00:00:27.160 --> 00:00:29.820
+es una broma que me contó ayer un periodista de Nueva Zelanda
+
+00:00:29.820 --> 00:00:31.400
+durante una entrevista para Radio New Zealand
+
+00:00:33.220 --> 00:00:35.220
+fue una conversación muy interesante
+
+00:00:37.660 --> 00:00:39.660
+Estoy realmente emocionado de estar hoy aquí
+
+00:00:41.180 --> 00:00:43.180
+gracias a todos por venir
+
+00:00:44.120 --> 00:00:46.120
+gracias al equipo por organizar esta conferencia
+
+00:00:47.920 --> 00:00:53.200
+no es fácil organizar esto, en especial cuando todos tienen que viajar 2000 km solo para venir
+
+00:00:56.120 --> 00:00:59.260
+es un trabajo increíble, gracias a todos
+
+00:00:59.260 --> 00:01:00.600
+lo que quería hablar hoy
+
+00:01:00.900 --> 00:01:02.900
+es un nuevo tema en el que he venido trabajando
+
+00:01:04.200 --> 00:01:06.680
+sobre el dinero como una clase de contenido
+
+00:01:08.000 --> 00:01:10.000
+y la idea que quiero expresar
+
+00:01:11.240 --> 00:01:14.400
+es que el bitcoin ha introducido una transformación fundamental
+
+00:01:16.520 --> 00:01:19.820
+en la manera en que el dinero será considerado en el futuro
+
+00:01:20.480 --> 00:01:24.320
+haciendo al dinero completamente independiente del medio de transporte subyacente
+
+00:01:26.740 --> 00:01:30.960
+y convirtiéndolo en una clase de contenido autónomo
+
+00:01:30.960 --> 00:01:32.560
+¿qué es lo que quiero decir con esto?
+
+00:01:34.640 --> 00:01:37.380
+una transacción de bitcoin
+
+00:01:37.900 --> 00:01:39.900
+es una estructura de datos firmada
+
+00:01:40.720 --> 00:01:43.160
+que puede ser ejecutada en cualquier parte del mundo
+
+00:01:44.660 --> 00:01:49.260
+mucha gente piensa que una transacción de bitcoin debe ser transmitida en la red de bitcoin
+
+00:01:49.860 --> 00:01:51.860
+y eso no es cierto
+
+00:01:52.560 --> 00:01:56.640
+una transaccción de bitcoin debe llegar a los mineros
+
+00:01:57.300 --> 00:01:59.300
+y ser incluida en un bloque
+
+00:01:59.720 --> 00:02:02.120
+pero no necesita ser transmitida a través de la red de bitcoin
+
+00:02:02.620 --> 00:02:05.220
+no hay nada especial en la red de bitcoin
+
+00:02:05.640 --> 00:02:07.640
+solamente transmite las transacciones y los bloques
+
+00:02:08.580 --> 00:02:12.360
+puede ser transmitida a través de cualquier medio de comunicación
+
+00:02:14.120 --> 00:02:16.700
+y una de las cosas mágicas del bitcoin
+
+00:02:17.900 --> 00:02:22.820
+es que como la transacción en sí no incorpora mecanismos de seguridad
+
+00:02:24.940 --> 00:02:28.960
+porque la seguridad está en la prueba de trabajo que hacen los mineros
+
+00:02:29.920 --> 00:02:32.520
+y la firma digital que está en la transacción
+
+00:02:33.420 --> 00:02:36.160
+está puesta ahí por los usuarios finales con las llaves que almacenan
+
+00:02:36.840 --> 00:02:39.240
+no hay nada sensible en una transacción de bitcoin
+
+00:02:40.700 --> 00:02:43.240
+y déjenme explicarles lo que quiero decir con esto
+
+00:02:44.580 --> 00:02:48.500
+si hoy fuera a un mercado que utiliza un punto de pago o tarjeta de crédito
+
+00:02:49.260 --> 00:02:51.660
+lo que estoy transmitiéndole al vendedor
+
+00:02:52.240 --> 00:02:54.240
+a través de una larga serie de intermediarios
+
+00:02:55.000 --> 00:02:57.000
+es el número de la tarjeta de crédito
+
+00:02:57.460 --> 00:02:59.460
+la fecha de vencimiento
+
+00:02:59.680 --> 00:03:02.360
+el código CCV en la parte de atrás de la tarjeta
+
+00:03:02.740 --> 00:03:04.880
+un mensaje que transmite las llaves secretas
+
+00:03:05.160 --> 00:03:08.500
+y que transmite los códigos de acceso a mi cuenta
+
+00:03:08.880 --> 00:03:10.140
+esa información es sensible
+
+00:03:10.360 --> 00:03:12.360
+si esa información es capturada
+
+00:03:12.540 --> 00:03:14.540
+mi cuenta se puede ver comprometida
+
+00:03:14.540 --> 00:03:16.140
+me pueden cobrar una y otra vez
+
+00:03:16.540 --> 00:03:19.440
+ya sea por el vendedor o alguno de los intermediarios
+
+00:03:19.740 --> 00:03:23.440
+o cualquier hacker que pueda recuperar esta información de alguno de los intermediarios
+
+00:03:24.020 --> 00:03:26.920
+y por eso esa información debe ser protegida con mucho cuidado
+
+00:03:29.380 --> 00:03:33.260
+si ustedes lo piensan, desde el momento en que mi tarjeta de crédito sale de mi bolsillo
+
+00:03:33.820 --> 00:03:36.700
+y hasta que el dinero está en la cuenta del vendedor
+
+00:03:36.760 --> 00:03:39.800
+se transporta a través de la red
+
+00:03:40.320 --> 00:03:43.400
+en una serie de carros blindados virtuales
+
+00:03:44.500 --> 00:03:48.480
+hay encriptación desde el punto de venta hasta el extremo final del vendedor
+
+00:03:49.400 --> 00:03:52.860
+desde el extremo del vendedor encriptación hasta Visa
+
+00:03:52.860 --> 00:03:54.140
+para el procesamiento por lotes
+
+00:03:54.900 --> 00:03:59.700
+y encriptación desde Visa hasta el banco que origina la transacción
+
+00:04:00.460 --> 00:04:02.460
+y hata el banco de destino
+
+00:04:03.020 --> 00:04:05.940
+encriptar esta señal en cada uno de los pasos del recorrido
+
+00:04:06.460 --> 00:04:08.800
+porque es la llave secreta
+
+00:04:10.480 --> 00:04:13.760
+si esa encriptación falla en cualquier punto de la cadena
+
+00:04:14.680 --> 00:04:16.800
+la seguridad de su tarjeta de crédito se ve comprometida
+
+00:04:20.480 --> 00:04:23.400
+y esa tarjeta de crédito también está almacenada
+
+00:04:24.140 --> 00:04:26.360
+en muchos de esos puntos de tránsito
+
+00:04:26.500 --> 00:04:28.500
+está almacenada para propósitos históricos
+
+00:04:29.720 --> 00:04:32.300
+lo que es una pésima idea
+
+00:04:33.400 --> 00:04:36.280
+porque eso crea un tesoro oculto centralizado
+
+00:04:36.280 --> 00:04:38.180
+unas reservas para que los hackers las ataquen
+
+00:04:38.180 --> 00:04:40.160
+y vemos que esto sucede una y otra vez
+
+00:04:40.640 --> 00:04:45.660
+en Estados Unidos los objetivos van desde Home Depot hasta los más grandes minoristas
+
+00:04:46.060 --> 00:04:50.000
+que han tenido incidentes en donde se han robado de 50 a 60 millones de tarjetas de crédito
+
+00:04:50.440 --> 00:04:54.180
+JP Morgan Chase tuvo 75 millones de cuentas comprometidas recientemente
+
+00:04:54.700 --> 00:05:00.780
+todo esto no sucede porque estas empresas son delincuentes para proteger las tarjetas de crédito
+
+00:05:03.400 --> 00:05:06.660
+en realidad hay dos tipos de empresas
+
+00:05:07.600 --> 00:05:14.760
+aquellas que han fallado en tomar las medidas necesarias para asegurar las tarjetas de crédito
+
+00:05:14.760 --> 00:05:16.460
+que ustedes les confiaron
+
+00:05:17.540 --> 00:05:21.260
+y aquellas que pronto fallarán en tomar las medidas de seguridad necesarias
+
+00:05:21.260 --> 00:05:23.980
+para proteger las tarjetas de crédito que ustedes les han confiado
+
+00:05:24.620 --> 00:05:26.660
+a ustedes ya sea los han hackeado, sino los van a hackear
+
+00:05:26.660 --> 00:05:28.060
+esas son las dos categorías
+
+00:05:28.380 --> 00:05:30.380
+nadie es inmune a esto
+
+00:05:31.580 --> 00:05:35.140
+nadie puede inventar una forma para proteger
+
+00:05:35.240 --> 00:05:38.400
+millones de señales de acceso seguras
+
+00:05:39.900 --> 00:05:42.000
+de los atacantes motivados
+
+00:05:42.000 --> 00:05:42.760
+es imposible hacerlo
+
+00:05:42.760 --> 00:05:44.380
+no sabemos cómo hacerlo
+
+00:05:44.520 --> 00:05:46.520
+no hay ningún truco de seguridad de información
+
+00:05:46.920 --> 00:05:50.200
+que pueda proteger de todos los tipos posibles de ataque
+
+00:05:51.940 --> 00:05:55.880
+las tarjetas de crédito están mal en su diseño porque la señal misma es el la llave secreta
+
+00:05:56.680 --> 00:06:00.940
+y si usted transmite esa señal usted expone toda su cuenta a un riesgo
+
+00:06:01.940 --> 00:06:03.940
+bitcoin es fundamentalmente distinto
+
+00:06:03.940 --> 00:06:05.540
+lo que estoy transmitiendo
+
+00:06:05.540 --> 00:06:06.680
+no es la llave
+
+00:06:06.900 --> 00:06:08.900
+sino simplemente un mensaje firmado
+
+00:06:09.560 --> 00:06:11.560
+es una autorización
+
+00:06:11.960 --> 00:06:15.600
+y esa autorización tiene dos referencias externas
+
+00:06:15.980 --> 00:06:18.780
+una de donde viene el dinero
+
+00:06:18.780 --> 00:06:22.980
+referenciando una salida de un gasto sin ejecutar  en la cadena de bloques
+
+00:06:23.360 --> 00:06:26.780
+y una referencia hacia donde quiero enviar el dinero
+
+00:06:27.440 --> 00:06:29.400
+creando un nuevo obstáculo
+
+00:06:29.620 --> 00:06:32.340
+una nueva limitación sobre quién puede gastar el dinero
+
+00:06:32.540 --> 00:06:35.300
+generalmente una llave pública o dirección de bitcoin
+
+00:06:37.140 --> 00:06:40.000
+y esa transacción no contiene ninguna información sensible
+
+00:06:40.660 --> 00:06:42.940
+si usted roba la información de la transacción
+
+00:06:43.860 --> 00:06:47.680
+todo lo que usted podrá saber es la dirección de la que vino el dinero
+
+00:06:47.940 --> 00:06:50.600
+y a qué dirección va el dinero, y cuánto
+
+00:06:51.340 --> 00:06:53.340
+eso es todo, la firma no revela nada
+
+00:06:53.860 --> 00:06:55.860
+las direcciones no revelan nada
+
+00:06:55.860 --> 00:06:57.220
+no hay identificadores
+
+00:06:57.980 --> 00:07:02.360
+no se puede modificar esa transacción porque cada parte está incluida en la firma
+
+00:07:03.240 --> 00:07:05.880
+no se puede hacer nada aparte de reproducirla
+
+00:07:06.440 --> 00:07:09.700
+en cuyo caso, si no se fue la primera vez,
+
+00:07:10.420 --> 00:07:14.760
+usted está ayudando a la persona que la firmó a propagarla de una manera más efectiva en la red
+
+00:07:15.920 --> 00:07:19.360
+usted puede tomar la transacción e imprimirla
+
+00:07:19.940 --> 00:07:21.680
+puede publicarla en una valla
+
+00:07:21.680 --> 00:07:23.680
+puede gritarla desde los techos
+
+00:07:24.300 --> 00:07:28.480
+una transacción de bitcoin puede ser transmitida a través de una red insegura de Wi-Fi
+
+00:07:29.940 --> 00:07:31.940
+por una señal de humo
+
+00:07:33.860 --> 00:07:35.460
+por una señal de luz
+
+00:07:35.800 --> 00:07:37.080
+con palomas mensajeras
+
+00:07:37.520 --> 00:07:38.660
+no importa
+
+00:07:39.120 --> 00:07:42.260
+nada en ese mensaje puede verse comprometido
+
+00:07:43.460 --> 00:07:49.460
+pero la mayoría de gente no entiendo lo que quiere decir convertir el dinero en una clase de contenido
+
+00:07:49.940 --> 00:07:53.640
+hemos tomado la transacción, que son solo 250 bytes
+
+00:07:54.380 --> 00:07:59.400
+la separamos del medio de transporte y así no depende de ninguna seguridad subyacente
+
+00:07:59.780 --> 00:08:01.780
+la hicimos autónoma
+
+00:08:02.020 --> 00:08:05.040
+para que puede ser verificada de manera independiente por cualquier nodo
+
+00:08:05.040 --> 00:08:07.040
+que tenga una copia completa de la cadena de bloques
+
+00:08:07.620 --> 00:08:11.440
+independientemente verificada, una transacción que puede ser gastada de inmediato, auténtica
+
+00:08:11.440 --> 00:08:13.300
+y propiamente firmada
+
+00:08:13.760 --> 00:08:17.980
+por cualquier sistema que tenga una copia completa de la cadena de bloques
+
+00:08:19.300 --> 00:08:22.300
+de hecho incluso por sistemas que sólo tienen una copia parcial de la cadena de bloques
+
+00:08:23.920 --> 00:08:27.000
+y esa transacción puede ser verificada en segundos
+
+00:08:27.220 --> 00:08:30.380
+y lo único que necesita es llegar a un nodo en la red
+
+00:08:30.380 --> 00:08:32.320
+que pueda hablarle a los mineros
+
+00:08:32.320 --> 00:08:33.160
+eso es todo
+
+00:08:33.240 --> 00:08:35.540
+una vez que se ha inyectado en la red bitcoin
+
+00:08:36.340 --> 00:08:38.340
+y una vez que se propaga
+
+00:08:39.500 --> 00:08:44.320
+usted puede estar casi seguro que esa transacción se incluirá eventualmente
+
+00:08:45.680 --> 00:08:47.680
+y que será válida
+
+00:08:47.820 --> 00:08:51.260
+si yo veo una transacción, puedo calcular si tiene una tarifa suficiente
+
+00:08:51.620 --> 00:08:56.060
+y puedo asumir cómo van a tratar los mineros esa transacción
+
+00:08:56.540 --> 00:08:59.920
+porque conozco las reglas por las que operan en una red de consenso
+
+00:08:59.940 --> 00:09:02.740
+y por lo tanto se que una vez que se haya propagado lo suficiente
+
+00:09:03.060 --> 00:09:06.980
+esa transacción aparecerá pronto en un bloque cerca a usted
+
+00:09:10.320 --> 00:09:12.580
+y no hay nada mágico en la transacción
+
+00:09:13.360 --> 00:09:15.720
+entonces, pensemos en esto por un momento
+
+00:09:16.100 --> 00:09:20.220
+¿cómo puede usted codificar 250 bytes y transmitirlos a través de la red?
+
+00:09:22.700 --> 00:09:24.700
+alguien me preguntó hace poco
+
+00:09:24.700 --> 00:09:25.960
+y me lo preguntan muy seguido
+
+00:09:29.280 --> 00:09:36.180
+¿es posible que un gobierno tiránico pueda prohibir o bloquear la transmisión de las transacciones de bitcoin?
+
+00:09:37.340 --> 00:09:39.340
+y la respuesta es no
+
+00:09:39.860 --> 00:09:42.220
+pero creo que la gente no entiende realmente por qué
+
+00:09:42.220 --> 00:09:43.620
+la respuesta es no
+
+00:09:43.940 --> 00:09:46.200
+entonces les voy a dar un par de ejemplos teóricos
+
+00:09:46.200 --> 00:09:47.780
+para mostrarles lo que quiero decir
+
+00:09:49.280 --> 00:09:51.580
+mi primer ejemplo ridículo
+
+00:09:52.260 --> 00:09:54.840
+es la codificación de transacciones bitcoin
+
+00:09:55.140 --> 00:09:57.920
+como emoticons o caritas felices
+
+00:09:58.420 --> 00:09:59.660
+en skype
+
+00:10:01.240 --> 00:10:05.860
+Skype tiene emojis en un alfabeto de 128 caracteres
+
+00:10:07.460 --> 00:10:13.420
+que le permiten enviar diferentes caritas felices, tristes, pulgares arriba, abajo
+
+00:10:13.700 --> 00:10:15.200
+días soleados
+
+00:10:15.200 --> 00:10:17.000
+corazones
+
+00:10:17.000 --> 00:10:18.960
+tortas de cumpleaños
+
+00:10:18.960 --> 00:10:20.620
+ya saben, todo ese tipo de cosas
+
+00:10:21.400 --> 00:10:24.400
+ahora miremos eso desde un punto de vista de contenido de información
+
+00:10:24.400 --> 00:10:26.060
+eso es un set de caracteres
+
+00:10:26.880 --> 00:10:29.880
+si yo soy un informático, veo eso y digo
+
+00:10:30.480 --> 00:10:34.120
+ahora tengo una codificación con base de 128
+
+00:10:34.980 --> 00:10:36.980
+tengo 128 caracteres
+
+00:10:37.200 --> 00:10:39.580
+eso es una base de codificación de 128
+
+00:10:39.780 --> 00:10:42.640
+eso es un esquema de codificación bastante eficiente
+
+00:10:43.540 --> 00:10:49.200
+las direcciones bitcoin son de base 58 y se puede ajustar 256 bits en solo 33 caracteres
+
+00:10:49.740 --> 00:10:51.740
+una codificación de base 128
+
+00:10:51.740 --> 00:10:55.560
+me permitiría enviar una transacción de 250 bytes
+
+00:10:55.840 --> 00:10:57.840
+en solo 15 caracteres
+
+00:10:58.980 --> 00:11:00.980
+15 caritas felices
+
+00:11:00.980 --> 00:11:05.380
+una transacción bitcoin son 15 caritas felices
+
+00:11:06.960 --> 00:11:08.960
+puedo literalmente
+
+00:11:09.520 --> 00:11:13.560
+escribir un script, tal vez sean solo dos líneas de Python
+
+00:11:14.040 --> 00:11:16.860
+si realmente es eficiente, tal vez sea solo una línea
+
+00:11:16.860 --> 00:11:18.520
+sin necesidad de ninguna librería
+
+00:11:18.960 --> 00:11:20.960
+en donde puedo tomar
+
+00:11:21.660 --> 00:11:23.660
+la representación hexadecimal
+
+00:11:23.920 --> 00:11:26.260
+de una transacción de bitcoin de 250 bytes
+
+00:11:26.260 --> 00:11:28.100
+y codificarla
+
+00:11:28.940 --> 00:11:32.320
+en 15 de los 128 posibles emoticones
+
+00:11:32.880 --> 00:11:35.100
+puedo luego escribir eso en una ventana de Skype
+
+00:11:35.680 --> 00:11:37.020
+en cualquier lugar del mundo
+
+00:11:37.520 --> 00:11:41.480
+y mientras que el que recibe esa cadena de 15 caritas
+
+00:11:42.200 --> 00:11:44.380
+lo pone en un decodificador del script
+
+00:11:44.640 --> 00:11:47.160
+y después simplemente lo inyecta en la red de bitcoin
+
+00:11:47.160 --> 00:11:48.860
+esa transacción pasará
+
+00:11:50.320 --> 00:11:52.320
+el receptor puede ser un robot
+
+00:11:52.720 --> 00:11:55.180
+el receptor puede ser una estación de escucha automatizada
+
+00:11:55.700 --> 00:11:59.320
+que esté diseñada para recibir 15 caracteres de caritas en Skype
+
+00:12:00.100 --> 00:12:02.300
+y los transmita a la red bitcoin
+
+00:12:02.780 --> 00:12:06.140
+ahora explíquenme cómo puede alguien detener eso
+
+00:12:06.660 --> 00:12:09.440
+a no ser que sea cerrando Skype
+
+00:12:10.020 --> 00:12:11.800
+pero si cerraran Skype
+
+00:12:11.980 --> 00:12:13.060
+uso Facebook
+
+00:12:13.060 --> 00:12:14.540
+y si cierran Facebook
+
+00:12:14.540 --> 00:12:15.980
+uso Craiglist
+
+00:12:15.980 --> 00:12:17.560
+y si cierran Craiglist
+
+00:12:18.020 --> 00:12:21.000
+pongo mi transacción en una calificación del Trip advisor
+
+00:12:21.000 --> 00:12:22.660
+y si cierran Trip advisor
+
+00:12:23.060 --> 00:12:27.160
+lo publico como un comentario en un artículo de Wikipedia
+
+00:12:27.160 --> 00:12:28.640
+y si cierran eso también
+
+00:12:29.240 --> 00:12:34.140
+lo publico como el fondo de una foto de mis vacaciones  en una imagen .jpeg
+
+00:12:35.300 --> 00:12:41.780
+el dinero es ahora una información de contenido completamente desconectado
+
+00:12:42.740 --> 00:12:45.240
+no hay absolutamente nada que se pueda hacer
+
+00:12:45.720 --> 00:12:51.140
+para detener que la información viaje desde cualquier lugar del mundo a cualquier otro lugar del mundo
+
+00:12:51.460 --> 00:12:53.980
+cuando se tiene una abundancia
+
+00:12:54.320 --> 00:12:58.620
+de mecanismos de comunicación multimedia totalmente inerconectados
+
+00:12:58.620 --> 00:13:00.000
+como tenemos hoy en día
+
+00:13:00.780 --> 00:13:02.780
+pero supongamos que no tuviéramos el internet
+
+00:13:03.420 --> 00:13:06.700
+entonces usaría un esquema aún más loco
+
+00:13:07.140 --> 00:13:09.960
+que sería la transmisión de transacciones de bitcoin
+
+00:13:10.260 --> 00:13:13.640
+con saltos de frecuencia de onda corta de radio
+
+00:13:14.920 --> 00:13:17.400
+pero esto si usted quiere hacerlo realmente estilo guerrilla
+
+00:13:18.920 --> 00:13:21.200
+durante la Segunda guerra mundial
+
+00:13:21.760 --> 00:13:23.760
+en Francia invadida
+
+00:13:24.320 --> 00:13:28.220
+los aliados soltaron miles de radios de onda corta
+
+00:13:28.220 --> 00:13:29.940
+kits completos
+
+00:13:30.500 --> 00:13:32.500
+en paracaídas desde aviones
+
+00:13:33.060 --> 00:13:36.260
+para que los partisanos en el campo
+
+00:13:36.600 --> 00:13:37.980
+pudieran esconderlos
+
+00:13:37.980 --> 00:13:38.720
+en graneros
+
+00:13:38.720 --> 00:13:39.980
+en huecos de arboles
+
+00:13:39.980 --> 00:13:41.800
+en edificios abandonados
+
+00:13:41.800 --> 00:13:43.180
+debajo de puentes
+
+00:13:44.020 --> 00:13:49.140
+y los utilizaran para comunicar con otros centros de mando aliados en Europa
+
+00:13:50.380 --> 00:13:54.700
+debajo de las narices de la fuerza de ocupación Nazi
+
+00:13:55.620 --> 00:13:59.180
+y algo que tienen las radios de onda corta
+
+00:13:59.320 --> 00:14:01.540
+es que no solamente tienen un alcance enorme
+
+00:14:02.000 --> 00:14:05.880
+sino que además en ciertas frecuencias se puede rebotar hasta la estratósfera
+
+00:14:06.460 --> 00:14:10.580
+y en ese entonces lo usaban para comunicación de voz
+
+00:14:10.840 --> 00:14:13.160
+o comunicación de números codificados
+
+00:14:13.480 --> 00:14:17.760
+es decir código Morse o diferentes métodos de encriptamiento de un sólo uso
+
+00:14:18.200 --> 00:14:20.200
+pero voy hacerlo realmente sencillo
+
+00:14:20.600 --> 00:14:23.560
+hoy en día puedo ir y conseguir un kit
+
+00:14:23.560 --> 00:14:25.440
+que me permite conectarme
+
+00:14:25.840 --> 00:14:28.440
+un transmisor de onda corta muy sencillo
+
+00:14:28.440 --> 00:14:30.380
+a mi ordenador portátil a través de USB
+
+00:14:31.260 --> 00:14:33.260
+y luego lo único que necesito es una antena
+
+00:14:33.500 --> 00:14:36.340
+y lo interesante de eso es que para el radio de onda corta
+
+00:14:36.680 --> 00:14:39.520
+una antena consiste de un pedazo lo suficientemente largo de metal
+
+00:14:39.520 --> 00:14:41.420
+una línea de ferrocarril
+
+00:14:41.420 --> 00:14:43.180
+un cable de ropa
+
+00:14:44.700 --> 00:14:48.200
+una línea eléctrica dañada, una cerca
+
+00:14:49.100 --> 00:14:51.920
+una cerca de alambre de púas
+
+00:14:52.700 --> 00:14:56.060
+que por lo que he visto en Nueva Zelanda tienen bastantes
+
+00:14:56.600 --> 00:14:59.640
+están alrededor de esas cosas blancas que están por todas partes
+
+00:15:01.860 --> 00:15:06.240
+entonces ahora la transmisión de una transacción de bitcoin requiere conectar un ordenador
+
+00:15:06.560 --> 00:15:08.560
+atarlo al poste de una cerca
+
+00:15:08.560 --> 00:15:11.560
+poner 'Enter' y transmitir
+
+00:15:12.460 --> 00:15:17.060
+una transacción durante 25 s
+
+00:15:18.360 --> 00:15:24.140
+y mientras que la estación receptora en algún lugar de los 1000 km alrededor
+
+00:15:25.480 --> 00:15:27.500
+que esté conectada a la red bitcoin
+
+00:15:27.760 --> 00:15:29.760
+y puede esconder la estación receptora en cualquier lugar
+
+00:15:30.060 --> 00:15:32.520
+es una escucha pasiva y no podría ser triangulada
+
+00:15:33.120 --> 00:15:35.320
+puede inyectar la transacción a la red
+
+00:15:35.580 --> 00:15:38.500
+ahora, si yo estoy en la guerrilla y quiero comprar algo
+
+00:15:38.760 --> 00:15:40.760
+puedo hacer la transacción desconectado
+
+00:15:41.360 --> 00:15:46.280
+y cuando esté listo, corro al campo, conecto el transmisor a una línea cercana
+
+00:15:46.820 --> 00:15:51.120
+pongo 'Enter' y transmito durante 25 s, empaco mi material y desaparezco en la selva
+
+00:15:52.140 --> 00:15:54.300
+¿cómo demonios se puede detener eso?
+
+00:15:55.260 --> 00:15:56.560
+no se puede
+
+00:15:56.560 --> 00:15:58.220
+esa es la respuesta sencilla: no se puede
+
+00:15:59.860 --> 00:16:02.780
+pero eso es solo el principio, porque una vez se entiende que el dinero
+
+00:16:02.940 --> 00:16:07.200
+se ha convertido en una transacción de clase de contenido que se ha desconectado del medio
+
+00:16:07.660 --> 00:16:11.500
+emergen algunas características secundarias muy importantes
+
+00:16:12.440 --> 00:16:17.860
+ven, lo que pasa es que el medio es el mensaje, como dijo alguien famoso una vez
+
+00:16:20.020 --> 00:16:22.500
+y la razón principal por la que el medio es el mensaje
+
+00:16:22.500 --> 00:16:24.400
+es porque el medio restringe
+
+00:16:25.020 --> 00:16:26.320
+transforma
+
+00:16:27.780 --> 00:16:30.980
+y en muchos casos distorsiona el mensaje
+
+00:16:32.600 --> 00:16:34.600
+cuando el medio es la televisión
+
+00:16:35.380 --> 00:16:40.020
+el mensaje es de 18 min de largo interrumpido por franjas de publicidad
+
+00:16:40.720 --> 00:16:42.720
+ese es el mensaje
+
+00:16:42.900 --> 00:16:45.420
+no hay otro formato que se pueda encajar ahí
+
+00:16:47.900 --> 00:16:50.860
+entonces se hace un mensaje para que encaje en ese medio
+
+00:16:53.720 --> 00:16:58.180
+y se empieza a asignar el valor de su mensaje
+
+00:16:58.840 --> 00:17:03.320
+basado en la suposición equivocada que es equivalente al costo de producción
+
+00:17:03.960 --> 00:17:10.240
+y la televisión por ejemplo impone ciertos costos para producir video
+
+00:17:10.780 --> 00:17:12.780
+y la gente que está en ese negocio
+
+00:17:12.900 --> 00:17:14.900
+hacen la suposición equivocada
+
+00:17:15.240 --> 00:17:17.540
+que el costo de producir TV
+
+00:17:18.300 --> 00:17:20.560
+es igual al valor de ese show
+
+00:17:22.500 --> 00:17:24.860
+entre más se gaste, más valor tiene
+
+00:17:26.280 --> 00:17:29.780
+entonces se pueden imaginar el horror que les da cuando llega Youtube
+
+00:17:29.940 --> 00:17:32.140
+y reduce los costos de producción a cero
+
+00:17:32.460 --> 00:17:35.940
+¿cuál creen que es la suposición que hacen de inmediato en esa industria?
+
+00:17:36.380 --> 00:17:37.780
+si el costo es cero
+
+00:17:37.780 --> 00:17:40.300
+entonces el contenido no tiene valor
+
+00:17:43.640 --> 00:17:52.080
+y eso es un malentendido fundamental que se da cuando se separa el mensaje del medio
+
+00:17:55.060 --> 00:17:59.700
+porque lo que sucede es que desplaza la percepción de valor del costo de producción
+
+00:17:59.920 --> 00:18:03.520
+al valor que tiene para el consumidor cuando lo consume
+
+00:18:05.140 --> 00:18:07.500
+déjenme ir a un ejemplo aún más viejo
+
+00:18:08.500 --> 00:18:11.460
+cuando el costo de imprimir es astronómico
+
+00:18:11.460 --> 00:18:13.300
+y los medios para imprimir
+
+00:18:13.620 --> 00:18:16.380
+están disponibles sólo a unos pocos
+
+00:18:16.380 --> 00:18:19.300
+lo único que se imprime son biblias de Guttenberg
+
+00:18:22.880 --> 00:18:27.740
+el medio define el rango de expresión del mensaje
+
+00:18:27.940 --> 00:18:34.820
+y lo restringe solamente a los mensajes más grandiosos e importantes
+
+00:18:34.820 --> 00:18:36.600
+que tiene la sociedad
+
+00:18:36.860 --> 00:18:38.860
+limita el rango de expresión
+
+00:18:39.520 --> 00:18:42.060
+imponiendo un costo de producción enorme
+
+00:18:43.320 --> 00:18:46.520
+¿qué creen que habría pensado Guttenberg de Twitter?
+
+00:18:47.260 --> 00:18:49.840
+que lleva el costo de producción a cero
+
+00:18:49.840 --> 00:18:52.240
+lo hace disponible de manera universal
+
+00:18:52.240 --> 00:18:53.920
+ubicuo
+
+00:18:53.920 --> 00:18:55.520
+y gratis
+
+00:18:57.040 --> 00:19:01.060
+entonces se va de imprimir la biblia de Guttenberg
+
+00:19:01.560 --> 00:19:03.560
+a responder a un tweet
+
+00:19:04.120 --> 00:19:06.460
+con una de mis expresiones favoritas
+
+00:19:06.840 --> 00:19:09.400
+que es la opinión en 3 caracteres SMC
+
+00:19:09.760 --> 00:19:13.540
+que quiere decir sacudiendo mi cabeza
+
+00:19:14.540 --> 00:19:18.940
+por eso cuando el Profesor Bitcoin dice 'el bitcoin irá a cero'
+
+00:19:19.280 --> 00:19:25.600
+puedo expresar toda mi opinión y análisis profundo como... (SMC)
+
+00:19:27.240 --> 00:19:28.520
+tres caracteres
+
+00:19:28.880 --> 00:19:31.320
+y le expresé mi opinión al mundo
+
+00:19:32.280 --> 00:19:36.040
+y si usted mira eso desde una perspectiva objetiva
+
+00:19:36.580 --> 00:19:38.800
+seguro ese mensaje no tiene valor
+
+00:19:39.920 --> 00:19:43.740
+y entonces se hace la suposición equivocada que si el costo de producción es cero
+
+00:19:44.040 --> 00:19:46.420
+y a primera vista el mensaje parece trivial
+
+00:19:46.780 --> 00:19:51.620
+entonces la combinación completa de medio y mensaje no debe tener ningún valor
+
+00:19:52.240 --> 00:19:53.620
+debe ser trivial
+
+00:19:53.620 --> 00:19:55.520
+no debe tener ningún valor
+
+00:19:55.880 --> 00:19:59.740
+y ese es un error que la gente ha hecho en cada punto de la historia
+
+00:20:00.780 --> 00:20:02.940
+cuando Twitter salió la primera vez
+
+00:20:03.120 --> 00:20:05.680
+la gente asumió que solo sería utilizado para algo trivial
+
+00:20:06.520 --> 00:20:11.860
+y sin embargo hace un año estaba viendo CNN Internacional
+
+00:20:12.400 --> 00:20:14.720
+cubriendo la revolución egipcia
+
+00:20:15.180 --> 00:20:18.220
+y estaban transmitiendo en vivo tweets
+
+00:20:18.380 --> 00:20:21.980
+de los revolucionarios egipcios en las calles de El Cairo
+
+00:20:22.400 --> 00:20:26.080
+dando reportes en vivo sobre lo que sucedía en las calles minuto a minuto
+
+00:20:26.940 --> 00:20:30.160
+y los presentadores de CNN... no estaban haciendo nada
+
+00:20:30.540 --> 00:20:32.720
+estaban señalando la pantalla
+
+00:20:33.340 --> 00:20:35.760
+mostrando los tweets 'miren tenemos otro tweet !'
+
+00:20:35.760 --> 00:20:40.140
+'y aquí hay otro tweet' de alguien que no conocemos
+
+00:20:40.940 --> 00:20:42.940
+fueron reducidos al rol
+
+00:20:44.760 --> 00:20:50.880
+de una modelo de show de TV diciendo 'Este fantástico refrigerador será suyo'
+
+00:20:51.660 --> 00:20:54.820
+'Si usted gana el premio que está detrás de la casilla Nro. 1'
+
+00:20:55.300 --> 00:20:59.560
+lo que me resulta sumamente gratificante de ver
+
+00:21:01.760 --> 00:21:05.620
+una de estas 'cabezas parlantes' como Anderson Cooper
+
+00:21:06.040 --> 00:21:10.000
+básicamente reducidos a leer tweets de una pantalla
+
+00:21:11.160 --> 00:21:13.680
+Porque se burlaron de eso
+
+00:21:13.680 --> 00:21:16.080
+porque hicieron la suposición equivocada que si el costo de producción era cero
+
+00:21:16.280 --> 00:21:19.440
+entonces el valor del mensaje también era cero
+
+00:21:19.740 --> 00:21:22.060
+confundieron el medio con el mensaje
+
+00:21:22.540 --> 00:21:26.780
+hicieron la suposición equivocada que su control sobre el medio
+
+00:21:27.160 --> 00:21:29.160
+era la fuente de calidad
+
+00:21:29.480 --> 00:21:31.700
+y mucho después que desapareciera la calidad
+
+00:21:31.960 --> 00:21:33.900
+se aferraron al control
+
+00:21:34.240 --> 00:21:36.840
+y creyeron que le control era la única forma de lograr la calidad
+
+00:21:37.320 --> 00:21:39.960
+y si se remueve el control entonces se perdía también la calidad
+
+00:21:40.240 --> 00:21:41.660
+y eso es...
+
+00:21:42.040 --> 00:21:46.100
+...elitismo apestoso y descarado en su peor expresión
+
+00:21:46.980 --> 00:21:51.320
+asume que los guardianes (gatekeepers) son la fuente de calidad
+
+00:21:51.900 --> 00:21:54.020
+cuando lo único que son es guardianes
+
+00:21:55.160 --> 00:21:58.580
+asumen que como ellos son los que tienen el medio costoso
+
+00:21:58.960 --> 00:22:01.260
+quiere decir que el mensaje merece ser escuchado
+
+00:22:02.020 --> 00:22:04.420
+y en el momento en que usted toma el mensaje y lo sustrae del medio
+
+00:22:04.420 --> 00:22:05.960
+y lo abre
+
+00:22:06.100 --> 00:22:08.100
+a un rango completo de expresiones
+
+00:22:08.700 --> 00:22:12.800
+Sí, va a expresar algunos de los mensajes más triviales de su cultura
+
+00:22:12.800 --> 00:22:14.580
+incluyendo SMC !
+
+00:22:15.320 --> 00:22:19.600
+pero también podrá expresar los mensajes más interesantes de la cultura
+
+00:22:22.460 --> 00:22:24.740
+hoy en las escules de EE.UU
+
+00:22:26.360 --> 00:22:28.660
+los niños leen los diarios de los Federalistas
+
+00:22:29.040 --> 00:22:32.200
+que son cartas que se enviaban Thomas Jefferson,
+
+00:22:33.320 --> 00:22:35.200
+John Adams
+
+00:22:36.200 --> 00:22:40.340
+Benjamin Franklin y muchos de los otros Padres fundadores
+
+00:22:42.020 --> 00:22:46.260
+En 100 años la gente estará leyendo
+
+00:22:46.860 --> 00:22:49.580
+los 'tweets de los Federalistas'
+
+00:22:49.820 --> 00:22:51.820
+de la Revolución de El Cairo
+
+00:22:53.000 --> 00:22:55.660
+Esa no es una idea loca !
+
+00:22:56.440 --> 00:22:59.940
+Ese es el camino de la civilización humana
+
+00:23:00.240 --> 00:23:02.400
+hemos visto cómo sucede una y otra vez
+
+00:23:04.500 --> 00:23:07.720
+Entonces ahora se burlan de Twitter como algo trivial
+
+00:23:07.720 --> 00:23:11.660
+porque no entienden la diferencia que hay entre el mensaje y el medio
+
+00:23:12.680 --> 00:23:17.300
+pero de la TV también se burlaron como de un pasatiempo trivial
+
+00:23:18.120 --> 00:23:21.980
+porque oscurecía el arte de la cinematografía
+
+00:23:22.440 --> 00:23:25.100
+y la cinematografía fue un pasatiempo trivial
+
+00:23:25.440 --> 00:23:30.940
+porque volvió barato y vulgarizó el arte del Teatro
+
+00:23:31.660 --> 00:23:35.820
+...y el teatro fue un pasatiempo vulgar y barato en la época victoriana
+
+00:23:36.120 --> 00:23:40.600
+porque volvió trivial las grandes obras dramáticas de los romanos y los griegos de la antiüedad
+
+00:23:41.000 --> 00:23:45.040
+y uno continúa por ese mismo camino y termina con Aristóteles diciendo
+
+00:23:45.040 --> 00:23:46.900
+que la filosofía está muerta
+
+00:23:47.920 --> 00:23:52.240
+porque ahora los niños quieren todos ver presentaciones dramáticas
+
+00:23:52.480 --> 00:23:54.480
+en vez de leer sus libros de filosofía
+
+00:23:55.120 --> 00:23:57.820
+es posible que también se quejara del pelo largo
+
+00:23:58.980 --> 00:24:00.980
+todas las generaciones
+
+00:24:01.120 --> 00:24:04.320
+confunden el medio con el valor
+
+00:24:05.020 --> 00:24:08.320
+y consideran que la siguiente iteración del medio
+
+00:24:08.320 --> 00:24:10.080
+que amplía el acceso
+
+00:24:10.220 --> 00:24:12.220
+que abre la disponibilidad
+
+00:24:12.480 --> 00:24:14.480
+que amplía el rango de expresiones
+
+00:24:14.700 --> 00:24:16.700
+que consideran ese medio trivial
+
+00:24:16.700 --> 00:24:17.880
+vulgar
+
+00:24:17.880 --> 00:24:20.440
+abaratando el mensaje
+
+00:24:20.820 --> 00:24:23.740
+Lo que no entienden es que cuando uno abarata el medio
+
+00:24:24.300 --> 00:24:27.040
+el mensaje se libera y se eleva
+
+00:24:27.580 --> 00:24:31.100
+y se puede entonces expresar una amplia gama de mensajes
+
+00:24:31.100 --> 00:24:32.760
+y sí, los primeros serán triviales
+
+00:24:33.260 --> 00:24:37.940
+y la razón por la que serán triviales es porque el medio anterior no permitía esa expresión
+
+00:24:38.200 --> 00:24:41.420
+no tenía en sí la habilidad de permitir esa expresión
+
+00:24:41.780 --> 00:24:44.640
+entonces sí, tendrán el SMC
+
+00:24:45.140 --> 00:24:48.320
+pero también tendrán tweets en vivo de la revolución de El Cairo
+
+00:24:49.680 --> 00:24:51.680
+y para el momento en que se den cuenta de eso
+
+00:24:52.500 --> 00:24:56.340
+el nuevo medio es el mensaje de calidad
+
+00:24:56.860 --> 00:25:00.640
+y podremos continuar y llamar al siguiente vulgar y barato
+
+00:25:01.320 --> 00:25:03.320
+el dinero es una clase de contenido
+
+00:25:03.400 --> 00:25:05.400
+y lo hemos liberado del medio
+
+00:25:06.300 --> 00:25:11.000
+y el medio ha sido una serie de redes interconectaddas
+
+00:25:11.480 --> 00:25:15.440
+que segregan el dinero por talla y receptor
+
+00:25:16.140 --> 00:25:18.520
+tenemos redes de pago para cantidades pequeñas
+
+00:25:18.520 --> 00:25:20.440
+tenemos redes para cantidades grandes
+
+00:25:20.660 --> 00:25:22.660
+tenemos redes para dinero rápido
+
+00:25:22.860 --> 00:25:24.860
+tenemos redes para dinero lento
+
+00:25:25.180 --> 00:25:27.520
+redes para negocios que pagan a negocios
+
+00:25:27.760 --> 00:25:29.880
+redes para gobiernos que pagan otros gobiernos
+
+00:25:30.140 --> 00:25:32.340
+redes para consumidores que pagan a negocios
+
+00:25:32.700 --> 00:25:34.960
+y redes para consumidores pagando a otros consumidores
+
+00:25:35.200 --> 00:25:37.200
+ah no, un momento, no tenemos eso !
+
+00:25:37.400 --> 00:25:39.860
+no tenemos una red de consumidores para pagar consumidores
+
+00:25:40.280 --> 00:25:43.100
+no tenemos redes para pagar cantidades pequeñas
+
+00:25:43.940 --> 00:25:47.540
+porque el medio no permite esa variedad de expresiones
+
+00:25:48.140 --> 00:25:50.900
+porque yo no puedo enviarle a usted 20 centavos
+
+00:25:51.620 --> 00:25:55.820
+de un lugar a otro del mundo, de un individuo a otro
+
+00:25:56.920 --> 00:25:59.720
+porque el medio restringe el mensaje
+
+00:25:59.940 --> 00:26:01.940
+porque el costo de producción...
+
+00:26:02.720 --> 00:26:07.100
+no me permite expresar esa gama de transacciones o expresiones
+
+00:26:07.920 --> 00:26:11.900
+Pero ahora hemos separado el mensaje del medio
+
+00:26:12.220 --> 00:26:14.460
+Hemos creado dinero como una clase de contenido
+
+00:26:15.140 --> 00:26:19.720
+y ese dinero ahora es capaz, con un costo nulo, con un costo de producción nulo
+
+00:26:20.540 --> 00:26:24.200
+expresar toda la gama de expresiones transaccionales
+
+00:26:24.540 --> 00:26:26.740
+de minúsculo a enorme
+
+00:26:26.920 --> 00:26:28.920
+de consumidor a consumidor
+
+00:26:28.920 --> 00:26:30.740
+de un gobierno para otro gobierno
+
+00:26:32.660 --> 00:26:34.160
+¿qué sucede luego?
+
+00:26:34.640 --> 00:26:36.080
+los guardianes
+
+00:26:36.460 --> 00:26:39.400
+les dirán que esa red no es seria
+
+00:26:40.100 --> 00:26:45.740
+los guardianes confunden el costo de su red de pago con el valor de su servicio
+
+00:26:46.480 --> 00:26:49.080
+los guardianes de las antiguas redes de pago
+
+00:26:49.660 --> 00:26:53.960
+les dirán que esta nueva forma de pago es vulgar y barata
+
+00:26:55.280 --> 00:26:58.800
+y que es algo que se usa solamente para cosas triviales
+
+00:26:59.600 --> 00:27:06.520
+y toda la gente mas seria se quedará con las redes de pago sólidas del pasado
+
+00:27:07.180 --> 00:27:09.180
+porque si las pueden controlar
+
+00:27:09.320 --> 00:27:11.320
+y restringir el rango de expresiones
+
+00:27:11.560 --> 00:27:13.860
+creen que eso quiere decir que es de calidad
+
+00:27:13.860 --> 00:27:14.960
+y no lo es
+
+00:27:15.400 --> 00:27:18.260
+es solamente un costo de producción inflado
+
+00:27:18.760 --> 00:27:22.120
+es la peor forma de elitismo puro y duro
+
+00:27:23.880 --> 00:27:30.520
+se aferran al medio
+
+00:27:31.960 --> 00:27:36.140
+y no son capaces de ver que el mensaje ahora puede transportarse a través de cualquier medio
+
+00:27:36.140 --> 00:27:37.620
+con costo cero
+
+00:27:37.620 --> 00:27:39.100
+de manera instantánea
+
+00:27:39.760 --> 00:27:43.140
+¿y entonces cuál es la primera utilización de este nuevo modelo?
+
+00:27:43.280 --> 00:27:45.880
+¿cuál es la primera utilización de este medio de mensajes?
+
+00:27:46.420 --> 00:27:48.780
+Ahora podemos enviar pagos triviales
+
+00:27:48.780 --> 00:27:50.620
+me dan propinas en Twitter
+
+00:27:52.440 --> 00:27:53.660
+Excelente
+
+00:27:53.900 --> 00:27:58.580
+eso es una demostración que puedo hacer que le muestra claramente a la gente la diferencia
+
+00:27:58.820 --> 00:28:01.640
+ahora puedo hacer algo que no podía hacer antes
+
+00:28:01.860 --> 00:28:03.860
+pero para la mayoría de gente eso es trivial
+
+00:28:05.080 --> 00:28:09.700
+Para la mayoría de gente, el hecho que les esté mostrando el fondo del rango de expresiones
+
+00:28:10.260 --> 00:28:14.000
+Simplemente les refuerza la idea de que este es un medio barato y vulgar
+
+00:28:14.680 --> 00:28:16.680
+porque lo que no son capaces de entender
+
+00:28:16.960 --> 00:28:19.300
+es que este medio no es solamente para lo trivial
+
+00:28:19.840 --> 00:28:22.700
+se extiende a través de todo el rango de expresiones transaccionales
+
+00:28:22.960 --> 00:28:25.280
+de lo trivial a lo enorme
+
+00:28:26.980 --> 00:28:31.000
+Entonces un día un país pagará su petróleo
+
+00:28:31.280 --> 00:28:32.880
+utilizando la cadena de bloques
+
+00:28:33.360 --> 00:28:39.400
+Un día se podrá comprar una empresa multinacional en la cadena de bloques
+
+00:28:40.540 --> 00:28:43.940
+un día se podrá vender un porta aviones
+
+00:28:44.300 --> 00:28:46.300
+ojalá como chatarra
+
+00:28:46.300 --> 00:28:47.760
+en la cadena de bloques
+
+00:28:49.320 --> 00:28:52.420
+Porque la cadena de bloques puede abarcar todo el rango
+
+00:28:52.420 --> 00:28:54.200
+desde el tweet de 10 centavos
+
+00:28:54.960 --> 00:28:57.380
+hasta el  pago de deudas de 100 mil millones de dólares
+
+00:28:59.400 --> 00:29:01.400
+no nos hemos dado cuenta todavía
+
+00:29:02.080 --> 00:29:06.520
+y puede hacerlo sin ninguna restricción impuesta por el medio subyacente
+
+00:29:07.260 --> 00:29:10.620
+Esto no es solamente importante por el hecho de que el mensaje como una clase de contenido
+
+00:29:10.760 --> 00:29:14.540
+pueda transportarse a través de caritas felices en Skype
+
+00:29:15.960 --> 00:29:20.940
+Ese es solo un síntoma de que hemos liberado todas las restricciones
+
+00:29:20.940 --> 00:29:23.100
+del medio de transporte subyacente
+
+00:29:23.100 --> 00:29:25.600
+hemos logrado que el contenido sea el rey
+
+00:29:26.800 --> 00:29:36.080
+lo que sucede es que cuando el contenido se convierte en el dominio único de exclusividad y elitismo
+
+00:29:36.220 --> 00:29:38.560
+y acceso limitado
+
+00:29:39.300 --> 00:29:41.500
+se utiliza por grandes maestros
+
+00:29:41.680 --> 00:29:43.680
+para crear obras maestras
+
+00:29:44.180 --> 00:29:45.860
+la biblia de Guttenberg
+
+00:29:45.860 --> 00:29:47.420
+las primeras fotografias
+
+00:29:48.040 --> 00:29:52.120
+el aterrizaje en la luna transmitido por televisión por la primera vez
+
+00:29:53.520 --> 00:29:55.520
+las grandes películas del pasado
+
+00:29:56.700 --> 00:29:59.520
+obras maestras realizadas por grandes maestros
+
+00:29:59.780 --> 00:30:02.680
+y entonces el medio cambia porque la tecnología está más disponible
+
+00:30:03.540 --> 00:30:06.680
+y la gente empieza a usarlo para un rango más amplio de expresiones
+
+00:30:07.060 --> 00:30:09.240
+pero los guardianes todavía se aferran a las ideas viejas
+
+00:30:09.780 --> 00:30:12.940
+por lo que todavía intentan hacer algo grandioso con su medio
+
+00:30:13.680 --> 00:30:17.820
+imprimen libros en pasta dura y forrados en cuero
+
+00:30:18.420 --> 00:30:20.420
+Principia Mathematica
+
+00:30:22.300 --> 00:30:24.300
+y entonces el medio se abre de nuevo
+
+00:30:24.940 --> 00:30:26.940
+y las cosas se vuelven de pasta blanda
+
+00:30:27.660 --> 00:30:32.040
+y las fotos se vuelven disponibles para cualquiera con 24 exposiciones
+
+00:30:34.060 --> 00:30:37.060
+y los guardianes del pasado todavía se aferran al pasado
+
+00:30:37.780 --> 00:30:41.320
+pero ahora ya no pueden pretender que es grandioso, por lo que sólo hacen grand standing
+
+00:30:42.360 --> 00:30:45.980
+dicen que hay un cierto 'je ne sais quoi' en el filme
+
+00:30:46.060 --> 00:30:49.860
+hay una cierta calidad en el vinilo que el CD no puede captar
+
+00:30:51.320 --> 00:30:53.920
+los presentadores de televisión realmente tienen autoridad
+
+00:30:54.440 --> 00:30:56.660
+¿no se acuerdan de Walter Cronkite?
+
+00:30:58.880 --> 00:31:03.400
+El periódico es la fuente de opinión con autoridad
+
+00:31:03.900 --> 00:31:06.280
+y realmente tiene el valor del papel en el que está impreso
+
+00:31:06.460 --> 00:31:08.460
+ahí están en un grand standing
+
+00:31:08.460 --> 00:31:10.280
+lo grandioso se fue
+
+00:31:10.280 --> 00:31:12.080
+la calidad se fue
+
+00:31:12.460 --> 00:31:17.720
+ahora se trata solo de aferrarse al control y pretender que el control es la calidad
+
+00:31:18.680 --> 00:31:21.980
+y finalmente en este gran arco de tecnología
+
+00:31:22.420 --> 00:31:24.640
+la tecnología alcanza su última etapa
+
+00:31:24.640 --> 00:31:26.560
+y en esa última etapa
+
+00:31:26.960 --> 00:31:30.620
+los únicos que creen que es grande son los abuelos
+
+00:31:31.980 --> 00:31:34.300
+y en el gran arco de la tecnología
+
+00:31:35.040 --> 00:31:39.880
+lo que empezó como una obra de arte
+
+00:31:40.500 --> 00:31:44.700
+solo es consumido por aquellos que están en la última etapa de su vida
+
+00:31:45.940 --> 00:31:49.500
+Los primeros cheques escritos
+
+00:31:51.160 --> 00:31:54.100
+eran usados por la realeza
+
+00:31:54.380 --> 00:31:57.220
+para financiar grandes empresas como la Compañía de Indias Orientales
+
+00:31:57.300 --> 00:31:58.840
+para abrir las rutas de las especias
+
+00:31:59.220 --> 00:32:01.860
+y de comercio hacia el este
+
+00:32:03.660 --> 00:32:07.260
+y en esos días sólo la realeza tenía chequeras
+
+00:32:09.720 --> 00:32:13.360
+y hoy en día si uno va a un supermercado
+
+00:32:15.300 --> 00:32:19.840
+y la abuelita, bendita su alma,  en frente suyo en la fila
+
+00:32:20.200 --> 00:32:22.840
+abre su bolso y saca una chequera
+
+00:32:23.420 --> 00:32:26.940
+15 personas en la fila van a quejarse de manera audible
+
+00:32:27.120 --> 00:32:29.360
+porque entienden que va a tomarle 15 min
+
+00:32:29.820 --> 00:32:31.820
+escribir esa transacción
+
+00:32:32.380 --> 00:32:36.240
+y ya no hay nada de lo grandioso que tenía financiar la Compñía de Indias Orientales
+
+00:32:36.840 --> 00:32:40.960
+cuando uno está comprando fríjoles y tosatadas con una chequera en un supermercado
+
+00:32:40.960 --> 00:32:42.320
+es la última etapa
+
+00:32:43.660 --> 00:32:46.520
+y la única gente que mira Fox News ahora
+
+00:32:47.040 --> 00:32:50.000
+son los abuelos, porque nosotros todos vemos las noticias en internet
+
+00:32:50.640 --> 00:32:54.880
+lo que alguna vez fue trivial ahora es nuestra fuente de información y noticias con autoridad
+
+00:32:55.060 --> 00:32:57.060
+y no se le puede explicar eso al viejo guardia
+
+00:32:57.760 --> 00:33:00.420
+y leemos nuestros libros de manera electrónica
+
+00:33:00.960 --> 00:33:05.520
+mientras que hay alguna gente que todavía dice 'hay algo en la sensación del papel'
+
+00:33:06.660 --> 00:33:10.960
+sí, es muy pesado cargar 20 libros en su maleta
+
+00:33:11.440 --> 00:33:14.620
+y yo leo 20 libros en unas 4 o 5 semanas
+
+00:33:15.100 --> 00:33:16.900
+y por eso necesito cargar tantos
+
+00:33:17.240 --> 00:33:19.320
+no hay nada en la sensación del papel
+
+00:33:19.660 --> 00:33:21.660
+se están aferrando al pasado
+
+00:33:23.880 --> 00:33:29.260
+y a medida que nos movemos en este mundo en donde el dinero es una clase de contenido
+
+00:33:29.700 --> 00:33:32.740
+los guardianes de los medios de pago antiguos
+
+00:33:33.180 --> 00:33:35.380
+se van aferrar a la ilusión
+
+00:33:36.020 --> 00:33:39.000
+que la banca tradicional es calidad
+
+00:33:39.300 --> 00:33:41.620
+que los guardianes son la calidad
+
+00:33:42.120 --> 00:33:44.800
+y que la calidad es inherente a los guardianes
+
+00:33:44.840 --> 00:33:46.140
+en el control
+
+00:33:46.140 --> 00:33:47.740
+en la censura
+
+00:33:47.740 --> 00:33:49.220
+en las limitaciones
+
+00:33:49.320 --> 00:33:51.320
+pero no es ahí donde está la calidad
+
+00:33:52.160 --> 00:33:54.160
+vamos a movernos
+
+00:33:54.520 --> 00:33:58.320
+y abrir el rango de expresiones que son posibles con el dinero
+
+00:33:58.820 --> 00:34:01.800
+a niveles inimaginables que no se habían tenido antes
+
+00:34:02.320 --> 00:34:05.800
+y todavía querrán aferrarse a sus ideas de grandiosidad
+
+00:34:06.180 --> 00:34:08.740
+los viejos y grandes bancos con sus techos abovedados
+
+00:34:10.500 --> 00:34:12.500
+y sus cajas fuertes en cromo...
+
+00:34:12.820 --> 00:34:14.360
+...que están vacías
+
+00:34:15.140 --> 00:34:17.920
+en donde se pueden hacer visitas guiadas los domingos
+
+00:34:18.240 --> 00:34:20.740
+para ver lo que los bancos solían ser
+
+00:34:21.340 --> 00:34:23.880
+y uno va en ciudades alrededor del mundo
+
+00:34:24.300 --> 00:34:26.300
+y las grandes bóvedas de los grandes bancos
+
+00:34:26.520 --> 00:34:27.540
+ahora son
+
+00:34:27.540 --> 00:34:28.800
+barras
+
+00:34:29.680 --> 00:34:32.100
+en donde se puede tomar uncocktail en la bóveda
+
+00:34:33.180 --> 00:34:36.420
+porque los bancos ya ni siquiera pueden pagar esos edificios
+
+00:34:36.420 --> 00:34:38.400
+porque no tienen ningún propósito
+
+00:34:39.220 --> 00:34:41.640
+aparte de la .... grandiosidad
+
+00:34:43.080 --> 00:34:45.260
+y aún así tratarán de convencerles
+
+00:34:45.580 --> 00:34:47.580
+que a través de su control
+
+00:34:48.180 --> 00:34:50.760
+los protegen del mal
+
+00:34:50.760 --> 00:34:51.660
+de los terroristas
+
+00:34:51.700 --> 00:34:53.700
+de los blanqueadores de dinero
+
+00:34:54.480 --> 00:34:58.660
+cuando lo único que están haciendo es proteger sus propios intereses de la competencia
+
+00:35:00.560 --> 00:35:05.540
+Ahora hemos separado el mensaje del medio
+
+00:35:06.040 --> 00:35:08.860
+El dinero es ahora una clase de contenido
+
+00:35:09.620 --> 00:35:11.840
+y nunca vamos a volver atrás
+
+00:35:12.220 --> 00:35:14.040
+Gracias
+

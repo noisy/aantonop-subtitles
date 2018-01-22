@@ -1,0 +1,1125 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:03.840
+and we're going to kick off with a
+keynote on the future of money so it
+
+00:00:03.840 --> 00:00:07.080
+really is about looking forward we're
+going to have a future stargazing
+
+00:00:07.080 --> 00:00:10.950
+session this morning and someone who
+doesn't need a lot of introduction to
+
+00:00:10.950 --> 00:00:15.269
+other than to say he is a world-class
+expert in his field has come to South
+
+00:00:15.269 --> 00:00:18.930
+Africa to talk to us Andreas
+Antonopoulos welcome South Africa and
+
+00:00:18.930 --> 00:00:27.449
+welcome to the conference hi good
+morning everyone I am so excited to be
+
+00:00:27.449 --> 00:00:32.040
+here
+so this conference was called the
+
+00:00:32.040 --> 00:00:35.730
+Bitcoin conference a couple of years ago
+and now it's the blockchain conference
+
+00:00:35.730 --> 00:00:40.770
+next year it's going to be the DLT
+technology and then after that is going
+
+00:00:40.770 --> 00:00:46.980
+to be the database inspired by but no
+longer in any way related to blockchain
+
+00:00:46.980 --> 00:00:53.190
+conference it's an interesting
+progression let me do a quick poll of
+
+00:00:53.190 --> 00:00:59.190
+the audience I want to get an idea of
+your level of experience and familiarity
+
+00:00:59.190 --> 00:01:06.000
+with this space so I'm going to go back
+to the yesteryears of Bitcoin how many
+
+00:01:06.000 --> 00:01:13.950
+of you currently own Bitcoin fantastic
+and those who don't own Bitcoin how many
+
+00:01:13.950 --> 00:01:19.939
+of you have conducted a transaction or
+seen a transaction happen in Bitcoin
+
+00:01:19.939 --> 00:01:28.680
+great and how many do not own any
+cryptocurrency of any type okay great
+
+00:01:28.680 --> 00:01:42.350
+how about people who are involved with a
+cerium and own aetherium great - Manero
+
+00:01:42.350 --> 00:01:47.690
+Z cash
+got some interesting okay how many own
+
+00:01:47.690 --> 00:01:56.120
+blockchain how many have used blockchain
+in a transaction or in any way other
+
+00:01:56.120 --> 00:02:01.160
+than the five things I mentioned
+previously all right
+
+00:02:01.160 --> 00:02:04.850
+okay so break down for you for those who
+can't see what the audience is doing
+
+00:02:04.850 --> 00:02:12.230
+about 60 to 70 percent have a Bitcoin at
+the moment or have conducted a
+
+00:02:12.230 --> 00:02:17.750
+transaction about 30 or 40 percent with
+aetherium smaller minority with -
+
+00:02:17.750 --> 00:02:25.030
+montero's e cash nobody owns blockchain
+and this is interesting this is exciting
+
+00:02:25.030 --> 00:02:37.990
+great so let's get started what exactly
+is going on here is this the greatest
+
+00:02:37.990 --> 00:02:45.200
+technological innovation and explosion
+of innovation since the mobile internet
+
+00:02:45.200 --> 00:02:54.790
+or maybe even the internet itself or is
+this the greatest load of hype ever
+
+00:02:54.790 --> 00:03:04.910
+arranged around the technology in the
+history of technology both and in fact
+
+00:03:04.910 --> 00:03:11.360
+that's a characteristic of advanced
+technologies I often say that where
+
+00:03:11.360 --> 00:03:16.730
+Bitcoin and the other open block chains
+are today is approximately where the
+
+00:03:16.730 --> 00:03:22.040
+Internet is in 1992 in terms of
+technology in terms of infrastructure
+
+00:03:22.040 --> 00:03:27.170
+deployment in terms of adoption patterns
+this technology is approximately where
+
+00:03:27.170 --> 00:03:33.500
+the internet was in 1992 but the hype
+around blockchain is exactly where the
+
+00:03:33.500 --> 00:03:42.100
+hype around the internet was in 1998 you
+know what comes next
+
+00:03:42.530 --> 00:03:49.760
+there will be a shakeout when the waters
+recede you can tell who on the beach
+
+00:03:49.760 --> 00:03:57.080
+wasn't wearing a swimsuit they stand
+there naked it's an empty promise this
+
+00:03:57.080 --> 00:04:01.720
+will happen in the blockchain space
+
+00:04:02.110 --> 00:04:11.750
+there is a lot a lot of bullshit being
+peddled to VCS to investors to initial
+
+00:04:11.750 --> 00:04:18.140
+coin offering buyers to uneducated
+investors there's a lot of Ponzi schemes
+
+00:04:18.140 --> 00:04:24.040
+there's a lot of pyramid schemes there's
+a lot of empty promises there's also a
+
+00:04:24.040 --> 00:04:31.730
+lot of businesses usual disguise this
+innovation disguised as disruptive
+
+00:04:31.730 --> 00:04:38.870
+technology and so we're at this strange
+moment where the underlying technology
+
+00:04:38.870 --> 00:04:46.550
+really is truly is massively disruptive
+massively innovative the amount of
+
+00:04:46.550 --> 00:04:53.090
+research that's happening today in
+applied cryptography is unprecedented we
+
+00:04:53.090 --> 00:04:57.860
+are looking at the largest civilian
+deployment of public key cryptography
+
+00:04:57.860 --> 00:05:04.910
+ever because it turns out that people
+only protect keys when those keys are
+
+00:05:04.910 --> 00:05:11.690
+attached to value and nothing teaches
+someone security fast enough than having
+
+00:05:11.690 --> 00:05:15.850
+their Bitcoin on a Windows machine
+
+00:05:17.280 --> 00:05:22.630
+holding your own Bitcoin very quickly
+changes your attitude towards
+
+00:05:22.630 --> 00:05:29.230
+information security you didn't care
+about your photos some didn't even care
+
+00:05:29.230 --> 00:05:35.550
+about your sexy photos you didn't care
+about your location the fact that
+
+00:05:35.550 --> 00:05:40.420
+everything you do was tracked you didn't
+care about posting your entire life on
+
+00:05:40.420 --> 00:05:46.420
+Facebook you use the same password
+password 1 2 3 4 on 17 different sites
+
+00:05:46.420 --> 00:05:51.580
+you didn't know what two-factor
+authentication was and then bitcoin
+
+00:05:51.580 --> 00:05:55.630
+happened and suddenly you're on a steep
+learning curve and getting better every
+
+00:05:55.630 --> 00:05:58.060
+day
+now you're telling your friends about
+
+00:05:58.060 --> 00:06:02.740
+two-factor authentication and you're
+horrified to remember how you used to
+
+00:06:02.740 --> 00:06:09.550
+practice security because storing value
+has this unique ability to focus your
+
+00:06:09.550 --> 00:06:15.520
+mind on the aspects of security that
+matters so this technology is driving
+
+00:06:15.520 --> 00:06:20.860
+this groundswell of security awareness
+it's driving the most incredible
+
+00:06:20.860 --> 00:06:26.800
+research and applied cryptography we've
+ever seen some of you are probably quite
+
+00:06:26.800 --> 00:06:30.910
+technical you're involved in computer
+science you've seen what's happening
+
+00:06:30.910 --> 00:06:36.790
+here nobody thought that we would be
+doing Applied Schnoor signatures nobody
+
+00:06:36.790 --> 00:06:41.980
+thought we'd be looking at advanced
+elliptic curve applications nobody
+
+00:06:41.980 --> 00:06:48.480
+thought we'd be doing things like ring
+signatures and range proofs for
+
+00:06:48.480 --> 00:06:54.760
+confidential transactions the state of
+anonymity and privacy is advancing
+
+00:06:54.760 --> 00:07:00.730
+rapidly we're building a whole new world
+in terms of cryptography and this is
+
+00:07:00.730 --> 00:07:04.930
+applied cryptography on the largest
+cryptographically secured network the
+
+00:07:04.930 --> 00:07:14.950
+world has ever seen that's not business
+as usual it's highly disruptive now out
+
+00:07:14.950 --> 00:07:20.380
+of that came this fantastic saying
+blockchain is the technology behind
+
+00:07:20.380 --> 00:07:28.360
+Bitcoin which is incorrect blockchain is
+one of the four foundational
+
+00:07:28.360 --> 00:07:33.190
+technologies behind Bitcoin
+and it can't stand alone but that hasn't
+
+00:07:33.190 --> 00:07:40.000
+stopped people from trying to sell it
+blockchain is Bitcoin with a haircut in
+
+00:07:40.000 --> 00:07:44.700
+a suit that you parade in front of your
+board it's the ability to deliver a
+
+00:07:44.700 --> 00:07:51.190
+sanitized clean comfortable version of
+blockchain of Bitcoin to people who are
+
+00:07:51.190 --> 00:07:57.970
+too terrified of actually disruptive
+technology and so you get into this very
+
+00:07:57.970 --> 00:08:04.380
+strange world where the words no longer
+mean anything
+
+00:08:04.380 --> 00:08:11.440
+can you define blockchain for me I think
+a few people in this room could probably
+
+00:08:11.440 --> 00:08:16.390
+define blockchain but the real challenge
+would be can you define blockchain in
+
+00:08:16.390 --> 00:08:21.040
+such a way that I can do search and
+replace with the word database and still
+
+00:08:21.040 --> 00:08:27.030
+make that sentence work because that's
+the challenge if what you're doing is a
+
+00:08:27.030 --> 00:08:34.840
+database with signatures it's not
+interesting it's boring what is the
+
+00:08:34.840 --> 00:08:43.300
+essence of Bitcoin it's not blockchain
+the essence of Bitcoin is the ability to
+
+00:08:43.300 --> 00:08:51.070
+operate in a decentralized way without
+having to trust anyone the essence of
+
+00:08:51.070 --> 00:08:58.360
+Bitcoin is to be able to use software to
+authoritative lis independently without
+
+00:08:58.360 --> 00:09:04.900
+appeal to Authority verify everything
+yourself you don't trust the other nodes
+
+00:09:04.900 --> 00:09:10.720
+you're talking to you assume they're
+lying you don't trust the miners you
+
+00:09:10.720 --> 00:09:15.490
+don't trust the people creating the
+transactions you don't trust anything
+
+00:09:15.490 --> 00:09:22.060
+other than the outcome of your own
+verification and validation and through
+
+00:09:22.060 --> 00:09:28.050
+that you end up trusting in something
+more important the network effect
+
+00:09:28.050 --> 00:09:32.260
+Bitcoin introduced the concept of
+decentralized security through
+
+00:09:32.260 --> 00:09:38.980
+computation and this has not yet sunk in
+what Bitcoin does is it allows you to
+
+00:09:38.980 --> 00:09:44.080
+replace a security model that is based
+around concentric circle
+
+00:09:44.080 --> 00:09:48.730
+most of access and control with an
+institution in the center with a
+
+00:09:48.730 --> 00:09:54.790
+security model that is inside out open
+and accessible to everyone a security
+
+00:09:54.790 --> 00:10:01.690
+model that is based on market forces and
+game theory it is the first market based
+
+00:10:01.690 --> 00:10:08.620
+security model where a series of
+incentives and punishments ensure that
+
+00:10:08.620 --> 00:10:14.350
+the ultimate result is you can trust the
+platform itself as a neutral arbiter
+
+00:10:14.350 --> 00:10:20.460
+that is not controlled by anyone without
+third parties without intermediaries
+
+00:10:20.460 --> 00:10:28.210
+Bitcoin revolutionizes Trust now it's
+difficult to have that conversation if
+
+00:10:28.210 --> 00:10:33.190
+you only focus on Bitcoin and arguably a
+lot of people have said but it's not
+
+00:10:33.190 --> 00:10:37.420
+just about currency what about the other
+applications and it's not just about
+
+00:10:37.420 --> 00:10:43.750
+Bitcoin what about the other block
+chains and so in that sense the term
+
+00:10:43.750 --> 00:10:50.620
+blockchain means something but only if
+you define it very very narrowly I use
+
+00:10:50.620 --> 00:10:57.040
+the qualifier open to talk about open
+blockchain what I'm interested in is the
+
+00:10:57.040 --> 00:11:01.860
+applications of this technology that
+enable you to run a decentralized
+
+00:11:01.860 --> 00:11:07.720
+trustless system that does not rely on
+anyone as an intermediary of trust
+
+00:11:07.720 --> 00:11:18.220
+because that is the disruption here that
+is the essence technology so that
+
+00:11:18.220 --> 00:11:22.930
+essence is seen in other systems
+aetherium exhibits it for the
+
+00:11:22.930 --> 00:11:27.250
+application of smart contracts but those
+smart contracts only work if you don't
+
+00:11:27.250 --> 00:11:33.190
+have to trust anyone to execute the
+smart contract correctly and you can
+
+00:11:33.190 --> 00:11:38.050
+only trust that that's going to happen
+if everyone can participate in an open
+
+00:11:38.050 --> 00:11:43.720
+manner and verify each other if access
+to the underlying consensus algorithm
+
+00:11:43.720 --> 00:11:51.670
+and mining is open to everyone and so
+out of these characteristics come power
+
+00:11:51.670 --> 00:12:02.019
+of these blockchain technologies open
+and that's the keyword borderless there
+
+00:12:02.019 --> 00:12:10.089
+are no borders transnational this is no
+longer about nation-states this is about
+
+00:12:10.089 --> 00:12:17.529
+network centric trust without third
+parties the network is the trusted party
+
+00:12:17.529 --> 00:12:23.019
+and only if you verify everything
+neutral because it isn't serving the
+
+00:12:23.019 --> 00:12:27.879
+goals of any one organization or
+institution it follows the consensus
+
+00:12:27.879 --> 00:12:33.160
+rules neutrally everyone follows the
+consensus rules neutrally your
+
+00:12:33.160 --> 00:12:39.509
+transaction there is no such thing as a
+good transaction or a bad transaction a
+
+00:12:39.509 --> 00:12:45.189
+valuable transaction or spam transaction
+an authorized transaction or an
+
+00:12:45.189 --> 00:12:50.579
+unauthorized transaction a legal
+transaction or an illegal transaction in
+
+00:12:50.579 --> 00:12:56.559
+these systems there is only a valid or
+an invalid transaction based on the
+
+00:12:56.559 --> 00:13:00.759
+consensus rules and it doesn't matter
+who the sender is who the recipient is
+
+00:13:00.759 --> 00:13:06.989
+or what the value or asset or smart
+contract that's being executed is
+
+00:13:06.989 --> 00:13:18.249
+neutrality radical neutrality and of
+course censorship resistance the ability
+
+00:13:18.249 --> 00:13:22.660
+to ensure that in order for the system
+to be open and borderless and
+
+00:13:22.660 --> 00:13:29.739
+transnational and neutral it must be
+able to defend these properties by
+
+00:13:29.739 --> 00:13:35.679
+making it impossible for any actor or
+even several colluding actors from
+
+00:13:35.679 --> 00:13:44.579
+censoring disrupting blacklisting
+restricting ceasing freezing
+
+00:13:44.579 --> 00:13:52.329
+transactions users countries from
+participating in this network those are
+
+00:13:52.329 --> 00:14:00.759
+the important characteristics of these
+new open decentralized systems of trust
+
+00:14:00.759 --> 00:14:05.129
+that do not depend on institutions
+
+00:14:05.850 --> 00:14:13.480
+so what I'd like to equip you with is a
+set of criteria to understand when you
+
+00:14:13.480 --> 00:14:18.990
+are being presented with something
+perhaps to invest or to be employed or
+
+00:14:18.990 --> 00:14:25.300
+to engage in some way and it calls
+itself a blockchain or a distributed
+
+00:14:25.300 --> 00:14:31.439
+ledger or one of these other names that
+are coming out how can you tell
+
+00:14:31.439 --> 00:14:39.069
+blockchain or bull shit they both start
+with a B what's the difference if you
+
+00:14:39.069 --> 00:14:44.579
+can replace the word blockchain with
+database and the brochure reads the same
+
+00:14:44.579 --> 00:14:50.230
+it's business as usual it's not
+decentralized it's not borderless
+
+00:14:50.230 --> 00:14:57.660
+neutral censorship resistant open it
+re-establishes trust in intermediaries
+
+00:14:57.660 --> 00:15:04.540
+it's just the database and that is not
+disruptive the idea we're going to take
+
+00:15:04.540 --> 00:15:12.550
+this technology and use it to improve
+the operating margins of centralized
+
+00:15:12.550 --> 00:15:18.000
+institutions of trust so that they can
+continue business as usual
+
+00:15:18.000 --> 00:15:27.970
+I'd say it's abhorrent but that's a
+strong word it's just boring really
+
+00:15:27.970 --> 00:15:33.939
+really boring
+no one got into this in order to make a
+
+00:15:33.939 --> 00:15:40.810
+few billions for a financial services
+Clearing House and if you did I'm really
+
+00:15:40.810 --> 00:15:47.589
+sorry that's boring
+what's really exciting is the
+
+00:15:47.589 --> 00:15:54.360
+possibility of fundamentally changing
+the way we allocate trust on this planet
+
+00:15:54.360 --> 00:16:02.740
+opening up the ability to collaborate
+transact engage on a global level with
+
+00:16:02.740 --> 00:16:10.540
+everyone simply by means of downloading
+an application you can become part of a
+
+00:16:10.540 --> 00:16:15.899
+giant platform of trust that doesn't
+care who you are where you came from
+
+00:16:15.899 --> 00:16:19.330
+that doesn't require permission to
+participate or
+
+00:16:19.330 --> 00:16:26.920
+innovate we're a 12 year old JavaScript
+programmer has the same influences power
+
+00:16:26.920 --> 00:16:34.540
+as JPMorgan Chase more in fact because
+they're doing open source and feeding
+
+00:16:34.540 --> 00:16:43.290
+into a community of collaboration that
+is creating a tsunami of innovation
+
+00:16:43.920 --> 00:16:51.089
+taking this technology and using it to
+strengthen the same centralized
+
+00:16:51.089 --> 00:16:59.950
+institutions so that they can improve
+their bottom line is boring that is not
+
+00:16:59.950 --> 00:17:04.510
+what blockchain is that's just the
+database and it doesn't change anything
+
+00:17:04.510 --> 00:17:13.300
+in fact there are some rather disturbing
+possibilities in this model let's think
+
+00:17:13.300 --> 00:17:19.270
+about it for a second
+the most commonly expressed application
+
+00:17:19.270 --> 00:17:25.240
+for these new distributed ledger
+technologies is to replace the function
+
+00:17:25.240 --> 00:17:32.200
+of a centralized clearing house with a
+consortium of n participants where n is
+
+00:17:32.200 --> 00:17:41.950
+2 3 4 5 10 known permissions controlled
+participants who will assemble
+
+00:17:41.950 --> 00:17:47.470
+transactions and sign them rather than
+compete through market forces in a
+
+00:17:47.470 --> 00:17:53.919
+security model like Bitcoin we discard
+currency as the underlying mechanism for
+
+00:17:53.919 --> 00:17:59.020
+building market based security we
+discard proof of work as wasteful
+
+00:17:59.020 --> 00:18:04.090
+because all it allows you to do is the
+centralized secure neutral censorship
+
+00:18:04.090 --> 00:18:14.160
+resistant blockchain and we trust 5
+named parties to sign transactions at
+
+00:18:14.160 --> 00:18:20.169
+that point they don't need to assemble
+these transactions in blocks they can
+
+00:18:20.169 --> 00:18:24.510
+just sign the individual transactions
+they don't need to chain them together
+
+00:18:24.510 --> 00:18:29.890
+because absent proof of work and a
+system of currency incentives rewriting
+
+00:18:29.890 --> 00:18:36.370
+that is easy there's no immutability
+so it's not a blockchain anymore because
+
+00:18:36.370 --> 00:18:43.540
+there's no blocks and there's no chain
+now that's at a technical level but
+
+00:18:43.540 --> 00:18:48.250
+let's look at the more important level
+what do you achieve by replacing a
+
+00:18:48.250 --> 00:18:53.950
+Clearing House with a consortium of
+players you know there's something
+
+00:18:53.950 --> 00:18:59.820
+unique a clearinghouse does if you
+understand the role of a clearinghouse
+
+00:18:59.820 --> 00:19:05.680
+one of its most important functions is
+that it is not a participant in the
+
+00:19:05.680 --> 00:19:13.570
+market it has no skin in the game the
+New York Stock Exchange is not an active
+
+00:19:13.570 --> 00:19:22.000
+trader that's not an accident
+that's called separation of concerns the
+
+00:19:22.000 --> 00:19:28.240
+Clearing House is an independent party
+with oversight that is not a market
+
+00:19:28.240 --> 00:19:34.630
+participant if you take that party out
+and replace it with five banks all of
+
+00:19:34.630 --> 00:19:41.230
+which have skin in the game how do you
+run a consensus algorithm when the
+
+00:19:41.230 --> 00:19:48.670
+incentives to cheat front run manipulate
+the market and break the consensus rules
+
+00:19:48.670 --> 00:19:54.700
+even adversarially against the other
+four parties are so high there's no
+
+00:19:54.700 --> 00:19:59.080
+incentive to keep the consensus rules
+all you're doing is you're saying trust
+
+00:19:59.080 --> 00:20:11.140
+us we're in a consortium trust us these
+five banks where were you in 2008 where
+
+00:20:11.140 --> 00:20:15.910
+were you when Lieber was fixed where
+were you when the gold markets were
+
+00:20:15.910 --> 00:20:21.340
+fixed when were you in front running and
+high-frequency trading was creating
+
+00:20:21.340 --> 00:20:30.700
+these monsters of crony capitalism trust
+us hell no removing the Clearing House
+
+00:20:30.700 --> 00:20:39.070
+and replacing it with what's the word
+it's not consortium cartel that's the
+
+00:20:39.070 --> 00:20:44.380
+word
+with a cartel of the same market makers
+
+00:20:44.380 --> 00:20:49.690
+who have manipulated and compromised
+every market in history and doing that
+
+00:20:49.690 --> 00:20:56.070
+in a way that closes this from
+transparency that's not a recipe for
+
+00:20:56.070 --> 00:21:02.970
+efficiency immutability security
+transparency that's not a blockchain
+
+00:21:02.970 --> 00:21:11.800
+that's a bullshit it's a very profitable
+bullshit it requires you to have
+
+00:21:11.800 --> 00:21:23.650
+confidence in the game a con game as
+it's known be careful what you evaluate
+
+00:21:23.650 --> 00:21:30.670
+when you see these technologies taking
+something whose fundamental purpose is
+
+00:21:30.670 --> 00:21:34.960
+to remove trusted intermediaries and
+create an open borderless neutral system
+
+00:21:34.960 --> 00:21:41.710
+and turning it into a tool for a bunch
+of untrustworthy trusted parties to
+
+00:21:41.710 --> 00:21:48.360
+manipulate markets is going to be a
+disaster and they're going to do it I
+
+00:21:48.660 --> 00:21:58.360
+have some consolation in the fact that
+their keys will leak because when you
+
+00:21:58.360 --> 00:22:05.500
+centralize a system you have to keep the
+security of those five keys and none of
+
+00:22:05.500 --> 00:22:13.080
+them have ever managed to do that all of
+the companies involved in this brave new
+
+00:22:13.080 --> 00:22:21.040
+business as usual space have been hacked
+breached leaked whistle blown a dozen
+
+00:22:21.040 --> 00:22:28.210
+times they can't keep information secure
+no one can the whole point of a
+
+00:22:28.210 --> 00:22:33.010
+decentralized blockchain is you don't
+keep the information secure you spread
+
+00:22:33.010 --> 00:22:38.890
+it out so thin there's no place to
+attack it directly that's what makes it
+
+00:22:38.890 --> 00:22:43.540
+secure so what happens when you
+concentrated among five participants I
+
+00:22:43.540 --> 00:22:51.420
+can't wait until the anonymous WikiLeaks
+collaborative dump
+
+00:22:51.730 --> 00:22:57.280
+the Titans of Wall Street and their
+ledger of every transaction they've ever
+
+00:22:57.280 --> 00:23:01.300
+done
+I can't wait it's going to be so much
+
+00:23:01.300 --> 00:23:08.170
+fun and it is going to happen
+you cannot secure these things so does
+
+00:23:08.170 --> 00:23:17.950
+that mean there's nothing there no again
+we go back to the other side there is an
+
+00:23:17.950 --> 00:23:23.590
+incredibly promising technology and that
+technology is based on an architecture
+
+00:23:23.590 --> 00:23:32.050
+of openness people are examining this
+market and they're grasping and reaching
+
+00:23:32.050 --> 00:23:38.560
+out in darkness when you have a
+brand-new disruptive technology you
+
+00:23:38.560 --> 00:23:42.790
+can't see the margins
+it's like stumbling around a dark room
+
+00:23:42.790 --> 00:23:47.470
+somewhere there is a billion dollar
+company somewhere in there is an
+
+00:23:47.470 --> 00:23:53.620
+opportunity and you have to figure out
+what market exists the will create
+
+00:23:53.620 --> 00:23:59.490
+opportunity that will change the world
+that will have an impact on humanity
+
+00:23:59.490 --> 00:24:05.790
+entrepreneurs look at other people's
+problems and see them as opportunities
+
+00:24:05.790 --> 00:24:11.500
+when journalists in 1997 were writing
+about the imminent failure of the
+
+00:24:11.500 --> 00:24:16.480
+internet because of the impossibility of
+finding anything Larry Page and Sergey
+
+00:24:16.480 --> 00:24:23.230
+Brin were finding stuff and building a
+multi-billion dollar empire on solving
+
+00:24:23.230 --> 00:24:32.020
+the unsolvable problem of search there
+are seemingly unsolvable problems in the
+
+00:24:32.020 --> 00:24:36.730
+open decentralized public transparent
+neutral censorship resistant global
+
+00:24:36.730 --> 00:24:42.750
+trustless Network platform that is the
+blockchain and these other block chains
+
+00:24:42.750 --> 00:24:48.100
+Bitcoin aetherium and the many other
+systems that are gradually trying to
+
+00:24:48.100 --> 00:24:55.270
+find their niche where are those markets
+there are three elements to success in
+
+00:24:55.270 --> 00:25:00.370
+this industry the first one is
+identifying a viable market right
+
+00:25:00.370 --> 00:25:05.290
+you've got to stumble in the dark and
+find something useful and very often
+
+00:25:05.290 --> 00:25:09.429
+the people stumbling in the dark they
+don't find anything useful right
+
+00:25:09.429 --> 00:25:21.100
+in 1997 Petco was building a online
+commerce empire for pet supplies it was
+
+00:25:21.100 --> 00:25:27.340
+too early the market didn't exist web
+grocer Webvan was delivering groceries
+
+00:25:27.340 --> 00:25:33.360
+to homes in San Francisco failed
+miserably was that the right market
+
+00:25:33.360 --> 00:25:40.059
+maybe but it was the wrong time so
+that's the second important element
+
+00:25:40.059 --> 00:25:46.960
+right timing you can identify something
+that at some point will be enormous but
+
+00:25:46.960 --> 00:25:54.820
+you're off by a decade and then the most
+important factor sequencing the
+
+00:25:54.820 --> 00:26:02.650
+prerequisites why did Facebook not
+happen in 1992 you didn't have enough
+
+00:26:02.650 --> 00:26:07.720
+density of adoption you didn't have
+mobile devices that were permanently
+
+00:26:07.720 --> 00:26:10.870
+connected you didn't even have
+home-based internet that was permanently
+
+00:26:10.870 --> 00:26:16.059
+on you didn't have a dense social
+network in order to engage with the
+
+00:26:16.059 --> 00:26:20.470
+people you knew because the people you
+knew barely had email or didn't have
+
+00:26:20.470 --> 00:26:28.330
+email right so you can't build a system
+of complexity that depends on many too
+
+00:26:28.330 --> 00:26:33.610
+many interaction with high density when
+you're still doing applications that are
+
+00:26:33.610 --> 00:26:40.150
+one-to-one with low density right it's
+like trying to fuse hydrogen directly
+
+00:26:40.150 --> 00:26:46.809
+into carbon can't do that
+you've got helium lithium beryllium you
+
+00:26:46.809 --> 00:26:51.820
+got a long way to go keep smashing
+things together before you get enough
+
+00:26:51.820 --> 00:26:55.840
+density that you can start doing
+interesting things in organic chemistry
+
+00:26:55.840 --> 00:27:04.480
+right to use an example from science
+bottom line is you can't do advanced
+
+00:27:04.480 --> 00:27:07.419
+Real Estate's
+title applications voting on the
+
+00:27:07.419 --> 00:27:14.770
+blockchain retail markets you can't do
+consumer to consumer dense markets you
+
+00:27:14.770 --> 00:27:21.940
+can do points of sale
+all retail with these systems yet you
+
+00:27:21.940 --> 00:27:26.830
+can do most of the things yet there
+might be very interesting markets and
+
+00:27:26.830 --> 00:27:31.210
+the reason you can't do them is because
+there's not enough liquidity there's not
+
+00:27:31.210 --> 00:27:35.049
+enough users is not enough adoption the
+user interfaces are terrible the
+
+00:27:35.049 --> 00:27:39.400
+applications are still at their infant
+stage that doesn't mean these things
+
+00:27:39.400 --> 00:27:46.000
+can't happen it just means they're not
+happening this year we're going to see
+
+00:27:46.000 --> 00:27:51.970
+this play out in order for people to
+have the trust to put the title of their
+
+00:27:51.970 --> 00:27:59.500
+home on blockchain it has to be able to
+secure not billions but trillions of
+
+00:27:59.500 --> 00:28:03.730
+dollars in assets and in order to be
+able to secure trillions of dollars in
+
+00:28:03.730 --> 00:28:07.570
+assets it has have liquidity and
+infrastructure it has to have broad
+
+00:28:07.570 --> 00:28:11.530
+adoption you're not going to get
+adoption on a transaction that most
+
+00:28:11.530 --> 00:28:16.299
+people do twice in their lifetime when
+you can't even get them to use it for
+
+00:28:16.299 --> 00:28:22.809
+transactions they do every day right
+we're not going to be doing digital
+
+00:28:22.809 --> 00:28:29.470
+identity so that everyone can have a
+bank account because it takes a long
+
+00:28:29.470 --> 00:28:34.270
+time until you have adequate adoption
+for the first 15 years of the internet
+
+00:28:34.270 --> 00:28:40.660
+the application was email and not until
+everybody had it had to have it needed
+
+00:28:40.660 --> 00:28:46.299
+it for work did we see the second layer
+emerge because that created the density
+
+00:28:46.299 --> 00:28:53.400
+of adoption and currency is the email of
+blockchains
+
+00:28:53.400 --> 00:28:58.540
+payments are the fundamental
+infrastructure that will enable density
+
+00:28:58.540 --> 00:29:10.559
+of adoption it's very very enticing to
+say this is about more than money it is
+
+00:29:10.559 --> 00:29:17.880
+absolutely in the long-term the vision
+of this technology is far beyond money
+
+00:29:17.880 --> 00:29:23.290
+but you can't build that unless you
+first build the money part that's what
+
+00:29:23.290 --> 00:29:27.640
+creates the security that's what creates
+the velocity the liquidity the
+
+00:29:27.640 --> 00:29:32.060
+infrastructure that what funds the
+entire ecosystem
+
+00:29:32.060 --> 00:29:40.820
+and in the end when we do deliver
+perhaps digital identity to people it
+
+00:29:40.820 --> 00:29:47.710
+won't be so they can open a bank account
+because this isn't about banking the
+
+00:29:47.710 --> 00:29:59.330
+unbanked
+it's about D banking all of us thank
+

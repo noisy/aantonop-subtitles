@@ -1,0 +1,782 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.000 --> 00:00:02.160
+S'il vous plait, veuillez accueillir Andreas M. Antonopoulos.
+
+00:00:02.160 --> 00:00:04.160
+Pour la première fois en France.
+
+00:00:51.920 --> 00:00:57.040
+J'ai essayé de traduire quelques mots avec Google.
+
+00:00:58.420 --> 00:01:03.040
+J'ai demandé «&nbsp;Traduit pour moi le mot : "Blockchain"&nbsp;».
+
+00:01:03.900 --> 00:01:10.180
+Et Google a répondu «&nbsp;Blocs de chaîne&nbsp;», et ça paraissait un peu étrange.
+
+00:01:10.880 --> 00:01:16.700
+Et il disait «&nbsp;Le&nbsp;» Blockchain, et j'ai pensé «&nbsp;N'est-ce pas "La" Blockchain&nbsp;?&nbsp;».
+
+00:01:17.620 --> 00:01:23.140
+Et j'ai demandé «&nbsp;Qu'est-ce que la Blockchain&nbsp;?&nbsp;» et Google a répondu «&nbsp;Minitel&nbsp;».
+
+00:01:26.860 --> 00:01:30.500
+J'ai demandé la traduction de «&nbsp;Bitcoin&nbsp;» et il a répondu «&nbsp;l'Euro&nbsp;».
+
+00:01:32.180 --> 00:01:37.620
+Et finalement j'ai demandé «&nbsp;Comment j'explique "The DAO" à un publique français&nbsp;?&nbsp;»
+
+00:01:37.620 --> 00:01:42.320
+et il a répondu «&nbsp;Dis simplement "Étienne"&nbsp;». (En référence au chanteur Étienne Daho.)
+
+00:01:42.800 --> 00:01:45.360
+Et à ce moment là, j'ai arrêté.
+
+00:01:47.200 --> 00:01:54.480
+Donc, je vais délivrer le reste de cette conférence en Anglais et je suis désolé car je ne peux pas le faire
+
+00:01:54.480 --> 00:01:57.860
+dans votre belle langue que j'ai étudiée pendant beaucoup d'années.
+
+00:01:57.860 --> 00:02:02.240
+À cause d'un manque de pratique pendant plus de vingt ans.
+
+00:02:03.780 --> 00:02:06.260
+Je veux vous parler aujourd'hui,
+
+00:02:08.140 --> 00:02:11.540
+d'une forme de paiements,
+
+00:02:12.140 --> 00:02:14.360
+paiements pair-à-pair,
+
+00:02:15.360 --> 00:02:17.360
+qui sont prolifics,
+
+00:02:18.440 --> 00:02:22.240
+une forme de paiements qui sont presque instantanés,
+
+00:02:22.920 --> 00:02:24.920
+des transactions libres,
+
+00:02:24.920 --> 00:02:27.180
+directement de personne à personne,
+
+00:02:27.880 --> 00:02:30.540
+sécurisée, pratique,
+
+00:02:31.980 --> 00:02:35.560
+et qui a été dans les parages pendant des milliers d'années,
+
+00:02:36.240 --> 00:02:37.920
+et cette forme de paiement…
+
+00:02:38.260 --> 00:02:39.860
+c'est «&nbsp;Le liquide&nbsp;» !
+
+00:02:42.420 --> 00:02:45.280
+Mais le liquide ne va pas rester pendant des milliers d'années.
+
+00:02:45.280 --> 00:02:46.180
+Pire,
+
+00:02:46.820 --> 00:02:49.500
+le liquide disparaît !
+
+00:02:50.940 --> 00:02:55.220
+Et nous n'avons pas vraiment considéré ce que cela implique.
+
+00:02:56.040 --> 00:03:05.940
+Une des belles choses à propos du liquide est qu'il permet une vraie économie de personne à personne.
+
+00:03:05.940 --> 00:03:10.880
+Le liquide est la façon dont vous échanger des transactions avec votre communauté.
+
+00:03:10.880 --> 00:03:17.320
+Le liquide est la façon dont vous payez votre petit achat, votre professeur de musique.
+
+00:03:18.380 --> 00:03:21.200
+Le liquide est la façon dont vous payez le fermier local.
+
+00:03:22.980 --> 00:03:25.260
+Les cartes de crédit ne fonctionnent pas comme ça.
+
+00:03:25.260 --> 00:03:31.980
+Les cartes de crédit et les systèmes de paiements bancaires, l'argent mobile, et Paypal, et Venmo,
+
+00:03:31.980 --> 00:03:37.360
+ils ne sont pas pair à pair, ils ne sont pas de personne à personne,
+
+00:03:37.940 --> 00:03:44.720
+ils sont de personne, à corporation, à corporation, à corporation, à personne…
+
+00:03:46.120 --> 00:03:56.420
+Quand avons-nous invité toutes ces corporations à participer à notre commerce&nbsp;? En tant qu'intermédiaires.
+
+00:03:56.420 --> 00:04:00.420
+Quand les avons-nous invités dans toutes les conversations&nbsp;?
+
+00:04:01.980 --> 00:04:05.900
+On dirait la même chose, mais ce n'est pas le cas.
+
+00:04:06.600 --> 00:04:09.140
+Quand je vais chez le boulanger local,
+
+00:04:09.640 --> 00:04:16.480
+et qu'au lieu d'utiliser du liquide, je leur donne ma carte de crédit, pour moi c'est pratiquement la même chose.
+
+00:04:17.260 --> 00:04:27.540
+L'expérience, de mon point de vue, est de personne à personne, et instantanée, pratique, sans commission.
+
+00:04:28.300 --> 00:04:32.420
+Mais ce n'est pas la même chose du point de vue du boulanger.
+
+00:04:33.140 --> 00:04:39.000
+Le boulanger n'est pas payé tout de suite. Et le boulanger n'est parfois pas payé pendant trente jours.
+
+00:04:39.000 --> 00:04:42.700
+Et parfois pas du tout parce qu'une fraude a eu lieu.
+
+00:04:42.700 --> 00:04:47.820
+Et quand ils sont effectivement payés, 2% du montant, va à d'autres.
+
+00:04:47.820 --> 00:04:52.500
+Qui n'ont ajouté aucune valeur à la transaction, ils l'ont juste effectuée.
+
+00:04:52.500 --> 00:04:58.780
+C'est seulement si ces autres, cette corporation, décident qu'ils veulent payer le boulanger.
+
+00:04:59.560 --> 00:05:03.400
+Parce que si vous venez d'un lieu comme la Grèce, d'où je viens,
+
+00:05:03.400 --> 00:05:08.480
+ou de Chypres, d'Argentine, du Venezuela, du Kazakhstan, d'Ukraine,
+
+00:05:08.480 --> 00:05:13.760
+ou beaucoup d'autres pays dans le monde, un jour les banques disent «&nbsp;Mmm… Non.
+
+00:05:13.760 --> 00:05:16.300
+Ce n'est plus votre argent.
+
+00:05:17.160 --> 00:05:19.160
+Vous pensiez que c'était votre argent ?
+
+00:05:19.160 --> 00:05:21.160
+C'était un prêt.
+
+00:05:21.160 --> 00:05:24.980
+Et nous ne pouvons plus l'honorer, nous ne pouvons pas vous le rendre.&nbsp;».
+
+00:05:25.840 --> 00:05:28.940
+Il y a quelque chose de vraiment magique avec le liquide.
+
+00:05:28.940 --> 00:05:34.580
+Parce que, en tant que système commercial, il nous a permis, pendant des  milliers d'années,
+
+00:05:34.580 --> 00:05:38.740
+d'interagir, rapidement, de façon pragmatique, avec les autres.
+
+00:05:38.740 --> 00:05:41.480
+Sans surveillance des gouvernements,
+
+00:05:41.480 --> 00:05:43.980
+sans corporation au milieu,
+
+00:05:43.980 --> 00:05:46.480
+sans commission, sans rien de tout ça.
+
+00:05:47.140 --> 00:05:54.460
+Et maintenant, en 2016, nous sommes au bord, d'éradiquer le liquide.
+
+00:05:56.340 --> 00:06:00.800
+Vous connaissez la propagande&nbsp;:
+«&nbsp;Le Cash c'est pour les criminels&nbsp;».
+
+00:06:01.420 --> 00:06:05.160
+Parce que, après tout, qui voudrait payer d'autres personnes…
+
+00:06:06.120 --> 00:06:08.900
+Quand c'est si facile de seulement…
+
+00:06:08.900 --> 00:06:12.900
+Payer des corporations, qui payent des corporations, qui payent des corporations, qui payent des personnes&nbsp;?
+
+00:06:13.460 --> 00:06:15.180
+Je ne les ai pas invitées,
+
+00:06:15.180 --> 00:06:16.440
+dans mes transactions.
+
+00:06:16.440 --> 00:06:18.440
+Elles se sont invitées toutes seules.
+
+00:06:19.980 --> 00:06:24.740
+Et je n'aime pas avoir à faire à un système de commerce,
+
+00:06:24.740 --> 00:06:30.700
+où il est automatiquement présumé qu'en tant qu'être humain, mon principal but,
+
+00:06:31.500 --> 00:06:33.500
+est d'être un consommateur.
+
+00:06:34.280 --> 00:06:37.100
+Pas un producteur de biens,
+
+00:06:37.100 --> 00:06:40.380
+pas un distributeur de services,
+
+00:06:40.380 --> 00:06:45.100
+parce que pour être un distributeur ou un producteur, je doit recevoir une permission.
+
+00:06:45.100 --> 00:06:47.680
+Bénéficier d'un compte commerçant,
+
+00:06:47.680 --> 00:06:49.880
+payer des taxes.
+
+00:06:50.840 --> 00:06:53.480
+C'est tellement plus simple d'être un consommateur.
+
+00:06:53.480 --> 00:06:56.520
+C'est tellement plus simple de prendre le parti que, dorénavant,
+
+00:06:56.520 --> 00:07:01.840
+toutes mes transactions, seront produites par une corporation.
+
+00:07:01.840 --> 00:07:04.880
+Et mon univers se résume à consommer.
+
+00:07:04.880 --> 00:07:07.300
+Et que cela fait-il à notre société&nbsp;?
+
+00:07:07.620 --> 00:07:09.220
+Ça détruit la communauté.
+
+00:07:09.520 --> 00:07:11.520
+Ça détruit les petits marchants.
+
+00:07:11.740 --> 00:07:13.740
+Ça détruit les indépendants,
+
+00:07:13.740 --> 00:07:15.740
+les entrepreneurs,
+
+00:07:15.740 --> 00:07:17.740
+les propriétaires uniques,
+
+00:07:17.740 --> 00:07:19.220
+les travailleurs…
+
+00:07:19.860 --> 00:07:23.540
+Cela veut dire que toute interaction que vous avez,
+
+00:07:23.540 --> 00:07:26.320
+n'est pas avec les personnes qui produisent vos aliments.
+
+00:07:27.420 --> 00:07:32.420
+C'est avec une personne employée par la corporation qui sous-traite la production de vos aliments autre part.
+
+00:07:34.040 --> 00:07:37.080
+Et quand j'achète de la viande à mon boucher,
+
+00:07:38.360 --> 00:07:40.360
+si un jour mon boucher met...
+
+00:07:41.040 --> 00:07:43.040
+des copeaux de bois,
+
+00:07:43.440 --> 00:07:45.440
+du bois abîmé,
+
+00:07:45.440 --> 00:07:47.440
+de la fibre, dans ma viande,
+
+00:07:47.440 --> 00:07:49.760
+j'y retournerais et réagirais de cette manière&nbsp;:
+
+00:07:52.200 --> 00:07:56.060
+«&nbsp;Mais bon sang qu'est-ce qui s'est passé&nbsp;!? Pourquoi y'a-t-il du bois dans ma viande&nbsp;!?&nbsp;»
+
+00:07:58.220 --> 00:08:02.800
+Mais si c'est exécuté par une corporation doté un prestigieux MBA (Master of Business Administration);
+
+00:08:04.440 --> 00:08:07.640
+qui analyse la proposition d'un consultant qui dit :
+
+00:08:08.380 --> 00:08:11.260
+«&nbsp;L'augmentation des fibres alimentaires dans les produits à viande&nbsp;va rapporter
+
+00:08:11.260 --> 00:08:12.920
++2&nbsp;% de profit&nbsp;»,
+
+00:08:12.920 --> 00:08:14.320
+et hop, ils signent.
+
+00:08:16.540 --> 00:08:20.460
+Quelqu'un, à des milliers de kilomètres, met des copeaux de bois dans votre viande.
+
+00:08:21.400 --> 00:08:23.840
+Et quand vous revenez chez le boucher, il dit&nbsp;:
+
+00:08:23.840 --> 00:08:25.840
+«&nbsp;Je ne l'ai pas faite…
+
+00:08:25.840 --> 00:08:27.840
+Plaignez-vous à la corporation.&nbsp;»
+
+00:08:29.000 --> 00:08:31.180
+Nous détruisons la communauté,
+
+00:08:31.180 --> 00:08:35.660
+en désengageant le commerce de quelque chose qui se réalise entre des personnes,
+
+00:08:35.660 --> 00:08:39.180
+et introduisons dans chaque transaction,
+
+00:08:39.180 --> 00:08:40.540
+l'idée,
+
+00:08:40.540 --> 00:08:45.220
+que vous devez toujours commercer à travers une corporation qui est votre intermédiaire.
+
+00:08:45.660 --> 00:08:47.740
+Que vous devez toujours emprunter.
+
+00:08:48.360 --> 00:08:49.760
+Pas payer.
+
+00:08:50.200 --> 00:08:51.620
+Faire crédit.
+
+00:08:51.900 --> 00:08:53.200
+Pas de la valeur.
+
+00:08:55.120 --> 00:08:58.140
+Le liquide a des caractéristiques uniques.
+
+00:08:58.700 --> 00:09:02.680
+Le liquide est un système où on «&nbsp;pousse&nbsp;» (réf. aux 4 types de paiements existants) les transactions.
+
+00:09:02.680 --> 00:09:03.800
+C'est-à-dire,
+
+00:09:03.800 --> 00:09:08.180
+je n'autorise pas quelqu'un à prendre de l'argent de ma poche.
+
+00:09:08.180 --> 00:09:10.460
+«&nbsp;Je&nbsp;» prends de l'argent dans ma poche.
+
+00:09:10.460 --> 00:09:12.860
+Et je le « pousse&nbsp;» à l'autre personne.
+
+00:09:13.180 --> 00:09:14.640
+Et l'argent qu'ils obtiennent,
+
+00:09:14.640 --> 00:09:16.680
+est l'argent que je viens de «&nbsp;pousser&nbsp;».
+
+00:09:16.680 --> 00:09:18.680
+Ils n'ont pas la possibilité de revenir,
+
+00:09:18.680 --> 00:09:20.680
+dix jours après,
+
+00:09:20.680 --> 00:09:23.580
+et faire un autre débit de ma poche.
+
+00:09:25.200 --> 00:09:29.720
+Comment soudainement avons-nous changer le fait que tous les systèmes de paiements dans notre société,
+
+00:09:29.720 --> 00:09:31.000
+deviennent des systèmes où l'on « prend&nbsp;» ?
+
+00:09:31.000 --> 00:09:34.640
+Comment soudainement avons-nous changer le fait que dans toutes les transactions que je fais,
+
+00:09:34.640 --> 00:09:36.840
+j'autorise quelqu'un,
+
+00:09:36.840 --> 00:09:38.940
+non seulement à prendre de l'argent maintenant,
+
+00:09:38.940 --> 00:09:40.940
+mais peut-être une prochaine fois,
+
+00:09:40.940 --> 00:09:42.000
+et une nouvelle fois,
+
+00:09:42.000 --> 00:09:44.260
+ou peut-être perdre mes accès,
+
+00:09:44.260 --> 00:09:49.500
+mes contrôles, et laisser quelques hackers prendre mon argent, encore une nouvelle fois, et encore...
+
+00:09:52.220 --> 00:09:54.520
+Le liquide est un instrument porteur,
+
+00:09:54.520 --> 00:09:56.360
+ce qui signifie que la valeur,
+
+00:09:56.360 --> 00:09:58.540
+est dans l'instrument lui-même.
+
+00:09:58.540 --> 00:10:00.780
+Ce n'est pas une promesse ou une facture.
+
+00:10:01.820 --> 00:10:04.860
+Ça ne représente pas une promesse où vous serez payé plus tard,
+
+00:10:04.860 --> 00:10:08.300
+c'est un instrument porteur ce qui signifie que vous allez payé maintenant.
+
+00:10:08.300 --> 00:10:11.760
+Et le problème avec les promesses, c'est qu'on peut les briser.
+
+00:10:13.700 --> 00:10:18.240
+Le liquide ne représente pas l'émission de dette.
+
+00:10:18.840 --> 00:10:21.300
+Il représente la transmission de valeur.
+
+00:10:23.160 --> 00:10:25.280
+Le liquide est instantané.
+
+00:10:26.360 --> 00:10:30.140
+Vous obtenez la valeur et pouvez la dépenser immédiatement.
+
+00:10:30.140 --> 00:10:32.140
+Pas trente jours plus tard.
+
+00:10:33.140 --> 00:10:35.360
+Laissez-moi vous poser une question rapidement.
+
+00:10:35.360 --> 00:10:39.780
+Si je voulais vous donner cinq euros pour le café,
+
+00:10:39.780 --> 00:10:41.980
+combien d'entre vous prendraient la Visa aujourd'hui&nbsp;?
+
+00:10:43.320 --> 00:10:45.000
+Personne&nbsp;?
+
+00:10:46.360 --> 00:10:51.540
+Vous voulez dire que la seule façon que je puisse payer un autre être humain est avec du liquide.
+
+00:10:51.540 --> 00:10:54.500
+La chose que nous sommes en train de rendre illégale.
+
+00:10:54.500 --> 00:10:56.500
+Parce qu'apparemment,
+
+00:10:57.540 --> 00:11:00.820
+une ancienne technologie pour les paiements entre humains,
+
+00:11:00.820 --> 00:11:04.460
+ne pourrait être utilisée que par des criminels.
+
+00:11:05.360 --> 00:11:09.880
+La définition d'un criminel est quiconque n'étant pas dans une corporation.
+
+00:11:10.660 --> 00:11:12.120
+À ça près.
+
+00:11:14.280 --> 00:11:16.280
+Alors, qu'est-ce que Bitcoin&nbsp;?
+
+00:11:18.020 --> 00:11:21.580
+Où sont toutes ces blockchains globales et open-sources dont nous parlons&nbsp;?
+
+00:11:21.580 --> 00:11:27.360
+Qu'est-ce qui est si spécial avec Bitcoin, ou Ethereum, ou tous les autres systèmes libres,
+
+00:11:27.360 --> 00:11:28.400
+globaux,
+
+00:11:28.400 --> 00:11:29.560
+sans frontière,
+
+00:11:29.560 --> 00:11:30.780
+neutres,
+
+00:11:30.780 --> 00:11:32.780
+systèmes de paiements&nbsp;?
+
+00:11:33.040 --> 00:11:35.840
+Qui permettent un libre accès, une ouverture sur l'innovation,
+
+00:11:35.840 --> 00:11:37.760
+un accès sans permission,
+
+00:11:37.760 --> 00:11:39.080
+participation.
+
+00:11:39.080 --> 00:11:40.280
+Par tous.
+
+00:11:40.280 --> 00:11:42.280
+Partout dans le monde.
+
+00:11:43.960 --> 00:11:46.980
+Bitcoin a été crée par «&nbsp;Satoshi Nakamoto&nbsp;»
+
+00:11:46.980 --> 00:11:49.740
+et dans le titre de son white paper il écrit
+
+00:11:49.740 --> 00:11:54.080
+«&nbsp;Un système de paiement liquide électronique en pair-à-pair&nbsp;».
+
+00:11:54.080 --> 00:11:56.080
+«&nbsp;Liquide&nbsp;»
+
+00:11:56.580 --> 00:11:58.580
+Ce n'est pas,
+
+00:11:58.580 --> 00:12:00.580
+un compte bancaire électronique.
+
+00:12:00.580 --> 00:12:01.900
+Ce n'est pas,
+
+00:12:01.900 --> 00:12:03.600
+une banque électronique.
+
+00:12:03.600 --> 00:12:04.860
+Ce n'est pas,
+
+00:12:04.860 --> 00:12:06.680
+une carte de crédit digitale.
+
+00:12:06.680 --> 00:12:07.780
+Ce n'est pas,
+
+00:12:07.780 --> 00:12:10.140
+un réseau électronique de paiements.
+
+00:12:10.140 --> 00:12:11.320
+C'est,
+
+00:12:11.320 --> 00:12:13.820
+électroniquement, du «&nbsp;liquide&nbsp;».
+
+00:12:14.220 --> 00:12:19.780
+Et il a tous les caractéristiques uniques du liquide qui le rend si précieux.
+
+00:12:20.240 --> 00:12:22.240
+C'est pair-à-pair&nbsp;:
+
+00:12:22.240 --> 00:12:26.680
+je peux payer n'importe qui dans cette salle. L'équivalent de 5 en bitcoins,
+
+00:12:26.680 --> 00:12:27.240
+(clapping)
+
+00:12:27.240 --> 00:12:28.580
+«&nbsp;comme ça&nbsp;».
+
+00:12:28.580 --> 00:12:31.800
+Pas de personne à corporation à personne.
+
+00:12:31.800 --> 00:12:33.880
+Mais de personne à personne.
+
+00:12:33.880 --> 00:12:35.500
+Directement.
+
+00:12:35.900 --> 00:12:39.240
+Je peux m'engager dans un échange avec toute personne de ma communauté,
+
+00:12:39.240 --> 00:12:40.300
+directement.
+
+00:12:40.300 --> 00:12:41.940
+Quand je paye quelqu'un,
+
+00:12:41.940 --> 00:12:43.940
+je «&nbsp;pousse&nbsp;» une transaction.
+
+00:12:43.940 --> 00:12:47.140
+Ce qui veut dire qu'ils reçoivent la valeur immédiatement,
+
+00:12:47.140 --> 00:12:51.060
+et ne peuvent plus me prélever de la valeur, plus tard.
+
+00:12:51.380 --> 00:12:54.880
+Ils n'ont pas d'accès ou d'autorisation à mon compte.
+
+00:12:54.880 --> 00:12:56.880
+Je n'ai pas transféré d'accès.
+
+00:12:56.880 --> 00:12:58.980
+J'ai transféré de la valeur.
+
+00:12:58.980 --> 00:13:00.980
+C'est un instrument porteur.
+
+00:13:02.620 --> 00:13:06.060
+Cette transmission est presque instantanée.
+
+00:13:06.060 --> 00:13:10.780
+Vous pouvez dépenser une transaction de bitcoins, cinq ou dix secondes après que je vous l'ai envoyée.
+
+00:13:12.780 --> 00:13:15.240
+Ça se produit avec presque aucune commission ou taxe.
+
+00:13:15.240 --> 00:13:16.420
+Quelques centimes,
+
+00:13:16.420 --> 00:13:18.820
+juste pour couvrir les frais du réseau.
+
+00:13:19.960 --> 00:13:26.540
+Et cela permet de faire tout ce qu'a permis de faire le liquide pendant des milliers d'années.
+
+00:13:27.560 --> 00:13:28.620
+Oh !
+
+00:13:28.620 --> 00:13:30.620
+Excepté une chose.
+
+00:13:31.420 --> 00:13:33.420
+Cette forme de liquide,
+
+00:13:34.180 --> 00:13:36.720
+je peux l'envoyer à Kuala-Lumpur en cinq secondes.
+
+00:13:38.060 --> 00:13:39.040
+Pourquoi&nbsp;?
+
+00:13:39.040 --> 00:13:40.800
+Bon sang, pourquoi pas&nbsp;?
+
+00:13:40.800 --> 00:13:42.560
+Parce que j'ai ai envie.
+
+00:13:44.960 --> 00:13:46.620
+Je peux l'envoyer au-delà des frontières.
+
+00:13:46.620 --> 00:13:48.980
+Je peux l'envoyer à un fermier,
+
+00:13:48.980 --> 00:13:49.880
+au Kenya.
+
+00:13:49.880 --> 00:13:50.940
+À un pécheur,
+
+00:13:50.940 --> 00:13:52.660
+en Indonésie.
+
+00:13:52.660 --> 00:13:55.160
+Je peux l'envoyer à quelqu'un en Afrique du Sud.
+
+00:13:55.160 --> 00:13:55.960
+Pourquoi&nbsp;?
+
+00:13:55.960 --> 00:13:57.640
+Bon sang, pourquoi pas&nbsp;?
+
+00:13:57.640 --> 00:13:58.940
+C'est mon argent.
+
+00:13:58.940 --> 00:14:00.940
+Je veux marchander avec le monde.
+
+00:14:00.940 --> 00:14:02.940
+Je suis un citoyen du monde.
+
+00:14:03.620 --> 00:14:06.580
+Et avec une forme électronique de liquide,
+
+00:14:06.580 --> 00:14:08.920
+j'ai tous les bénéfices du liquide,
+
+00:14:10.120 --> 00:14:13.080
+et en plus je peux l'e-mailer à travers le monde en quelques secondes.
+
+00:14:14.880 --> 00:14:18.500
+Bitcoin est une technologie très importante.
+
+00:14:19.500 --> 00:14:22.160
+Parce qu'elle rend possible le fait de se reconnecter,
+
+00:14:22.160 --> 00:14:24.500
+avec le concept d'utiliser l'argent,
+
+00:14:24.500 --> 00:14:26.820
+comme une forme de paiement entre les personnes.
+
+00:14:26.820 --> 00:14:28.540
+Pas les corporations.
+
+00:14:28.540 --> 00:14:30.980
+Elle nous permet de s'engager dans le commerce,
+
+00:14:30.980 --> 00:14:32.980
+sans surveillance.
+
+00:14:34.280 --> 00:14:36.060
+Sans interactions avec les corporations,
+
+00:14:36.060 --> 00:14:45.040
+sans blocage de mon compte, sans gel et taxe, et compromis, et vol, et corruption.
+
+00:14:46.820 --> 00:14:51.440
+Cela signifie que mon argent n'est pas dormant dans une banque re-prêté à quelques
+
+00:14:51.440 --> 00:14:55.840
+criminels de guerre quelque part qui l'utilise pour bombarder un pays quelconque.
+
+00:14:55.840 --> 00:14:57.520
+C'est mon argent.
+
+00:14:57.520 --> 00:14:59.080
+Pas l'argent de quelqu'un d'autre.
+
+00:14:59.380 --> 00:15:00.420
+Ce n'est pas,
+
+00:15:00.420 --> 00:15:02.800
+un prêt sans intérêts,
+
+00:15:02.800 --> 00:15:04.340
+dans le système bancaire.
+
+00:15:04.340 --> 00:15:05.400
+C'est mon argent.
+
+00:15:05.400 --> 00:15:06.620
+C'est du liquide,
+
+00:15:06.620 --> 00:15:08.260
+dans ma poche.
+
+00:15:10.660 --> 00:15:12.660
+C'est un principe intéressant.
+
+00:15:13.340 --> 00:15:15.020
+Démontrant l'idée,
+
+00:15:15.020 --> 00:15:17.180
+que l'on peut ramener l'argent,
+
+00:15:17.180 --> 00:15:18.280
+à trois,
+
+00:15:18.280 --> 00:15:21.420
+principes de base centraux&nbsp;:
+
+00:15:22.280 --> 00:15:23.440
+Liberté,
+
+00:15:24.500 --> 00:15:25.640
+Fraternité,
+
+00:15:26.480 --> 00:15:27.320
+Égalité.
+
+00:15:27.320 --> 00:15:28.480
+Merci !
+

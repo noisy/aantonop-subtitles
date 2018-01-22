@@ -1,0 +1,46 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.900
+In legal terminology, this looks like an assignment of
+
+00:00:02.900 --> 00:00:08.700
+claims. [...] So I was wondering , what happens if a party
+
+00:00:08.700 --> 00:00:10.700
+does not [deliver] on these terms?
+
+00:01:59.940 --> 00:02:02.580
+Isn't this a basis for smart contracts?
+
+00:02:33.520 --> 00:02:36.840
+Why would anyone want to do this?
+
+00:02:37.160 --> 00:02:40.020
+What is the incentive [for an intermediary]?
+
+00:04:00.520 --> 00:04:05.360
+If somebody wants to use a route with low transaction
+
+00:04:05.500 --> 00:04:08.000
+costs but also has less hops,
+
+00:04:08.620 --> 00:04:11.020
+won't that introduce more settlement
+
+00:04:11.180 --> 00:04:13.180
+costs on the blockchain?
+
+00:05:03.020 --> 00:05:07.000
+About further on-chain scaling, wouldn't this push
+
+00:05:07.000 --> 00:05:10.180
+transaction fees away from the miners and thereby
+
+00:05:10.180 --> 00:05:13.220
+compromise on the long-term security model?
+
+00:06:36.580 --> 00:06:40.900
+Will the Lightning Network be compatible with Bitcoin Unlimited?
+

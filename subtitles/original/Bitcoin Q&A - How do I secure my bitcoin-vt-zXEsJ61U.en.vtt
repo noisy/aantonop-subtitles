@@ -1,0 +1,334 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:04.200
+Simple rule: if you control the keys, it's your bitcoin.
+
+00:00:04.200 --> 00:00:07.000
+If you don't control the keys, it's not your bitcoin.
+
+00:00:07.000 --> 00:00:11.200
+Your keys? Your bitcoin. Not your keys? Not your bitcoin.
+
+00:00:11.200 --> 00:00:15.479
+Your keys? Your bitcoin. Not your keys? Not your bitcoin.
+
+00:00:16.359 --> 00:00:23.429
+Here's the problem: a lot of people have no idea how to even start to decide if they actually control the keys.
+
+00:00:23.680 --> 00:00:25.680
+So let me ask you a question...
+
+00:00:25.920 --> 00:00:30.340
+How many of you control your bitcoin with your own control over your keys?
+
+00:00:31.980 --> 00:00:35.600
+I'm counting myself here. Very good...
+
+00:00:35.890 --> 00:00:38.600
+How many people do not control their bitcoin...
+
+00:00:38.600 --> 00:00:40.900
+but have it in an online account?
+
+00:00:40.900 --> 00:00:43.680
+Or somebody else is controlling the bitcoin?
+
+00:00:44.940 --> 00:00:49.500
+Don't be shy! It's okay, we all started there. Okay...
+
+00:00:49.600 --> 00:00:55.280
+More importantly, how many people have no idea how to answer that question?
+
+00:00:56.200 --> 00:00:58.600
+You don't know if you control it, right?
+
+00:00:59.000 --> 00:01:01.400
+Okay, so let me give you some advice.
+
+00:01:01.880 --> 00:01:10.000
+If you are running a wallet where, each time you do a transaction, it generates a new address,
+
+00:01:10.000 --> 00:01:17.000
+... but when you started using that wallet, it told you something like "Write down these twelve words..." or
+
+00:01:17.000 --> 00:01:20.000
+"these twenty-four words, and keep them as a backup."
+
+00:01:21.240 --> 00:01:25.600
+Those words? They generate all your keys.
+
+00:01:25.600 --> 00:01:30.460
+The reason you have to write them as a backup is because you are controlling those keys.
+
+00:01:30.460 --> 00:01:34.600
+If you lose those words, you lose the keys &amp; the bitcoin.
+
+00:01:34.600 --> 00:01:37.220
+With great power comes great responsibility.
+
+00:01:37.400 --> 00:01:44.360
+If you have a wallet in which you were asked to write down the backup, you control the keys.
+
+00:01:45.140 --> 00:01:47.400
+If you didn't write down the backup,
+
+00:01:47.760 --> 00:01:49.700
+when you go home tonight would be a good time
+
+00:01:49.700 --> 00:01:55.620
+to open the settings, go to "Backup," and write down those damn twelve words before you lose your phone...
+
+00:01:55.800 --> 00:02:02.520
+or drop it in the toilet because you were trying to text while in the bathroom. We all do it...
+
+00:02:03.320 --> 00:02:09.140
+You dropped it in the toilet and your bitcoin disappeared because your phone blew up, and then what?
+
+00:02:09.880 --> 00:02:12.420
+You call the "Bitcoin help desk"?
+
+00:02:12.620 --> 00:02:14.240
+There is no "Bitcoin help desk."
+
+00:02:15.640 --> 00:02:19.900
+You go on Reddit and [say], "I lost my keys! Please, can someone help me?"
+
+00:02:20.560 --> 00:02:22.400
+And what are people going to say?
+
+00:02:22.500 --> 00:02:26.520
+Did you write down the twelve words? You didn't?
+
+00:02:26.780 --> 00:02:29.900
+Sorry for your loss...
+
+00:02:30.560 --> 00:02:34.780
+All right... How do you know how to do a backup?
+
+00:02:35.020 --> 00:02:37.280
+How to control your own [keys]?
+
+00:02:37.280 --> 00:02:43.500
+A lot of people don't know how to start, so I'm going to give you a very quick, little tutorial
+
+00:02:43.580 --> 00:02:46.340
+on how to control your own keys. Okay?
+
+00:02:46.700 --> 00:02:50.360
+First of all, what is the most secure device you own?
+
+00:02:51.160 --> 00:02:55.760
+Not your laptop! Definitely not your laptop.
+
+00:02:55.900 --> 00:02:58.620
+How many here have Windows?
+
+00:02:59.360 --> 00:03:02.240
+My sincere condolences...
+
+00:03:06.400 --> 00:03:10.940
+You don't own your Windows machines. Your Windows machines are owned by a combination
+
+00:03:10.940 --> 00:03:15.660
+of viruses and trojans, that are controlled by Russian and Chinese hackers somewhere else in the world.
+
+00:03:15.760 --> 00:03:22.540
+They're not really your machines. They just let you use them occasionally. Do not put bitcoin on those devices.
+
+00:03:22.660 --> 00:03:26.140
+That's like making a donation to hackers.
+
+00:03:26.520 --> 00:03:33.600
+They have software actively looking for Bitcoin software; when they find it, they take it. Or they put a key logger...
+
+00:03:33.600 --> 00:03:36.140
+wait for you to do a transaction, enter your password,
+
+00:03:36.140 --> 00:03:38.140
+and then they take it.
+
+00:03:38.220 --> 00:03:42.940
+The most secure device you own is your smartphone.
+
+00:03:43.660 --> 00:03:48.600
+Android, iOS? It's the most secure device you own.
+
+00:03:48.600 --> 00:03:56.060
+Operating systems on smartphones are far more secure than laptops and desktops, especially Windows.
+
+00:03:56.340 --> 00:04:00.760
+Your smartphone is probably the best place to run a wallet.
+
+00:04:01.120 --> 00:04:07.460
+if you have a lot of money invested in cryptocurrencies, or own a lot of bitcoin...
+
+00:04:07.700 --> 00:04:12.420
+The word "a lot" means different things to different people, but if you feel like it's "a lot"...
+
+00:04:13.020 --> 00:04:21.880
+If right now I told you your bitcoin has just been stolen, do you [say], "Eh... I'll get some more"?
+
+00:04:22.380 --> 00:04:23.480
+Or do you start crying?
+
+00:04:24.040 --> 00:04:28.540
+Or do you have to have a very difficult conversation with your parents and your spouse
+
+00:04:28.560 --> 00:04:32.440
+about why your kids won't be going to college?
+
+00:04:32.440 --> 00:04:37.220
+Those are the variations in the word "a lot" of [cryptocurrency], right?
+
+00:04:37.420 --> 00:04:43.320
+If you have a lot of [cryptocurrency], more than what you would be upset to lose,
+
+00:04:43.500 --> 00:04:46.480
+you should buy a hardware wallet.
+
+00:04:46.480 --> 00:04:55.240
+A hardware wallet is a USB device. I can recommend a couple of those: Ledger, Trezor. Those are really good.
+
+00:04:56.140 --> 00:05:01.820
+*BitcoinTrezor.com (now Trezor.io), LedgerWallet.com, KeepKey... there's a bunch of others.
+
+00:05:01.860 --> 00:05:07.220
+They're a bit difficult to buy right now, because apparently about a million people noticed
+
+00:05:07.300 --> 00:05:13.800
+that the bitcoin price went up, decided to finally join this thing, then went out and tried to buy a hardware wallet,
+
+00:05:13.880 --> 00:05:17.440
+so they're out of stock. That's a good problem to have.
+
+00:05:17.980 --> 00:05:27.640
+A hardware wallet is a little USB device which keeps your bitcoin keys on a highly secure, special purpose device.
+
+00:05:27.640 --> 00:05:33.920
+Even if your computer is absolutely full of viruses and hackers, you can use that device securely
+
+00:05:34.060 --> 00:05:40.440
+because everything happens on the device, and the device itself can't be attacked over USB.
+
+00:05:40.820 --> 00:05:42.420
+Or it's almost impossible.
+
+00:05:42.460 --> 00:05:50.000
+So, buy a hardware wallet. If you can't buy a hardware wallet, download software onto your smartphone.
+
+00:05:50.000 --> 00:06:01.220
+If you have iOS, I could recommend Breadwallet, Mycelium, Copay, or Airbitz.
+
+00:06:02.340 --> 00:06:11.100
+If you have an Android [phone]: Mycelium, Copay, or Airbitz.
+
+00:06:11.820 --> 00:06:15.500
+I don't work for any of these companies, and I haven't taken money from any of these companies.
+
+00:06:15.780 --> 00:06:22.100
+They are just ones that I've used; they've been around for a while, I trust them to be much better than
+
+00:06:22.100 --> 00:06:24.240
+whatever else you are doing right now.
+
+00:06:25.360 --> 00:06:30.420
+Download those wallets, install them on your smartphone, and then when it tells you to
+
+00:06:30.420 --> 00:06:37.440
+make a backup of your twelve to twenty-four English words -- don't get smart, don't get fancy.
+
+00:06:37.600 --> 00:06:39.960
+Don't say, "Well, I'll write three of the words here..."
+
+00:06:39.960 --> 00:06:45.200
+"... and then I'll take the other three words, reverse them, put them in my phone book, hide them in my library...."
+
+00:06:45.200 --> 00:06:47.560
+"...give them to my cousin-" Don't get fancy!
+
+00:06:47.660 --> 00:06:52.000
+Paper, pencil. Write down the 12-24 words.
+
+00:06:52.100 --> 00:06:56.560
+The chances that someone is going to get hold of that and know what it is? Pretty slim.
+
+00:06:56.800 --> 00:06:59.860
+Put it in a drawer, lock it. Put it in the safe, lock it.
+
+00:06:59.860 --> 00:07:04.140
+Then you can use your phone. If you lose your phone, you have the words.  If you lose the words,
+
+00:07:04.300 --> 00:07:10.000
+you have your phone. Both are equivalent. Any time you want, restore from those words. All of your transactions,
+
+00:07:10.100 --> 00:07:11.740
+all of your money, you get back.
+
+00:07:12.160 --> 00:07:15.980
+Now you control your cryptocurrency.
+
+00:07:16.300 --> 00:07:21.360
+These wallets, many of them- Jaxx is another one, if you have multiple currencies and not just bitcoin.
+
+00:07:21.440 --> 00:07:28.100
+If you have ether, Dash, Monero, Zcash, LTC, whatever.
+
+00:07:28.500 --> 00:07:30.680
+Jaxx. J-A-X-X.
+
+00:07:31.560 --> 00:07:32.940
+Exodus?
+
+00:07:35.180 --> 00:07:36.920
+Exodus?
+
+00:07:37.640 --> 00:07:39.640
+Never heard of it. I don't know if it's-
+
+00:07:40.540 --> 00:07:41.880
+That doesn't mean it's not good.
+
+00:07:42.180 --> 00:07:44.960
+I'm just saying I haven't personally heard about it. Okay...
+
+00:07:45.600 --> 00:07:55.500
+Download one of those wallets. Write down the phrases, pencil on paper, right? If our civilization ended tomorrow,
+
+00:07:57.100 --> 00:08:05.740
+in one month... two months, all of the CDs, DVDs, hard drives, USB drives, would be dust.
+
+00:08:06.460 --> 00:08:12.920
+Okay, maybe not three months. But three thousand years? Dust. We're still finding paper from the Egyptians!
+
+00:08:13.100 --> 00:08:24.060
+Paper lasts, yes? Paper. Don't put it on a USB drive. Paper. Simple, acid-free paper will last for
+
+00:08:24.080 --> 00:08:34.540
+hundreds of years; if you're extra paranoid, you laminate it so that it cannot get destroyed by water.
+
+00:08:34.540 --> 00:08:42.580
+You buy a very inexpensive, fire-proof safe from your office store. You put it inside so it can't be burned.
+
+00:08:43.720 --> 00:08:46.900
+Flood, fire, theft... covered!
+
+00:08:47.100 --> 00:08:52.500
+Now on that kind of system -- of wallets, hardware wallets with your backup words -- you can store...
+
+00:08:52.500 --> 00:08:59.300
+... I know people who store millions of dollars (I'm not joking) on exactly that kind of of system.
+
+00:08:59.880 --> 00:09:06.640
+Once you have control of your bitcoin, it doesn't matter if there's a fork, it doesn't matter if your exchange decides
+
+00:09:06.640 --> 00:09:12.120
+to go one way or another. It doesn't matter. You should not be keeping your money on that exchange.
+
+00:09:12.580 --> 00:09:17.620
+You should not be keeping your money [by trusting] someone else to keep it safe for you.
+
+00:09:18.400 --> 00:09:24.920
+That's just a bank. Part of the reason we're doing this open blockchain is because we don't trust banks.
+

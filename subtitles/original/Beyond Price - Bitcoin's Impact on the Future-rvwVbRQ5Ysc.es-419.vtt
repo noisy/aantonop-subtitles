@@ -1,0 +1,949 @@
+WEBVTT
+Kind: captions
+Language: es-419
+
+00:00:00.040 --> 00:00:02.640
+Estoy realmente entusiasmado de estar aquí,
+
+00:00:02.640 --> 00:00:05.700
+entre otras cosas, porque este es probablemente
+
+00:00:05.700 --> 00:00:08.580
+uno de los lugares más hermosos del planeta.
+
+00:00:08.580 --> 00:00:12.480
+Yo viajo continuamente y visito diversos lugares del mundo,
+
+00:00:12.500 --> 00:00:19.800
+pero en serio, "17-Mile Drive" es simplemente asombroso en su belleza y
+
+00:00:20.060 --> 00:00:22.920
+a veces siento que, tal vez, gastamos demasiado tiempo
+
+00:00:22.920 --> 00:00:27.360
+en el auditorio o en la habitación en vez de simplemente ahí afuera mirando al océano.
+
+00:00:27.360 --> 00:00:32.060
+Así que intentaré hacer esto relativamente corto y hablarles sobre
+
+00:00:32.060 --> 00:00:36.820
+la cosa que descarriló mi vida hace 5 años.
+
+00:00:37.360 --> 00:00:38.880
+Hace 5 años
+
+00:00:39.120 --> 00:00:40.940
+escuché sobre Bitcoin
+
+00:00:41.280 --> 00:00:43.020
+por segunda vez.
+
+00:00:43.540 --> 00:00:46.460
+La primera vez que escuché hablar sobre Bitcoin,
+
+00:00:46.460 --> 00:00:49.500
+en algún momento de 2012, no estoy muy seguro de cuándo exactamente,
+
+00:00:49.500 --> 00:00:52.960
+leí un articulo sobre cómo los sitios de apuestas
+
+00:00:52.960 --> 00:00:55.520
+usaban esta divisa digital.
+
+00:00:55.540 --> 00:00:57.320
+Estuve interesado en divisas digitales,
+
+00:00:57.320 --> 00:00:59.680
+estuve interesado en criptografía
+
+00:00:59.680 --> 00:01:03.480
+y en su aplicación en divisas digitales desde los mediados de los 90.
+
+00:01:04.960 --> 00:01:10.620
+Pero me alejé de ese ámbito y escuché sobre esta cosa "Bitcoin" y pensé:
+
+00:01:11.100 --> 00:01:13.920
+"Apostadores. Dinero de nerds... pff...
+
+00:01:14.160 --> 00:01:15.740
+No estoy interesado."
+
+00:01:16.500 --> 00:01:17.400
+Ahora...
+
+00:01:17.400 --> 00:01:20.860
+Esa es la reacción que prácticamente todos tienen.
+
+00:01:20.860 --> 00:01:27.080
+De hecho, Satoshi Nakamoto -el creador del Bitcoin- cuando anunció sobre Bitcoin,
+
+00:01:27.080 --> 00:01:34.300
+fue extremadamente escéptico sobre su propia creación, no estaba completamente seguro de que fuera a funcionar
+
+00:01:34.300 --> 00:01:36.280
+o de que hubiera algo ahí.
+
+00:01:36.280 --> 00:01:39.340
+Y luego, prácticamente todos a partir de ese punto
+
+00:01:39.340 --> 00:01:40.700
+empezaron a decir:
+
+00:01:40.840 --> 00:01:45.800
+"Pff, esto no va a funcionar. No hay forma de que esto funcione."
+
+00:01:46.220 --> 00:01:48.080
+Y esa fue mi reacción, también.
+
+00:01:48.500 --> 00:01:53.540
+Afortunadamente la segunda vez, que recuerdo bastante bien, sobre el final del 2012,
+
+00:01:53.620 --> 00:01:56.460
+cuando me topé con Bitcoin por segunda vez,
+
+00:01:56.460 --> 00:01:59.560
+la persona que hablaba sobre eso había dejado un link
+
+00:01:59.620 --> 00:02:03.920
+al whitepaper (documento de fundamentos), que explicaba como funcionaba.
+
+00:02:04.260 --> 00:02:09.780
+Ahora... Mi campo profesional es el de las ciencias de la computación, tengo una maestría en sistemas distribuidos
+
+00:02:09.780 --> 00:02:15.440
+que resultó darme la preparación ideal para leer y entender este documento.
+
+00:02:15.840 --> 00:02:18.660
+Y empecé a leerlo; estaba como "Oh, vamos a ver que es esto".
+
+00:02:18.660 --> 00:02:22.380
+Empecé a leerlo y alrededor de la página 3
+
+00:02:22.380 --> 00:02:24.740
+me paralicé. Quedé como:
+
+00:02:25.080 --> 00:02:28.080
+"Esto no es lo que pensé".
+
+00:02:28.080 --> 00:02:29.680
+Y seguí leyendo
+
+00:02:29.680 --> 00:02:31.720
+y sobre el final de ese documento
+
+00:02:31.720 --> 00:02:35.520
+mi vida había sido firmamente descarrilada... Completamente.
+
+00:02:37.240 --> 00:02:40.020
+Lo que comprendí en ese momento fue
+
+00:02:40.020 --> 00:02:42.680
+que este era un invento extremadamente significativo.
+
+00:02:43.680 --> 00:02:48.900
+En ciencias de la computación y sistemas distribuidos estudiamos cierto tipo de problemas difíciles de resolver
+
+00:02:48.900 --> 00:02:52.380
+y uno de esos se llama "El problema de los generales bizantinos"
+
+00:02:52.540 --> 00:02:58.460
+Y es una descripción de un cierto tipo de problema que ocurre en sistemas distribuidos
+
+00:02:58.460 --> 00:03:02.900
+cuando alguien trata de coordinar entre partes que se desconfían mutuamente
+
+00:03:02.900 --> 00:03:06.840
+en una red o un medio de comunicación en el que no confían.
+
+00:03:06.840 --> 00:03:11.920
+¿Cómo coordinas si no puedes confiar en que el mensaje va a ser entregado?
+
+00:03:12.060 --> 00:03:16.340
+Y, como muchos problemas en las ciencias de la computación, se describe con una historia:
+
+00:03:16.700 --> 00:03:19.980
+"Hay una ciudad bajo asedio.
+
+00:03:20.100 --> 00:03:23.080
+Está rodeada por 4 generales.
+
+00:03:23.100 --> 00:03:26.660
+Y estos generales -los generales bizantinos, si les gusta más-
+
+00:03:27.540 --> 00:03:34.420
+ellos no pueden comunicarse porque para comunicarse entre ellos tienen que mandar corredores o mensajeros
+
+00:03:34.420 --> 00:03:39.420
+a través del valle donde está la ciudad; y si lo hacen, los mensajeros quedan comprometidos.
+
+00:03:40.080 --> 00:03:44.940
+Y, entonces, ellos no pueden saber si el mensaje está siendo recibido y no pueden coordinar.
+
+00:03:44.940 --> 00:03:51.140
+Lo que intentan hacer es coordinar una cosa específica. Tratan de coordinar cuándo atacar la ciudad.
+
+00:03:51.140 --> 00:03:56.120
+Si uno de ellos ataca, entonces ellos pierden. Tienen que atacar los 4 a la vez pero,
+
+00:03:56.220 --> 00:04:02.060
+no pueden comunicarse de esa manera entre ellos porque, obviamente, la ciudad en el medio se enteraría.
+
+00:04:02.120 --> 00:04:05.140
+Y no es un problema que puede ser resuelto con encriptación.
+
+00:04:05.340 --> 00:04:07.720
+Porque es un problema de coordinación.
+
+00:04:07.720 --> 00:04:11.880
+En los sistemas distribuidos se trata de lograr estado de sincronización.
+
+00:04:11.880 --> 00:04:17.060
+Pero este problema tiene aplicaciones en muchas áreas de las ciencias de la computación y sistemas distribuidos.
+
+00:04:17.060 --> 00:04:23.020
+Tiene que ver con, por ejemplo, la réplica de base de datos, controles de concurrencia
+
+00:04:23.020 --> 00:04:27.060
+y en toda clase de problemas de sinronización en sistemas distribuidos.
+
+00:04:27.200 --> 00:04:30.460
+Es un problema críticamente importante porque
+
+00:04:30.720 --> 00:04:32.960
+en ausencia de soluciones para esto,
+
+00:04:33.020 --> 00:04:36.420
+la única forma de coordinar es a través de una autoridad central.
+
+00:04:36.840 --> 00:04:43.780
+Y una de las cosas que entendí, prestando atención a las divisas digitales por, en ese momento, casi dos décadas
+
+00:04:43.780 --> 00:04:49.400
+fue que el mayor problema que las divisas digitales privadas tenían era
+
+00:04:49.400 --> 00:04:54.940
+que tenían un coordinador central. Tenían, ya sea, un emisor o una cámara de compensación central
+
+00:04:54.940 --> 00:05:01.320
+que era la responsable de asegurar que el dinero fuera real, que no fuera una falsificación, pero además
+
+00:05:01.320 --> 00:05:05.940
+que la transacción que había ocurrido fuera debidamente compensada
+
+00:05:05.940 --> 00:05:12.020
+para que la persona que realizó dicha transacción no pudiera gastar el mismo dinero 2 veces.
+
+00:05:12.220 --> 00:05:16.800
+En el dominio digital, donde se puede copiar información digital,
+
+00:05:16.820 --> 00:05:21.400
+el problema fundamental es cómo crear escasez.
+
+00:05:21.400 --> 00:05:26.100
+"Escasez" en sentido de que algo es raro (poco común), que no pueda ser copiado.
+
+00:05:26.100 --> 00:05:29.000
+Y, en términos de divisas digitales,
+
+00:05:29.000 --> 00:05:34.780
+la razón por la que se necesita escasez es para que, si yo saco un billete de $50 dólares de mi bolsillo y lo gasto,
+
+00:05:34.780 --> 00:05:39.480
+no pueda simplemente fotocopiarlo y gastarlo de nuevo. Pero, si es un archivo digital,
+
+00:05:39.480 --> 00:05:44.460
+una copia es perfecta, entonces sí lo puedo gastar de nuevo.
+
+00:05:44.460 --> 00:05:47.780
+Entonces, la única forma de resolverlo era tener una autoridad central.
+
+00:05:47.800 --> 00:05:49.880
+Ahora... Mucha gente intentó eso:
+
+00:05:49.880 --> 00:05:54.880
+construyeron servidores y construyeron sistemas que todos los días compensaban todas esas transacciones.
+
+00:05:54.880 --> 00:06:00.400
+Una de la primeras aplicaciones interesantes de eso fue la empresa llamada DigiCash en los mediados de los 90.
+
+00:06:00.400 --> 00:06:04.020
+Ellos crearon una de las primeras divisas digitales.
+
+00:06:05.060 --> 00:06:06.860
+Adivinen ¿qué pasó?
+
+00:06:06.920 --> 00:06:10.500
+Ahora... Si de repente anuncian al mundo: "¡Ey!..."
+
+00:06:10.560 --> 00:06:14.820
+"¿Conocen esta cosa, que es del ámbito exclusivo de entidades soberanas
+
+00:06:14.820 --> 00:06:19.040
+y que es el fundamento de control y poder de todo Estado-Nación?"
+
+00:06:19.060 --> 00:06:22.220
+"Yo lo voy a hacer en mi empresa y gratis!"
+
+00:06:22.220 --> 00:06:28.040
+"Y vamos a correr una divisa digital paralela, completamente diferente, que está afuera del sistema."
+
+00:06:28.040 --> 00:06:33.560
+Bueno, y lo que pasa luego es que viene el Estado-Nación y dice "Ay, qué lindo!"
+
+00:06:33.560 --> 00:06:35.280
+Pisoteado.
+
+00:06:35.280 --> 00:06:37.455
+Y apagan el sistema central.
+
+00:06:37.460 --> 00:06:46.200
+Si se tiene un punto central de quiebre, será: aplastado, demandado, comprado, denegado el servicio, cerrado o apagado, etc...
+
+00:06:46.200 --> 00:06:49.480
+Y eso siguió pasando con las divisas digitales.
+
+00:06:49.480 --> 00:06:55.160
+Ok. De vuelta al 2012. Estaba leyendo el whitepaper y pensaba:
+
+00:06:55.160 --> 00:07:01.400
+"Esta persona resolvió el problema de los generales bizantinos.
+
+00:07:01.400 --> 00:07:07.940
+Hay otras soluciones por ahí, pero no son eficientes. Y esta es, de hecho, una solución práctica.
+
+00:07:07.940 --> 00:07:13.080
+Y con esta solución podemos tener una divisa digital sin un punto central.
+
+00:07:13.080 --> 00:07:16.980
+Y con una divisa sin un punto central no hay nada que apagar.
+
+00:07:16.980 --> 00:07:23.480
+Y si no hay nada que apagar... ¡Oh, cielos! Esto, de hecho, podría funcionar!"
+
+00:07:23.800 --> 00:07:29.820
+Y ESE momento fue donde mi vida fue descarrilada por completo.
+
+00:07:30.200 --> 00:07:34.440
+Los próximos 4 meses fueron un poco nebulosos.
+
+00:07:35.720 --> 00:07:41.900
+Cuando era más joven tenía un problema: me obsesionaba con las tecnologías.
+
+00:07:41.900 --> 00:07:44.960
+Y eso me había pasado 5 veces antes donde
+
+00:07:44.960 --> 00:07:57.000
+podía estar tan inmerso, con emoción, entusiasmo, pasión y enfoque, en un problema específico que me podía perder el mundo.
+
+00:07:57.660 --> 00:08:03.200
+O el mundo me podía perder a mí, si lo quieren ver desde la perspectiva egoísta, pero...
+
+00:08:03.200 --> 00:08:06.560
+podía desaparecer en mi esquina. Eso me pasó a los 11 años:
+
+00:08:06.560 --> 00:08:09.320
+tuve mi primer computadora y comencé a aprender como programar y
+
+00:08:09.320 --> 00:08:13.180
+la programación me voló la cabeza y desaparecí por 6 meses.
+
+00:08:13.180 --> 00:08:21.380
+Emergí casi un año después y podía programar en Assembly, en Basic
+
+00:08:22.060 --> 00:08:24.060
+y podía manejar componentes electrónicos y cosas por el estilo.
+
+00:08:24.060 --> 00:08:28.180
+Y luego tuve mi primer PC y desaparecí por 6 meses.
+
+00:08:28.180 --> 00:08:35.080
+Luego tuve mi primer módem y desaparecí por un año y medio, casi abandonando la escuela desaprobado.
+
+00:08:36.160 --> 00:08:41.460
+En 1989 tuve acceso a una cuenta de Internet.
+
+00:08:42.240 --> 00:08:46.300
+No muy legalmente.
+
+00:08:47.240 --> 00:08:56.220
+Porque tenía 15 y no le daban acceso académico a lo que se llamaba "ARPANET" a quinceañeros.
+
+00:08:56.220 --> 00:09:05.260
+Pero, digamos que, ese profesor de Arqueología no estaba usando su cuenta y, ya saben, estaba ahí así que...
+
+00:09:06.140 --> 00:09:09.200
+El estatuto de limitaciones no contemplaba eso.
+
+00:09:09.380 --> 00:09:10.680
+Afortunadamente.
+
+00:09:11.080 --> 00:09:18.380
+Perdí la razón porque por primera vez en la vida podía comunicarme con gente brillante de alrededor del mundo en esa cosa llamada Internet.
+
+00:09:18.380 --> 00:09:20.040
+Y ellos me enseñaron Unix.
+
+00:09:20.040 --> 00:09:26.980
+Me enseñaron todo tipo de cosas sobre sistemas informáticos, arquitectura y TCP/IP.
+
+00:09:26.980 --> 00:09:31.480
+Y me perdí completamente por un año y medio. Y cada vez que eso pasó
+
+00:09:31.480 --> 00:09:36.660
+intentaba decirle a todos a mi alrededor:
+
+00:09:36.660 --> 00:09:39.440
+"Escucha. Esta cosa es lo mejor que pasó jamás.
+
+00:09:39.440 --> 00:09:41.540
+Va a cambiar el mundo."
+
+00:09:41.540 --> 00:09:45.100
+Y ustedes se pueden imaginar a un quinceañero en Grecia
+
+00:09:45.100 --> 00:09:49.300
+en un país que apenas tenía marcación por tonos en su sistema telefónico, diciendo:
+
+00:09:49.300 --> 00:09:53.620
+"¡Escúchenme! ¡Todos van a estar online!"
+
+00:09:53.620 --> 00:10:03.040
+Y la respuesta era: "Ok. Limpia tu habitación, haz tu tarea y deja de jugar con esa maldita computadora."
+
+00:10:05.440 --> 00:10:12.160
+Cuando me pasó esto con Bitcoin, en ese punto ya tenía la experiencia, el título, la confianza.
+
+00:10:12.160 --> 00:10:16.320
+Y decidí que no iba a escuchar a nadie que me contradijera.
+
+00:10:16.320 --> 00:10:18.220
+Pero me perdí en mí mismo.
+
+00:10:18.220 --> 00:10:25.800
+Pasaron 4 meses, dejé todo mi trabajo, dejé de ofrecer consultoría, dejé de comer.
+
+00:10:25.800 --> 00:10:30.980
+Y todo lo que hacía era leer, escribir código, anotar; leer, escribir código, anotar.
+
+00:10:30.980 --> 00:10:37.360
+Todo el día, 18 horas al día, hasta que caía. Y luego me levantaba al otro día y lo hacía de nuevo.
+
+00:10:38.220 --> 00:10:40.500
+Perdí 25 libras (11,5 kilos aprox.)
+
+00:10:40.720 --> 00:10:48.280
+Mi familia intervino. Me trajeron ese batido de proteínas que tienes que tomar si eres un paciente con cáncer.
+
+00:10:49.080 --> 00:10:52.140
+Porque estaban preocupados.
+
+00:10:53.340 --> 00:10:57.840
+Salí de eso con una nueva carrera, una nueva pasión, una nueva misión:
+
+00:10:58.380 --> 00:11:02.560
+explicarle al mundo qué iba a hacer esa extraña tecnología.
+
+00:11:03.240 --> 00:11:08.300
+A primera vista pueden pensar: "Esto es una oportunidad de inversión".
+
+00:11:08.600 --> 00:11:11.580
+No lo es. Eso no es lo esencial.
+
+00:11:12.040 --> 00:11:18.440
+Si miran a los comienzos de Internet y dicen "¡Genial! Vamos a ganar plata comerciando Yahoo." no están viendo lo esencial.
+
+00:11:19.260 --> 00:11:24.840
+Podemos cambiar la historia. Podemos cambiar a la humanidad con estas tecnologías.
+
+00:11:24.880 --> 00:11:28.920
+Estas tecnologías ofrecen la oportunidad de empoderamiento
+
+00:11:28.920 --> 00:11:31.320
+para todos los individuos del mundo.
+
+00:11:31.480 --> 00:11:37.680
+La oportunidad para la conexión. Y así como el Internet lo hizo para la comunicación,
+
+00:11:37.840 --> 00:11:44.240
+estas nuevas tecnologías, criptodivisas -divisas digitales basadas en Blockchains abiertas y públicas-
+
+00:11:44.240 --> 00:11:49.500
+nos dan la oportunidad de crear una economía moderna totalmente intercomunicada,
+
+00:11:49.920 --> 00:11:54.240
+que es completamente peer-to-peer (red entre pares), completamente horizontal.
+
+00:11:54.680 --> 00:11:59.580
+Y que descarta muchas de las ataduras del pasado.
+
+00:12:00.000 --> 00:12:01.200
+Ahora...
+
+00:12:02.200 --> 00:12:04.520
+Algunos de ustedes probablemente trabajan
+
+00:12:04.860 --> 00:12:07.660
+en algunas de esas ataduras del pasado.
+
+00:12:08.520 --> 00:12:11.400
+Y, tal vez, se sienten un poco incómodos porque,
+
+00:12:11.760 --> 00:12:20.020
+bueno, los bancos llevan varios siglos operando sin mucha competencia y nunca se enfrentaron a una competencia desde el Internet.
+
+00:12:20.400 --> 00:12:22.000
+El Internet se está viniendo.
+
+00:12:22.400 --> 00:12:25.820
+Se llama Bitcoin. Y sólo es el primero.
+
+00:12:26.280 --> 00:12:29.020
+Y se va a llevar puesto el sistema financiero como una tormenta.
+
+00:12:29.040 --> 00:12:36.740
+Va a disrumpir más radicalmente que la mayoría de las industrias disrumpidas por el Internet.
+
+00:12:38.560 --> 00:12:42.300
+Entonces, ¿qué es esta tecnología? ¿De qué se trata?
+
+00:12:43.100 --> 00:12:47.640
+Fundamentalmente se trata de construir una plataforma
+
+00:12:47.800 --> 00:12:52.700
+donde se pueda crear transacciones y registrar hechos
+
+00:12:53.000 --> 00:12:55.760
+sin tener que confiar en ninguna entidad central.
+
+00:12:55.760 --> 00:13:00.600
+Sin siquiera tener que confiar en la otra parte con la que se está realizando la transacción.
+
+00:13:00.600 --> 00:13:08.020
+Y hacerlo en un nivel peer-to-peer, en igualdad de condiciones, como todos los demás.
+
+00:13:08.180 --> 00:13:14.240
+Se traslada la confianza, de ser algo que se le da a las insituciones,
+
+00:13:14.240 --> 00:13:19.400
+jerarquía, burocracia, sistemas del gobierno
+
+00:13:19.560 --> 00:13:25.480
+y en vez de eso, se traslada a una plataforma, plataforma basada en la red
+
+00:13:25.520 --> 00:13:29.820
+que tiene la confianza como una de sus propiedades emergentes.
+
+00:13:29.820 --> 00:13:35.800
+Así como el Internet tiene la comunicación como una de sus propiedades emergentes y...
+
+00:13:37.080 --> 00:13:38.880
+una vez que se hace eso
+
+00:13:39.780 --> 00:13:46.740
+no se necesita jerarquía, no se necesita burocracia, no se necesita una institución.
+
+00:13:46.960 --> 00:13:54.100
+Las instituciones son reemplazadas por las redes. Probablemente hayan escuchado que esto haya pasado antes, probablemente lo hayan visto antes.
+
+00:13:54.280 --> 00:13:58.920
+Todos estamos experimentando esta gran transformación que está sucediendo gracias al Internet.
+
+00:13:59.060 --> 00:14:04.020
+Donde año tras año, década tras década estamos viendo
+
+00:14:04.020 --> 00:14:09.080
+a las grandes instituciones del pasado siendo reemplazadas por las redes planas.
+
+00:14:09.080 --> 00:14:14.840
+Y estas redes planas brindan más eficientemente, más equitativamente
+
+00:14:14.840 --> 00:14:20.480
+y de una forma más abierta y accesible las mismas cosas que brindaban las instituciones, pero mucho más.
+
+00:14:20.480 --> 00:14:24.720
+Lo vimos suceder con las instituciones Augustianas de periodismo,
+
+00:14:24.840 --> 00:14:30.660
+los periódicos, las estaciones de televisión, las empresas cinematográficas, las empresas discográficas.
+
+00:14:30.780 --> 00:14:37.820
+Y una por una se han enfrentado a esta increíble fuerza de desintermediación.
+
+00:14:37.900 --> 00:14:47.180
+Donde ya no es más rentable o siquiera sostenible ser los guardianes, los intermediarios, los apoderados de los demás.
+
+00:14:47.340 --> 00:14:52.080
+Porque los demás pueden encontrarse sin su ayuda.
+
+00:14:52.580 --> 00:14:57.820
+¿Qué pasa cuando esto se traslada a las finanzas?
+
+00:14:57.820 --> 00:15:00.740
+Cuando se traslada a los gobiernos.
+
+00:15:01.020 --> 00:15:08.700
+¿Qué pasa cuando comenzamos a considerar reconstruir las instituciones sociales e instituciones democráticas basadas en la red
+
+00:15:09.740 --> 00:15:14.660
+y modelos de gobiernos basados en los mercado usando esta tecnología?
+
+00:15:15.000 --> 00:15:17.120
+Es verdaderamente transformador.
+
+00:15:17.540 --> 00:15:23.220
+Y si lo único que notan son el precio del Bitcoin, la oportunidad para invertir,
+
+00:15:23.240 --> 00:15:29.640
+los mensajes alocados que vienen desde los medios y desde cada sitio, ustedes están perdiéndose lo esencial.
+
+00:15:30.160 --> 00:15:34.280
+Siendo lo esencial que es una nueva plataforma,
+
+00:15:34.280 --> 00:15:40.320
+una plataforma para la confianza, que es global, abierta, completamente sin fronteras e igualitaria.
+
+00:15:40.320 --> 00:15:46.420
+Y esta plataforma transforma no sólo a las finanzas. La divisa es sólo la primera aplicación
+
+00:15:46.420 --> 00:15:49.500
+de este "Internet del dinero".
+
+00:15:49.700 --> 00:15:52.380
+No es simplemente dinero para el Internet.
+
+00:15:52.680 --> 00:15:56.920
+Es una plataforma hecha y derecha para la confianza.
+
+00:15:57.860 --> 00:16:01.700
+¿Y qué es lo que escuchan en los medios?
+
+00:16:02.760 --> 00:16:04.140
+Narcotraficantes,
+
+00:16:05.340 --> 00:16:06.640
+criminales,
+
+00:16:07.180 --> 00:16:08.660
+pornógrafos
+
+00:16:08.880 --> 00:16:10.980
+están usando esta tecnología.
+
+00:16:11.520 --> 00:16:12.240
+Ahora...
+
+00:16:12.620 --> 00:16:16.540
+Si han estado en Internet por un tiempo, probablemente lo hayan oído antes.
+
+00:16:16.540 --> 00:16:19.720
+Yo lo recuerdo perfectamente, en los comienzos de los 90,
+
+00:16:19.720 --> 00:16:28.260
+cuando todo lo que se oía era que el Internet se trataba de estafadores, ladrones, pornógrafos y criminales.
+
+00:16:28.300 --> 00:16:31.920
+Y todo era tácticas para infundir miedo, todo el tiempo.
+
+00:16:32.320 --> 00:16:38.500
+Y no importó. Porque eventualmente, todos nosotros lo usaríamos.
+
+00:16:38.500 --> 00:16:41.800
+Y no lo usamos para cometer crímenes,
+
+00:16:41.860 --> 00:16:44.740
+no lo usamos para hacer pornografía.
+
+00:16:45.080 --> 00:16:50.360
+Lo usamos para transmitir e intercambiar millones de videos de gatos,
+
+00:16:50.880 --> 00:16:54.720
+porque son lindos y divertidos.
+
+00:16:55.600 --> 00:16:58.480
+Porque eso es lo que la gente hace con la tecnología:
+
+00:16:58.480 --> 00:17:03.880
+proyectan todas sus necesidades, sus deseos, sus motivaciones
+
+00:17:03.960 --> 00:17:08.500
+sobre la sociedad usando tecnología como una herramienta de empodaramiento.
+
+00:17:08.500 --> 00:17:10.980
+Y lo que más nos importa a la mayoría:
+
+00:17:11.080 --> 00:17:21.100
+alimentar a nuestras familias, seguridad, educación, cuidado de la salud, saneamiento, construir un futuro para nuestros hijos.
+
+00:17:22.000 --> 00:17:25.560
+Entonces, cuando escuchan todas esas historias de miedo sobre cómo
+
+00:17:25.560 --> 00:17:30.280
+la posibilidad de darle a la gente acceso al dinero sin impedimentos,
+
+00:17:30.520 --> 00:17:35.160
+permitiéndoles pagarle a quienquiera, dondequiera, sin censura o sin control,
+
+00:17:35.340 --> 00:17:37.900
+liberándolos completamente
+
+00:17:38.060 --> 00:17:41.520
+de los grilletes de los gobiernos opresores
+
+00:17:41.620 --> 00:17:46.460
+y honestamente las corporaciones bancarias que en muchos países
+
+00:17:46.640 --> 00:17:51.580
+son muy difíciles de distinguir del sindicato del crimen organizado.
+
+00:17:52.080 --> 00:17:58.760
+Lo que pasa cuando las personas tienen control sobre sus finanzas y la habilidad para hacer transacciones con quienquiera en el mundo
+
+00:17:58.840 --> 00:18:04.140
+lo que ellos compran son armas de destrucción masiva.
+
+00:18:04.840 --> 00:18:07.680
+Compran videos de gatos.
+
+00:18:09.060 --> 00:18:14.880
+Compran cuidado de la salud, compran comida, compran educación, compran seguridad.
+
+00:18:15.340 --> 00:18:17.240
+Hacen lo que todos hacen.
+
+00:18:17.620 --> 00:18:25.180
+Y entonces, dentro de esta tecnología hay una enorme promesa
+
+00:18:25.480 --> 00:18:30.640
+de una Internet fundamentalmente transformadora
+
+00:18:30.740 --> 00:18:38.400
+y luego transformando algunas de las instituciones fundamentales del mundo, que honestamente nos han fallado.
+
+00:18:38.940 --> 00:18:42.900
+Cuando hablo con las audiencias de alrededor del mundo sobre esta tecnología
+
+00:18:43.000 --> 00:18:47.140
+especialmente en las naciones desarrolladas, lugares como este,
+
+00:18:48.340 --> 00:18:57.800
+hay un poco de confusión: "¿Para qué necesito una divisa peer-to-peer? Tengo Visa. ¿Qué diferencia tiene esto con PayPal?"
+
+00:18:58.180 --> 00:19:04.520
+"¿Qué es lo que hace para mí? ¿Me hace más simple comprar un café en Starbucks?"
+
+00:19:05.140 --> 00:19:11.920
+Y es una pregunta válida porque la única diferencia fundamental de esta tecnología de, digamos, PayPal
+
+00:19:11.920 --> 00:19:14.960
+es el hecho de que es todo eso pero sin PayPal.
+
+00:19:15.180 --> 00:19:22.180
+Sin una empresa central, sin un control central. Y tiene sentido, si no se puede confiar en la empresa.
+
+00:19:23.580 --> 00:19:26.780
+PayPal brinda servicio en 19 países.
+
+00:19:29.040 --> 00:19:31.280
+La última vez que me fijé había 194 países.
+
+00:19:33.440 --> 00:19:35.840
+Los bancos son accesibles
+
+00:19:36.980 --> 00:19:42.860
+a, tal vez, tal vez, 4 billones de personas.
+
+00:19:43.660 --> 00:19:49.420
+2.5 billones de personas no tienen acceso a los sistemas financieros de ningún tipo.
+
+00:19:49.460 --> 00:19:53.260
+Y esas son estadísticas del Banco Mundial que sólo cuentan a la cabeza de la familia.
+
+00:19:53.920 --> 00:19:55.300
+Los que más ganan.
+
+00:19:55.680 --> 00:20:01.680
+Sus hijos, sus esposas son estadísticamente irrelevantes.
+
+00:20:02.680 --> 00:20:09.260
+Si se agrega a toda la gente que tiene un acceso muy limitado a los servicios financieros
+
+00:20:09.440 --> 00:20:12.040
+son la gran mayoría de este mundo.
+
+00:20:12.760 --> 00:20:19.020
+Bitcoin y estas nuevas tecnologías se tratan de los otros 6 millones.
+
+00:20:19.280 --> 00:20:24.060
+Ustedes tienen Visa. ¡Bien por ustedes!
+
+00:20:24.760 --> 00:20:32.780
+Eso los hace parte del 5% de la clase privilegiada con la comodidad financiera en este mundo.
+
+00:20:33.260 --> 00:20:35.600
+El resto del mundo no opera de esa forma.
+
+00:20:35.680 --> 00:20:41.040
+Ustedes tienen una divisa estable. ¡Fantástico! Puedo contar 16 de esas.
+
+00:20:41.540 --> 00:20:46.460
+¿Y qué hay de las otras 160 divisas?
+
+00:20:46.980 --> 00:20:55.180
+Ustedes tienen un gobierno que no trata de sacarlos de su cama a la noche porque han dicho algo indebido o intentado protestar por algo indebido.
+
+00:20:55.440 --> 00:20:56.700
+Aún.
+
+00:20:57.180 --> 00:20:58.900
+¡Genial por ustedes!
+
+00:21:00.240 --> 00:21:01.880
+¡Fantástico!
+
+00:21:02.500 --> 00:21:06.480
+¿Qué hay de todos esos lugares sin esa realidad diaria?
+
+00:21:07.260 --> 00:21:12.220
+Entonces, vivimos en un mundo donde el acceso a los servicios financieros
+
+00:21:12.280 --> 00:21:16.800
+es una de las barreras fundamentales para el desarrollo económico.
+
+00:21:16.960 --> 00:21:22.540
+Y hemos construido un sistema, un sistema cerrado, de controles.
+
+00:21:22.540 --> 00:21:25.280
+SI están en la industria, probablemente saben todo sobre esto.
+
+00:21:25.360 --> 00:21:29.620
+KYC, AML, CTF
+
+00:21:30.480 --> 00:21:35.840
+Know Your Customer (Conozca a su cliente), Anti-Money-Laundering (Prevención del blanqueo de capitales), Control of Terrorist Financing (Control del financiamiento terrorista)
+
+00:21:36.020 --> 00:21:37.660
+¿Han oído esos acrónimos?
+
+00:21:38.260 --> 00:21:42.700
+Lo que hacen esos acrónimos es condenar a 4 billones de personas a la pobreza
+
+00:21:42.740 --> 00:21:48.840
+para mantener nuestra ilusión burguesa de que de alguna forma podemos evitar que el crimen sea cometido
+
+00:21:48.840 --> 00:21:55.240
+si cuidadosamente controlamos a quién tiene acceso a los servicios financieros y con esa ilusión
+
+00:21:56.000 --> 00:22:03.400
+estamos permitiendo que billones de personas no tengan acceso a todo esto, a la economía mundial.
+
+00:22:03.980 --> 00:22:13.400
+Bitcoin es la proposición radical de que todos, estén dónde estén, deberían tener acceso al comercio libre y servicios financieros gratuitos.
+
+00:22:13.720 --> 00:22:18.220
+Y para algunas personas en el mundo estas son proposiciones espantosas.
+
+00:22:18.620 --> 00:22:22.280
+Y para muchos gobiernos estas son proposiciones espantosas.
+
+00:22:22.460 --> 00:22:26.880
+Estoy aquí para decirles: "Todo va a estar bien." De verdad.
+
+00:22:28.200 --> 00:22:32.820
+Porque como dije antes, si le damos a la gente la habilidad de hacer esas cosas
+
+00:22:33.600 --> 00:22:35.300
+las van a usar para hacer el bien.
+
+00:22:36.020 --> 00:22:38.000
+Pero, además, tengo otro mensaje:
+
+00:22:38.680 --> 00:22:46.700
+"Aunque estén asustados; aunque piensen que no deberíamos, que no debemos hacerlo, ya está hecho."
+
+00:22:47.320 --> 00:22:52.380
+Esta tecnología es un sistema fundamental basado en matemáticas.
+
+00:22:52.620 --> 00:22:58.180
+Ahora se sabe que, quienquiera, dondequiera que esté, puede descargarse ese primer libro a la izquierda
+
+00:22:58.260 --> 00:23:04.800
+que es para ingenieros en sistemas, gratis, es de código abierto en GitHub y...
+
+00:23:05.520 --> 00:23:08.420
+un programador muy talentoso de 14 años
+
+00:23:08.420 --> 00:23:17.220
+puede recrear una divisa digital global, infalsificable, totalmente fungible, que incluso sea mejor aún de lo que es Bitcoin hoy
+
+00:23:17.220 --> 00:23:20.360
+en un fin de semana. Y luego lanzarlo al mundo.
+
+00:23:20.360 --> 00:23:26.940
+Este es ahora el mundo en el que vivimos. Esto ya sucedió y no va a volver hacia atrás.
+
+00:23:27.320 --> 00:23:33.060
+No podemos desaprender esta tecnología, no la podemos volver a poner en el bolso.
+
+00:23:33.580 --> 00:23:39.320
+Entonces, ahora tenemos que considerar cómo vivir en un mundo donde quienquiera, dondequiera
+
+00:23:39.740 --> 00:23:42.940
+puede comerciar con quienquiera, dondequiera.
+
+00:23:42.940 --> 00:23:45.780
+Y esas transacciones no pueden ser censuradas
+
+00:23:45.780 --> 00:23:48.620
+y ese sistema no puede ser apagado.
+
+00:23:48.620 --> 00:23:55.300
+Porque es completamente horizontal, completamente descentralizado y puede ser comunicado a través de cualquier medio.
+
+00:23:55.980 --> 00:24:00.760
+Lo que ha hecho esta tecnología fue tomar el dinero
+
+00:24:01.140 --> 00:24:08.960
+de su manifestación física o su implementación centralizada como un token digital abstracto
+
+00:24:09.080 --> 00:24:13.920
+y convertirlo en un tipo de contenido de Internet.
+
+00:24:15.380 --> 00:24:20.300
+Puedo hacer una transacción Bitcoin usando la red Bitcoin.
+
+00:24:20.880 --> 00:24:27.900
+Pero si ésta no está disponible, puedo tomar esa transacción Bitcoin y lo puedo transformar en emojis.
+
+00:24:28.660 --> 00:24:34.320
+Y luego puedo transmitirla usando Skype o Facebook o ponerlo en un anuncio de Craigslist.
+
+00:24:34.780 --> 00:24:38.300
+¿Cómo se puede frenar eso? No se puede.
+
+00:24:38.920 --> 00:24:41.380
+Y ahora éste es el mundo en el que vivimos.
+
+00:24:41.660 --> 00:24:46.800
+Yo pienso que es un mundo bravo. Pienso que no puede ser un mundo maravilloso.
+
+00:24:47.080 --> 00:24:50.820
+Pero lo que sí sé es que va a ser un mundo diferente.
+
+00:24:51.160 --> 00:24:56.080
+Las ondas se están expandiendo. La mayoría de la gente aún no lo ha notado.
+
+00:24:56.560 --> 00:25:02.900
+Ustedes están entre la minúscula porción de la gente que está levantando la cabeza ahora.
+
+00:25:03.240 --> 00:25:09.420
+¿Qué habrían hecho si hubieran aprendido sobre Internet en 1991 en vez de en 2001?
+
+00:25:09.440 --> 00:25:14.640
+¿Cómo habría eso cambiado su vida, su carrera, su empresa?
+
+00:25:15.060 --> 00:25:20.160
+Les traigo este mensaje. Ustedes ahora saben. ¿Qué harán al respecto?
+
+00:25:20.360 --> 00:25:22.080
+¡Gracias!
+

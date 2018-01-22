@@ -1,0 +1,1905 @@
+WEBVTT
+Kind: captions
+Language: hr
+
+00:00:01.931 --> 00:00:05.740
+Njegova najnovija knjiga izišla
+pred 8 dana zove se "Internet novca"
+
+00:00:05.794 --> 00:00:07.963
+je remekdjelo
+za pročitati.
+
+00:00:08.201 --> 00:00:15.370
+Molim pozdravite
+Andreasa Antonopoulusa
+
+00:00:16.769 --> 00:00:19.231
+Dobro jutro svima.
+
+00:00:19.899 --> 00:00:23.772
+Počnimo sa brzom anketom.
+Koliko vas je do sada
+
+00:00:23.797 --> 00:00:28.284
+koristilo digitalnu valutu
+poput bitcoina bar jednom?
+
+00:00:30.460 --> 00:00:33.593
+I koliko vas posjeduje
+bitcoin u ovom trenutku?
+
+00:00:33.618 --> 00:00:36.085
+Ili bilo koju drugu digitalnu valutu?
+
+00:00:36.465 --> 00:00:41.442
+Ok, to možemo popraviti :)
+
+00:00:43.664 --> 00:00:47.394
+Ako želite, možete me potražiti
+kasnije danas.
+
+00:00:47.513 --> 00:00:54.497
+Biti će mi zadovoljstvo pokazati vam kako
+postaviti bitcoin wallet na vašem smartfonu
+
+00:00:54.616 --> 00:01:01.640
+i dati ću vam vaš prvi djelić bitcoina,
+ne cijeli bitcoin
+
+00:01:01.799 --> 00:01:05.846
+i pokazati vam
+kako bitcoin transakcija radi.
+
+00:01:06.006 --> 00:01:11.185
+Jer je bitcoin i revoluciju digitalnih
+valuta koju je on započeo
+
+00:01:11.344 --> 00:01:17.584
+najbolje demonstrirati
+i iskusiti a ne objasniti.
+
+00:01:18.038 --> 00:01:20.868
+Zapravo, vrlo je teško objasniti bitcoin.
+
+00:01:20.895 --> 00:01:23.619
+Ja sam proveo posljednjih
+pet godina
+
+00:01:23.710 --> 00:01:28.736
+učeći kako objasniti bitcoin.
+To je moj full-time posao.
+
+00:01:29.212 --> 00:01:33.508
+Nažalost, ljudi uključeni u razvoj
+nastavljaju razvijati nove stvari
+
+00:01:33.561 --> 00:01:37.873
+koje ja zatim moram
+objašnjavati ispočetka.
+
+00:01:38.482 --> 00:01:40.677
+Zato, na trenutak
+
+00:01:40.810 --> 00:01:45.148
+zaboravite sve što mislite
+da znate o bitcoinu.
+
+00:01:45.360 --> 00:01:49.445
+Zaboravite sve što ste
+čuli o blockchain-u.
+
+00:01:49.471 --> 00:01:52.249
+I započnimo od osnova.
+
+00:01:52.583 --> 00:01:54.037
+U 2011. godini
+
+00:01:54.117 --> 00:01:57.077
+prvi puta sam čuo za bitcoin.
+
+00:01:57.236 --> 00:02:04.220
+I moja reakcija je bila ista kao reakcija
+svih koji su prvi puta čuli za bitcoin
+
+00:02:04.379 --> 00:02:05.886
+uključujući njegovog osnivača.
+
+00:02:06.006 --> 00:02:07.236
+I ta reakcija je bila -
+
+00:02:07.394 --> 00:02:10.331
+HAH! - novac šmokljana !
+
+00:02:11.085 --> 00:02:13.783
+To je vjerojatno samo za kockanje!
+
+00:02:14.657 --> 00:02:18.386
+šest mjeseci poslije
+čuo sam za bitcoin ponovno.
+
+00:02:18.863 --> 00:02:24.616
+I ovaj puta, pročitao sam
+dokument koji je pokrenuo sistem.
+
+00:02:24.981 --> 00:02:30.277
+Iskustvo u informatici i distribuiranim
+sustavima su mi omogučili da vidim
+
+00:02:30.364 --> 00:02:33.602
+dalje od iluzije koju sam imao
+jer sam tako mislio što je bitcoin.
+
+00:02:34.094 --> 00:02:36.125
+I totalno me oduševilo!
+
+00:02:36.765 --> 00:02:39.780
+U mom životu do sada
+dogodilo se šest puta
+
+00:02:39.949 --> 00:02:44.046
+da sam postao apsolutno opsjednut
+
+00:02:44.558 --> 00:02:46.592
+sustavom tehnologije
+
+00:02:46.860 --> 00:02:49.340
+do te mjere da sam zaboravljao jesti
+
+00:02:49.544 --> 00:02:51.161
+zaboravljao spavati
+
+00:02:51.330 --> 00:02:55.555
+i usvajao znanja što sam više mogao.
+
+00:02:56.925 --> 00:03:00.516
+Moj prvi kompjuter
+kada sam bio star 10 godina.
+
+00:03:01.680 --> 00:03:05.053
+Moje prvo iskustvo s programiranjem.
+
+00:03:05.162 --> 00:03:06.789
+Moj prvi modem.
+
+00:03:07.140 --> 00:03:12.278
+Moj prvi pristup na web
+prvi puta kad sam koristio web browser.
+
+00:03:12.884 --> 00:03:18.423
+Prvi puta kad sam downloadao i instalirao
+operativni sustav Linux.
+
+00:03:19.370 --> 00:03:21.463
+I zatim bitcoin.
+
+00:03:21.875 --> 00:03:23.687
+Kada sam ga otkrio
+
+00:03:23.789 --> 00:03:27.863
+proveo sam četiri mjeseca
+"gutajući" što sam više mogao.
+
+00:03:28.432 --> 00:03:30.363
+Osim hrane.
+
+00:03:30.482 --> 00:03:36.011
+Izgubio sam 12 kila
+na vrlo nepreporučljivoj dijeti...
+
+00:03:36.221 --> 00:03:38.987
+... od opsjednutosti!
+
+00:03:40.323 --> 00:03:43.378
+Nisam još "izišao" iz toga
+
+00:03:43.987 --> 00:03:49.159
+Zato što nastavljam pronalaziti nove razine
+i sve dublje razumijem ovo
+
+00:03:50.085 --> 00:03:53.139
+I razlog zbog kojeg je tako fascinantno
+
+00:03:53.324 --> 00:03:58.826
+je to što ono nije
+što se čini na prvi pogled
+
+00:03:59.197 --> 00:04:01.736
+Bitcoin nije novac.
+
+00:04:02.324 --> 00:04:06.372
+Blockchain nije sustav valute.
+
+00:04:07.571 --> 00:04:10.322
+To je platforma povjerenja.
+
+00:04:10.814 --> 00:04:12.322
+To nije kompanija.
+
+00:04:12.608 --> 00:04:14.221
+To nije proizvod.
+
+00:04:14.493 --> 00:04:18.257
+To nije usluga na koju se prijavite.
+
+00:04:19.342 --> 00:04:22.250
+To nije valuta.
+
+00:04:22.543 --> 00:04:26.246
+Valuta je samo prva aplikacija.
+
+00:04:27.188 --> 00:04:36.343
+To je koncept decentralizacije primjenjen
+na ljudsku komunikaciju vrijednosti.
+
+00:04:37.109 --> 00:04:39.702
+Jer,
+Što je novac ?
+
+00:04:40.803 --> 00:04:43.950
+N.Q. nam je rekao
+da je to iluzija.
+
+00:04:44.321 --> 00:04:46.464
+Imaginarno je.
+
+00:04:47.893 --> 00:04:54.797
+Razlog zbog kojeg to ne shvaćamo je što je
+tako duboko ukorjenjeno u našu civilizaciju
+
+00:04:54.903 --> 00:04:59.479
+Novac je jedna od najstarijih tehnologija
+koju ljudska rasa ima.
+
+00:04:59.956 --> 00:05:02.416
+Prethodi pismu.
+
+00:05:02.894 --> 00:05:04.223
+Kako to znamo?
+
+00:05:04.482 --> 00:05:09.402
+Najstariji uzorci pisma su
+proračunske tablice.
+
+00:05:11.486 --> 00:05:16.267
+Oni su zapisi i knjige
+zabilježenih dugova.
+
+00:05:16.625 --> 00:05:19.521
+Novac je postojao prije
+tih zapisa.
+
+00:05:21.187 --> 00:05:26.742
+Mogli biste čak pretpostavaiti da je novac
+imao glasovni oblik
+
+00:05:27.100 --> 00:05:31.147
+sve dok nije trebalo izumiti
+pisani oblik.
+
+00:05:31.227 --> 00:05:34.262
+Pa je pismo izmišljeno za njega.
+
+00:05:36.111 --> 00:05:40.357
+U povjesti novca koja se sada proteže
+desecima tisuća godina
+
+00:05:40.417 --> 00:05:44.960
+bilo je možda pet
+velikih promjena.
+
+00:05:46.290 --> 00:05:48.591
+Od čiste robno-robne razmjene
+
+00:05:48.631 --> 00:05:51.806
+Do uvođenja prvih
+apstraktnih vrijednosti.
+
+00:05:52.282 --> 00:05:53.175
+Školjke,
+
+00:05:53.314 --> 00:05:56.436
+perje, sjemenke, orasi,
+
+00:05:56.496 --> 00:05:58.123
+kamenje.
+
+00:05:59.481 --> 00:06:02.119
+Pa zatim plemeniti metali.
+
+00:06:03.171 --> 00:06:05.512
+Pa zatim papirnati novac.
+
+00:06:05.711 --> 00:06:08.350
+Pa zatim plastični novac.
+
+00:06:08.746 --> 00:06:12.357
+I sada
+Mrežni novac.
+
+00:06:13.817 --> 00:06:16.039
+Bitcoin
+
+00:06:16.198 --> 00:06:22.030
+predstavlja platformu na kojoj možemo
+koristiti valutu kao jednu od aplikacija.
+
+00:06:22.229 --> 00:06:26.011
+Na mreži bez ikakve centralne
+točke za kontrolu.
+
+00:06:26.190 --> 00:06:30.198
+Sistem potpuno decentraliziran
+kao i sami internet.
+
+00:06:30.277 --> 00:06:36.627
+To nije "novac za internet" nego
+"internet novca".
+
+00:06:37.202 --> 00:06:38.988
+I što je novac?
+
+00:06:39.206 --> 00:06:41.468
+Novac je jezik.
+
+00:06:42.416 --> 00:06:45.630
+Novac je lingvistička apstrakcija.
+
+00:06:45.710 --> 00:06:55.222
+Novac je jezik koji koristimo za
+komunikaciju vrijednosti jedni drugima.
+
+00:06:57.277 --> 00:07:01.404
+Novac nam jednostavno omogučava
+da izrazimo vrijednost.
+
+00:07:01.527 --> 00:07:06.354
+A ta vrijednost može imati
+ekonomske posljedice.
+
+00:07:06.593 --> 00:07:09.351
+Ali također ima druge posljedice.
+
+00:07:09.452 --> 00:07:16.615
+Koristimo novac da izrazimo i stvaramo
+društvene veze.
+
+00:07:17.252 --> 00:07:19.771
+I odnose.
+
+00:07:20.133 --> 00:07:22.236
+I asocijacije.
+
+00:07:22.687 --> 00:07:26.893
+I da stvaramo organizaciju.
+
+00:07:29.115 --> 00:07:31.159
+Bitcoin je
+
+00:07:31.199 --> 00:07:33.561
+prvi sustav novca
+
+00:07:33.601 --> 00:07:41.443
+kojeg ne kontrolira nitko,
+koji je potpuno decentraliziran.
+
+00:07:42.208 --> 00:07:50.998
+I to što predstavlja i donosi je potpuno
+isto što je internet donio za komunikaciju.
+
+00:07:51.684 --> 00:07:53.797
+Ako je novac govor,
+
+00:07:53.946 --> 00:07:59.572
+ako je novac jezik
+i odvojite ga od svih drugih medija
+
+00:07:59.833 --> 00:08:08.178
+učinite ga čistim jezikom, čistim sadržajem
+internet tipom sadržaja i oznakom protokola
+
+00:08:08.635 --> 00:08:12.860
+Novac-preko-IP
+(IP novac)
+
+00:08:13.006 --> 00:08:17.549
+To ga potpuno odvaja od ovih
+prijašnjih pojmova...
+
+00:08:17.705 --> 00:08:19.986
+od nacija
+
+00:08:20.027 --> 00:08:26.138
+od suverenih izdavača,
+od institucija koje kontroliraju
+
+00:08:26.571 --> 00:08:31.770
+Tako prelazimo sa novca baziranog na
+institucijama na novac baziran na mreži.
+
+00:08:31.870 --> 00:08:37.042
+I naravno, svi će ovo pozdraviti
+širom raširenih ruku.
+
+00:08:37.241 --> 00:08:39.245
+Nema šanse.
+
+00:08:40.120 --> 00:08:43.220
+Što mislite da su rekli
+prvi puta kada je nekome
+
+00:08:43.273 --> 00:08:48.273
+umjesto zlatnih novčića pokazana
+potvrda o depozitu zlata?
+
+00:08:48.568 --> 00:08:54.858
+Rekli su -
+Hah! To nije novac! Makni se!
+
+00:08:55.193 --> 00:08:59.642
+Što mislite da se dogodilo
+u 1950-tima kad se prvi puta
+
+00:08:59.696 --> 00:09:04.881
+netko pojavio u hotelu
+i pokazao svoju Diners karticu
+
+00:09:04.928 --> 00:09:09.274
+i rekao
+"platiti ću s ovim komadom papira"
+
+00:09:10.067 --> 00:09:14.174
+To nije novac!
+Makni se.
+
+00:09:14.770 --> 00:09:20.564
+A sada smo na rubu
+nove transformacije novca.
+
+00:09:21.034 --> 00:09:26.643
+Na rubu smo stvaranja prvog
+potpuno globalnog
+
+00:09:26.689 --> 00:09:31.074
+potpuno bezgraničnog
+potpuno decentraliziranog
+
+00:09:31.228 --> 00:09:34.263
+i potpuno otvorenog
+oblika novca.
+
+00:09:34.366 --> 00:09:39.285
+na kojemu možete sagraditi aplikacije,
+jer ovaj novac je programabilan.
+
+00:09:39.432 --> 00:09:43.610
+I nije potrebno nikoga tražiti za
+dopuštenje da pokrenete neku aplikaciju
+
+00:09:43.635 --> 00:09:49.111
+baš kao što ne morate tražiti dopuštenje
+da biste pokrenuli aplikaciju na internetu.
+
+00:09:49.187 --> 00:09:53.737
+jedini uvjet za uspješnu aplikaciju na
+internetu novca su
+
+00:09:53.816 --> 00:09:56.648
+dva zainteresirana sudionika.
+
+00:09:56.752 --> 00:10:01.157
+To je vaš "udio tržišta"
+i imate aplikaciju.
+
+00:10:01.726 --> 00:10:04.683
+I milijon aplikacija će procvasti.
+
+00:10:04.901 --> 00:10:11.489
+Kad pomaknete inovaciju na rubove mreže,
+kad uklonite potrebu za dopuštenjem,
+
+00:10:11.729 --> 00:10:13.396
+što se događa?
+
+00:10:13.488 --> 00:10:18.369
+Eksponencijalna eksplozija
+u inovacijama.
+
+00:10:18.856 --> 00:10:22.485
+Aplikacije koje se nisu mogle graditi
+na starim sustavima novca
+
+00:10:22.512 --> 00:10:24.341
+jer su zahtjevali dopuštenje.
+
+00:10:24.442 --> 00:10:28.470
+jer su zahtjevali
+značajno velik udio tržišta
+
+00:10:28.571 --> 00:10:34.742
+Jer su zahtjevali prihvaćanje mnogih
+da bi bili uopće dostupni.
+
+00:10:35.278 --> 00:10:36.727
+Sada
+
+00:10:36.786 --> 00:10:39.584
+Ništa od tih zahtjeva više ne postoji.
+
+00:10:40.169 --> 00:10:47.887
+Svatko na svijetu može preuzeti aplikaciju
+ili koristiti samo mobitel sa SMS porukama
+
+00:10:48.026 --> 00:10:55.803
+I odmah dobiti iste ovlasti
+koje imaju današnje bankovne institucije.
+
+00:10:56.280 --> 00:11:01.523
+I kad kažem "svatko",
+tek zagrebem površinu
+
+00:11:01.642 --> 00:11:09.261
+Zato što, ironično, ne samo da Bitcoin
+i Blockchain ne raspoznaje granice
+
+00:11:09.440 --> 00:11:13.626
+također
+ne raspoznaje ljude.
+
+00:11:14.388 --> 00:11:20.797
+Nema veze jeste li osoba
+ili hladnjak.
+
+00:11:21.233 --> 00:11:23.733
+Ili samovozeći auto.
+
+00:11:24.082 --> 00:11:30.193
+Kroz povijest novca posjedovanje
+valute zahtjevalo je osobnost.
+
+00:11:30.788 --> 00:11:38.745
+Ili kao pojedinac
+ili kao grupa ljudi ili korporacija.
+
+00:11:39.313 --> 00:11:43.777
+Bitcoin mogu posjedovati strojevi
+Bitcoin mogu posjedovati računalni programi
+
+00:11:43.817 --> 00:11:46.157
+Strojevi mogu plaćati
+jedni drugima.
+
+00:11:46.269 --> 00:11:50.000
+I to više nije samo
+ekonomska aktivnost.
+
+00:11:50.099 --> 00:11:53.293
+To je osnova za sustave
+sigurnosti bazirane na tržištu.
+
+00:11:53.472 --> 00:11:57.678
+To  je osnova za stvaranje veza
+za autentifikaciju među uređajima.
+
+00:11:57.749 --> 00:12:02.114
+To je osnova za nove aplikacije
+kakve nikad prije nisu bile napravljene.
+
+00:12:02.261 --> 00:12:07.657
+Bitcoin i blockchain tehnologija ujedinjuju
+sustave novca.
+
+00:12:07.763 --> 00:12:10.858
+Danas imamo novčane sustave
+za mala plaćanja
+
+00:12:11.097 --> 00:12:13.339
+Novčane sustave za
+velika plačanja.
+
+00:12:13.438 --> 00:12:16.434
+Imamo novčane sustave za
+plaćanje između pojedinaca.
+
+00:12:16.533 --> 00:12:19.370
+Imamo novčane sustave za
+plačanja između tvrtki.
+
+00:12:19.410 --> 00:12:22.585
+Imamo novčane sustave za
+plačanja između vlada.
+
+00:12:22.692 --> 00:12:24.775
+Podsjeća li vas to na nešto?
+
+00:12:24.916 --> 00:12:28.328
+Tako je izgledala komunikacija
+prije interneta.
+
+00:12:28.547 --> 00:12:32.098
+Imali smo sustave za
+komunikaciju za slike
+
+00:12:32.138 --> 00:12:34.499
+sustave za komunikaciju
+za pisma
+
+00:12:34.553 --> 00:12:37.906
+sustave za komunikaciju na male
+udaljenosti i na velike udaljenosti
+
+00:12:37.966 --> 00:12:41.952
+Internet je došao i
+objedinio ih sve.
+
+00:12:42.032 --> 00:12:45.881
+Ono što radi internet novca
+je da stvara jedinstvenu mrežu
+
+00:12:45.940 --> 00:12:52.274
+koja može procesirati sve
+od mikro-transakcija do giga-transakcija
+
+00:12:52.413 --> 00:12:59.377
+u sekundama, bilo gdje u svijetu,
+za svakog sudionika, bez dopuštenja.
+
+00:12:59.596 --> 00:13:04.001
+Ali ako vidite samo aplikaciju novca
+promiče vam poanta.
+
+00:13:04.293 --> 00:13:09.333
+Jer možete uzeti jezik, osnovne blokove
+koji sačinjavaju ovu platformu
+
+00:13:09.809 --> 00:13:16.654
+i iskoristiti ih da konstruirate
+druge jezike koji izražavaju vrijednost.
+
+00:13:16.992 --> 00:13:18.817
+Bonove
+
+00:13:19.016 --> 00:13:20.881
+nagradne bodove
+
+00:13:20.976 --> 00:13:24.785
+Nagrade za lojalnost.
+
+00:13:25.103 --> 00:13:32.761
+Danas ima više od 1000 digitalnih valuta
+nastalih na istom principu kao Bitcoin.
+
+00:13:33.059 --> 00:13:35.698
+Većina njih
+je smeće.
+
+00:13:35.797 --> 00:13:38.178
+Neke od njih nisu.
+
+00:13:38.278 --> 00:13:43.425
+Kroz sljedeće desetljeće
+vidjeti ćemo desetke tisuća
+
+00:13:43.485 --> 00:13:47.450
+a zatim stotine tisuća
+valuta.
+
+00:13:47.610 --> 00:13:52.748
+Neki će imati ekonomsku svrhu,
+drugi će jednostavno biti znakovi odanosti
+
+00:13:52.808 --> 00:13:54.375
+pripadnosti.
+
+00:13:55.023 --> 00:13:59.892
+Predstavljati će predmete
+u stvarnom svijetu.
+
+00:13:59.991 --> 00:14:03.384
+Vlasništvo nad nekretninom.
+
+00:14:03.722 --> 00:14:07.232
+Kontrolni ključ za automobil.
+
+00:14:07.391 --> 00:14:10.208
+Koji se može prenjeti s
+jednog vlasnika na drugog
+
+00:14:10.327 --> 00:14:13.958
+i pet sekundi kasnije novi vlasnik
+može sjesti u auto i odvesti se
+
+00:14:13.998 --> 00:14:19.414
+jer auto može potvrditi
+novo vlasništvo
+
+00:14:19.591 --> 00:14:24.821
+Ne možemo još ni zamisliti
+kakove aplikacije ćemo sagraditi na ovome
+
+00:14:24.980 --> 00:14:28.214
+Ali jedna od zanimljivih stvari
+koju počinjemo primjećivati
+
+00:14:28.738 --> 00:14:36.515
+Je da novac spontano proizlazi iz
+društvenog okvira homo sapiensa.
+
+00:14:36.912 --> 00:14:39.888
+Čak se javlja kod primata.
+
+00:14:39.948 --> 00:14:43.420
+Možete naučiti majmune novcu.
+
+00:14:43.480 --> 00:14:46.297
+Možete naučiti delfine novcu.
+
+00:14:46.693 --> 00:14:50.860
+Možete naučiti papige novcu.
+
+00:14:51.693 --> 00:14:55.126
+I oni će naučiti kako mijenjati
+apstraktne znakove za hranu.
+
+00:14:55.185 --> 00:14:58.816
+I zatim ih iskoristiti da izgrade
+društvene odnose
+
+00:14:59.054 --> 00:15:03.598
+Također će izumiti
+nasilnu pljačku
+
+00:15:03.678 --> 00:15:08.678
+Prebiti drugog majmuna, uzeti
+njegove kamenčiće, pojesti banane.
+
+00:15:09.234 --> 00:15:14.335
+I vidimo kako se ta ista stvar događa
+kod djece.
+
+00:15:14.395 --> 00:15:17.986
+Mala djeca izume novac
+u vrtiću.
+
+00:15:18.066 --> 00:15:24.236
+Blokovi, gumene trakice, pokemon karte
+i drugi mali znakovi.
+
+00:15:24.360 --> 00:15:30.074
+Apstrakti vrijednosti koje razmjenjuju
+da utvrde društvene odnose
+
+00:15:30.134 --> 00:15:31.900
+da izraze odanost
+i prijateljstvo.
+
+00:15:32.138 --> 00:15:36.046
+Da nauče o dijeljenju.
+
+00:15:36.800 --> 00:15:39.896
+Djeca će izgrađivati valute.
+
+00:15:40.151 --> 00:15:49.218
+Samo ovaj puta, te valute će biti globalne,
+nekrivotvorive i skalabilne od prvog dana.
+
+00:15:49.351 --> 00:15:55.402
+Za nekoliko godina Maria će pokrenuti
+Maria-coin u svojem vrtiću.
+
+00:15:55.601 --> 00:16:01.097
+da se nadmeće sa Joey-coinom
+i to neće značiti ništa nikome.
+
+00:16:01.513 --> 00:16:04.866
+Dok, naravno, Justin Bieber ne pokrene
+JustinBieber-coin
+
+00:16:04.926 --> 00:16:09.688
+I dogodi se da on premaši ukupnu tržišnu
+vrijednost od 30 nacija na ovom planetu.
+
+00:16:09.966 --> 00:16:20.541
+i svi pišemo zgrožena urednička mišljenja
+kako je svijet otišao kvragu.
+
+00:16:24.144 --> 00:16:30.691
+Ovo što se događa sa ovom tehnologijom je
+zaprepaščujuće duboko
+
+00:16:30.950 --> 00:16:38.092
+I zasigurno pomalo zastrašujuće
+za neke kompanije u ovoj prostoriji.
+
+00:16:38.641 --> 00:16:44.038
+Bankarstvo nikada nije bilo
+najinventivniji sektor u svijetu.
+
+00:16:44.405 --> 00:16:47.619
+Jer je uvijek prisutan precizni balans
+
+00:16:47.658 --> 00:16:53.075
+između inovacije i konzervativne
+fiducijarne dužnosti
+
+00:16:53.214 --> 00:16:55.099
+koji postoji u bankarstvu
+
+00:16:55.142 --> 00:17:00.716
+koji mora postojati
+kad kontrolirate novac drugih ljudi.
+
+00:17:01.292 --> 00:17:06.332
+A kod Bitcoina
+ne kontrolirate novac drugih ljudi
+
+00:17:06.451 --> 00:17:09.963
+Kod Bitcoina ja kontroliram
+svoj novac
+
+00:17:10.181 --> 00:17:15.578
+Ja imam kompletan i totalni
+autoritet nad svojim bitcoinom.
+
+00:17:15.767 --> 00:17:21.203
+Ne može biti oduzet, ne može biti zamrznut,
+ne može biti cenzuriran.
+
+00:17:21.243 --> 00:17:25.747
+Moje transakcije se ne mogu presresti
+i ne mogu se zaustaviti.
+
+00:17:25.999 --> 00:17:31.058
+I to mogu gotovo potpuno anonimno
+a tako može i bilo tko
+
+00:17:31.158 --> 00:17:36.795
+5 minuta nakon što preuzme aplikaciju
+i novac se promijenio zauvijek
+
+00:17:36.835 --> 00:17:41.300
+I bankarstvo se promijenilo zauvijek.
+
+00:17:41.974 --> 00:17:49.117
+Ideja da možete nastaviti u industriji
+novca, u industrijama trgovine
+
+00:17:49.355 --> 00:17:53.799
+i zadržati isti konzervativni stav
+
+00:17:53.938 --> 00:17:57.192
+koji je postojao
+sada već stoljećima
+
+00:17:57.952 --> 00:18:04.526
+Još otkako su trgovci u
+Veneciji i u Amsterdamu
+
+00:18:04.599 --> 00:18:09.797
+počeli izdavati certifikate o depozitima
+i pružati bankovne usluge.
+
+00:18:11.134 --> 00:18:13.138
+To je prošlo.
+
+00:18:14.170 --> 00:18:15.995
+To je prošlo.
+
+00:18:16.811 --> 00:18:24.390
+Ne možete upravljati zatvorenim
+sustavima koji imaju granice
+
+00:18:24.442 --> 00:18:26.752
+i koji zahtjevaju
+dozvolu za uključenje
+
+00:18:26.844 --> 00:18:32.034
+tempom inovacije koji kontroliraju
+najkonzervativnije tendencije u vašoj
+
+00:18:32.085 --> 00:18:34.173
+organizaciji.
+Jer sada se natječete
+
+00:18:34.264 --> 00:18:37.576
+sa tehnologijom koja omogučava
+eksponencijalni rast
+
+00:18:37.629 --> 00:18:39.507
+eksponencijalnu inovaciju.
+
+00:18:39.571 --> 00:18:44.886
+Na rubovima,  bez dopuštenja,
+od svakog na svijetu.
+
+00:18:45.085 --> 00:18:49.085
+I to nije do nikoga u ovoj prostoriji.
+
+00:18:49.278 --> 00:18:50.272
+Zašto?
+
+00:18:50.413 --> 00:18:54.144
+Mi predstavljamo
+privilegiranu elitu.
+
+00:18:54.488 --> 00:18:59.447
+Ja si mogu odmah otvoriti brokerski
+račun online
+
+00:18:59.488 --> 00:19:04.170
+i unutar 12 sati mogu početi
+trgovati na Tokijskoj burzi u Yenima.
+
+00:19:04.210 --> 00:19:08.130
+To je privilegija
+koju ja imam.
+
+00:19:08.237 --> 00:19:12.417
+1.5 milijardi ljudi ima tu privilegiju.
+
+00:19:12.689 --> 00:19:16.895
+6 milijardi ljudi može uglavnom baratatii
+samo jednom valutom
+
+00:19:17.002 --> 00:19:19.753
+i možda imaju neke osnovne
+bankovne servise
+
+00:19:19.912 --> 00:19:22.689
+4 milijarde ljudi su znatno
+ograničeni
+
+00:19:22.795 --> 00:19:29.673
+i nevjerojatnih 2 i pol milijarde ljudi
+su potpuno bez pristupa bankovnim servisima
+
+00:19:30.530 --> 00:19:33.334
+Oni će preskočiti !
+
+00:19:33.519 --> 00:19:37.064
+Oni neće nikada imati odnos
+sa bankom.
+
+00:19:37.293 --> 00:19:44.251
+Svako dijete rođeno danas
+neće nikada imati bankovni račun.
+
+00:19:44.348 --> 00:19:46.993
+Oni će imati bankovnu aplikaciju.
+
+00:19:47.046 --> 00:19:49.718
+Bankovnu aplikaciju koja im ne daje
+bankovni račun.
+
+00:19:49.798 --> 00:19:53.342
+Bankovnu aplikaciju koja ih čini bankarima.
+
+00:19:53.395 --> 00:19:58.539
+Međunarodnim bankarima.
+
+00:19:58.884 --> 00:20:04.492
+Neće im biti dozvoljeno otvoriti bankovni
+račun prije nego što napune 16 godina.
+
+00:20:04.545 --> 00:20:11.847
+Do tada će oni imati bar 6 ili više godina
+iskustva sa digitalnim valutama.
+
+00:20:11.873 --> 00:20:17.349
+Volio bi ih vidjeti kako ulaze u poslovnicu
+banke kako bi im netko objasnio
+
+00:20:17.402 --> 00:20:21.556
+što znači 3-5 radna dana.
+
+00:20:23.510 --> 00:20:28.641
+Vrlo je vjerojatno da djeca danas rođena
+nikada neće imati vozačke dozvole jer će
+
+00:20:28.668 --> 00:20:34.779
+imati samovozeće automobile ali također
+nikada neće koristiti papirnati novac.
+
+00:20:34.804 --> 00:20:39.303
+jer dok porastu do te dobi da zaista
+počnu koristiti novac
+
+00:20:39.383 --> 00:20:42.292
+neće više biti papirnatog novca.
+
+00:20:42.372 --> 00:20:50.915
+To će im se činiti tako zastarjelo
+kao nama telefaks ili zaprežna kola.
+
+00:20:51.471 --> 00:20:55.757
+Eksponencijalna inovacija
+na globalnoj bazi.
+
+00:20:55.915 --> 00:20:59.831
+Pružanje pristupa za
+preostalih 6 milijardi.
+
+00:21:00.280 --> 00:21:03.825
+Oni imaju
+enormnu potrebu
+
+00:21:03.958 --> 00:21:08.190
+i ovaj sustav
+im nudi rješenje
+
+00:21:08.893 --> 00:21:11.326
+Još nije spremno.
+
+00:21:11.459 --> 00:21:13.416
+U začecima je.
+
+00:21:13.549 --> 00:21:19.368
+Komplicirano je.
+Većini ljudi je nemoguće za korištenje.
+
+00:21:19.395 --> 00:21:22.808
+1989. sam poslao svoj prvi
+e-mail.
+
+00:21:22.914 --> 00:21:28.284
+Da bih to napravio morao sam
+kompajlirati UNIX email program.
+
+00:21:28.332 --> 00:21:32.327
+Koristeći C kompajler i vještine
+u komandnoj liniji UNIX-a.
+
+00:21:32.353 --> 00:21:37.274
+Morao sam to podesiti u komandnoj liniji,
+utipkati svoj mail.
+
+00:21:37.480 --> 00:21:40.998
+I taj email je odaslan
+
+00:21:41.183 --> 00:21:45.046
+Preko velikog Interneta
+u začuđujućih
+
+00:21:45.231 --> 00:21:48.695
+3 dana.
+
+00:21:48.854 --> 00:21:51.632
+Točno 20 godina kasnije
+
+00:21:51.870 --> 00:21:56.103
+moja mama je ponovila
+istu stvar
+
+00:21:56.208 --> 00:21:59.171
+potezom prsta.
+
+00:21:59.965 --> 00:22:02.081
+Bitcoin danas
+
+00:22:02.118 --> 00:22:11.016
+kao i sve ostale valute po uzoru na njega
+su na istom nivou kao internet 1991.
+
+00:22:11.281 --> 00:22:15.593
+Samo što sada
+imamo internet.
+
+00:22:16.175 --> 00:22:21.466
+I zbog toga je već započeo
+eksponencijalni rast.
+
+00:22:21.678 --> 00:22:26.371
+Inovacija raste
+zaprepašćujućom brzinom.
+
+00:22:26.451 --> 00:22:32.958
+Ja provodim svaki dan, puno radno
+vrijeme, pokušavajući pratiti Bitcoin,
+
+00:22:33.012 --> 00:22:37.033
+samo jednu valutu.
+I to je gotovo nemoguće.
+
+00:22:37.192 --> 00:22:40.419
+Nemojte podcjenjivati ovo.
+
+00:22:40.538 --> 00:22:49.294
+Nemojte slušati ljude koji vam govore da je
+bitcoin samo za pornografe, teroriste
+
+00:22:49.321 --> 00:22:52.628
+dilere droge i kockare.
+
+00:22:52.963 --> 00:22:58.730
+Sjetite se da su govorili
+potpuno isto za internet!
+
+00:22:58.863 --> 00:23:05.530
+I kada ga date milijardama ljudi
+oni nisu zainteresirani za te stvari.
+
+00:23:05.582 --> 00:23:09.233
+Njih zanima dijeljenje
+videa sa mačkama.
+
+00:23:09.339 --> 00:23:13.307
+I sada imamo internet
+sa milijardom snimaka mačaka.
+
+00:23:13.356 --> 00:23:20.393
+Kada digitalnu valutu date onim milijardama
+ljudi koji su bili izolirani
+
+00:23:20.445 --> 00:23:23.197
+od međunarodnog financiranja
+i trgovine
+
+00:23:23.277 --> 00:23:25.843
+i date im mogućnost da
+sami kontroliraju svoj novac
+
+00:23:25.869 --> 00:23:31.408
+protiv despotskih vlada i korumpiranih
+banaka koje kradu od njih
+
+00:23:31.699 --> 00:23:35.138
+dajete im mogućnost da
+kontroliraju svoju budućnost
+
+00:23:35.218 --> 00:23:38.787
+dajete im mogučnost da rade
+transakcije sa svima na svijetu
+
+00:23:38.840 --> 00:23:42.094
+da imaju pravo vlasništva
+nad svojom imovinom
+
+00:23:42.121 --> 00:23:46.776
+U potpuno prenosivom digitalnom obliku
+koji je svagdje prepoznat.
+
+00:23:46.801 --> 00:23:53.680
+Kontrolu nad sredstvima koja se ne mogu
+blokirati, zamrznuti niti cenzurirati.
+
+00:23:53.722 --> 00:23:56.579
+Oni će kupovati hranu
+
+00:23:57.426 --> 00:24:00.177
+zdravstvenu skrb,
+sanitarne uređaje,
+
+00:24:00.468 --> 00:24:02.823
+edukaciju, zaklon
+
+00:24:03.299 --> 00:24:05.495
+jer to svi radimo.
+
+00:24:05.997 --> 00:24:11.182
+I neće im se uskratiti
+ova tehnologija.
+
+00:24:12.044 --> 00:24:16.064
+Nemojte podcjenjivati
+kamo ovo ide.
+
+00:24:16.303 --> 00:24:22.599
+Internet Novca je pokrenut 03.01.2009.
+To dolazi ,
+
+00:24:22.970 --> 00:24:28.102
+dolazi brže nego što možete zamisliti
+dublje je nego što možete dokučiti.
+
+00:24:28.186 --> 00:24:32.514
+Sofisticiranije je nego što možete
+odmah razumijeti.
+
+00:24:32.567 --> 00:24:38.466
+Potrebne su godine proučavanja
+samo da bi se shvatile sve implikacije.
+
+00:24:39.101 --> 00:24:41.350
+I to je poklon.
+
+00:24:41.509 --> 00:24:43.334
+Cijelom svijetu.
+
+00:24:43.395 --> 00:24:50.802
+Tehnologija koja predstavlja šestu
+najveću inovaciju u tehnologiji novca
+
+00:24:50.882 --> 00:24:59.718
+Najstariju tehnologiju
+naše civilizacije. Hvala.
+
+00:25:02.831 --> 00:25:10.027
+Hoćemo li čuti pitanja?
+Imamo dovoljno vremena za pitanja.
+
+00:25:13.083 --> 00:25:16.099
+Što određuje kupovnu moć valute?
+
+00:25:16.310 --> 00:25:19.908
+Kako se stabilizira i što je potrebno
+da se stabilizira?
+
+00:25:19.961 --> 00:25:24.220
+Ako bih kupio nešto bitcoina,
+tko manipulira njegovom vrijednosti?
+
+00:25:24.379 --> 00:25:26.733
+Err.. svatko.
+
+00:25:27.263 --> 00:25:31.442
+Kupovna moć bitcoina određuje se na
+potpuno isti način
+
+00:25:31.496 --> 00:25:35.094
+kao kupovna moč eura, britanske
+funte, japanskog yena ili američkih dolara
+
+00:25:35.262 --> 00:25:41.320
+tržišnim zakonima ponude i potražnje
+na međunarodnim burzama koje rade non-stop
+
+00:25:41.373 --> 00:25:45.686
+Jedna od glavnih razlika je ta što
+trgovanje bitcoinom nikad ne prestaje.
+
+00:25:45.712 --> 00:25:49.415
+Traje neprekidno već sedam godina,
+mreža nikad ne staje.
+
+00:25:49.469 --> 00:25:53.148
+Svakih 10 minuta
+srce bitcoina kuca.
+
+00:25:53.228 --> 00:25:55.662
+I transakcije
+se procesiraju.
+
+00:25:55.820 --> 00:25:59.868
+Burze se nikada ne zatvaraju.
+Ne postoji zaključna cijena za bitcoin.
+
+00:25:59.894 --> 00:26:02.167
+Postoji samo
+relativni prosjek.
+
+00:26:02.564 --> 00:26:05.686
+I u tom međunarodnom
+ trgovanju je sada
+
+00:26:05.766 --> 00:26:08.676
+ukupna tržišna vrijednost
+oko 12 milijardi dolara.
+
+00:26:08.702 --> 00:26:12.089
+Što je 12 milijardi dolara
+za globalnu valutu?
+
+00:26:12.274 --> 00:26:13.914
+To je sitna ribica
+
+00:26:14.068 --> 00:26:16.131
+pliva u vodama
+punim morskih pasa
+
+00:26:16.713 --> 00:26:23.459
+Svaki veći trgovac poput kita
+tamo razbacuje tu cijenu po svuda.
+
+00:26:23.728 --> 00:26:27.458
+I tako, upravo sada
+iskustvo života na bitcoinu
+
+00:26:27.485 --> 00:26:31.135
+što ja radim već
+duže od 3 godine
+
+00:26:31.479 --> 00:26:33.252
+Je rollercoaster!
+
+00:26:33.516 --> 00:26:35.871
+To je potpuni rollercoaster!
+
+00:26:36.241 --> 00:26:40.448
+Viđao sam pomake od
+20-30% na dan
+
+00:26:40.694 --> 00:26:44.715
+I ipak, ako pogledate
+dugoročni trend
+
+00:26:45.033 --> 00:26:48.366
+Količine trgovanja se povečavaju,
+broj transakcija se povečava
+
+00:26:48.446 --> 00:26:51.329
+i nestabilnost
+se smanjuje.
+
+00:26:51.620 --> 00:26:53.578
+I najljepša
+stvar u tome je...
+
+00:26:53.631 --> 00:26:58.657
+To ne mogu prodati Amerikancu.
+To ne mogu prodati Britancu.
+
+00:26:58.936 --> 00:27:02.163
+To ne moram
+prodati Argentincu.
+
+00:27:02.243 --> 00:27:04.888
+To ne moram
+prodati Brazilcu.
+
+00:27:04.993 --> 00:27:08.247
+To ne moram
+prodati Venecuelcu.
+
+00:27:08.512 --> 00:27:13.274
+Išao sam na konferenciju
+i Argentinac mi je rekao
+
+00:27:13.697 --> 00:27:16.237
+Ne brine me nestabilnost.
+
+00:27:16.290 --> 00:27:20.152
+Naša valuta ima
+ovakovu nestabilnost.
+
+00:27:20.629 --> 00:27:24.121
+Bitcoin ima
+ovakovu nestabilnost.
+
+00:27:24.174 --> 00:27:27.940
+Radije bih išao
+u ovom smjeru.
+
+00:27:29.104 --> 00:27:32.041
+I nemorate im
+reći zašto.
+
+00:27:32.464 --> 00:27:37.527
+Njihova vlada je bacala ljude
+iz aviona pred ne više od 35 godina.
+
+00:27:37.554 --> 00:27:39.326
+jer se nisu slagali.
+
+00:27:39.565 --> 00:27:45.622
+Oni već znaju zašto je
+odvajanje države od novca dobra ideja.
+
+00:27:45.765 --> 00:27:50.606
+I tako. Nestabilnost je
+relativna.
+
+00:27:54.786 --> 00:27:57.061
+Još pitanja?
+Hajde!
+
+00:27:57.585 --> 00:27:59.691
+Pričekajte sekundu,
+dajmo vam mikrofon.
+
+00:28:04.824 --> 00:28:07.390
+Hvala, odličan govor.
+
+00:28:07.417 --> 00:28:10.433
+Zvučalo je kao tek
+jedna strana novčića.
+
+00:28:10.865 --> 00:28:15.389
+Svi također čitamo o velikim
+hakiranjima i krahovima burzi.
+
+00:28:15.625 --> 00:28:19.594
+BitFinex, mislim da su ukrali
+40% novca.
+
+00:28:19.779 --> 00:28:26.551
+Razne autonomne organizacije su napadnute
+i hakirane. Može li mali osvrt na to?
+
+00:28:26.644 --> 00:28:34.369
+Na te tamne strane i one aspekte
+koji ne uljevaju povjerenje u tu evoluciju?
+
+00:28:34.540 --> 00:28:36.206
+Apsolutno!
+
+00:28:38.207 --> 00:28:44.371
+Volan nije izumljen sve do
+3 godine nakon što je uveden automobil
+
+00:28:44.688 --> 00:28:45.932
+Zašto?
+
+00:28:45.958 --> 00:28:50.429
+Zato što su prvi automobili imali
+kožne uzde koje ste vukli lijevo ili desno
+
+00:28:50.853 --> 00:28:54.027
+kako biste upravljali
+i skretali automobil.
+
+00:28:54.583 --> 00:28:59.001
+Koristili su konjske uzde
+za upravljanje automobilima.
+
+00:28:59.117 --> 00:29:01.762
+To se zove skeomorfski dizajn.
+
+00:29:02.027 --> 00:29:05.968
+To znači zadržati sjenu slike
+prošlosti u vašem novom sustavu
+
+00:29:05.995 --> 00:29:09.344
+ne uspjeti vidjeti
+nove dimenzije.
+
+00:29:09.556 --> 00:29:12.122
+I replicirati prošlost.
+
+00:29:12.494 --> 00:29:17.678
+Ovdje je valuta koja nije centralizirana
+gdje je vaš novac - vaš novac.
+
+00:29:18.102 --> 00:29:21.435
+Vaši ključevi - vaš novac.
+
+00:29:22.097 --> 00:29:25.456
+Nisu vaši ključevi
+- nije vaš novac!
+
+00:29:25.748 --> 00:29:29.689
+I što prvo uradimo
+sa ovim novim sustavom?
+
+00:29:30.022 --> 00:29:36.397
+Izgradimo centralizirane institucije
+za skrbničku kontrolu
+
+00:29:36.503 --> 00:29:40.286
+koje uzimaju novac drugih ljudi
+i čuvaju im ga.
+
+00:29:40.657 --> 00:29:44.307
+Pa pogodite što?
+Cijela povjest bankarstva
+
+00:29:44.440 --> 00:29:47.350
+cijeli sustav regulacije
+i nadzora
+
+00:29:47.428 --> 00:29:50.867
+baziran je na istom
+stoljetnom razumijevanju
+
+00:29:50.920 --> 00:29:56.287
+da kad netko drugi drži vaš novac
+vjerojatno će pobjeći s njim.
+
+00:29:56.526 --> 00:30:00.467
+I ćitavi sustav regulativa
+je smišljen da to spriječi
+
+00:30:00.494 --> 00:30:03.695
+ali se ipak događa
+cijelo vrijeme.
+
+00:30:03.774 --> 00:30:09.541
+U investicijskim fondovima,
+u bankama, u nacionalnim valutama
+
+00:30:09.566 --> 00:30:13.242
+I naravno, ako replicirate
+skrbničke račune
+
+00:30:13.316 --> 00:30:17.232
+burze koje uzimaju bitcoine drugih
+ljudi i koncentriraju ih
+
+00:30:17.258 --> 00:30:18.819
+događa se opet.
+
+00:30:18.845 --> 00:30:23.792
+Još i gore, jer ne postoje jasne regulative
+i zakoni u večini ovih područja.
+
+00:30:24.540 --> 00:30:26.497
+Odgovor je prilično jednostavan.
+
+00:30:26.524 --> 00:30:29.249
+Prestanite centralizirati
+decentraliziranu valutu.
+
+00:30:29.302 --> 00:30:35.095
+Prestanite pokušavati replicirati povjest
+bankarstva u budućnosti novca.
+
+00:30:35.702 --> 00:30:38.849
+I važna stvar koju
+treba shvatiti je
+
+00:30:39.035 --> 00:30:43.003
+da je sigurnost kod bitcoina
+urođeno svojstvo
+
+00:30:43.453 --> 00:30:47.606
+koje postoji zbog
+decentralizacije kontrole i moći.
+
+00:30:47.686 --> 00:30:52.553
+Ako želim haknuti bitcoine od milijuna
+korisnika a oni drže svoje ključeve.
+
+00:30:52.643 --> 00:30:55.817
+Moram haknuti
+milijun korisnika.
+
+00:30:56.055 --> 00:31:01.690
+Ako oni svi daju svoje ključeve
+jednoj osobi ili organizaciji
+
+00:31:02.055 --> 00:31:04.409
+onda imamo
+zdjelicu sa medom.
+
+00:31:04.700 --> 00:31:09.753
+Zdjelicu meda koja privlači pažnju
+svakog hakera na planeti.
+
+00:31:10.481 --> 00:31:12.570
+I primjetite što se dogodilo.
+
+00:31:12.623 --> 00:31:17.649
+Kroz sedam godina i sa ukupnom tržišnom
+vrijednosti preko 12 milijardi dolara
+
+00:31:17.809 --> 00:31:22.994
+bitcoin je najveći kriptografski
+sustav na svijetu.
+
+00:31:23.020 --> 00:31:26.697
+Najveća struktura javnih ključeva
+na svijetu.
+
+00:31:26.777 --> 00:31:30.348
+Najveća siguronosna
+zdjela meda na svijetu.
+
+00:31:31.008 --> 00:31:34.341
+I nije siguran zato
+što ga ne napadaju.
+
+00:31:34.447 --> 00:31:40.876
+Siguran je zato što stvara imunitet
+jer ga napadaju cijelo vrijeme.
+
+00:31:41.140 --> 00:31:46.299
+24 sata na dan od strane
+najsofisticiranijih napadača na planetu
+
+00:31:47.055 --> 00:31:51.102
+I ako u takovom okruženju
+postavite
+
+00:31:51.155 --> 00:31:54.039
+centraliziranu
+skrbničku mjenjačnicu
+
+00:31:54.303 --> 00:31:58.616
+koristeći PHP i MySQL
+
+00:31:59.012 --> 00:32:03.427
+i u to parkirate zdjelicu meda
+od 150 miliona dolara
+
+00:32:03.666 --> 00:32:05.677
+izazivate morske pse.
+
+00:32:06.543 --> 00:32:10.458
+Bitcoin banke budu hakirane.
+Bitcoin mjenjačnice budu hakirane.
+
+00:32:10.855 --> 00:32:14.532
+Bitcoin nije bio hakiran.
+
+00:32:14.600 --> 00:32:16.188
+i ne može
+biti hakiran
+
+00:32:16.267 --> 00:32:21.633
+jer ne postoji točka kontrole
+na koju možete vršiti pritisak.
+
+00:32:21.713 --> 00:32:23.855
+Potpuno je
+decentraliziran.
+
+00:32:24.120 --> 00:32:27.004
+U redu.
+Možda još jedno pitanje?
+
+00:32:28.209 --> 00:32:33.473
+Odakle dolazi opskrba bitcoina?
+
+00:32:34.117 --> 00:32:38.032
+Opskrba bitcoina je
+regulirana algoritmom
+
+00:32:38.058 --> 00:32:42.344
+baziranom na funkciji
+geometrijskog smanjenja opskrbe.
+
+00:32:42.476 --> 00:32:47.478
+Što znači da se u početku svakih 10
+minuta stvara novih 50 bitcoina
+
+00:32:48.087 --> 00:32:51.896
+pa je svaki blok, otkucaj srca,
+10 minuta
+
+00:32:52.029 --> 00:32:54.198
+kreirao 50 novih bitcoina.
+
+00:32:54.251 --> 00:32:57.399
+Ti bitcoini se koriste
+kao nagrada
+
+00:32:57.452 --> 00:33:00.362
+u siguronosnom modelu baziranom
+na teoriji igre
+
+00:33:00.389 --> 00:33:03.748
+koji osigurava da je svaka transakcija
+neovisno autorizirana
+
+00:33:03.775 --> 00:33:05.389
+od strane potpuno
+anonimnih sudionika
+
+00:33:05.425 --> 00:33:10.398
+koji moraju uložiti energiju kao
+dokaz zadatka koji su odradili
+
+00:33:10.478 --> 00:33:14.891
+I ako uspiju odraditi zadatak
+ispravne potvrde transakcija
+
+00:33:14.971 --> 00:33:19.310
+zarađuju, kao nagradu baziranu
+na očekivanom povratu
+
+00:33:20.183 --> 00:33:25.658
+tu nagradu. 50 bitcoina svakih 10 minuta.
+Na taj način se valuta uvodi u ekonomiju.
+
+00:33:25.976 --> 00:33:29.230
+Svake 4 godine
+to se prepolovi.
+
+00:33:29.521 --> 00:33:32.828
+Sa 50 na 25
+u prosincu 2012.
+
+00:33:33.076 --> 00:33:36.790
+I ove godine u srpnju,
+proteklog srpnja
+
+00:33:36.833 --> 00:33:39.002
+drugi puta se
+prepolovila nagrada
+
+00:33:39.304 --> 00:33:42.876
+što se slavilo poput rođendana
+po cijelom svijetu
+
+00:33:43.458 --> 00:33:48.987
+i bitcoin  nagrade su se smanjile
+sa 25 na 12,5 bitcoina
+
+00:33:49.535 --> 00:33:54.747
+Sustav je dizajniran tako da je
+namjerno deflacionaran
+
+00:33:54.773 --> 00:33:57.657
+i simulira dobavu
+plemenitih metala.
+
+00:33:57.759 --> 00:34:03.341
+Postaje sve teže i teže
+rudariti zlato po sve većoj cijeni
+
+00:34:03.580 --> 00:34:05.617
+Isto je sa bitcoinom.
+
+00:34:05.643 --> 00:34:09.822
+Ideja je da se s vremenom izdaje
+sve manje i manje novih.
+
+00:34:10.035 --> 00:34:14.944
+Ako pratite tu krivulju
+na nekoj točki doći ćete do kraja.
+
+00:34:15.077 --> 00:34:19.918
+Godine 2141. novi bitcoini
+se više ne izdaju.
+
+00:34:20.103 --> 00:34:23.966
+21 milion bitcoina je
+vrh.
+
+00:34:24.000 --> 00:34:28.418
+Nikada neće dostići 21 milijon bitcoina.
+To je dio protokola.
+
+00:34:28.471 --> 00:34:30.640
+To je nepromjenjivi
+dio protokola
+
+00:34:30.667 --> 00:34:36.645
+i to je pravilo koje provodi
+svaki sistem uključen u bitcoin mrežu.
+
+00:34:40.217 --> 00:34:42.413
+Zamišljen je da bude
+solidan novac
+
+00:34:42.439 --> 00:34:45.349
+ali to nije jedina monetarna politika
+koja postoji.
+
+00:34:45.428 --> 00:34:48.974
+Postoje druge valute sa drugačijim
+monetarnim politikama.
+
+00:34:49.053 --> 00:34:58.140
+Ideja je da bitcoin služi kao
+vrlo čvrsta podloga za mnoge druge stvari.
+
+00:34:59.518 --> 00:35:00.868
+Izvolite.
+
+00:35:01.149 --> 00:35:06.598
+Možete li prisutnim tvrtkama koje nisu
+iz financijske sfere objasniti
+
+00:35:06.625 --> 00:35:13.556
+kako bi trebali taktički razmisliti
+o blockchainu u smislu pohrane vrijednosti?
+
+00:35:17.323 --> 00:35:20.418
+Mislim da razumijevanje da
+to nije samo valuta
+
+00:35:20.524 --> 00:35:22.640
+razumijevanje da je to
+platforma za povjerenje
+
+00:35:22.720 --> 00:35:25.101
+razumijevanje da se
+to može koristiti
+
+00:35:25.181 --> 00:35:29.466
+kao zapis istine kroz povijest
+koji može pohraniti informacije
+
+00:35:29.585 --> 00:35:33.394
+Da se može koristiti za stvaranje
+i razmjenu raznih znakova koji se
+
+00:35:33.447 --> 00:35:36.807
+mogu razmjenjivati među vašim
+korisnicima, dobavljačima, proizvođačima.
+
+00:35:37.083 --> 00:35:40.363
+Da se također može koristiti
+samo kao valuta
+
+00:35:40.496 --> 00:35:43.088
+za bilo kakove transakcije
+preko granica
+
+00:35:43.141 --> 00:35:44.649
+aktivnosti uvoza
+i izvoza
+
+00:35:44.728 --> 00:35:48.591
+promet pošiljaka,
+plaćanje vanjskih suradnika.
+
+00:35:48.665 --> 00:35:53.083
+Sve stvari koje su danas
+skupe, spore i teške
+
+00:35:53.242 --> 00:35:55.358
+postaju jeftine,
+brze i lake
+
+00:35:55.517 --> 00:35:58.798
+kad koristite neku od
+ovih digitalnih valuta ali
+
+00:35:58.829 --> 00:36:00.702
+još je rano.
+
+00:36:00.814 --> 00:36:02.983
+Za sada,
+učenje o tome.
+
+00:36:03.089 --> 00:36:05.523
+Ovo je jedna važna stvar
+koju morate razumijeti.
+
+00:36:05.576 --> 00:36:09.213
+Čuti ćete mnogo
+o blockchainu.
+
+00:36:09.848 --> 00:36:13.763
+I većina toga što čujete
+o blockchainu nije internet novca
+
+00:36:13.843 --> 00:36:16.700
+To je INTRANET novca.
+
+00:36:17.091 --> 00:36:22.250
+Intranet je gdje koristite FrontPage
+i Outlook i zatvoreni softver
+
+00:36:22.275 --> 00:36:26.853
+u maloj zatvorenoj enklavi
+vaših korporativnih voda
+
+00:36:26.933 --> 00:36:30.160
+sa ustajalim sadržajem
+i dosadnim aplikacijama.
+
+00:36:30.292 --> 00:36:34.869
+I naposljetku, ionako je puno je virusa
+jer ga ne možete držati sigurnim.
+
+00:36:35.694 --> 00:36:38.630
+Blockchain koji nije otvoren,
+koji nije javan,
+
+00:36:38.699 --> 00:36:41.768
+koji nije bez granica,
+koji nije otvoren za inovacije
+
+00:36:42.217 --> 00:36:45.630
+nije ono o čemu
+ovdje govorimo.
+
+00:36:45.710 --> 00:36:48.091
+I to je vrlo
+važno razlikovati.
+
+00:36:48.170 --> 00:36:49.678
+To može
+biti korisno.
+
+00:36:49.727 --> 00:36:53.986
+Ako želite sustav razmjene
+između dvije-tri banke, možda.
+
+00:36:55.203 --> 00:36:58.949
+Ali to nije internet novca.
+
+00:37:00.246 --> 00:37:02.283
+Hvala.
+Usput,
+
+00:37:06.278 --> 00:37:11.266
+Svatko tko je pitao pitanje
+dobiva besplatnu kopiju moje knjige.
+
+00:37:11.536 --> 00:37:16.182
+Prijevod:
+Tomislav Knapić
+

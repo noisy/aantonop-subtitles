@@ -1,0 +1,250 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.900 --> 00:00:02.560
+A lot of the core team
+
+00:00:02.740 --> 00:00:04.720
+They seem to be really...
+
+00:00:04.920 --> 00:00:06.160
+"Gung Ho" on
+
+00:00:06.360 --> 00:00:09.240
+going with the off-chain scaling solution
+
+00:00:09.460 --> 00:00:12.720
+At least, prioritizing that first
+
+00:00:13.100 --> 00:00:16.340
+So much so that I have quote here on reddit recently that says
+
+00:00:16.500 --> 00:00:19.780
+We should not change Bitcoin to accommodate more users
+
+00:00:19.780 --> 00:00:22.980
+And that's one of the things they were talking about in the IRC
+
+00:00:23.220 --> 00:00:24.280
+So, uhh...
+
+00:00:24.480 --> 00:00:25.180
+As a -
+
+00:00:25.180 --> 00:00:28.180
+Instead we're going with Segwit soft forking, right?
+
+00:00:28.180 --> 00:00:30.260
+Unless they going with the hard forking
+
+00:00:30.380 --> 00:00:31.880
+They were also criticized
+
+00:00:31.960 --> 00:00:33.740
+Notably by... other people
+
+00:00:33.860 --> 00:00:34.980
+Like Jeff Garzik
+
+00:00:34.980 --> 00:00:38.280
+of the risks that are inherent with going with a more complicated solution
+
+00:00:38.340 --> 00:00:38.840
+Andreas: yes
+
+00:00:39.060 --> 00:00:44.460
+So how do you compare this to say, Tom Xander's FlexCount proposal
+
+00:00:44.660 --> 00:00:51.220
+of you know taking the hard fork approach and umm.. how like "core's roadmap" be wrong?
+
+00:00:51.500 --> 00:00:55.300
+Andreas: I mean this would take an hour to answer and...
+
+00:00:55.600 --> 00:01:02.560
+More importantly I don't think my opinion matters - at all - to any of the parties involved, nor should it.
+
+00:01:02.560 --> 00:01:08.460
+Umm. This debate about big blocks and small blocks and how we scale bitcoin
+
+00:01:08.680 --> 00:01:15.280
+First of all I don't think it's accurate to say that core is focused on "not scaling the core layer"
+
+00:01:15.540 --> 00:01:20.540
+As you said it's a prioritization issue.Which one gets prioritized first?
+
+00:01:20.800 --> 00:01:30.880
+Now...I have uhh a nuanced opinion about this - which pisses off everybody.
+
+00:01:31.220 --> 00:01:38.220
+Because if you have a nuanced opinion then you are sitting on a fence and both sides can throw eggs at you
+
+00:01:38.220 --> 00:01:39.700
+For not taking a side
+
+00:01:39.700 --> 00:01:41.340
+And I'm not going to take a side
+
+00:01:41.340 --> 00:01:43.600
+Because I think that both sides have merits
+
+00:01:43.840 --> 00:01:49.740
+and really the question is about a matter of prioritization and sequencing and conservatism
+
+00:01:49.740 --> 00:01:52.060
+versus a more aggressive approach to scaling
+
+00:01:53.320 --> 00:01:55.560
+From time to time my opinion has changed
+
+00:01:56.720 --> 00:01:58.080
+As I've seen new data
+
+00:01:58.520 --> 00:02:01.720
+More recently, two days after the Ethereum fork
+
+00:02:02.060 --> 00:02:04.860
+I thought "woah that went extremely well"
+
+00:02:05.200 --> 00:02:07.260
+A clear 95% and 5% split
+
+00:02:07.260 --> 00:02:09.580
+Technologically executed beautifully
+
+00:02:09.580 --> 00:02:14.940
+"This is going to put a lot of pressure on core to come up with a similar solution for Bitcoin"
+
+00:02:15.580 --> 00:02:16.600
+I was wrong.
+
+00:02:17.300 --> 00:02:18.680
+I was very wrong.
+
+00:02:19.100 --> 00:02:20.460
+Because a week later
+
+00:02:20.740 --> 00:02:21.660
+Actually two weeks later
+
+00:02:22.260 --> 00:02:26.580
+We discovered that even though technologically the fork worked
+
+00:02:26.820 --> 00:02:28.160
+Politically it failed
+
+00:02:28.160 --> 00:02:30.580
+and suddenly you ended up with a 70% and 30% split
+
+00:02:30.580 --> 00:02:35.520
+and that was a disaster because there was not enough provision in the software to deal with replay attacks
+
+00:02:35.520 --> 00:02:37.440
+it cost a lot of exchanges some money
+
+00:02:37.620 --> 00:02:44.340
+I think there are some people from Coinbase in here that may have suffered some losses because of that
+
+00:02:44.340 --> 00:02:45.900
+because of the replay attacks
+
+00:02:45.900 --> 00:02:48.400
+i know other exchanges did too
+
+00:02:48.400 --> 00:02:50.000
+or i heard that other exchanges did
+
+00:02:50.760 --> 00:02:51.440
+So
+
+00:02:51.620 --> 00:02:53.860
+after that my opinion was revised
+
+00:02:54.140 --> 00:02:54.780
+you know?
+
+00:02:55.020 --> 00:03:00.860
+and in Bitcoin (politically) I think a hard fork is incredibly difficult and will cause a deeper schism
+
+00:03:02.660 --> 00:03:07.140
+So I don't think it's as easy as "one team is right the other is wrong"
+
+00:03:07.460 --> 00:03:11.060
+I think we are going to have to let this roadmap play out
+
+00:03:11.060 --> 00:03:12.200
+and for the time being
+
+00:03:12.200 --> 00:03:14.540
+it seems that the majority of the participants in the system
+
+00:03:14.780 --> 00:03:17.760
+Are continuing to put their trust in core
+
+00:03:17.960 --> 00:03:21.520
+as long as core continues to deliver their roadmap
+
+00:03:21.740 --> 00:03:23.800
+to a certain approximation
+
+00:03:24.220 --> 00:03:25.460
+I'm not worried
+
+00:03:25.600 --> 00:03:27.700
+because I think in the long term what we are going to do
+
+00:03:27.700 --> 00:03:29.940
+is we are going to scale in a second layer
+
+00:03:29.940 --> 00:03:33.160
+and we are going to scale the core layer with a blocksize increase
+
+00:03:33.160 --> 00:03:35.480
+and we're going to do network optimzation
+
+00:03:36.340 --> 00:03:37.860
+and and "ands"
+
+00:03:37.860 --> 00:03:39.780
+the scaling options are not "either or" (mutually excusive)
+
+00:03:39.780 --> 00:03:40.700
+they are "and and and"
+
+00:03:40.700 --> 00:03:42.880
+and you just have to decide which comes first
+
+00:03:45.040 --> 00:03:46.720
+I think a lot of this drama
+
+00:03:46.860 --> 00:03:47.900
+is unnecessary
+
+00:03:50.200 --> 00:03:54.760
+honestly in terms of segregated witness, soft fork versus hard fork
+
+00:03:54.760 --> 00:03:56.680
+I think soft fork is a better way to go
+
+00:03:59.740 --> 00:04:04.220
+I do. I think we are going to get cleaner and quicker than a hard fork.
+
+00:04:04.360 --> 00:04:11.360
+I think a hard fork given the current political situation of Bitcoin is way too dangerous - even if it was for something everyone agreed like SegWit
+
+00:04:11.360 --> 00:04:15.380
+Which, I don't even think you'd get that agreement
+
+00:04:15.700 --> 00:04:18.500
+So, that's probably a very nuanced answer
+
+00:04:18.500 --> 00:04:20.140
+about a very large question
+
+00:04:20.460 --> 00:04:24.140
+and I'm sorry if I didn't give you more of a direct answer
+
+00:04:24.240 --> 00:04:28.160
+I don't think there is a simple black or white answer to that problem
+

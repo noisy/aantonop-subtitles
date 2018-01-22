@@ -1,0 +1,1084 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:02.600 --> 00:00:03.593
+Démosle la bienvenid a
+
+00:00:03.593 --> 00:00:06.240
+a una de las
+personalidades más reconocidas y respetadas en el mundo de las cryptomonedas,
+
+00:00:06.240 --> 00:00:10.020
+el autor de Mastering Bitcoin y
+
+00:00:10.020 --> 00:00:11.760
+The Internet of Money:
+
+00:00:11.760 --> 00:00:14.020
+Andreas Antonopoulos.
+
+00:00:14.800 --> 00:00:17.140
+[Música]
+
+00:00:18.500 --> 00:00:24.340
+Hola a todos, ¿cómo están?
+
+00:00:24.340 --> 00:00:32.680
+Sí, soy el gurú del Bitcoin, pero no estoy aquí 
+sólo para hablar del Bitcoin, estoy aquí para
+
+00:00:32.680 --> 00:00:39.540
+hablarles sobre el contexto en que el Bitcoin
+es importante y en el que el Blockchain como
+
+00:00:39.540 --> 00:00:44.120
+tecnología tendrá un impacto en nuestra sociedad.
+
+00:00:44.120 --> 00:00:48.100
+Cuando hablo sobre esto, a menudo me encuentro con apatía
+
+00:00:48.300 --> 00:00:52.200
+e incomprensión, porque las tecnologías
+
+00:00:52.200 --> 00:00:58.000
+como el Bitcoin no son simplemente disruptivas
+son profundamente transformadoras, nos hacen poner
+
+00:00:58.000 --> 00:01:01.149
+en tela de juicio los conceptos mismos  de
+"dinero",
+
+00:01:01.149 --> 00:01:04.929
+cómo es la dinámica de la "confianza" y cómo todo
+esto
+
+00:01:04.929 --> 00:01:07.320
+puede extenderse en el mundo actual.
+
+00:01:07.320 --> 00:01:10.520
+De esto quiero hablar hoy,
+
+00:01:10.520 --> 00:01:13.316
+no sobre la arquitectura de la tecnología del Bitcoin
+
+00:01:13.316 --> 00:01:15.320
+ni sobre la tecnología del Blockchain,
+
+00:01:15.500 --> 00:01:19.140
+sino de la arquitectura de la sociedad y cómo se
+relacionan.
+
+00:01:19.140 --> 00:01:26.020
+Quizá hayan escuchado muchas discuciones en torno
+a la innovación exponencial
+
+00:01:26.020 --> 00:01:29.200
+y hay un problema fundamental con la innovación exponencial
+
+00:01:29.200 --> 00:01:32.740
+que los humanos no somos exponenciales
+
+00:01:32.740 --> 00:01:35.940
+somos criaturas lineales
+
+00:01:35.940 --> 00:01:39.520
+Y lo que es más, estamos comenzando a ver
+
+00:01:39.520 --> 00:01:44.170
+el impacto de la innovación exponencial en nuestras
+
+00:01:44.170 --> 00:01:50.020
+instituciones sociales que definitivamente no son exponenciales.
+
+00:01:50.360 --> 00:01:54.300
+Y ¿cuáles son las institiuciones sociales de las que hablo?
+
+00:01:54.300 --> 00:01:59.840
+Operamos la sociedad con estructuras que
+
+00:01:59.840 --> 00:02:05.390
+nacieron principalmente en la Revolución Industrial
+y de todas éstas,
+
+00:02:05.390 --> 00:02:10.520
+la estructura más poderosa es la de la burocrácia
+jerárquica.
+
+00:02:10.520 --> 00:02:15.580
+La burocracia jerárquica es esa idea de que si se quiere coordinar un gran número de
+
+00:02:15.590 --> 00:02:22.430
+personas a escala, sean ciudades, áreas, Estados, naciones
+
+00:02:22.430 --> 00:02:28.730
+e incluso en Sistemas Federales de Naciones
+como la Unión Europea o los Estados Unidos,
+
+00:02:28.730 --> 00:02:35.709
+la única forma de hacerlo a escala
+es mediante una jerarquía, un triángulo,
+
+00:02:35.709 --> 00:02:42.290
+una forma piramidal que se divide en niveles y
+niveles de supervisión y toma de decisiones
+
+00:02:42.290 --> 00:02:48.799
+que normalmente se concentra en alguien que
+está en la cima. Esta estructura se repite en cada
+
+00:02:48.799 --> 00:02:51.140
+aspecto de nuestras instituciones sociales,
+
+00:02:51.140 --> 00:02:54.650
+nuestras escuelas, nuestros negocios, nuestros gobiernos
+
+00:02:54.650 --> 00:02:59.120
+y estas estructuras ya no se equiparan a las
+necesidades actuales,
+
+00:02:59.120 --> 00:03:02.363
+están fallando  terriblemente.
+
+00:03:02.363 --> 00:03:05.390
+Vivimos en un mundo en donde
+
+00:03:05.390 --> 00:03:11.209
+no podemos confiar en las noticias,
+en donde los jóvenes no tienen empleos,
+
+00:03:11.209 --> 00:03:14.090
+en donde no pueden confiar en instituciones como los bancos
+
+00:03:14.090 --> 00:03:16.450
+en donde se sienten traicionados por los gobiernos
+
+00:03:16.450 --> 00:03:20.470
+privados de su derecho a elegir por falsas democracias.
+
+00:03:20.470 --> 00:03:24.480
+Todas esas cosas tienen algo en común, las instituciones comunes de la sociedad
+
+00:03:24.500 --> 00:03:27.060
+no se están adaptando a las necesidades actuales.
+
+00:03:27.060 --> 00:03:29.620
+Funcionamos en internet como una sociedad global,
+
+00:03:29.620 --> 00:03:36.780
+sin fronteras, y ninguna de nuestras
+instituciones lo hace, y por esto fracasan
+
+00:03:36.780 --> 00:03:39.790
+en la solución de los grandes problemas de nuestra
+era,
+
+00:03:39.790 --> 00:03:43.570
+¿cómo lidiar con la globalización de la
+información...
+
+00:03:43.570 --> 00:03:48.160
+cuando se intenta manejar con instituciones
+locales?
+
+00:03:48.160 --> 00:03:50.375
+¿Cómo hacer con las leyes?
+
+00:03:50.375 --> 00:03:52.420
+Es una pregunta graciosa
+
+00:03:52.420 --> 00:03:56.110
+que surge muy a menudo, especialmente cuando empiezo a hablar del Bitcoin y
+
+00:03:56.110 --> 00:03:58.036
+la gente pregunta cosas como,
+
+00:03:58.036 --> 00:04:01.690
+¿qué pasa si alguien
+hace algo ilegal con los Bitcoins?
+
+00:04:01.690 --> 00:04:05.890
+La respuesta obvia es muy sencilla,
+
+00:04:05.890 --> 00:04:11.070
+¿ilegal dónde, ilegal en qué jurisdicción?
+
+00:04:11.070 --> 00:04:16.600
+Por ejemplo, vender Biblias, alguien
+puede hacerlo con Bitcoins.
+
+00:04:16.600 --> 00:04:20.340
+¡Un crímen en Norcorea!
+
+00:04:23.980 --> 00:04:28.180
+Vender drogas, legal en unos países, ilegal en
+otros.
+
+00:04:28.180 --> 00:04:30.280
+El problema es que la palabra "legal" implica una
+jurisdicción,
+
+00:04:30.280 --> 00:04:34.870
+y esa jurisdicción no se equipara al mundo de hoy,
+no responde a las necesidades globales.
+
+00:04:34.870 --> 00:04:40.570
+Así que el primer problema es
+la arquitectura, tenemos instituciones que
+
+00:04:40.570 --> 00:04:44.710
+son jerárquicas y burocráticas,
+y no me malinterpreten, estas instituciones no
+
+00:04:44.710 --> 00:04:48.039
+fallaron desde el principio, en sus comienzos estas
+
+00:04:48.040 --> 00:04:51.190
+instituciones realmente permitieron a la humanidad
+
+00:04:51.190 --> 00:04:54.640
+un significativo crecimiento y permitieron que miles
+
+00:04:54.640 --> 00:04:57.490
+de millones de personas fueran libres y salieran de la pobreza.
+
+00:04:57.490 --> 00:05:03.490
+Estas instituciones fueron muy útiles
+pero ahora ya no pueden lograr sus
+
+00:05:03.490 --> 00:05:08.410
+objetivos porque ya están obsoletas.
+Y la arquitectura es la base del
+
+00:05:08.410 --> 00:05:14.080
+problema, yo lo veo como ingeniero
+en computación, vi su arquitectura y
+
+00:05:14.080 --> 00:05:18.700
+pensé ¿cómo encajan los bits?
+y con base en esta arquitectura,
+
+00:05:18.700 --> 00:05:22.780
+¿qué estructuras emergentes se observan?
+así que analisemos la arquitectura de las
+
+00:05:22.780 --> 00:05:27.930
+instituciones sociales y pensemos un poco
+por un segundo sobre lo que hace esta arquitectura
+
+00:05:27.930 --> 00:05:34.090
+y puede que no les interese profundizar en el tema
+pero ¿qué sucede cuando se crea una jerarquía?
+
+00:05:34.090 --> 00:05:41.500
+bueno, las decisiones y la información
+se transmiten hacia arriba, se reune la
+
+00:05:41.500 --> 00:05:46.060
+información desde la base y se refina
+gradualmente hasta que llega a la cima
+
+00:05:46.060 --> 00:05:50.170
+y uno de los problemas fundamentales con una
+arquitectura como ésta es el ancho de banda.
+
+00:05:50.170 --> 00:05:55.690
+Estoy hablando estrictamente como un ingeniero,
+pero si se aplica en corporaciones o
+
+00:05:55.690 --> 00:05:59.650
+en grandes instituciones del gobierno,
+el problema fundamental que surge es que
+
+00:05:59.650 --> 00:06:04.510
+a medida que se concentra la información
+y la toma de decisiones en la cima, ya no se puede
+
+00:06:04.510 --> 00:06:10.030
+alcanzar el número de decisiones por minuto,
+por ponerlo en términos cuantificables,
+
+00:06:10.030 --> 00:06:13.780
+que se necesitan para atender el torrente
+de información que sube
+
+00:06:13.780 --> 00:06:19.660
+y finalmente lo que ocurre es que se debe
+filtrar la información porque
+
+00:06:19.660 --> 00:06:24.040
+es imposible procesarla toda
+y la toma de decisiones empeora cada vez más
+
+00:06:24.040 --> 00:06:26.950
+a medida que pasa el tiempo y la información se
+filtra.
+
+00:06:26.950 --> 00:06:31.000
+Por esto las instituciones están fracasando,
+porque las personas que participan en la
+
+00:06:31.000 --> 00:06:34.980
+toma de decisiones están muy alejadas
+de la fuente de esta información
+
+00:06:34.980 --> 00:06:39.690
+pero también están apartados del impacto
+que sus decisiones tienen en el sistema.
+
+00:06:39.690 --> 00:06:45.440
+Si se piensa en términos de
+democracia representativa, nos damos cuenta
+
+00:06:45.440 --> 00:06:51.030
+de que no es representativa, ese es el prolema.
+Y esto se observa en las grandes corporaciones
+
+00:06:51.030 --> 00:06:56.729
+que fracasan en sus intentos de innovar
+por  la misma razón, una estructura obsoleta.
+
+00:06:56.729 --> 00:07:02.550
+Y en las compañías se pueden ver los intentos de
+resolver esto, implementando organigramas
+
+00:07:02.550 --> 00:07:04.860
+menos piramidales para tener un intercambio de
+información
+
+00:07:04.860 --> 00:07:10.590
+más lateral y al mismo tiempo
+vemos esto en la sociedad, la gente está
+
+00:07:10.590 --> 00:07:16.530
+tratando de distribuir el poder en áreas locales
+y lo acabamos de ver recientemente en las noticias
+
+00:07:16.530 --> 00:07:21.780
+con la declaración de independencia del
+Estado catalán, éstos son síntomas del hecho
+
+00:07:21.780 --> 00:07:28.860
+de que si la organización falla en expandir
+sus capacidades, se fragmentará,
+
+00:07:28.860 --> 00:07:33.870
+se disolverá y veremos cada vez más
+estos ejemplos de decentralización.
+
+00:07:33.870 --> 00:07:36.740
+Bien, entonces desactualización, ancho de banda,
+arquitectura
+
+00:07:36.740 --> 00:07:41.310
+problemas interesantes de ingeniería,
+pero hay otro pequeño problema con las
+
+00:07:41.310 --> 00:07:47.039
+instituciones sociales, identificado
+hace bastante tiempo por un tipo llamado
+
+00:07:47.039 --> 00:07:54.539
+Cicerón, quien dijo: el poder corrompe,
+el poder absoluto corrompe absolutamente.
+
+00:07:54.540 --> 00:07:57.040
+Así que el problema con la jerarquía no es
+
+00:07:57.040 --> 00:08:00.200
+solamente la centralización del manejo de información
+
+00:08:00.200 --> 00:08:02.940
+y la toma de decisiones, sino que es poder.
+
+00:08:03.000 --> 00:08:05.480
+Y a medida que la jerarquía se arraiga, las
+personas
+
+00:08:05.480 --> 00:08:07.910
+que están en la cima se vuelven más y más
+poderosas
+
+00:08:07.910 --> 00:08:12.230
+y al mismo tiempo se desvinculan cada vez más
+de la gente sobre la que ejercen el poder.
+
+00:08:12.230 --> 00:08:18.800
+Así que, segundo problema, corrupción.
+Y la corrupción empeora en proporción
+
+00:08:18.800 --> 00:08:23.360
+al tamaño de la organización,
+de nuevo, a causa de esta distancia.
+
+00:08:23.360 --> 00:08:25.370
+Y luego encontramos otro pequeño problema,
+
+00:08:25.370 --> 00:08:29.720
+sí, la gente buena puede ascender en esta
+jerarquía
+
+00:08:29.720 --> 00:08:34.460
+y se verá tentada y corrompida
+por este poder, pero no son los únicos
+
+00:08:34.460 --> 00:08:39.520
+que ascienden, de hecho escalando posiciones
+mucho más rápido que ellos están
+
+00:08:39.520 --> 00:08:46.300
+los sociópatas, porque la jerarquía de poder
+atrae a los sociópatas, no es coincidencia
+
+00:08:46.300 --> 00:08:52.930
+que muchos CEOs de empresas exhiban
+tendencias narcisistas y sociópatas
+
+00:08:52.930 --> 00:08:58.400
+porque el cargo los atrae.
+Estoy seguro de que los CEOs en esta sala
+
+00:08:58.400 --> 00:09:02.500
+son una excepción de esto pero se ve en gobiernos, se ve en
+
+00:09:02.510 --> 00:09:09.920
+municipalidades, se ve incluso
+en pequeñas empresas, nada más fuerte
+
+00:09:09.920 --> 00:09:14.460
+que un tirano con un poco de poder
+sobre otras personas
+
+00:09:14.460 --> 00:09:16.800
+y que se regodee en ese poder.
+
+00:09:16.800 --> 00:09:20.020
+Las jerarquías no están respondiendo a nuestras necesidades,
+
+00:09:20.020 --> 00:09:22.240
+están fallando en procesar la información,
+
+00:09:22.240 --> 00:09:24.980
+no están tomando desiciones lo suficientemente
+rápido
+
+00:09:24.980 --> 00:09:33.680
+y lo peor de todo es que al final se vuelven malas
+se corrompen y en ese punto la toma de desiciones
+
+00:09:33.680 --> 00:09:39.500
+se hace con un único propósito: poder, el poder en sí mismo se
+
+00:09:39.500 --> 00:09:43.230
+convierte en el fin, no en el medio.
+Y vemos esto en las instituciones,
+
+00:09:43.230 --> 00:09:46.780
+mientras más grandes se vuelven,
+más se observa este problema.
+
+00:09:46.780 --> 00:09:49.780
+¿Ven lo que está ocurriendo en la comunidad
+Europea,
+
+00:09:49.780 --> 00:09:54.300
+en la unión Europea? Yo soy griego, y tengo
+una pequeña incomodidad con lo que ha sucedido
+
+00:09:54.300 --> 00:09:58.649
+recientemente, es justo esa situación en donde
+se tiene un super Estado
+
+00:09:58.649 --> 00:10:02.369
+que está tomando desiciones
+y está muy feliz en echar a un lado
+
+00:10:02.369 --> 00:10:08.189
+a dos o tres países para así proteger a los
+bancos de algunos países europeos.
+
+00:10:08.189 --> 00:10:15.449
+Así que, nuestras instituciones están
+fracasando en expandir sus capacidades,
+
+00:10:15.449 --> 00:10:18.360
+pero ¿qué tiene todo esto que ver con el
+Bitcoin...
+
+00:10:18.360 --> 00:10:20.129
+o el blockchain, qué tiene que ver con estas
+tecnologías?
+
+00:10:20.129 --> 00:10:25.769
+Bien, permítanme hacer una pequeña pausa
+para preguntar ¿quién de los presentes ha hecho...
+
+00:10:25.769 --> 00:10:30.439
+transacciones con Bitcoins...
+o alguna criptomoneda?
+
+00:10:30.439 --> 00:10:38.160
+¿Quién ha experimentado esta tecnología?
+menos del 10 % de los presentes.
+
+00:10:38.160 --> 00:10:41.999
+Perfecto, usuarios nuevos ¡fantástico!
+Por cierto, si están interesados en probarlo
+
+00:10:41.999 --> 00:10:47.100
+búsquenme después de la charla
+para configurarles su primera cartera
+
+00:10:47.100 --> 00:10:50.399
+y ayudarlos a conseguir algunos...
+Voy a darles Bitcoin, no uno completo
+
+00:10:50.399 --> 00:10:55.939
+no tengo para tanto.
+Pero ¿qué tiene esto que ver con los Bitcoin?
+
+00:10:55.939 --> 00:10:58.369
+cuando escuchas hablar de los Bitcoins
+
+00:10:58.369 --> 00:11:02.899
+en los medios, escuchas que es una moneda
+que existe en internet.
+
+00:11:02.899 --> 00:11:08.869
+Una especie de moneda para el internet, sí.
+Para ponerlo mejor diría símplemente que
+
+00:11:08.869 --> 00:11:12.980
+lo que se oye en los medios es que
+es dinero nerd diseñado principalmente para
+
+00:11:12.980 --> 00:11:17.220
+vender drogas, está bien
+el internet se creó principalmente para los
+
+00:11:17.220 --> 00:11:21.079
+vendedores de pornografía, igual todos la
+disfrutamos...
+
+00:11:21.079 --> 00:11:28.610
+Esta narrativa de los medios sólo funciona
+cuando no se está familiarizado con la
+
+00:11:28.610 --> 00:11:32.569
+tecnología, hasta que empiezas a encontrar
+dentistas, taxistas y peluqueros
+
+00:11:32.569 --> 00:11:37.100
+que usan Bitcoins y pensamos,
+no vende drogas, no vende drogas,
+
+00:11:37.100 --> 00:11:41.499
+no vende drogas, a la tercera vez
+decimos, mmm esta narrativa no
+
+00:11:41.499 --> 00:11:46.459
+tiene nada que ver con lo que escuché.
+Otra cosa que escucharán,
+
+00:11:46.459 --> 00:11:50.480
+lo importante del Bitcoin es el
+blockchain, que es la tecnología
+
+00:11:50.480 --> 00:11:57.520
+detrás del Bitcoin, ese es un buen intento
+de blanquear todo el tema
+
+00:11:57.520 --> 00:12:00.320
+para que los bancos puedan jugar con esta
+tecnología.
+
+00:12:00.330 --> 00:12:03.570
+Aceptar, incluir, adoptar y extinguir.
+
+00:12:03.570 --> 00:12:07.190
+Antes de que sea demasiado poderoso para
+detenerlo.
+
+00:12:07.190 --> 00:12:13.530
+El blockchain no es la tecnología detrás del
+Bitcoin, es una de las tecnologías
+
+00:12:13.530 --> 00:12:19.260
+en realidad es la base de datos, el artefacto
+el libro mayor que se produce.
+
+00:12:19.260 --> 00:12:25.440
+Pero lo que es realmente interesante, es
+cómo se produce y la forma en se produce en
+
+00:12:25.440 --> 00:12:29.640
+el bitcoin y las otras mil
+criptomonedas y blockchains que
+
+00:12:29.640 --> 00:12:37.740
+funcionan de forma similar, es que
+en una red completamente horizontal, de par a par,
+
+00:12:37.740 --> 00:12:43.620
+no jerárquica, en donde nadie conoce a nadie,
+en donde nadie confía en nadie,
+
+00:12:43.620 --> 00:12:47.310
+podemos desarrollar el surgimiento
+
+00:12:47.310 --> 00:12:50.580
+de un artefacto, un libro de contabilidad que
+registra
+
+00:12:50.580 --> 00:12:57.090
+transacciones en las que todos pueden confiar
+que nadie tiene el poder de cambiar
+
+00:12:57.090 --> 00:13:01.410
+ni modificar después del hecho y que sustituye
+
+00:13:01.410 --> 00:13:04.950
+la confianza que normalmente se deposita en un
+individuo por la confianza
+
+00:13:04.950 --> 00:13:08.310
+en un constructo matemático que es neutro. Este
+proceso se denomina "consenso"
+
+00:13:08.310 --> 00:13:13.170
+y es el invento fundamental detrás del
+Bitcoin y todas las demás monedas digitales.
+
+00:13:13.170 --> 00:13:19.590
+Es una forma de lograr confianza
+a una escala masiva, en una red totalmente
+
+00:13:19.590 --> 00:13:25.730
+horizontal que nos permite alcanzar
+tal nivel de confianza que podemos realizar
+
+00:13:25.730 --> 00:13:33.120
+transacciones de billones de dólares
+sin siquiera saber quién es la otra parte
+
+00:13:33.120 --> 00:13:38.089
+y detrás de esto está la idea de que
+
+00:13:38.089 --> 00:13:44.720
+podemos hacer algo único, podemos empezar
+a usar las redes como un modelo de gobierno
+
+00:13:44.720 --> 00:13:50.990
+que responda a las necesidades del nuevo
+mundo de innovación exponencial.
+
+00:13:50.990 --> 00:13:54.980
+El problema de las redes es que podemos
+
+00:13:54.980 --> 00:13:58.790
+expandir el desempeño de la información, de la
+comunicación, pero
+
+00:13:58.790 --> 00:14:05.449
+hasta 2009 no teníamos idea de cómo extender
+la confianza y la toma de decisiones.
+
+00:14:05.449 --> 00:14:08.449
+La invensión realmente grande que el Bitcoin
+
+00:14:08.449 --> 00:14:13.040
+pone sobre la mesa es una forma de sistematizar la
+confianza
+
+00:14:13.040 --> 00:14:16.129
+a nivel global, de la misma forma en que se expande
+el desempeño de la información
+
+00:14:16.129 --> 00:14:19.220
+y una vez resuelto te das cuenta de que una moneda
+es
+
+00:14:19.220 --> 00:14:22.459
+la aplicación obvia, un sistema de transacciones es
+la aplicación obvia,
+
+00:14:22.459 --> 00:14:26.209
+y la razón de que sea la aplicación obvia
+es que si puedes sistematizar la capacidad global
+
+00:14:26.209 --> 00:14:33.410
+y la confianza al mismo tiempo
+entonces al implementar las matemáticas como una
+
+00:14:33.410 --> 00:14:37.670
+moneda y un sistema de pagos
+tienes algo completamente nuevo
+
+00:14:37.670 --> 00:14:42.840
+una red totalmente abierta en donde las personas
+pueden negociar valor a nivel mundial,
+
+00:14:42.840 --> 00:14:45.720
+que es abierta para que cualquier persona pueda
+participar,
+
+00:14:45.720 --> 00:14:48.679
+que nadie puede censurar,
+
+00:14:48.679 --> 00:14:51.290
+que nadie puede controlar, que nadie puede
+detener.
+
+00:14:51.290 --> 00:14:56.589
+Y ese modelo es radicalmente
+diferente de lo que hemos tenido hasta ahora.
+
+00:14:56.589 --> 00:15:04.600
+¿Qué más podemos hacer con él? y derepente
+surgen todas las ideas que están estallando.
+
+00:15:04.600 --> 00:15:07.610
+Tienes una estructura que permite
+
+00:15:07.610 --> 00:15:10.910
+extender la confianza, se puede usar en sistemas
+electorales
+
+00:15:10.910 --> 00:15:13.879
+se puede utilizar para construir corporaciones
+masivas
+
+00:15:13.879 --> 00:15:18.560
+completamente decentralizadas con
+
+00:15:18.560 --> 00:15:24.350
+cientos de directivos participando
+en la toma de desiciones, se pueden crear
+
+00:15:24.350 --> 00:15:30.500
+compañías con miles de millones de
+accionistas, sin siquiera conocerlos
+
+00:15:30.500 --> 00:15:36.230
+ni saber sus nombres, o una compañía con millones
+de directores completamente desconocidos.
+
+00:15:36.230 --> 00:15:38.700
+Se podría tener una administración de
+
+00:15:38.700 --> 00:15:41.800
+propiedades fundamentales, como el internet, sin
+necesidad de dar confianza a
+
+00:15:41.810 --> 00:15:45.470
+ninguno de los participantes porque
+tienes una estructura que es neutral o
+
+00:15:45.470 --> 00:15:48.160
+matemática en la que se puede confiar.
+
+00:15:48.160 --> 00:15:51.530
+Lo que es realmente emocionante, lo que es realmente
+
+00:15:51.530 --> 00:15:54.020
+interesante sobre esta nueva tecnología
+
+00:15:54.020 --> 00:15:57.730
+no es que alguien pueda usarla para comprar drogas,
+
+00:15:57.730 --> 00:16:04.910
+no es que vaya a hacer la banca más eficiente, es que nos da por primera vez
+
+00:16:04.910 --> 00:16:11.410
+y en el momento en que más lo necesitamos
+la posibilidad de crear
+
+00:16:11.410 --> 00:16:17.930
+gobernos globales y mecanismos
+mundiales para la toma de decisiones.
+
+00:16:17.930 --> 00:16:22.430
+Y ¿cómo lo hace? fundamentalmente
+el algoritmo de consenso que se utiliza en estas
+
+00:16:22.430 --> 00:16:25.730
+tecnologías, en el Bitcoin, es una competición
+
+00:16:25.730 --> 00:16:29.320
+basada en teoria de juegos aplicada a los
+mercados.
+
+00:16:29.320 --> 00:16:36.620
+Cualquiera puede participar, pero se debe
+invertir energía, fondos o algo más y
+
+00:16:36.620 --> 00:16:41.220
+se debe hacer esta inversión como garantía
+de que se va a jugar limpio, de que
+
+00:16:41.220 --> 00:16:47.279
+se va seguir las reglas y si juegan limpio
+y siguen las reglas, serán recompensados.
+
+00:16:47.279 --> 00:16:51.839
+Que es la razón por la que el activo que forma
+parte
+
+00:16:51.839 --> 00:16:56.549
+del sistema es importante,
+y si no siguen las reglas, toda la red
+
+00:16:56.549 --> 00:17:01.049
+que está verificándolas, todos los participantes
+de la red, rechazan su contribución
+
+00:17:01.049 --> 00:17:07.109
+y se pierden todos los fondos que invirtieron
+o la energía que dedicaron.
+
+00:17:07.109 --> 00:17:13.470
+Es un juego, un juego en donde
+se debe hablar con hechos
+
+00:17:13.470 --> 00:17:18.119
+para participar pero no
+se deciden las reglas, las normas se
+
+00:17:18.119 --> 00:17:23.250
+definen en la red y se las debe seguir.
+Es como una Constitución basada
+
+00:17:23.250 --> 00:17:29.340
+en leyes matemáticas, las reglas
+de consenso que operan.
+
+00:17:29.340 --> 00:17:33.029
+¿Y cómo se cambian las reglas?
+Mediante un consenso abrumador.
+
+00:17:33.029 --> 00:17:38.680
+Si se quiere cambiar las reglas de una de
+estas redes se necesita un acuerdo del 95 %
+
+00:17:38.680 --> 00:17:41.940
+que es muy difícil de lograr, también significa que
+es
+
+00:17:41.940 --> 00:17:50.000
+muy difícil tomar el control de la red.
+Así que tomamos dos de los sistemas de gobierno
+
+00:17:50.000 --> 00:17:58.649
+más impresionantes, redes y fuerzas de mercado
+y las fusionamos en una red
+
+00:17:58.649 --> 00:18:03.539
+que es horizontal, global y abierta
+en donde no hay necesidad de investigar
+
+00:18:03.539 --> 00:18:07.940
+a los participantes para ver si son confiables.
+A priori puedes darles acceso y confiar
+
+00:18:07.940 --> 00:18:14.100
+en que la red los mantendrá bajo control.
+
+00:18:14.100 --> 00:18:19.590
+Esto nos permite ahora vislumbrar
+lo que podemos hacer en el futuro.
+
+00:18:19.590 --> 00:18:24.619
+Los procesos de gobierno han cambiado drásticamente.
+
+00:18:24.619 --> 00:18:27.269
+Ahora cualquier Director de Operaciones puede
+llegar
+
+00:18:27.269 --> 00:18:29.659
+y sugerir, "implementemos una nueva forma de
+gobierno
+
+00:18:29.660 --> 00:18:34.840
+que dejará obsoletas todas las formas existentes
+de gobierno, a las corporaciones,
+
+00:18:34.840 --> 00:18:37.220
+a las asociaciones y a todas las demás
+
+00:18:37.220 --> 00:18:40.000
+instituciones sociales y por cierto no está
+limitada
+
+00:18:40.000 --> 00:18:44.729
+por ninguna jurisdicción específica
+salvo las leyes matemáticas".
+
+00:18:44.729 --> 00:18:51.690
+¿Creen que tendrá una dura recepción?
+Cuando tengo estas conversaciones con autoridades
+
+00:18:51.690 --> 00:18:57.139
+lo interesante es que piensan que estoy
+desafiando o cuestionando su autoridad
+
+00:18:57.139 --> 00:19:04.769
+para regular estos sistemas.
+Reconozco y acepto su completa potestad
+
+00:19:04.769 --> 00:19:13.109
+para regular estos sistemas.
+Lo que cuestiono es sus posibilidades, sus medios,
+
+00:19:13.109 --> 00:19:16.859
+sus herramientas para lograr un cambio en estos
+sistemas.
+
+00:19:16.859 --> 00:19:23.580
+Ni con toda la autoridad del mundo, ni con
+toda la influencia, ni con todo el poder.
+
+00:19:23.580 --> 00:19:26.570
+No hay palancas que bajar, no hay nada que se pueda
+apagar.
+
+00:19:26.570 --> 00:19:30.899
+¿Qué se puede prohibir? "Vamos a prohibir los números
+primos"
+
+00:19:30.899 --> 00:19:37.259
+Ya se ha intentado, hay un número primo
+específico que no se puede poseer
+
+00:19:37.259 --> 00:19:41.789
+en los Estados Unidos, creo que
+tampoco en Canadá, porque ese número primo
+
+00:19:41.789 --> 00:19:45.059
+desbloquea DVDs. 
+Se las arreglaron para prohibir un número.
+
+00:19:45.059 --> 00:19:48.160
+¡Suerte con eso!
+
+00:19:48.160 --> 00:19:50.809
+Desde una perspectiva reglamentaria es un callejón
+sin salida.
+
+00:19:50.809 --> 00:19:56.030
+Así que ahora vamos a tener una conversación
+muy dura y esa dura conversación
+
+00:19:56.030 --> 00:20:02.740
+va a requerir que las personas se
+acostumbren a ver la realidad, no debemos
+
+00:20:02.740 --> 00:20:09.300
+tener un sistema que permita a los delincuentes
+hacer pagos a quien quieran.
+
+00:20:09.300 --> 00:20:12.140
+Ya tenemos un sistema que permite a los
+delincuentes
+
+00:20:12.140 --> 00:20:18.770
+hacer pagos a quien quieran y a todos nosotros
+y a todos ellos, y a todo el mundo, hacer pagos
+
+00:20:18.770 --> 00:20:22.790
+a quien sea.
+No debemos tener o permitir un sistema
+
+00:20:22.790 --> 00:20:28.160
+que sirva para transferir valor o registrar
+información que no se pueda editar o
+
+00:20:28.160 --> 00:20:35.240
+modificar. Ya tenemos tal sistema.
+Sea que debamos, que tengamos, que
+
+00:20:35.240 --> 00:20:42.050
+no podamos, que no haremos...
+Ya nada de eso importa. Ya existe, hablemos de
+
+00:20:42.050 --> 00:20:46.630
+qué vamos a hacer con eso y cómo
+nos adaptaremos a una sociedad que
+
+00:20:46.630 --> 00:20:53.179
+tiene los medios para crear estas estructuras
+de confianza global y también cómo lidiar
+
+00:20:53.179 --> 00:20:59.030
+con las repercusiones de crear estas
+estructuras de confianza global.
+
+00:20:59.030 --> 00:21:03.830
+Voy a dejarles una idea final que va
+a tirar otra gran herramienta al engranage.
+
+00:21:03.830 --> 00:21:07.340
+El dinero tiene tres propiedades fundamentales o
+usos:
+
+00:21:07.340 --> 00:21:14.900
+depósito de valor, medio de cambio
+y pago, unidad de medida.
+
+00:21:14.900 --> 00:21:19.040
+Pero en los últimos 50 años los gobiernos del
+mundo han agregado un cuarto uso,
+
+00:21:19.040 --> 00:21:25.429
+el dinero como sistema de control
+utilizando el sistema bancario como
+
+00:21:25.429 --> 00:21:33.020
+un brazo sustituto de refuerzo de la ley
+y el espionaje para monitorizar y controlar
+
+00:21:33.020 --> 00:21:38.440
+el dinero que fluye alrededor del mundo.
+Este sueño lo comenzó Richard Nixon
+
+00:21:38.440 --> 00:21:44.960
+en los 70 y ha alcanzado ahora
+su apoteosis con los países haciendo lo
+
+00:21:44.960 --> 00:21:51.610
+impensable como prohibir el efectivo en la noche como si eso fuera a detener la corrupción y el dinero negro.
+
+00:21:51.610 --> 00:21:58.669
+Ese sueño se acabó,
+ese sueño se terminó el 3 de enero de 2009
+
+00:21:58.669 --> 00:22:03.000
+con el primer bloque del Bitcoin, el bloque Génesis que contenía un mensaje dentro
+
+00:22:03.000 --> 00:22:05.980
+"Times of London,
+
+00:22:05.980 --> 00:22:07.895
+Chancellor of the Exchequer,
+
+00:22:07.895 --> 00:22:10.700
+on the brink of second bailout of banks".
+
+00:22:10.700 --> 00:22:13.640
+Y ese mensaje resuena en un gran número de personas hoy en día.
+
+00:22:13.640 --> 00:22:17.180
+Fue un mensaje secreto que nos dijo por qué esto se creó,
+
+00:22:17.180 --> 00:22:20.760
+pero todavía no sabemos qué
+impacto tendrá.
+
+00:22:20.760 --> 00:22:23.580
+Yo creo que será e norme.
+
+00:22:23.580 --> 00:22:25.520
+Muchísimas gracias
+
+00:22:30.320 --> 00:22:31.580
+[Música]
+

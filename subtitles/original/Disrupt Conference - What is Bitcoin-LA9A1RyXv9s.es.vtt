@@ -1,0 +1,907 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:24.240 --> 00:00:26.240
+Buenas tardes, Atenas.
+
+00:00:26.240 --> 00:00:27.840
+Gracias por invitarme.
+
+00:00:28.180 --> 00:00:30.180
+¿Queréis perturbar?
+
+00:00:30.180 --> 00:00:32.060
+Yo tengo para perturbar.
+
+00:00:33.580 --> 00:00:36.720
+Tengo una revolución absoluta.
+
+00:00:37.320 --> 00:00:40.360
+Vamos a hablar de la innovación tecnológica más emocionante,
+
+00:00:40.620 --> 00:00:44.780
+la más interesante y probablemente la más importante;
+
+00:00:44.920 --> 00:00:49.500
+no, el invento en ciencia computacional más importante de los últimos 20 años.
+
+00:00:49.840 --> 00:00:51.980
+He venido a hablar de Bitcoin.
+
+00:00:52.640 --> 00:00:54.960
+Quizás hayáis oído hablar de Bitcoin antes,
+
+00:00:55.080 --> 00:00:59.000
+vamos a comprobarlo: ¿cuántos habíais oído hablar de Bitcoin antes?
+
+00:01:01.040 --> 00:01:03.280
+Vaya, sois muchos.
+
+00:01:03.280 --> 00:01:05.280
+¿Cuántos tenéis Bitcoin?
+
+00:01:06.720 --> 00:01:08.720
+Mejor aún, de acuerdo.
+
+00:01:09.620 --> 00:01:12.320
+Bitcoin es dinero digital,
+
+00:01:12.880 --> 00:01:14.960
+pero es mucho más que eso.
+
+00:01:15.400 --> 00:01:17.780
+Decir que Bitcoin es dinero digital
+
+00:01:18.000 --> 00:01:22.000
+es como decir que internet es un teléfono sofisticado.
+
+00:01:22.740 --> 00:01:26.000
+Es como decir que internet es solo email.
+
+00:01:26.160 --> 00:01:28.780
+El dinero es solo el primer uso.
+
+00:01:29.560 --> 00:01:32.160
+Bitcoin es una tecnología,
+
+00:01:32.160 --> 00:01:33.900
+es una divisa
+
+00:01:34.160 --> 00:01:37.860
+y es una red internacional de pagos y cambios
+
+00:01:38.100 --> 00:01:40.520
+que está completamente descentralizada.
+
+00:01:40.720 --> 00:01:42.720
+No depende de los bancos,
+
+00:01:42.880 --> 00:01:44.880
+no depende de los gobiernos.
+
+00:01:45.960 --> 00:01:49.640
+Y nunca habíamos hecho esto antes en la historia de la humanidad.
+
+00:01:50.160 --> 00:01:53.680
+Este invento es verdaderamente revolucionario
+
+00:01:54.140 --> 00:01:57.460
+y, cuando miremos atrás,
+
+00:01:57.580 --> 00:02:00.660
+veremos que es un momento histórico en la evolución de la ciencia computacional,
+
+00:02:00.840 --> 00:02:04.560
+pero también que se está gestando una revolución social y política.
+
+00:02:05.280 --> 00:02:07.280
+Así que, empecemos.
+
+00:02:07.320 --> 00:02:09.320
+Bitcoin es dinero digital.
+
+00:02:09.360 --> 00:02:13.520
+Es dinero como los euros o los dólares, solo que no es propiedad del gobierno.
+
+00:02:14.320 --> 00:02:18.540
+Y lo puedes mandar de cualquier punto en el mundo a cualquier otro punto en el mundo
+
+00:02:18.800 --> 00:02:24.100
+instantáneamente, de forma segura y por unas tarifas mínimas o inexistentes.
+
+00:02:25.560 --> 00:02:30.360
+Hace dos días, vimos una de las transacciones más grandes jamás registradas en la red Bitcoin,
+
+00:02:30.440 --> 00:02:35.720
+en la que alguien transfirió 150 millones de dólares entre dos cuentas Bitcoin.
+
+00:02:36.980 --> 00:02:38.540
+En un segundo,
+
+00:02:39.560 --> 00:02:41.120
+sin pagar ninguna tarifa.
+
+00:02:42.280 --> 00:02:46.280
+Y solo eso nos permite comprender
+
+00:02:46.680 --> 00:02:50.360
+lo perturbadora que va a ser esta tecnología
+
+00:02:50.460 --> 00:02:52.740
+en cuanto a sistemas de pago internacionales,
+
+00:02:52.740 --> 00:02:54.320
+pero esto es solo el principio.
+
+00:02:56.120 --> 00:03:00.100
+Bitcoin es una divisa digital que empezó a existir en 2008
+
+00:03:00.180 --> 00:03:03.760
+como un invento de una persona llamada Satoshi Nakamoto
+
+00:03:04.340 --> 00:03:07.400
+Publicó un paper en el que sostenía que
+
+00:03:07.520 --> 00:03:11.580
+había encontrado una manera de crear una red descentralizada
+
+00:03:11.880 --> 00:03:15.780
+que podía lograr consenso, acuerdo,
+
+00:03:15.880 --> 00:03:18.420
+sin ninguna autoridad central que la controlase.
+
+00:03:18.900 --> 00:03:22.360
+Si habéis estudiado ciencia computacional o sistemas distribuidos,
+
+00:03:22.460 --> 00:03:25.380
+esto se conoce como el problema de los generales bizantinos.
+
+00:03:25.740 --> 00:03:28.480
+Se postuló por primera vez en 1975
+
+00:03:28.520 --> 00:03:31.660
+y hasta 2008 era un problema sin resolver.
+
+00:03:31.980 --> 00:03:36.520
+Pero entendimos inmediatamente la importancia de resolver este problema
+
+00:03:36.620 --> 00:03:39.220
+y Satoshi Nakamoto dijo que lo había resuelto.
+
+00:03:39.440 --> 00:03:42.440
+Y ¿a que no sabéis qué pasó? Todos se rieron.
+
+00:03:43.140 --> 00:03:45.680
+Y lo ignoraron, y lo despreciaron.
+
+00:03:45.880 --> 00:03:50.440
+Él publicó su paper y, tres meses más tarde, publicó un software
+
+00:03:50.600 --> 00:03:54.520
+que permitía a la gente comenzar a construir la red Bitcoin.
+
+00:03:55.100 --> 00:03:57.100
+Bitcoin no es una empresa.
+
+00:03:58.060 --> 00:04:00.620
+No es una organización.
+
+00:04:01.260 --> 00:04:05.780
+Es un estándar o un protocolo, como TCP/IP o internet.
+
+00:04:06.260 --> 00:04:08.100
+Nadie lo posee,
+
+00:04:08.240 --> 00:04:13.260
+funciona mediante una serie de reglas matemáticas con las cuales cada participante está de acuerdo.
+
+00:04:13.840 --> 00:04:16.120
+Mediante este simple mecanismo,
+
+00:04:16.500 --> 00:04:19.280
+y mediante la invención de Satoshi Nakamoto,
+
+00:04:19.580 --> 00:04:24.940
+Bitcoin puede permitir a una red completamente descentralizada de ordenadores ponerse de acuerdo
+
+00:04:25.560 --> 00:04:29.100
+en qué transacciones han tenido lugar en una red.
+
+00:04:29.280 --> 00:04:33.660
+Esencialmente, ponerse de acuerdo en quién tiene el dinero en cada momento.
+
+00:04:34.020 --> 00:04:37.980
+Así que, si yo mando dinero de mi cuenta a la cuenta de otra persona,
+
+00:04:38.140 --> 00:04:41.540
+en esta red P2P y completamente descentralizada,
+
+00:04:41.680 --> 00:04:43.680
+es como mandar un e-mail.
+
+00:04:44.160 --> 00:04:48.300
+No hay nadie en medio, va de mi ordenador, donde está almacenado,
+
+00:04:48.360 --> 00:04:52.040
+al ordenador del destinatario, sin ninguna intervención.
+
+00:04:52.900 --> 00:04:57.960
+Y toda la red, cada diez minutos, se pone de acuerdo en qué transacciones han ocurrido,
+
+00:04:58.320 --> 00:05:03.840
+sin ninguna autoridad central, con unas elecciones simples que tienen lugar electrónicamente.
+
+00:05:04.240 --> 00:05:08.640
+Esta solución en particular, este invento, es mucho más importante que la divisa.
+
+00:05:09.260 --> 00:05:11.440
+La divisa es solo la primera aplicación.
+
+00:05:11.900 --> 00:05:16.060
+Solo el primer uso que le puedes dar a un sistema de consenso distribuido.
+
+00:05:16.520 --> 00:05:19.580
+Otras aplicaciones incluyen votos distribuidos y justos,
+
+00:05:19.840 --> 00:05:24.000
+posesión de acciones, registro de recursos, notarización y
+
+00:05:24.780 --> 00:05:28.740
+muchas otras aplicaciones que no se nos han ocurrido antes.
+
+00:05:30.400 --> 00:05:33.440
+Descubrí Bitcoin en 2011,
+
+00:05:33.980 --> 00:05:38.380
+y, desde internet, no he tenido esta sensación de
+
+00:05:38.560 --> 00:05:42.780
+estar completamente apabullado por las posibilidades que le veía.
+
+00:05:42.960 --> 00:05:46.000
+Yo estaba allí, en el amanecer de internet en 1991,
+
+00:05:46.080 --> 00:05:48.080
+antes de que fuera comercial,
+
+00:05:48.220 --> 00:05:53.520
+y sabía que iba a cambiar el mundo y quería decírselo a todos, pero no podía porque nadie me creía.
+
+00:05:53.680 --> 00:05:57.080
+Y tengo exactamente la misma sensación con Bitcoin.
+
+00:05:57.240 --> 00:06:01.220
+Algunos habréis oído hablar de Bitcoin como una divisa, como un sistema monetario
+
+00:06:01.380 --> 00:06:07.560
+que sube de precio exageradamente un día y baja exageradamente de precio el siguiente.
+
+00:06:07.680 --> 00:06:10.720
+Y lo que os quiero decir hoy es que os olvidéis del precio.
+
+00:06:10.860 --> 00:06:15.680
+Que ignoréis Bitcoin, el dinero, y entendáis Bitcoin, la tecnología,
+
+00:06:15.880 --> 00:06:19.240
+el invento y la red que crea, porque
+
+00:06:19.360 --> 00:06:23.720
+si fastidiamos el dinero, creamos otra divisa.
+
+00:06:23.940 --> 00:06:28.040
+El invento de Bitcoin, la tecnología que lo hace posible
+
+00:06:28.240 --> 00:06:30.740
+no se puede desinventar,
+
+00:06:30.880 --> 00:06:37.700
+y ofrece la posibilidad de crear redes descentralizadas a una escala que no se ha visto nunca en este planeta.
+
+00:06:39.620 --> 00:06:42.600
+Y he aquí por qué me parece importante:
+
+00:06:43.420 --> 00:06:48.820
+Hoy en día, unos mil millones de personas tienen acceso a la banca
+
+00:06:49.640 --> 00:06:52.200
+al crédito y a las finanzas internacionales,
+
+00:06:52.420 --> 00:06:57.400
+principalmente las clases altas y las naciones occidentales.
+
+00:06:57.760 --> 00:07:03.600
+6500 millones de personas en todo el planeta no tienen conexión alguna con el mundo del dinero.
+
+00:07:04.160 --> 00:07:10.640
+Operan en sociedades basadas en el efectivo, con muy poco acceso a recursos internacionales.
+
+00:07:11.720 --> 00:07:13.940
+No necesitan bancos.
+
+00:07:15.380 --> 00:07:18.800
+Dos mil millones de estas personas ya están en internet.
+
+00:07:18.980 --> 00:07:21.280
+Y, con solo descargar una aplicación,
+
+00:07:21.800 --> 00:07:27.060
+pueden empezar a participar inmediatamente en una economía internacional
+
+00:07:27.220 --> 00:07:30.300
+usando una divisa internacional que puede transferirse a cualquier parte
+
+00:07:30.520 --> 00:07:32.520
+sin pagar tarifas y sin control del gobierno
+
+00:07:32.680 --> 00:07:36.480
+y pueden contectarse a un mundo de finanzas internacionales
+
+00:07:36.680 --> 00:07:38.680
+que es totalmente entre pares (P2P).
+
+00:07:39.180 --> 00:07:41.980
+Así que Bitcoin es el dinero de la gente,
+
+00:07:42.440 --> 00:07:47.640
+con un núcleo de reglas matemáticas simples en las que todos están de acuerdo y sin controles.
+
+00:07:49.680 --> 00:07:54.220
+La posibilidad de traer a 6500 millones de personas a una sociedad productiva
+
+00:07:54.320 --> 00:07:58.800
+conectándolos al resto del mundo es verdaderamente revolucionaria.
+
+00:08:00.420 --> 00:08:04.660
+Primero, vamos a afectar a los procesadores de pagos,
+
+00:08:04.940 --> 00:08:09.600
+estas empresas enormes que hacen que sea más caro enviar dinero
+
+00:08:09.620 --> 00:08:12.860
+cuanto más pobre es el país de destino;
+
+00:08:13.360 --> 00:08:16.820
+una situación de explotación y corrupción.
+
+00:08:17.840 --> 00:08:21.440
+Estas organizaciones están teniendo beneficios enormes
+
+00:08:21.620 --> 00:08:25.340
+por una función que se puede hacer gratis en Bitcoin.
+
+00:08:26.500 --> 00:08:30.020
+Así que, como decía el proverbio de internet,
+
+00:08:30.220 --> 00:08:34.960
+"acabo de sustituir tu industria entera con cien líneas de código en Python".
+
+00:08:35.540 --> 00:08:38.740
+Y eso es exactamente lo que estamos haciendo con Bitcoin.
+
+00:08:40.420 --> 00:08:43.120
+¿Cómo se puede usar Bitcoin hoy?
+
+00:08:43.720 --> 00:08:48.480
+Hablando sencillamente, Bitcoin puede operar como una divisa
+
+00:08:48.660 --> 00:08:51.880
+y puedes pensar en ello como si compraras divisa extranjera.
+
+00:08:52.000 --> 00:08:54.900
+Puedes contectarte a un portal de cambio en internet,
+
+00:08:55.180 --> 00:09:00.280
+puedes transferir unos euros y usar esos euros para comprar Bitcoin
+
+00:09:00.380 --> 00:09:03.000
+a la tasa de cambio vigente,
+
+00:09:03.060 --> 00:09:06.000
+pero esa no es la forma adecuada de hacerlo, en realidad.
+
+00:09:06.240 --> 00:09:08.380
+Porque somos emprendedores, ¿verdad?
+
+00:09:08.380 --> 00:09:09.820
+Queremos perturbar, así que
+
+00:09:10.360 --> 00:09:14.460
+la mejor forma de hacerlo es encontrar un producto
+
+00:09:14.680 --> 00:09:17.340
+o servicio que puedas ofrecer
+
+00:09:17.440 --> 00:09:19.740
+que alguien con Bitcoins quiera comprar
+
+00:09:19.880 --> 00:09:21.880
+y empezar a ganar Bitcoin.
+
+00:09:23.480 --> 00:09:28.300
+Si estás pensando en fundar un negocio en un ámbito internacional,
+
+00:09:28.380 --> 00:09:32.480
+hay dos barreras fundamentales a la hora de convertirse en un negocio global:
+
+00:09:32.600 --> 00:09:39.240
+la primera es que es difícil transportar productos y servicios más allá de las fronteras,
+
+00:09:39.780 --> 00:09:42.520
+y eso se resuelve con internet,
+
+00:09:42.600 --> 00:09:46.660
+porque podemos crear productos y servicios virtuales,
+
+00:09:46.700 --> 00:09:49.840
+que podemos vender en cualquier parte del mundo.
+
+00:09:50.020 --> 00:09:54.360
+Así que podemos entregar el producto, pero aún tenemos un gran problema:
+
+00:09:54.360 --> 00:09:56.240
+¿cómo cobramos?
+
+00:09:56.640 --> 00:09:58.640
+Bitcoin resuelve esa parte.
+
+00:09:58.860 --> 00:10:02.640
+Nos permite recibir pagos de cualquier parte del mundo
+
+00:10:02.960 --> 00:10:04.960
+instantáneamente.
+
+00:10:06.080 --> 00:10:09.800
+La red Bitcoin permite a cualquier individuo enviar
+
+00:10:10.360 --> 00:10:16.260
+una cantidad mínima de una cienmillonésima de Bitcoin,
+
+00:10:16.820 --> 00:10:22.300
+lo que hoy en día es una cantidad de dinero muy, muy pequeña.
+
+00:10:23.120 --> 00:10:26.000
+No se puede hacer eso con el dinero y los sistemas de pago actuales.
+
+00:10:26.280 --> 00:10:28.700
+Las tarjetas de crédito se inventaron en los años 50
+
+00:10:28.840 --> 00:10:32.400
+y, desde luego, no se hicieron para la era de internet.
+
+00:10:32.960 --> 00:10:35.500
+Pero Bitcoin está hecho para la era de internet.
+
+00:10:35.800 --> 00:10:40.080
+Así que si se pueden enviar pagos de un céntimo de euro,
+
+00:10:40.420 --> 00:10:42.620
+o una milésima de euro,
+
+00:10:42.760 --> 00:10:46.120
+puedes vender contenido, puedes hacer microtransacciones,
+
+00:10:46.280 --> 00:10:49.420
+puedes cobrarle a millones de personas
+
+00:10:49.680 --> 00:10:54.300
+en cantidades ínfimas y que, en conjunto, valgan algo.
+
+00:10:55.260 --> 00:10:59.440
+Y, en la misma red en la que puedes enviar una milésima de euro,
+
+00:10:59.540 --> 00:11:02.280
+o incluso una millonésima de euro,
+
+00:11:02.360 --> 00:11:05.420
+puedes enviar mil millones de euros, o un billón de euros,
+
+00:11:05.920 --> 00:11:08.560
+y la tarifa será exactamente la misma
+
+00:11:08.820 --> 00:11:13.940
+porque depende del tamaño de la transacción en kilobytes, no del contenido.
+
+00:11:15.420 --> 00:11:18.560
+Así que miremos atrás a interner y veamos qué lecciones podemos aprender
+
+00:11:18.600 --> 00:11:21.000
+sobre por qué Bitcoin es importante.
+
+00:11:21.780 --> 00:11:25.460
+Uno de los principios más importantes de internet es la neutralidad de la red.
+
+00:11:26.200 --> 00:11:31.000
+Internet no distingue entre una organización grande y una pequeña.
+
+00:11:31.540 --> 00:11:35.680
+No sabe distinguir a la CNN de un blogger egipcio.
+
+00:11:37.020 --> 00:11:40.340
+Y le da la posibilidad a un blogger egipcio
+
+00:11:40.580 --> 00:11:45.280
+de hablarle al mundo al mismo volumen que la CCN.
+
+00:11:46.400 --> 00:11:49.720
+Bitcoin es neutral con respecto al remitente y el destinatario
+
+00:11:49.860 --> 00:11:52.480
+y también al valor de la transacción,
+
+00:11:52.820 --> 00:11:56.700
+y eso significa que le da a cada ciudadano y usuario de Bitcoin
+
+00:11:57.080 --> 00:12:02.700
+la posibilidad de innovar en cuanto a finanzas e instrumentos,
+
+00:12:02.700 --> 00:12:04.640
+en cuanto a sistemas de pago,
+
+00:12:04.740 --> 00:12:10.200
+y de usar la divisa exactamente con la misma facilidad que un banco.
+
+00:12:10.740 --> 00:12:13.580
+Te conviertes en City Bank
+
+00:12:13.640 --> 00:12:16.700
+y puedes operar al mismo nivel que City Bank.
+
+00:12:17.900 --> 00:12:20.040
+Y eso es ciertamente revolucionario.
+
+00:12:20.600 --> 00:12:24.420
+Toma un sistema jerárquico de finanzas internacionales
+
+00:12:24.680 --> 00:12:29.180
+que hasta ahora ha conseguido seguridad limitando el acceso,
+
+00:12:29.360 --> 00:12:32.980
+porque ese es el sistema principal de confianza en nuestros sistemas de pago,
+
+00:12:33.320 --> 00:12:35.800
+no puedes acceder salvo que estés aprobado,
+
+00:12:36.360 --> 00:12:38.780
+lo vuelve del revés
+
+00:12:38.940 --> 00:12:44.060
+y crea una red completamente plana y descentralizada donde todos los nodos son iguales,
+
+00:12:44.980 --> 00:12:47.960
+donde el protocolo es neutral respecto a las transacciones
+
+00:12:48.100 --> 00:12:51.680
+y empuja la innovación a los bordes de la red,
+
+00:12:51.840 --> 00:12:57.880
+permitiendo el mismo fenómeno que vimos en internet: innovación sin permiso.
+
+00:12:58.800 --> 00:13:04.300
+No tienes que pedirle permiso a nadie para publicar tu aplicación en internet,
+
+00:13:04.600 --> 00:13:11.140
+no tienes que pedirle permiso a nadie para trastocar una industria entera con tu tecnología de la información.
+
+00:13:11.300 --> 00:13:15.960
+Bueno, pues en Bitcoin no tienes que pedirle a nadie que invente un instrumento financiero nuevo,
+
+00:13:16.060 --> 00:13:18.500
+un sistema de pago nuevo, un servicio nuevo,
+
+00:13:18.700 --> 00:13:20.760
+lo puedes hacer y ya está.
+
+00:13:21.080 --> 00:13:25.440
+Puedes escribir el código y formar parte de una red internacional
+
+00:13:25.560 --> 00:13:29.980
+que ejecuta ese código y ponerte en contacto con millones de consumidores.
+
+00:13:30.640 --> 00:13:34.760
+Aún es pronto, todavía no tenemos
+
+00:13:35.840 --> 00:13:38.660
+las interfaces pulidas.
+
+00:13:38.680 --> 00:13:40.680
+Es difícil de usar,
+
+00:13:40.700 --> 00:13:42.700
+lo usan los criminales,
+
+00:13:43.680 --> 00:13:48.700
+lo usan diversas organizaciones en todo el mundo
+
+00:13:48.800 --> 00:13:52.320
+y no es fácil ver exactamente quién está usando Bitcoin.
+
+00:13:53.300 --> 00:13:55.360
+Todo eso lo he oído antes.
+
+00:13:56.280 --> 00:13:58.740
+Cuando estaba en internet, en 1991,
+
+00:13:58.940 --> 00:14:03.060
+era un cubil de ladrones, pornógrafos, piratas y crimimales
+
+00:14:03.520 --> 00:14:05.000
+¿Verdad?
+
+00:14:05.840 --> 00:14:08.820
+Pero no importaba y no importa ahora,
+
+00:14:09.180 --> 00:14:13.880
+y el motivo por el que no importa es que el mismo poder de la tecnología
+
+00:14:13.960 --> 00:14:17.300
+que puede usar un criminal para promocional sus actividades criminales
+
+00:14:17.680 --> 00:14:20.220
+puedemos usarlo todos los demás
+
+00:14:20.380 --> 00:14:24.780
+para hacer el bien, para hacer cosas increíbles a lo largo y ancho del mundo.
+
+00:14:25.240 --> 00:14:27.240
+Y nosotros somos más.
+
+00:14:28.380 --> 00:14:32.900
+Bitcoin crea este ambiente que es idóneo para la innovación
+
+00:14:33.080 --> 00:14:36.760
+porque no es una divisa, es una tecnología,
+
+00:14:36.880 --> 00:14:39.140
+una red y una divisa.
+
+00:14:39.460 --> 00:14:44.080
+Y os puedo decir que estoy muy contento de que el precio de Bitcoin esté subiendo tanto,
+
+00:14:44.160 --> 00:14:47.220
+porque tengo Bitcoins y la sensación es agradable,
+
+00:14:47.460 --> 00:14:49.460
+pero el precio me da igual.
+
+00:14:49.820 --> 00:14:52.540
+Si Bitcoin se estrellase mañana por la manaña,
+
+00:14:52.980 --> 00:14:56.040
+la tecnología sigue siendo revolucionaria.
+
+00:14:56.500 --> 00:15:00.320
+Igual que si una página falla en internet,
+
+00:15:00.460 --> 00:15:04.460
+o una aplicación falla en internet, internet no se va a ninguna parte.
+
+00:15:07.300 --> 00:15:11.060
+Así que, si entendéis que Bitcoin es una tecnología y no una divisa,
+
+00:15:11.140 --> 00:15:13.760
+podéis comprender realmente su importancia,
+
+00:15:13.880 --> 00:15:17.440
+pero, de nuevo, no se trata de nosotros.
+
+00:15:18.600 --> 00:15:21.040
+Se trata de los otros 6500 millones.
+
+00:15:21.860 --> 00:15:26.260
+Se trata de traer al mundo un nivel de integración financiera
+
+00:15:26.360 --> 00:15:28.720
+nunca vista hasta hoy
+
+00:15:28.960 --> 00:15:34.200
+y desde nuestra perspectiva, es buena tecnología, podemos hacer innovación perturbadora,
+
+00:15:34.220 --> 00:15:36.220
+podemos construir servicios interesantes,
+
+00:15:37.360 --> 00:15:41.560
+Pero si eres un campesino keniano que trata de recaudar dinero
+
+00:15:41.680 --> 00:15:44.600
+para comprar grano, y ahora puedes
+
+00:15:44.820 --> 00:15:50.220
+acceder a préstamos descentralizados entre pares y ponerte en contacto con prestamistas de todo el mundo,
+
+00:15:50.420 --> 00:15:53.800
+esto no es tecnología, ¿verdad?
+
+00:15:53.960 --> 00:15:57.000
+Esto de veras te cambia la vida.
+
+00:15:57.360 --> 00:16:02.780
+Así que entender el impacto que Bitcoin tiene en la gran mayoría del mundo
+
+00:16:02.900 --> 00:16:05.840
+que vive bajo regímenes corruptos y opresivos
+
+00:16:05.940 --> 00:16:11.060
+con bancos centrales que imponen una híper inflación del 30% al mes
+
+00:16:11.240 --> 00:16:16.340
+es mucho más importante ver cómo Bitcoin puede afectar a todas esas personas.
+
+00:16:17.060 --> 00:16:21.820
+Hay dos mil millones de personas en internet y solo mil millones de ellos tienen cuentas bancarias.
+
+00:16:21.820 --> 00:16:23.500
+Podemos cambiar eso.
+
+00:16:23.600 --> 00:16:25.600
+Y no va a ser fácil.
+
+00:16:25.720 --> 00:16:27.720
+No os confundáis.
+
+00:16:28.080 --> 00:16:33.360
+Cuando lanzas una tecnología perturbadora delante de las organizaciones más poderosas del planeta,
+
+00:16:33.360 --> 00:16:35.240
+no les gusta
+
+00:16:36.380 --> 00:16:39.760
+y ahora estamos aún en las etapas tempranas,
+
+00:16:40.040 --> 00:16:43.680
+para usar la expresión manida: "primero nos ignoran,
+
+00:16:43.840 --> 00:16:48.140
+después se ríen de nosotros, entonces nos combaten y al final ganamos".
+
+00:16:48.580 --> 00:16:51.520
+Todavía estamos en la fase en que se ríen de nosotros.
+
+00:16:51.760 --> 00:16:57.140
+Y eso está bien, porque para cuando se pongan a combatirnos, ya han perdido.
+
+00:16:57.800 --> 00:17:04.320
+Porque esta tecnología acaba de volverse global con la introducción de más de 2500 millones de dólares de inversores chinos
+
+00:17:04.500 --> 00:17:11.280
+quienes descubrieron un contrapeso a la dominación mundial de la reserva global de la divisa del dólar estadounidense.
+
+00:17:12.060 --> 00:17:15.160
+Hay 193 divisas en el mundo,
+
+00:17:15.260 --> 00:17:18.120
+pero solo hay una divisa internacional.
+
+00:17:18.740 --> 00:17:22.460
+Hay 193 divisas controladas por bancos centrales
+
+00:17:22.640 --> 00:17:27.260
+y gobiernos, pero solo hay una divisa matemática hoy,
+
+00:17:27.260 --> 00:17:30.920
+que es Bitcoin, y vamos a construir más.
+
+00:17:31.200 --> 00:17:36.580
+Las criptomonedas van a ser un pilar de nuestro futuro financiero,
+
+00:17:36.780 --> 00:17:39.920
+van a ser parte del futuro de este planeta,
+
+00:17:40.000 --> 00:17:44.700
+porque se han inventado, y es tan sencillo como eso.
+
+00:17:44.960 --> 00:17:50.580
+No se puede desinventar esa tecnología, no se puede volver a convetir esa tortilla en huevos.
+
+00:17:51.940 --> 00:17:56.680
+Entender que ya tenemos más de cien divisas en competencia
+
+00:17:56.860 --> 00:18:00.900
+en ese espacio muestra lo rápido que la innovación ha estallado
+
+00:18:01.060 --> 00:18:04.080
+y más allá de Bitcoin, la divisa.
+
+00:18:04.220 --> 00:18:07.780
+Hay muchas otras altcoins, monedas alternativas se les llama,
+
+00:18:08.040 --> 00:18:13.660
+que usan la misma tecnología básica de un libro de contabilidad descentralizado
+
+00:18:14.100 --> 00:18:18.240
+usando consenso en la red con el algoritmo de Satoshi
+
+00:18:18.420 --> 00:18:21.840
+para conseguir otras formas de divisa, divisas
+
+00:18:21.880 --> 00:18:24.960
+que son inflacionarias, divisas que son deflacionarias,
+
+00:18:25.140 --> 00:18:28.620
+divisas que usan sobrestadía, o tasas de interés negativas,
+
+00:18:29.020 --> 00:18:35.680
+divisas que son solidarias, y distribuyen una porción de los beneficios a organizaciones solidarias,
+
+00:18:36.280 --> 00:18:38.440
+Podemos inventar dinero
+
+00:18:38.660 --> 00:18:42.320
+sin parar, nuevas formas de dinero y los instrumentos.
+
+00:18:42.640 --> 00:18:46.320
+A fin de cuentas, Bitcoin es dinero programable.
+
+00:18:46.480 --> 00:18:50.800
+Y una vez tienes dinero programable, las posibilidades realmente no tienen fin.
+
+00:18:51.440 --> 00:18:57.740
+Podemos tomar muchos conceptos básicos de nuestro sistema actual que dependen en contratos legales
+
+00:18:58.000 --> 00:19:02.520
+y podemos convertirlos en contratos algorítmicos.
+
+00:19:02.700 --> 00:19:07.780
+En transacciones matemáticas que pueden ejecutadas en la red Bitcoin
+
+00:19:07.940 --> 00:19:11.480
+y, como dije antes, no hay un tercero involucrado.
+
+00:19:11.840 --> 00:19:13.840
+No hay contraparte.
+
+00:19:14.020 --> 00:19:20.200
+Si yo elijo transferir valor de una parte de la red a otra parte de la red,
+
+00:19:20.320 --> 00:19:23.640
+es de par a par (P2P) sin nadie en medio.
+
+00:19:23.700 --> 00:19:27.780
+Y si invento una nueva forma de dinero, puedo lanzarla en todo el mundo
+
+00:19:27.820 --> 00:19:30.280
+e invitar a otros a unirse a mí.
+
+00:19:32.640 --> 00:19:38.380
+Si ves que Bitcoin tiene la posibilidad de introducir
+
+00:19:38.480 --> 00:19:42.400
+no dinero para internet, porque sí, es dinero para internet,
+
+00:19:42.580 --> 00:19:45.100
+es el dinero perfecto para internet,
+
+00:19:45.260 --> 00:19:47.540
+es instantánero, es seguro, es
+
+00:19:47.860 --> 00:19:48.880
+gratis,
+
+00:19:49.800 --> 00:19:52.300
+sí, es dinero para internet,
+
+00:19:52.300 --> 00:19:53.580
+pero es mucho más.
+
+00:19:53.740 --> 00:19:56.220
+Bitcoin es el internet del dinero,
+
+00:19:56.740 --> 00:19:59.920
+y la divisa es solo la primera aplicación.
+
+00:20:00.240 --> 00:20:04.520
+Si entendéis eso, podéis ver más allá del precio
+
+00:20:04.660 --> 00:20:08.220
+podéis ver más allá de la volatilidad, podéis ver más allá de la moda,
+
+00:20:08.320 --> 00:20:12.760
+y entender que, en esencia, es una tecnología revolucionaria
+
+00:20:12.980 --> 00:20:16.640
+que va a cambiar el mundo para siempre.
+
+00:20:16.960 --> 00:20:19.400
+Gracias. Acompañadme en esta revolución.
+

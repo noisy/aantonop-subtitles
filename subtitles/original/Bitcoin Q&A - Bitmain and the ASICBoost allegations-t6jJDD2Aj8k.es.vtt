@@ -1,0 +1,526 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.000 --> 00:00:02.950
+Hola. Has mencionado el ASICboost,
+
+00:00:02.950 --> 00:00:05.420
+así que he pensado en sacar el tema.
+
+00:00:05.425 --> 00:00:08.235
+¿Qué piensas sobre las alegaciones contra Bitmain y Jihan Wu?
+
+00:00:08.235 --> 00:00:10.455
+Y sobre si fuese cierto,
+
+00:00:10.455 --> 00:00:13.005
+¿qué implicaciones tendría, si hubiese alguna, en la ruptura o
+
+00:00:13.005 --> 00:00:15.480
+callejón sin salida entre Core y Bitcoin Unlimited?
+
+00:00:16.200 --> 00:00:17.200
+Ehm...
+
+00:00:17.500 --> 00:00:20.140
+No sé si las alegaciones son ciertas.
+
+00:00:20.660 --> 00:00:23.640
+Sin embargo sabemos que
+
+00:00:23.640 --> 00:00:24.640
+Ehm...
+
+00:00:25.240 --> 00:00:28.195
+los chips de minado Bitmain traen en sus placas
+
+00:00:28.195 --> 00:00:30.845
+FPGAs y CPUs multi-core
+
+00:00:30.845 --> 00:00:33.725
+que serían necesarias
+
+00:00:33.725 --> 00:00:35.335
+poner en un chip
+
+00:00:35.335 --> 00:00:38.265
+con la finalidad de hacer ASICboost.
+
+00:00:38.265 --> 00:00:40.995
+Ehm... Su CEO (de Bitmain) dijo que
+
+00:00:40.995 --> 00:00:44.465
+pusieron los chips en sus placas ASIC
+
+00:00:44.645 --> 00:00:47.255
+con el objetivo de hacer ASICboost,
+
+00:00:47.255 --> 00:00:50.475
+pero luego no lo hicieron por "el bien de la red".
+
+00:00:50.795 --> 00:00:51.785
+ 
+
+00:00:51.785 --> 00:00:54.705
+Así que gastaron todo este dinero en poner estos chips...
+
+00:00:54.705 --> 00:00:57.705
+El único propósito de estos chips sería hacer ASICboost.
+
+00:00:57.705 --> 00:01:00.535
+Pero solo hicieron ASICboost en la test-net
+
+00:01:01.015 --> 00:01:04.025
+y que nunca lo han hecho en la main-net.
+Así que
+
+00:01:04.165 --> 00:01:07.225
+puedes creer eso o no, ¿vale?
+
+00:01:07.225 --> 00:01:10.145
+Depende de tu perspectiva.
+
+00:01:10.145 --> 00:01:12.175
+Pero si lo crees,
+
+00:01:12.175 --> 00:01:15.215
+tengo una respuesta simple para eso,
+que es: bien, en ese caso;
+
+00:01:15.215 --> 00:01:18.495
+si nunca lo has usado y no lo usarías,
+entonces no te importa
+
+00:01:18.495 --> 00:01:21.435
+que la red entera lo deshabilite.
+
+00:01:21.435 --> 00:01:24.215
+Porque no importa quien lo use,
+
+00:01:24.215 --> 00:01:26.875
+crea impedimentos tremendos
+para las mejoras del protocolo.
+
+00:01:26.880 --> 00:01:29.975
+Haciendo inmutable las propias cabeceras
+
+00:01:29.980 --> 00:01:31.740
+en su arquitectura
+
+00:01:31.740 --> 00:01:34.365
+no podremos seguir
+
+00:01:34.365 --> 00:01:37.375
+haciendo modificaciones en la cabecera, porque cualquier modificación a la cabecera
+
+00:01:37.375 --> 00:01:40.085
+recibirá una oposición de resistencia por cualquiera que esté ejecutando covert ASICboost
+
+00:01:40.085 --> 00:01:43.160
+porque eso reducirá su rentabilidad.
+
+00:01:43.360 --> 00:01:46.240
+Así que, en ese sentido,
+
+00:01:46.245 --> 00:01:48.515
+es una amenaza para la red.
+No importa si
+
+00:01:48.520 --> 00:01:51.365
+las motivaciones para usarlo solo están enfocadas a la rentabilidad.
+
+00:01:51.365 --> 00:01:54.220
+Esto está bien, eso es el mercado libre. Deberías hacer optimizaciones.
+
+00:01:54.400 --> 00:01:57.235
+No es un ataque, es una optimización.
+Estupendo.
+
+00:01:57.235 --> 00:01:59.500
+Así que lo que vamos a hacer para
+arreglarlo no es un contraataque,
+
+00:01:59.540 --> 00:02:01.340
+es una contra-optimización.
+
+00:02:02.980 --> 00:02:04.780
+Y ya que nadie lo usa...
+
+00:02:05.160 --> 00:02:08.180
+Está bien, ¿vale? ¿vale? ¿vale?
+
+00:02:08.185 --> 00:02:11.635
+No hay cien millones de dólares (en juego) sobre la mesa. ¡Aquí nadie lo está usando!
+
+00:02:11.695 --> 00:02:13.375
+¡Está bien! ¡Apagémoslo!
+
+00:02:14.040 --> 00:02:15.540
+¡No lo estás usando, apágalo!
+
+00:02:15.960 --> 00:02:19.020
+Porque está ahí esperando,
+
+00:02:19.025 --> 00:02:21.555
+es una bomba de relojería.
+Si nadie lo está usando ahora mismo,
+
+00:02:21.555 --> 00:02:24.605
+alguien lo empezará a usar en seis meses.
+
+00:02:24.605 --> 00:02:27.585
+Van a descarrilar el desarrollo del protocolo
+exactamente por las mismas razones
+que sospechamos,
+
+00:02:27.585 --> 00:02:29.700
+o alguna gente sospecha,
+
+00:02:30.040 --> 00:02:33.060
+que el desarrollo del protocolo podría ser descarrilado.
+
+00:02:33.065 --> 00:02:34.060
+Así que...
+
+00:02:34.895 --> 00:02:36.405
+Yo diría: apagadlo.
+
+00:02:37.665 --> 00:02:39.805
+Y de esa manera todo el mundo estaría contento.
+
+00:02:39.805 --> 00:02:42.845
+Todavía podrías hacer over ASICboost
+
+00:02:42.845 --> 00:02:45.525
+mediante el uso de la parte frontal de la cabecera.
+De hecho hay algunas propuestas
+
+00:02:45.525 --> 00:02:47.620
+para hacerlo más eficiente, cualquiera puede usar eso.
+
+00:02:49.420 --> 00:02:54.120
+Alguna gente se opone a esta idea diciendo:
+"el libre mercado es optimizar los chips".
+
+00:02:54.280 --> 00:03:00.460
+Y el libre mercado te incluye a ti y a mí y a todos los desarrolladores del protocolo, que decimos:
+
+00:03:00.600 --> 00:03:04.780
+"no queremos esa optimización".
+Eso también es parte del libre mercado.
+
+00:03:05.440 --> 00:03:06.440
+Y...
+
+00:03:06.900 --> 00:03:09.320
+de otra manera, tienes que pensar en
+
+00:03:09.880 --> 00:03:13.740
+en que no es realmente libre mercado.
+Es un libre mercado
+
+00:03:14.260 --> 00:03:17.180
+protegido por una patente
+
+00:03:17.560 --> 00:03:22.540
+que otorga un derecho económico
+exclusivo sobre una invención
+
+00:03:22.720 --> 00:03:26.000
+respaldada por la amenaza de la fuerza del estado.
+
+00:03:26.000 --> 00:03:28.240
+Eso no es un mercado libre, ¿vale?
+
+00:03:28.640 --> 00:03:31.920
+Una patente es un monopolio.
+
+00:03:32.025 --> 00:03:34.995
+Por definición, eso es lo que hace una patente.
+
+00:03:35.000 --> 00:03:40.080
+Protege el derecho exclusivo del dueño
+ de la patente para usar la tecnología y
+
+00:03:40.080 --> 00:03:44.260
+no permite a nadie más usarla bajo amenaza de la fuerza del estado.
+
+00:03:44.300 --> 00:03:47.160
+Luego, no es un mercado libre.
+
+00:03:47.380 --> 00:03:51.595
+Así que si no se está usando,
+deberíamos desactivarlo.
+
+00:03:51.595 --> 00:03:54.555
+Si se está usando,
+deberíamos desactivarlo.
+
+00:03:54.555 --> 00:03:56.835
+Y no sé si eso va a cambiar el debate,
+
+00:03:56.835 --> 00:03:59.745
+podría ser que no cambie para nada,
+porque en ese sentido
+
+00:03:59.745 --> 00:04:02.775
+el debate no es solo sobre beneficios y tecnología.
+
+00:04:02.775 --> 00:04:05.705
+Es también sobre egos dañados y
+sentimientos heridos
+
+00:04:05.705 --> 00:04:09.740
+y tú me llamaste esto
+y tú me dijiste lo otro...
+
+00:04:09.740 --> 00:04:13.140
+Y hace seis meses tú dijiste...
+Y todo eso.
+
+00:04:13.140 --> 00:04:15.380
+Es un poco como un divorcio, ¿no?
+
+00:04:16.060 --> 00:04:19.580
+Tienes esta pareja ahí,
+ya seis meses con el divorcio
+
+00:04:19.580 --> 00:04:21.640
+y han gastado un cuarto de millón de dólares
+
+00:04:21.640 --> 00:04:24.700
+peleándose sobre quién
+se queda con la custodia de
+
+00:04:24.700 --> 00:04:29.380
+de Mumu, el mini perrito, ¿vale?
+
+00:04:30.120 --> 00:04:33.220
+Y cualquiera que conoce a Mumu dice:
+
+00:04:33.340 --> 00:04:35.280
+"¿Por qué? ¿Por qué tú...?
+
+00:04:35.280 --> 00:04:38.920
+¿Quién quiere saber...? Quítame ese perrito de mi vista."
+
+00:04:39.140 --> 00:04:41.660
+Nadie quiere realmente el perro, no trata del perro.
+
+00:04:41.780 --> 00:04:44.620
+Trata de que los sentimientos de alguien han sido dañados
+
+00:04:44.900 --> 00:04:47.320
+y quieren gastar un cuarto de millón de dólares
+
+00:04:47.320 --> 00:04:49.540
+en dañar los sentimientos de los demás
+
+00:04:49.720 --> 00:04:51.560
+como venganza, ¿vale?
+
+00:04:51.560 --> 00:04:53.980
+Y si te concentras en intentar pensar...
+
+00:04:54.160 --> 00:04:56.580
+Bien, ¿qué tal si os quedáis con los dos gatos?
+
+00:04:56.740 --> 00:05:00.600
+¿Sabéis? Estas son las propuestas de compromiso que
+vemos salir de la comunidad Bitcoin.
+
+00:05:00.680 --> 00:05:03.695
+¿Qué tal si te doy los dos gatos?
+Yo quería el perro.
+
+00:05:03.700 --> 00:05:08.120
+Me prometiste que podría quedarme con Mumu
+hace ya tres años, aquí está el email.
+
+00:05:08.940 --> 00:05:11.520
+¿Vale?
+Y no trata sobre el perro.
+
+00:05:11.520 --> 00:05:14.760
+Y no puedes arreglarlo con un compromiso
+porque hay sentimientos heridos.
+
+00:05:14.840 --> 00:05:18.740
+Así que este es el problema
+con un montón de debate
+
+00:05:18.740 --> 00:05:20.940
+sobre la escalabilidad y especialmente con ASICboost.
+
+00:05:21.020 --> 00:05:23.860
+Porque ahora tenemos otro ingrediente,
+
+00:05:23.860 --> 00:05:30.600
+y ese ingrediente es la posibilidad de
+una acción covert completamente
+indetectable que confiere una ventaja.
+
+00:05:30.780 --> 00:05:31.500
+Por cierto.
+
+00:05:32.080 --> 00:05:34.060
+¿cuántos de vosotros habéis oído sobre todo esto?
+
+00:05:35.355 --> 00:05:36.020
+Bien.
+
+00:05:36.020 --> 00:05:37.840
+Genial. Bastantes de vosotros, gente.
+
+00:05:37.840 --> 00:05:41.860
+¿Entendéis lo que significa tener un 20%
+de ventaja en consumo energético?
+
+00:05:42.560 --> 00:05:43.720
+Bien. Lo primero de todo,
+
+00:05:43.780 --> 00:05:46.900
+la mayoría de los centros de datos que usan mineros
+
+00:05:46.920 --> 00:05:49.580
+no están limitados por cuántos mineros
+
+00:05:49.580 --> 00:05:52.280
+pueden comprar o colocar.
+
+00:05:52.280 --> 00:05:55.400
+Están limitados por la cantidad de energía con
+la que pueden alimentar lo que hay en el edificio.
+
+00:05:55.400 --> 00:05:58.040
+Esa es siempre la limitación.
+Y tan pronto como tienen más energía,
+
+00:05:58.040 --> 00:06:03.500
+pueden fácilmente comprar todos los chips y apilarlos
+e inmediatamente llegar al 100% de toda la energía.
+
+00:06:03.760 --> 00:06:06.040
+El factor limitante
+
+00:06:06.080 --> 00:06:09.560
+es siempre la electricidad que llega.
+
+00:06:09.660 --> 00:06:14.180
+Si reduces el consumo un 20% eso significa
+que puedes instalar un 20% más de mineros
+
+00:06:14.180 --> 00:06:16.320
+lo que significa un 20% más de poder de hash.
+
+00:06:17.000 --> 00:06:18.600
+Pero se pone mejor todavía.
+
+00:06:19.055 --> 00:06:22.255
+Eso no significa un incremento
+del 20% en beneficios.
+
+00:06:22.255 --> 00:06:23.680
+Oh, no...
+
+00:06:23.680 --> 00:06:26.640
+Porque el margen de beneficio es menos del 1%
+
+00:06:27.140 --> 00:06:30.260
+¿Qué pasa cuándo tu margen de beneficio es menos de 1%?
+
+00:06:30.260 --> 00:06:32.600
+Gastas un millón de dólares en electricidad
+
+00:06:32.980 --> 00:06:33.920
+¿Vale?
+
+00:06:34.420 --> 00:06:38.140
+Entonces gastas...
+Perdón, ganas un millón de dólares
+en recompensa
+
+00:06:38.140 --> 00:06:39.620
+por minar
+
+00:06:39.640 --> 00:06:43.095
+y gastas 990 mil dólares
+
+00:06:43.095 --> 00:06:46.515
+en electricidad y tienes 10 mil en beneficio.
+
+00:06:47.000 --> 00:06:50.900
+Si reduces el coste
+de la electricidad un 20%
+
+00:06:51.080 --> 00:06:53.500
+lo estás haciendo en un millón
+de dólares en minería
+
+00:06:53.500 --> 00:06:57.240
+y ahora gastas 750 mil dólares
+
+00:06:57.320 --> 00:06:58.760
+en electricidad
+
+00:06:59.280 --> 00:07:02.440
+y tus beneficios acaban de irse de 10 mil
+
+00:07:02.440 --> 00:07:05.160
+a 190 mil.
+
+00:07:05.260 --> 00:07:09.040
+Un factor de 19 o 20.
+
+00:07:09.980 --> 00:07:12.120
+Esto es una ventaja enorme.
+
+00:07:12.380 --> 00:07:15.655
+Y si ASICboost está realmente ocurriendo,
+
+00:07:15.660 --> 00:07:19.060
+permitirá a un minero,
+¿a cuál?
+
+00:07:19.140 --> 00:07:21.120
+Al minero que tiene el monopolio,
+
+00:07:21.120 --> 00:07:24.920
+controlar la tecnología respaldado por la fuerza del estado
+
+00:07:25.140 --> 00:07:27.860
+para dominar completamente el mercado
+
+00:07:27.860 --> 00:07:30.400
+y sacar a todos sus competidores del mercado.
+
+00:07:30.420 --> 00:07:32.540
+Esto es inaceptable.
+
+00:07:32.540 --> 00:07:33.820
+Si vas a hacerlo,
+
+00:07:33.820 --> 00:07:35.960
+hazlo con la versión overt.
+
+00:07:36.020 --> 00:07:40.040
+Todos pueden ver que lo estás haciendo
+y ajustan su plan de negocio en consecuencia.
+
+00:07:40.060 --> 00:07:42.300
+La versión covert daña:
+
+00:07:42.380 --> 00:07:43.660
+el mercado,
+
+00:07:43.660 --> 00:07:45.800
+daña el desarrollo del protocolo...
+
+00:07:45.920 --> 00:07:48.200
+Y ya que nadie lo está usando, apaguémoslo.
+
+00:07:49.785 --> 00:07:51.875
+Esto es lo que pienso, supongo.
+Gracias.
+

@@ -1,0 +1,1705 @@
+WEBVTT
+Kind: captions
+Language: nl
+
+00:00:00.000 --> 00:00:02.000
+En...
+
+00:00:02.620 --> 00:00:07.200
+zijn nieuwste boek kwam 8 dagen geleden uit en heet Het Internet Van Geld, een meesterwerk om te lezen
+
+00:00:08.040 --> 00:00:10.040
+Ik vraag een warm welkom voor Andreas Antopoloulos
+
+00:00:15.880 --> 00:00:17.880
+Goedemorgen allemaal
+
+00:00:19.500 --> 00:00:22.540
+Laten we starten met een kort onderzoek
+
+00:00:23.000 --> 00:00:28.240
+Hoeveel van jullie hebben een digitale currency zoals Bitcoin tenminste 1 maal gebruikt?
+
+00:00:30.000 --> 00:00:35.000
+En hoeveel van jullie bezitten op dit moment Bitcoin? Of een andere digitale currency?
+
+00:00:35.700 --> 00:00:37.700
+Oké
+
+00:00:37.700 --> 00:00:40.500
+Dat kunnen we oplossen
+
+00:00:44.000 --> 00:00:51.060
+Als je wilt, zoek me dan later vandaag op.  Het zal me enorm plezier doen je te laten zien hoe je een
+
+00:00:51.060 --> 00:00:52.780
+bitcoin wallet opzet
+
+00:00:52.780 --> 00:00:54.600
+op je smartphone
+
+00:00:55.100 --> 00:01:01.100
+en ik zal je je eerste fractie van een bitcoin geven, geen hele bitcoin
+
+00:01:03.100 --> 00:01:05.400
+en ik zal je laten zien hoe een transactie werkt.
+
+00:01:05.540 --> 00:01:11.500
+Want Bitcoin en de digitale currency revolutie die het gestart heeft wordt het best
+
+00:01:11.620 --> 00:01:13.620
+gedemonstreerd...
+
+00:01:14.200 --> 00:01:17.440
+en ervaren, dan uitgelegd.
+
+00:01:18.200 --> 00:01:27.080
+Het is in feite erg moeilijk om Bitcoin uit te leggen, ik heb de laatste 5 jaar geleerd hoe je Bitcoin uitlegt
+
+00:01:27.080 --> 00:01:28.560
+Dat is mijn fulltime werk
+
+00:01:29.300 --> 00:01:33.240
+Helaas blijven de ontwikkelaars nieuwe dingen maken
+
+00:01:33.800 --> 00:01:37.400
+die ik dan weer helemaal opnieuw moet gaan uitleggen
+
+00:01:38.200 --> 00:01:45.080
+Dus vergeet voor nu alles wat je denkt te weten over Bitcoin
+
+00:01:45.500 --> 00:01:49.540
+Vergeet alles wat je gehoord hebt over Blockchain
+
+00:01:49.540 --> 00:01:51.040
+En laten we met de basics beginnen
+
+00:01:52.000 --> 00:01:56.380
+In 2011 hoorde ik voor het eerst over Bitcoin
+
+00:01:57.220 --> 00:02:04.000
+En mijn reactie was identiek aan de reactie van iedereen die voor het eerst over Bitcoin hoort
+
+00:02:04.120 --> 00:02:06.920
+inclusief de bedenker ervan, en die reactie was
+
+00:02:07.460 --> 00:02:09.460
+Ha!! Nerd-geld!
+
+00:02:10.600 --> 00:02:14.720
+Dat is waarschijnlijk alleen om te gokken
+
+00:02:14.840 --> 00:02:17.560
+6 maanden later hoorde ik opnieuw over Bitcoin
+
+00:02:19.200 --> 00:02:23.560
+En dit keer las ik het White-paper dat dit systeem lanceerde
+
+00:02:23.560 --> 00:02:29.880
+En mijn achtergrond in computerkunde en gedistribueerde systemen stelde mij in staat om te zien
+
+00:02:30.420 --> 00:02:33.300
+áchter de illusie, wat ik dácht dat Bitcoin was
+
+00:02:33.980 --> 00:02:35.460
+En het liet mijn hersens spinnen
+
+00:02:36.740 --> 00:02:39.920
+In mijn leven heb ik nu 6 momenten gehad
+
+00:02:40.040 --> 00:02:43.520
+waarin ik volledig geobsedeerd werd
+
+00:02:44.400 --> 00:02:46.400
+door een technologisch systeem
+
+00:02:46.760 --> 00:02:49.180
+tot aan het punt van vergeten te eten
+
+00:02:49.180 --> 00:02:50.920
+vergeten te slapen
+
+00:02:51.080 --> 00:02:54.440
+en maar zoveel kennis als menselijk maar mogelijk is te vergaren
+
+00:02:56.880 --> 00:02:59.600
+Mijn eerste computer, toen ik 10 jaar oud was
+
+00:03:01.660 --> 00:03:04.640
+mijn eerste ervaring met programmeertaal
+
+00:03:05.000 --> 00:03:06.600
+mijn eerste modem
+
+00:03:07.020 --> 00:03:11.720
+mijn eerste toegang tot het web, de eerste keer dat ik een web browser gebruikte
+
+00:03:12.880 --> 00:03:16.580
+de eerste keer dat ik het Linux besturingssysteem downloadde en installeerde
+
+00:03:19.220 --> 00:03:20.780
+en toen Bitcoin
+
+00:03:21.980 --> 00:03:27.940
+Toen ik het eenmaal ontdekt had, spendeerde ik 4 maanden om maar zoveel mogelijk kennis op te doen
+
+00:03:27.940 --> 00:03:29.900
+kennis maar geen eten
+
+00:03:30.340 --> 00:03:32.340
+Ik verloor bijna 12 kilo
+
+00:03:32.700 --> 00:03:35.660
+op het uiterst af te raden dieet
+
+00:03:36.220 --> 00:03:38.380
+dat Obsessie heet
+
+00:03:40.340 --> 00:03:44.800
+Ik ben daar nog niet helemaal van los gekomen, omdat
+
+00:03:45.200 --> 00:03:49.180
+ik steeds weer nieuwe lagen van diepten vind om dit allemaal te begrijpen
+
+00:03:50.340 --> 00:03:52.740
+En de reden wat het zo fascinerend maakt
+
+00:03:53.300 --> 00:03:56.940
+is dat het niet is wat het op het eerste gezicht lijkt te zijn
+
+00:03:59.200 --> 00:04:00.800
+Bitcoin is geen geld
+
+00:04:02.360 --> 00:04:05.860
+De blockchain is geen systeem van currency
+
+00:04:07.440 --> 00:04:09.440
+Het is een platform van vertrouwen
+
+00:04:10.660 --> 00:04:12.180
+Het is geen bedrijf
+
+00:04:12.180 --> 00:04:14.140
+Het is geen product
+
+00:04:14.420 --> 00:04:16.800
+Het is geen dienst waar je je voor inschrijft
+
+00:04:19.320 --> 00:04:22.260
+Het is géén currency
+
+00:04:22.420 --> 00:04:25.780
+Currency, valuta is slechts de eerste toepassing
+
+00:04:27.160 --> 00:04:31.280
+Het is het concept van decentralisatie
+
+00:04:31.340 --> 00:04:35.320
+toegepast... op de menselijke communicatie van waarde
+
+00:04:37.100 --> 00:04:39.500
+Want.....wat is geld?
+
+00:04:40.920 --> 00:04:43.340
+Incu vertelde ons al, het is een illusie
+
+00:04:44.240 --> 00:04:46.080
+Het is denkbeeldig
+
+00:04:47.840 --> 00:04:52.160
+En de reden dat we dat niet echt bevatten is omdat het zo diep ingeworteld is
+
+00:04:52.640 --> 00:04:54.280
+in onze civilisatie
+
+00:04:54.960 --> 00:04:58.560
+Geld is één van oudste technologieën die de mensheid heeft
+
+00:04:59.940 --> 00:05:02.120
+Het gaat vooraf aan schrijven
+
+00:05:02.860 --> 00:05:04.400
+Hoe we dat weten?
+
+00:05:04.560 --> 00:05:09.000
+De eerste voorbeelden van schrijven die we hebben, zijn spreadsheets
+
+00:05:11.520 --> 00:05:16.240
+Het zijn tabellen en grootboeken van bedragen die verschuldigd zijn
+
+00:05:16.620 --> 00:05:19.260
+Dus geld was er al voordat dat opgeschreven werd
+
+00:05:21.220 --> 00:05:26.040
+Je zou zelfs kunnen speculeren dat geld een mondelinge traditie had
+
+00:05:27.140 --> 00:05:30.960
+totdat het nodig werd een geschreven traditie uit te vinden
+
+00:05:31.240 --> 00:05:33.780
+dus werd schrijven met dat doel gecreëerd
+
+00:05:36.140 --> 00:05:40.300
+In de geschiedenis van geld, dat nu tienduizenden jaren beslaat
+
+00:05:40.420 --> 00:05:44.060
+zijn er misschien slechts 5 grote veranderingen geweest
+
+00:05:46.420 --> 00:05:48.140
+Van pure uitwisselingen van goederen
+
+00:05:48.580 --> 00:05:52.240
+tot de introductie van de eerste afgeleide van waarde
+
+00:05:52.560 --> 00:05:58.120
+schelpen, veren, bieten, noten, stenen....
+
+00:05:59.460 --> 00:06:01.140
+En toen edele metalen
+
+00:06:03.180 --> 00:06:05.180
+en toen papier geld
+
+00:06:05.600 --> 00:06:07.880
+en toen plastic geld
+
+00:06:08.720 --> 00:06:11.440
+en nu....netwerk geld
+
+00:06:13.780 --> 00:06:15.420
+Bitcoin....
+
+00:06:16.200 --> 00:06:21.440
+introduceert een platform waarop je currency als een toepassing kunt gebruiken
+
+00:06:22.200 --> 00:06:25.400
+op een netwerk zonder enig centraal punt van controle
+
+00:06:26.140 --> 00:06:29.500
+een volledig gedecentraliseerd systeem vergelijkbaar met het internet zelf
+
+00:06:31.060 --> 00:06:33.060
+Het is geen geld voor het internet
+
+00:06:33.180 --> 00:06:35.780
+maar het internet VAN geld
+
+00:06:37.180 --> 00:06:38.580
+En wat ís geld?
+
+00:06:39.120 --> 00:06:40.780
+Geld is een taal
+
+00:06:42.440 --> 00:06:45.180
+Geld is een linguistische afgeleide
+
+00:06:45.660 --> 00:06:48.340
+Geld is een taal die wij gebruiken...
+
+00:06:48.660 --> 00:06:52.500
+om wáárde met elkaar te communiceren
+
+00:06:57.240 --> 00:07:00.300
+Geld stelt ons slechts in staat waarde uit te drukken
+
+00:07:01.480 --> 00:07:06.120
+en die waarde zou economische gevolgen kunnen hebben
+
+00:07:06.600 --> 00:07:08.940
+maar het heeft ook andere gevolgen
+
+00:07:09.480 --> 00:07:14.680
+We gebruiken geld om sociale connecties uit te drukken en aan te gaan
+
+00:07:17.160 --> 00:07:19.160
+en relaties
+
+00:07:20.040 --> 00:07:22.040
+en associaties
+
+00:07:22.720 --> 00:07:25.300
+en om organisatie te creëren
+
+00:07:29.080 --> 00:07:32.740
+Bitcoin is het eerste geldsysteem
+
+00:07:33.620 --> 00:07:36.420
+dat door geen enkele entiteit wordt gecontroleerd
+
+00:07:36.960 --> 00:07:38.960
+dat volledig gedecentraliseerd is
+
+00:07:42.160 --> 00:07:45.660
+en wat dat doet is dat het exact dezelfde dingen introduceert
+
+00:07:45.820 --> 00:07:49.160
+die het internet introduceerde voor communicatie
+
+00:07:51.580 --> 00:07:53.200
+Als geld spreken is
+
+00:07:53.880 --> 00:07:55.640
+Als geld een taal is
+
+00:07:56.000 --> 00:07:59.180
+en je het losmaakt van alle andere media
+
+00:07:59.760 --> 00:08:01.760
+en je maakt er zuivere taal van
+
+00:08:01.760 --> 00:08:03.020
+alleen maar inhoud
+
+00:08:03.180 --> 00:08:05.420
+een soort internet inhoud
+
+00:08:05.420 --> 00:08:07.220
+een bestemming van het protocol
+
+00:08:08.680 --> 00:08:10.680
+geld over IP
+
+00:08:12.960 --> 00:08:17.200
+Dan onderscheidt het zich volledig van alle voorgaande uitdrukkingen
+
+00:08:17.740 --> 00:08:19.420
+van naties
+
+00:08:19.800 --> 00:08:21.800
+van zelfstandige uitgevers
+
+00:08:21.900 --> 00:08:23.900
+instituten die controleren
+
+00:08:26.540 --> 00:08:30.540
+En dus gaan we van geld gebaseerd op instituten naar geld gebaseerd op een netwerk
+
+00:08:31.840 --> 00:08:34.760
+En natuurlijk zal iedereen dit verwelkomen
+
+00:08:34.760 --> 00:08:36.220
+met open armen
+
+00:08:37.160 --> 00:08:38.580
+geen schijn van kans!
+
+00:08:40.160 --> 00:08:45.740
+Wat denk je dat er gezegd werd toen iemand voor de eerste keer verscheen met een certificaat van goud
+
+00:08:45.820 --> 00:08:47.460
+in plaats van met een gouden munt
+
+00:08:48.500 --> 00:08:52.220
+Toen zeiden ze:" Ha, maar dát is geen geld!"
+
+00:08:52.220 --> 00:08:53.340
+"Ga toch weg"
+
+00:08:55.300 --> 00:09:00.700
+Wat denk je dat er in 1950 gebeurde toen iemand voor het eerst verscheen bij een motel
+
+00:09:00.820 --> 00:09:04.660
+en hun Diners Club Membership kaart presenteerden?
+
+00:09:04.920 --> 00:09:07.960
+En zei: "Ik betaal met dit stukje papier"
+
+00:09:10.000 --> 00:09:11.520
+'Dat is geen geld?!'
+
+00:09:11.980 --> 00:09:12.820
+Ga weg
+
+00:09:14.820 --> 00:09:19.480
+En nu staan we op de drempel van een nieuwe transformatie van geld
+
+00:09:21.100 --> 00:09:25.460
+We staan aan het begin van de creatie van een volledig wereldwijde
+
+00:09:26.260 --> 00:09:28.260
+volledig grenzenloos
+
+00:09:28.920 --> 00:09:30.920
+volledig gedecentraliseerd
+
+00:09:31.040 --> 00:09:34.000
+en volledig ópen vorm van geld
+
+00:09:34.280 --> 00:09:39.020
+een vorm waar je applicaties kunt bouwen, want dit geld is programmeerbaar
+
+00:09:39.420 --> 00:09:43.460
+En je hoeft helemaal níémand om toestemming te vragen om een applicatie uit te brengen
+
+00:09:43.580 --> 00:09:48.760
+net zomin als dat je iemand toestemming zou moeten vragen om een applicatie op het internet te lanceren
+
+00:09:49.240 --> 00:09:53.660
+En de enige voorwaarde om een succesvolle applicatie te hebben op het internet van geld
+
+00:09:53.920 --> 00:09:56.120
+is twéé geïnteresseerde deelnemers
+
+00:09:56.740 --> 00:10:00.140
+dat is je marktsegment en dan heb je een applicatie
+
+00:10:01.740 --> 00:10:04.340
+En een miljoen applicaties zullen floreren
+
+00:10:04.840 --> 00:10:08.140
+Als je innovatie naar de rand van het netwerk duwt
+
+00:10:08.620 --> 00:10:11.240
+als je de voorwaarde van toestemming verwijderd
+
+00:10:11.720 --> 00:10:13.040
+wat gebeurt er dan?
+
+00:10:13.420 --> 00:10:15.480
+een exponentiële explosie
+
+00:10:16.360 --> 00:10:17.680
+van innovatie
+
+00:10:18.880 --> 00:10:24.120
+De applicaties die niet op de oude geldsystemen gebouwd konden worden omdat daar toestemming nodig was
+
+00:10:24.380 --> 00:10:28.920
+omdat ze een significant groter marktaandeel vereisten
+
+00:10:29.060 --> 00:10:32.740
+omdat ze adoptie door velen nodig hadden om überhaupt beschikbaar te komen
+
+00:10:35.280 --> 00:10:36.060
+Nu...
+
+00:10:36.720 --> 00:10:38.720
+bestaan géén van die voorwaarden
+
+00:10:40.160 --> 00:10:43.820
+Iedereen op deze wereld kan een applicatie downloaden
+
+00:10:44.060 --> 00:10:47.340
+of gebruikt zelfs een telefoon met wat extra's en SMS berichten
+
+00:10:48.100 --> 00:10:50.100
+en krijgt direct de beschikking
+
+00:10:50.620 --> 00:10:54.500
+over dezelfde mogelijkheden die banken heden ten dage hebben
+
+00:10:56.020 --> 00:10:58.020
+En als ik zeg wie dan ook..
+
+00:10:58.620 --> 00:11:00.900
+dan raakt dat slechts de oppervlakte
+
+00:11:01.700 --> 00:11:08.760
+Want ironisch genoeg herkennen Bitcoin en blockchain currency niet alleen geen grenzen
+
+00:11:09.360 --> 00:11:11.920
+het herkent evenmin mensen
+
+00:11:14.360 --> 00:11:17.260
+Het doet er niet toe of je een persoon bent
+
+00:11:18.780 --> 00:11:20.460
+of een koelkast
+
+00:11:21.080 --> 00:11:23.080
+of een zelfrijdende auto
+
+00:11:24.100 --> 00:11:30.040
+terwijl de hele geschiedenis van geld de eis van mens-zijn had
+
+00:11:30.580 --> 00:11:32.580
+ofwel als een individu
+
+00:11:33.280 --> 00:11:36.980
+of als een associate van mensen in een bedrijf
+
+00:11:39.080 --> 00:11:41.080
+Bitcoin kan door machines bezeten worden
+
+00:11:41.500 --> 00:11:43.740
+Bitcoin kan in bezit zijn van software agenten
+
+00:11:43.740 --> 00:11:45.620
+machines kunnen elkaar betalen
+
+00:11:46.240 --> 00:11:49.600
+en dat gaat verder dan alleen economische activiteit
+
+00:11:50.060 --> 00:11:53.100
+het is de grondslag van marktgebaseerde beveiligingssystemen
+
+00:11:53.480 --> 00:11:57.400
+het is de basis voor het verband van authenticatie tussen apparaten
+
+00:11:57.840 --> 00:12:01.120
+het is de basis voor applicaties die nooit eerder zijn gedaan
+
+00:12:02.240 --> 00:12:05.040
+Bitcoin en blockchain technologie brengen samen
+
+00:12:05.720 --> 00:12:07.240
+de systemen van geld
+
+00:12:07.720 --> 00:12:10.640
+Vandaag hebben we betalingssystemen voor kleine bedragen
+
+00:12:11.060 --> 00:12:13.260
+en betalingssystemen voor grote bedragen
+
+00:12:13.420 --> 00:12:16.400
+we hebben systemen voor betaling tussen individuen
+
+00:12:16.520 --> 00:12:19.240
+we hebben systemen voor betaling tussen bedrijven
+
+00:12:19.360 --> 00:12:22.140
+we hebben betalingssystemen voor overheden aan overheden
+
+00:12:22.460 --> 00:12:24.460
+Doet dat je ergens aan denken?
+
+00:12:24.920 --> 00:12:28.020
+Zo was communicatie voor de komst van het internet
+
+00:12:28.660 --> 00:12:32.020
+We hadden communicatiesystemen voor foto's
+
+00:12:32.240 --> 00:12:34.380
+communicatiesystemen voor brieven
+
+00:12:34.560 --> 00:12:37.580
+communicatiesystemen voor korte en lange afstanden
+
+00:12:37.940 --> 00:12:40.540
+en toen kwam het internet en verenigde al die systemen
+
+00:12:41.980 --> 00:12:45.660
+Wat het internet van geld doet, is het creëren van een enkel netwerk
+
+00:12:46.020 --> 00:12:50.980
+dat een microtransactie kan doen, tot aan een giga transactie
+
+00:12:52.380 --> 00:12:55.180
+in seconden, waar ook ter wereld
+
+00:12:55.540 --> 00:12:57.580
+voor elke deelnemer en zonder toestemming
+
+00:12:59.580 --> 00:13:02.420
+Als je alleen naar de applicatie van geld kijkt
+
+00:13:02.420 --> 00:13:03.720
+dan mis je het punt
+
+00:13:04.300 --> 00:13:08.400
+Want je kunt de taal nemen, de bouwblokken van dit platform
+
+00:13:09.660 --> 00:13:11.660
+en ze gebruiken om te construeren
+
+00:13:12.160 --> 00:13:15.580
+andere talen die waarde communiceren
+
+00:13:16.960 --> 00:13:18.180
+Tokens
+
+00:13:19.060 --> 00:13:20.380
+Beloningspunten
+
+00:13:21.020 --> 00:13:23.020
+Merk loyaliteitspunten
+
+00:13:25.080 --> 00:13:30.340
+Er zijn op dit moment meer dan 1000 currencies die het ontwerp, het recept gebruiken
+
+00:13:30.840 --> 00:13:31.760
+van Bitcoin
+
+00:13:33.120 --> 00:13:35.120
+De meesten zijn troep
+
+00:13:35.600 --> 00:13:37.600
+Sommigen zijn dat niet
+
+00:13:38.380 --> 00:13:41.220
+En in het komende decenium gaan we
+
+00:13:41.440 --> 00:13:46.560
+tienduizenden en dan honderdduizenden coins zien
+
+00:13:50.340 --> 00:13:52.340
+Sommigen zullen economisch nut hebben, andere zullen stomweg een uitdrukking van loyaliteit zijn
+
+00:13:52.780 --> 00:13:54.280
+affiliatie
+
+00:13:55.080 --> 00:13:59.080
+ze zullen items in de fysieke wereld vertegenwoordigen
+
+00:13:59.960 --> 00:14:02.400
+Het eigendomsrecht van een huis
+
+00:14:03.780 --> 00:14:06.780
+De controlerende sleutel voor een auto
+
+00:14:07.460 --> 00:14:10.020
+die van de ene eigenaar naar de andere getransfereerd kan worden
+
+00:14:10.340 --> 00:14:13.700
+en 5 tellen later kan die eigenaar in de auto stappen en wegrijden
+
+00:14:14.020 --> 00:14:18.400
+want de auto kan de nieuwe eigenaar valideren
+
+00:14:19.620 --> 00:14:23.480
+We kunnen ons nog niet eens voorstellen wat voor applicaties we hierom heen gaan bouwen
+
+00:14:24.940 --> 00:14:27.800
+Maar één van de interessante dingen die we beginnen te observeren
+
+00:14:28.780 --> 00:14:36.540
+is dat geld ontstaat uit hoe de mens sociaal gezien is opgebouwd: spontaan
+
+00:14:37.020 --> 00:14:39.260
+Dat is zelfs het geval in primaten
+
+00:14:39.940 --> 00:14:43.060
+Je kunt apen geld leren
+
+00:14:43.440 --> 00:14:46.460
+Je kunt dolfijnen geld leren
+
+00:14:46.780 --> 00:14:51.060
+Je kunt zelf parkieten geld leren
+
+00:14:51.720 --> 00:14:55.000
+en ze zullen leren hoe ze abstracte tokens kunnen omruilen voor eten
+
+00:14:55.240 --> 00:14:58.220
+en ze dan te gebruiken voor sociale relaties
+
+00:14:59.040 --> 00:15:02.080
+Ze zullen ook de sterke arm berovingen ontdekken
+
+00:15:03.620 --> 00:15:05.100
+Sla de andere aap in elkaar
+
+00:15:05.260 --> 00:15:07.500
+neem de knikkers weg en eet de bananen op
+
+00:15:09.240 --> 00:15:13.640
+En we zien exact hetzelfde gebeuren....bij kinderen
+
+00:15:14.420 --> 00:15:17.540
+Peuters vinden geld uit in de kleuterklas
+
+00:15:18.040 --> 00:15:21.460
+Blokken en rubber banden en Pokémon kaartjes
+
+00:15:21.800 --> 00:15:24.120
+andere kleine 'tokens'
+
+00:15:24.440 --> 00:15:26.120
+afgeleiden van waarde
+
+00:15:26.460 --> 00:15:29.180
+die ze uitwisselen om sociale verbintenissen te versterken
+
+00:15:29.180 --> 00:15:30.900
+om loyaliteit en vriendschap uit te drukken
+
+00:15:32.020 --> 00:15:34.740
+Om te leren over delen
+
+00:15:36.780 --> 00:15:39.400
+Kinderen zullen currencies bouwen
+
+00:15:40.240 --> 00:15:43.720
+Maar dit keer zullen die currencies mondiaal zijn
+
+00:15:43.720 --> 00:15:45.300
+niet te vervalsen
+
+00:15:45.580 --> 00:15:48.200
+en schaalbaar vanaf dag één
+
+00:15:49.400 --> 00:15:54.980
+Over een paar jaar zal Maria de Mariacoin lanceren in haar kleuterklas
+
+00:15:55.500 --> 00:15:57.500
+om het op te nemen tegen de Johancoin
+
+00:15:58.540 --> 00:16:00.940
+En het zal niemand iets kunnen schelen
+
+00:16:01.440 --> 00:16:04.600
+Totdat natuurlijk Justin Bieber de Justin Bieber-coin uitbrengt
+
+00:16:04.920 --> 00:16:09.600
+en het gebeurt om de marktcapitalisatie van 39 landen op deze wereld te overtreffen
+
+00:16:10.000 --> 00:16:17.120
+en dan schrijven we allemaal opiniestukken over hoe deze wereld naar de verdommenis gaat
+
+00:16:24.180 --> 00:16:28.540
+Wat er gebeurt met deze technologie is onvoorstelbaar diep
+
+00:16:31.060 --> 00:16:34.620
+En voor beslist enkele van de bedrijven in deze zaal
+
+00:16:35.260 --> 00:16:36.500
+is het een beetje eng
+
+00:16:38.700 --> 00:16:43.740
+Banken zijn nooit de meest innovatieve sector ter wereld geweest
+
+00:16:44.440 --> 00:16:47.520
+want er is een heel voorzichtig evenwicht
+
+00:16:47.780 --> 00:16:52.360
+tussen innovatie en de conservatieve fiduciaire taken
+
+00:16:53.120 --> 00:16:54.600
+die in banken bestaat
+
+00:16:55.160 --> 00:16:56.460
+dat moet bestaan
+
+00:16:57.260 --> 00:16:59.460
+als je de controle hebt over het geld van andere mensen
+
+00:17:01.320 --> 00:17:05.500
+En toch bij Bitcoin heb je géén controle over geld van andere mensen
+
+00:17:06.420 --> 00:17:09.540
+In Bitcoin controleer ik, MIJN geld
+
+00:17:10.220 --> 00:17:15.500
+Ik heb volledige autoriteit over wat gebeurt met mijn bitcoin
+
+00:17:15.540 --> 00:17:17.540
+Het kan niet in beslag genomen worden
+
+00:17:17.540 --> 00:17:19.140
+Het kan niet bevroren worden
+
+00:17:19.140 --> 00:17:21.120
+het kan niet gecensureerd worden
+
+00:17:21.300 --> 00:17:23.940
+mijn transacties kunnen niet onderschept worden
+
+00:17:23.940 --> 00:17:25.580
+en ze kunnen niet gestopt worden
+
+00:17:26.020 --> 00:17:30.640
+en ik kan dat met bijna volledige anonimiteit doen net als ieder ander
+
+00:17:31.160 --> 00:17:33.720
+5 minuten nadat ze een app downloaden
+
+00:17:33.720 --> 00:17:35.640
+en geld is voor altijd veranderd
+
+00:17:35.780 --> 00:17:37.840
+en bankieren is voor altijd veranderd
+
+00:17:42.120 --> 00:17:46.540
+Het idee dat je voorop kunt lopen in de industrie van geld
+
+00:17:46.980 --> 00:17:48.980
+in de industriën van commercie
+
+00:17:49.340 --> 00:17:52.700
+en dezelfde conservatieve houding kunt bewaren
+
+00:17:53.760 --> 00:17:56.840
+die nu al eeuwen heeft bestaan
+
+00:17:57.940 --> 00:18:02.340
+Vanaf het moment dat kooplui in Venetië
+
+00:18:03.000 --> 00:18:09.820
+en in Amsterdam en begonnen certificaten van deposito uit te geven en bancaire diensten te verlenen
+
+00:18:11.040 --> 00:18:12.580
+Dat is voorbij
+
+00:18:14.120 --> 00:18:15.240
+Dat is voorbij
+
+00:18:16.760 --> 00:18:24.000
+Je kunt geen gesloten systemen die grenzen hebben opereren
+
+00:18:24.480 --> 00:18:26.480
+en toestemming vereisen om mee te mogen doen
+
+00:18:26.900 --> 00:18:32.080
+tegen een koers die wordt gecontroleerd door de meest conservatieve stromen in je organisatie
+
+00:18:32.220 --> 00:18:37.260
+want nu concurreer je met de technologie die exponentiële groei mogelijk maakt
+
+00:18:37.520 --> 00:18:43.280
+exponentiële innovatie tot het uiterste, zonder toestemming van wie ook ter wereld
+
+00:18:45.060 --> 00:18:48.020
+En het gaat niet over iemand in de ze zaal
+
+00:18:49.100 --> 00:18:49.700
+Waarom?
+
+00:18:50.420 --> 00:18:52.420
+wij vertegenwoordigen de geprivilegiseerde elite
+
+00:18:56.840 --> 00:19:03.040
+Ik kan naar een broker account gaan, die online openen en op de Tokyo aandelenmarkt handelen in Yen, binnen 12 uur
+
+00:19:04.260 --> 00:19:06.920
+Dat is het privilege dat ik heb
+
+00:19:08.760 --> 00:19:10.760
+1 1/2 miljard mensen hebben dat privilege
+
+00:19:12.800 --> 00:19:16.400
+6 miljard mensen kunnen voornamelijk in 1 currency opereren
+
+00:19:17.000 --> 00:19:19.560
+en hebben misschien wat basis bankdiensten
+
+00:19:19.980 --> 00:19:22.560
+4 miljard mensen hebben nauwelijks bankdiensten
+
+00:19:22.900 --> 00:19:27.060
+en een schokkende 2 1/2 miljard mensen hebben helemaal geen bank
+
+00:19:30.420 --> 00:19:32.180
+Zij zullen haasje-over...
+
+00:19:33.620 --> 00:19:36.660
+zij zullen nooit een relatie hebben met een bank
+
+00:19:37.280 --> 00:19:39.560
+Ieder kind dat vandaag geboren wordt...
+
+00:19:40.220 --> 00:19:43.520
+zal nooit een bankrekening hebben
+
+00:19:44.420 --> 00:19:46.420
+ze zullen een bank app hebben
+
+00:19:47.020 --> 00:19:49.440
+een bank app die ze geen rekening geeft
+
+00:19:49.680 --> 00:19:52.880
+een bank app die een bankier van ze maakt
+
+00:19:53.420 --> 00:19:55.760
+een internationale bankier
+
+00:19:55.760 --> 00:19:57.320
+door een app
+
+00:19:58.960 --> 00:20:03.200
+Ze zijn niet bevoegd een bankrekening zelfstandig te openen tot ze 16 jaar zijn
+
+00:20:04.620 --> 00:20:11.580
+Tegen die tijd hoop ik dat ze tenminste 6 of meer jaren ervaring hebben met digitale currencies
+
+00:20:11.840 --> 00:20:14.900
+en ik zou ze graag een bankkantoor in zien lopen
+
+00:20:15.080 --> 00:20:20.000
+en iemand hun zien uitleggen wat 3 tot 5 werkdagen betekent
+
+00:20:23.600 --> 00:20:27.680
+Het is hoogst waarschijnlijk dat kinderen die vandaag geboren worden nooit een rijbewijs zullen krijgen
+
+00:20:27.680 --> 00:20:29.360
+omdat ze zelfrijdende auto's zullen hebben
+
+00:20:29.660 --> 00:20:33.460
+maar ze zullen ook nooit papiergeld gebruiken
+
+00:20:34.780 --> 00:20:39.120
+Want tegen de tijd dat ze een leeftijd bereiken waarop ze echt starten geld te gebruiken
+
+00:20:39.440 --> 00:20:41.020
+bestaat er geen papiergeld
+
+00:20:42.400 --> 00:20:46.400
+het zal net zo gedateerd lijken als een faxmachine
+
+00:20:46.660 --> 00:20:49.360
+of wat een paard en wagen voor ons zijn
+
+00:20:51.580 --> 00:20:53.200
+exponentiële innovatie
+
+00:20:53.940 --> 00:20:55.700
+op wereldwijde schaal
+
+00:20:55.960 --> 00:20:59.160
+toegang gevend tot de andere 6 miljard
+
+00:21:00.360 --> 00:21:02.800
+Ze hebben een enorme behoefte
+
+00:21:04.040 --> 00:21:07.180
+en dit systeem biedt ze de oplossing
+
+00:21:08.860 --> 00:21:10.260
+Het is nog niet klaar
+
+00:21:11.400 --> 00:21:12.720
+Het is ontluikend
+
+00:21:13.440 --> 00:21:14.800
+Het is complex
+
+00:21:15.200 --> 00:21:17.060
+Het is onmogelijk te gebruiken
+
+00:21:17.060 --> 00:21:18.380
+voor de meeste mensen
+
+00:21:19.400 --> 00:21:22.000
+In 1989 verzond ik mijn eerste email
+
+00:21:22.780 --> 00:21:24.100
+Om dat te kunnen doen
+
+00:21:24.500 --> 00:21:28.060
+moest ik een versie van het Unix mail programma verkrijgen
+
+00:21:28.280 --> 00:21:30.140
+een c-compiler gebruiken
+
+00:21:30.140 --> 00:21:32.120
+en Unix commando vaardigheden
+
+00:21:32.120 --> 00:21:33.780
+Ik moest het installeren
+
+00:21:34.380 --> 00:21:35.600
+op de commando regel
+
+00:21:35.860 --> 00:21:40.080
+mijn email uit typen en die email werd verzonden
+
+00:21:41.180 --> 00:21:43.480
+over het grote internet
+
+00:21:43.760 --> 00:21:46.480
+in een adembenemende, drie dagen!
+
+00:21:48.860 --> 00:21:51.260
+Exact 20 jaar later
+
+00:21:51.940 --> 00:21:55.380
+dupliceerde mijn moeder die ervaring
+
+00:21:56.080 --> 00:21:57.920
+met een veeg over het scherm
+
+00:21:59.600 --> 00:22:01.500
+Bitcoin vandaag
+
+00:22:02.060 --> 00:22:08.220
+en alle andere currencies die op hetzelfde recept gebouwd zijn, zijn op hetzelfde punt als het internet was in 1991
+
+00:22:11.280 --> 00:22:12.480
+Alleen nu...
+
+00:22:12.820 --> 00:22:14.300
+hebben we het internet
+
+00:22:16.220 --> 00:22:18.380
+en de mate van exponentiële groei
+
+00:22:19.400 --> 00:22:20.960
+is daarom al begonnen
+
+00:22:21.620 --> 00:22:22.900
+de innovatie
+
+00:22:23.600 --> 00:22:25.880
+groeit met een duizelingwekkend tempo
+
+00:22:26.500 --> 00:22:29.060
+Ik besteed elke dag, fulltime
+
+00:22:29.500 --> 00:22:31.500
+om te proberen bij te blijven met Bitcoin
+
+00:22:31.820 --> 00:22:34.600
+slechts één currency en het is nagenoeg onmogelijk
+
+00:22:37.300 --> 00:22:40.000
+Onderschat dit niet!
+
+00:22:40.600 --> 00:22:42.980
+Luister niet naar de mensen die je vertellen
+
+00:22:43.400 --> 00:22:46.440
+dat Bitcoin alleen voor de porno industrie is,
+
+00:22:46.720 --> 00:22:48.880
+terroristen
+
+00:22:49.240 --> 00:22:50.580
+drughandelaren
+
+00:22:50.580 --> 00:22:51.840
+en gokkers
+
+00:22:52.960 --> 00:22:56.460
+Onthoud dat ze precies hetzelfde zeiden over het internet
+
+00:22:58.920 --> 00:23:02.380
+En als je het.....aan 2 tot 3 miljard mensen geeft
+
+00:23:03.140 --> 00:23:05.140
+dan zijn ze niet geïnteresseerd in die dingen
+
+00:23:05.680 --> 00:23:07.680
+ze zijn geïnteresseerd in het delen van kattenvideo's
+
+00:23:09.380 --> 00:23:12.180
+en nu hebben we een internet van 1 miljard kattenvideo's
+
+00:23:13.300 --> 00:23:17.180
+Als je digitale currencies mainstream brengt en geeft aan
+
+00:23:17.300 --> 00:23:19.980
+de 4 miljard mensen die geïsoleerd waren
+
+00:23:20.560 --> 00:23:22.740
+van international financiën en handel
+
+00:23:23.040 --> 00:23:25.700
+en je geeft ze de mogelijkheid hun geld te beheren
+
+00:23:25.960 --> 00:23:29.640
+tegen depotische regeringen en corrupte banken die van ze stelen
+
+00:23:31.680 --> 00:23:34.860
+Dan geef je ze de mogelijkheid hun toekomst te controleren
+
+00:23:35.180 --> 00:23:38.540
+je geeft ze de mogelijkheid met iedereen in de wereld zaken te doen
+
+00:23:38.840 --> 00:23:41.880
+om het recht van eigendom te houden over hun eigen bezittingen
+
+00:23:42.060 --> 00:23:45.820
+in een volledig transparant en transfereerbaar token dat overal erkend wordt
+
+00:23:47.020 --> 00:23:50.700
+controle over financiën waar geen beslag, bevriezing of censuur mogelijk is
+
+00:23:53.720 --> 00:23:55.720
+ze zullen voedsel kopen
+
+00:23:57.260 --> 00:23:58.360
+medische zorg
+
+00:23:58.840 --> 00:24:00.160
+Sanitaire voorzieningen
+
+00:24:00.560 --> 00:24:01.500
+educatie
+
+00:24:01.780 --> 00:24:02.760
+Onderdak
+
+00:24:03.200 --> 00:24:04.600
+want dat is wat we doen
+
+00:24:05.960 --> 00:24:09.660
+En hen zal deze technologie niet ontzegd worden
+
+00:24:12.000 --> 00:24:15.520
+Onderschat niet waar dit naar toe gaat
+
+00:24:16.380 --> 00:24:18.380
+Het internet van geld werd gelanceerd
+
+00:24:18.540 --> 00:24:20.800
+op 3 januari 2009
+
+00:24:21.520 --> 00:24:22.660
+Het komt eraan
+
+00:24:22.960 --> 00:24:25.280
+sneller dan je je kunt indenken
+
+00:24:25.620 --> 00:24:27.940
+het gaat dieper dan je kunt bevatten
+
+00:24:28.180 --> 00:24:31.640
+het is geavanceerder dan je direct kunt begrijpen
+
+00:24:32.020 --> 00:24:36.280
+Het vergt jaren studie om alleen al alle implicaties te begrijpen
+
+00:24:39.080 --> 00:24:40.560
+en het is een geschenk
+
+00:24:41.420 --> 00:24:42.700
+aan de gehele wereld
+
+00:24:43.300 --> 00:24:50.660
+een technologie die de 6e grote innovatie in de technologie van geld vertegenwoordigt
+
+00:24:50.880 --> 00:24:53.960
+de oudste technologie van onze beschaving
+
+00:24:53.960 --> 00:24:55.020
+Dank u wel
+
+00:25:02.800 --> 00:25:05.820
+Zullen we wat vragen doen? We hebben genoeg tijd voor vragen
+
+00:25:06.920 --> 00:25:07.960
+Christian
+
+00:25:14.220 --> 00:25:16.220
+Wat bepaalt de koopkracht van de currency
+
+00:25:16.360 --> 00:25:19.280
+Hoe stabiliseert het, wat is er nodig om te stabiliseren
+
+00:25:19.360 --> 00:25:21.360
+Als ik wat bitcoins zou kopen
+
+00:25:21.600 --> 00:25:23.600
+wie kan dan de waarde ervan manipuleren?
+
+00:25:24.360 --> 00:25:25.880
+Eh, iedereen
+
+00:25:27.220 --> 00:25:32.180
+De koopkracht van de Bitcoin wordt op exact dezelfde manier bepaald als die van de Euro, de Britse Pond,
+
+00:25:32.440 --> 00:25:35.060
+de Japanse Yen of de US dollar
+
+00:25:35.380 --> 00:25:40.700
+door marktwerking van vraag en aanbod en internationale liquiditeitsmarkten die het klokje rond werken
+
+00:25:41.200 --> 00:25:43.200
+Eén van de fundamentele verschillen
+
+00:25:43.580 --> 00:25:45.580
+is dat Bitcoin trading nooit stopt
+
+00:25:45.740 --> 00:25:49.380
+het gebeurt al 7 jaar, het netwerk stopt nooit
+
+00:25:49.440 --> 00:25:52.400
+elke 10 minuten klopt het hart van Bitcoin
+
+00:25:53.440 --> 00:25:55.440
+en worden transacties verwerkt
+
+00:25:55.880 --> 00:25:58.740
+de wisselkantoren sluiten nooit, er is geen slotkoers
+
+00:25:59.000 --> 00:26:02.460
+voor bitcoin, het is een voortschrijdend gemiddelde, en bij dat handelen
+
+00:26:03.620 --> 00:26:08.180
+wordt een markcapitalisatie van rond de 12 miljard dollar nu internationaal verhandeld
+
+00:26:08.820 --> 00:26:11.300
+Wat is 12 miljard dollar voor een wereld currency
+
+00:26:12.180 --> 00:26:13.460
+Het is een guppie
+
+00:26:14.040 --> 00:26:16.120
+die zwemt in wateren geinvesteerd door haaien
+
+00:26:16.840 --> 00:26:20.340
+en elke trader, elke walvis, gaat daarin
+
+00:26:20.900 --> 00:26:23.400
+en schopt die prijs gewoon in het rond
+
+00:26:23.740 --> 00:26:30.700
+Dus op dit moment is de ervaring van op bitcoin leven, wat ik fulltime al heb gedaan sinds meer dan 3 jaar,
+
+00:26:31.580 --> 00:26:32.820
+een achtbaan
+
+00:26:33.560 --> 00:26:35.560
+het is beslist een achtbaan
+
+00:26:36.400 --> 00:26:39.980
+Ik heb veranderingen van 20 tot 30% in een dag gezien
+
+00:26:40.980 --> 00:26:44.220
+En toch... als je naar de langetermijn trend kijkt
+
+00:26:45.100 --> 00:26:46.220
+het volume gaat omhoog
+
+00:26:46.540 --> 00:26:48.080
+de trend acties gaan omhoog
+
+00:26:48.480 --> 00:26:50.880
+en de volatiliteit blijft omlaag gaan
+
+00:26:51.200 --> 00:26:53.200
+en het mooie hiervan is
+
+00:26:53.600 --> 00:26:57.520
+Ik kan dat niet aan een Amerikaan verkopen, ik kan het niet aan een Brit verkopen
+
+00:26:59.040 --> 00:27:01.520
+Ik HOEF het niet aan een Argentijn te verkopen
+
+00:27:02.260 --> 00:27:04.420
+ik HOEF het niet aan een Braziliaan te verkopen
+
+00:27:05.060 --> 00:27:07.340
+Ik HOEF het niet aan een Venezolaan te verkopen
+
+00:27:08.640 --> 00:27:12.340
+Ik ging naar een conferentie en een Argentijn vertelde me
+
+00:27:13.660 --> 00:27:15.660
+Ik maak me geen zorgen over volatiliteit
+
+00:27:17.340 --> 00:27:19.880
+onze currency is volatiel als dit
+
+00:27:20.660 --> 00:27:23.100
+Bitcoin heeft volatiliteit als dit
+
+00:27:24.340 --> 00:27:26.340
+ik ga liever in die richting
+
+00:27:29.240 --> 00:27:31.240
+en je hoeft ze niet uit te leggen waarom
+
+00:27:32.540 --> 00:27:34.980
+Hun overheid gooide mensen uit vliegtuigen
+
+00:27:35.040 --> 00:27:37.040
+minder dan 35 jaar geleden
+
+00:27:37.440 --> 00:27:38.700
+omdat ze het oneens waren
+
+00:27:39.660 --> 00:27:43.820
+ze weten al waarom scheiding van staat en geld een goed idee is
+
+00:27:45.880 --> 00:27:49.940
+En dus...is volatiliteit....relatief
+
+00:27:54.940 --> 00:27:57.220
+Andere vragen? Kom op
+
+00:27:57.540 --> 00:27:59.540
+Laten we een microfoon bij je brengen, moment
+
+00:28:04.920 --> 00:28:09.900
+Geweldige speech, uhm, het klonk natuurlijk een beetje als 1 kant van de coin
+
+00:28:10.340 --> 00:28:14.920
+we lezen natuurlijk ook over al die grote hacks
+
+00:28:15.080 --> 00:28:19.360
+als op Bitfinex waar ze geloof ik 40% van al het geld hebben gestolen
+
+00:28:19.360 --> 00:28:27.840
+en ik geloof dat ook een autonome organisatie werd gehackt en al dat soort dingen, dus kun je iets zeggen over de duistere kant ervan
+
+00:28:28.340 --> 00:28:34.180
+van die aspecten die ons volle vertrouwen niet winnen voor deze evolutie
+
+00:28:34.520 --> 00:28:35.080
+Absoluut!
+
+00:28:38.180 --> 00:28:42.840
+Het stuurwiel werd niet eerder uitgevonden dan 30 jaar nadat de automobiel werd geintroduceerd
+
+00:28:45.220 --> 00:28:50.300
+Waarom? Omdat de eerste automobielen 2 leren riemen had, waar je aan trok, links of rechts
+
+00:28:50.920 --> 00:28:52.020
+om de auto te bewegen
+
+00:28:52.500 --> 00:28:53.660
+om de auto te sturen
+
+00:28:54.640 --> 00:28:58.840
+ze gebruikten paardenteugels om auto's te besturen
+
+00:28:59.000 --> 00:29:01.000
+dat noem je behoudend design
+
+00:29:02.040 --> 00:29:05.480
+het betekent een schaduw van je verleden behouden in je nieuwe systeem
+
+00:29:06.120 --> 00:29:08.840
+falen de nieuwe dimensie te zien
+
+00:29:09.640 --> 00:29:11.640
+en het verleden repliceren
+
+00:29:12.500 --> 00:29:15.140
+Hier heb je een currency dat niet gecentraliseerd is
+
+00:29:15.340 --> 00:29:17.340
+waar jouw geld jouw geld is
+
+00:29:18.180 --> 00:29:20.660
+jouw Keys, jouw geld
+
+00:29:22.160 --> 00:29:24.960
+Niet jouw keys, niet jouw geld
+
+00:29:25.920 --> 00:29:29.760
+Dus, wat is het eerste wat we doen bij dit nieuwe systeem?
+
+00:29:30.080 --> 00:29:36.000
+We bouwen gecentraliseerde instituten van toezichthoudende controle
+
+00:29:36.520 --> 00:29:38.800
+Die het geld van andere mensen nemen
+
+00:29:38.800 --> 00:29:40.360
+en het voor ze bewaren
+
+00:29:40.780 --> 00:29:42.000
+Nou, raadt eens
+
+00:29:42.240 --> 00:29:44.240
+de hele geschiedenis van bankieren
+
+00:29:44.480 --> 00:29:47.220
+de hele systeem van regulatie en toezicht
+
+00:29:47.580 --> 00:29:50.620
+is gebaseerd op het eenvoudige, eeuwenoude begrip
+
+00:29:50.740 --> 00:29:52.740
+dat als iemand anders je geld bewaart
+
+00:29:53.020 --> 00:29:55.660
+dat de kans bestaat dat ze ermee vandoor gaan
+
+00:29:56.580 --> 00:30:00.120
+En het hele systeem van regulatie is ontworpen om dát te voorkomen
+
+00:30:00.460 --> 00:30:02.860
+en toch gebeurt het steeds opnieuw
+
+00:30:04.040 --> 00:30:09.400
+in hedgefondsen, in banken, en in nationale currencies, steeds weer
+
+00:30:09.520 --> 00:30:12.800
+en natuurlijk, als je dan accounts onder toezicht namaakt
+
+00:30:13.300 --> 00:30:16.660
+wisselplatformen die bitcoins van anderen nemen en die geconcentreerd bewaren
+
+00:30:17.260 --> 00:30:18.840
+dan gebeurt het weer
+
+00:30:18.880 --> 00:30:23.360
+en zelfs erger, want in de meeste gevallen is er geen regulatie of toezicht
+
+00:30:24.380 --> 00:30:26.380
+Het antwoord is echt eenvoudig
+
+00:30:26.580 --> 00:30:29.240
+Stop met het centraliseren van een gedecentraliseerde currency
+
+00:30:29.400 --> 00:30:32.760
+Stop met te proberen het bankierverleden na te maken
+
+00:30:33.520 --> 00:30:35.080
+in de toekomst van geld
+
+00:30:35.680 --> 00:30:38.920
+En het is belangrijk om je te realiseren, dat
+
+00:30:39.140 --> 00:30:42.740
+beveiliging in Bitcoin een nieuwe eigenschap is
+
+00:30:43.700 --> 00:30:47.300
+dat bestaat door de decentralisatie van controle en macht
+
+00:30:47.720 --> 00:30:50.760
+Als ik van een miljoen klanten hun bitcoins wil hacken
+
+00:30:50.900 --> 00:30:55.280
+en ze hebben zelf hun keys, dan moet ik 1 miljoen klanten hacken
+
+00:30:56.080 --> 00:31:00.360
+Als ze allemaal hun keys aan 1 persoon of aan 1 organisatie geven
+
+00:31:02.160 --> 00:31:04.160
+dan hebben we een honingpot
+
+00:31:04.880 --> 00:31:09.460
+een honingpot die de aandacht trekt van elke hacker op deze aardbol
+
+00:31:10.280 --> 00:31:12.280
+En merk op wat is gebeurd
+
+00:31:12.640 --> 00:31:17.340
+Over 7 jaar en met een marktcapitalisatie van 12 miljard dollars,
+
+00:31:17.900 --> 00:31:22.780
+is Bitcoin de grootste cryptographische implementatie ter wereld
+
+00:31:23.140 --> 00:31:26.820
+de grootste openbare Key infrastructuur ter wereld
+
+00:31:26.940 --> 00:31:29.980
+de grootste beveiligings honingpot ter wereld
+
+00:31:31.320 --> 00:31:34.180
+en het is niet veilig omdat het niet wordt aangevallen
+
+00:31:34.600 --> 00:31:40.620
+het krijgt veiligheid omdat het immuniteit opbouwt juist omdát het constant wordt aangevallen!
+
+00:31:41.280 --> 00:31:45.480
+24 uur per dag door de meest knappe hackers die deze planeet kent
+
+00:31:47.160 --> 00:31:53.540
+En als je dan in die omgeving een gecentraliseerde toezichthoudende exchange opzet,
+
+00:31:54.420 --> 00:31:57.780
+gebruikmakend van PHP en MySQL
+
+00:31:58.600 --> 00:32:02.720
+en je parkeert er een honingpot in van 150 miljoen dollar
+
+00:32:03.560 --> 00:32:05.180
+dan nodig je de haaien uit
+
+00:32:06.280 --> 00:32:08.280
+bitcoin banken worden gehackt
+
+00:32:08.280 --> 00:32:10.260
+Bitcoin wisselplatformen worden gehackt
+
+00:32:10.820 --> 00:32:14.400
+Bitcoin is NIET gehackt
+
+00:32:14.620 --> 00:32:18.140
+en kan niet gehackt worden, omdat er geen punt is
+
+00:32:18.460 --> 00:32:21.540
+van controle, waar je druk op kunt uitoefenen
+
+00:32:21.540 --> 00:32:23.300
+het is volledig gedecentraliseerd
+
+00:32:24.080 --> 00:32:26.080
+Ok, misschien nog 1 vraag?
+
+00:32:28.260 --> 00:32:33.300
+Waar komt het aanbod van bitcoins vandaan en hoe zorg je dat de markt niet een te groot aanbod krijgt
+
+00:32:34.140 --> 00:32:41.300
+De voorraad van Bitcoin is bepaald door een algoritme, gebaseerd op een geometrieke, kleiner wordend aanbod model
+
+00:32:41.620 --> 00:32:47.140
+Dat betekent dat, in het begin elke 10 minuten 50 nieuwe bitcoins worden gecreëerd
+
+00:32:48.060 --> 00:32:54.060
+Dus elk block, de hartslag, elke 10 minuten, creëert 50 nieuwe bitcoins
+
+00:32:54.320 --> 00:32:57.200
+Deze bitcoins worden gebruikt als een beloning
+
+00:32:57.400 --> 00:33:00.040
+in een speltheorie gebaseerd beveiligingsmodel
+
+00:33:00.340 --> 00:33:05.220
+dat ervoor gezorgt dat elke transactie onafhankelijk wordt gevalideerd door volledig anonieme acteurs
+
+00:33:05.480 --> 00:33:10.100
+die electriciteit moeten inzetten als garantie voor het beveiligingswerk wat ze hebben verricht
+
+00:33:10.440 --> 00:33:14.880
+en als ze erin slagen het beveiligingswerk, het valideren van transacties, correct te doen
+
+00:33:15.120 --> 00:33:19.240
+dan verdienen ze, als beloning, gebaseerd op een waarschijnlijke opbrengst,
+
+00:33:20.340 --> 00:33:25.500
+die beloning. 50 Bitcoin elke 10 minuten, dat is hoe de currency in de economie terecht komt
+
+00:33:25.980 --> 00:33:28.700
+Elke 4 jaar wordt dat gehalveerd
+
+00:33:29.640 --> 00:33:32.280
+Van 50 naar 25 in november 2012
+
+00:33:33.040 --> 00:33:35.040
+En dit jaar in juli
+
+00:33:35.440 --> 00:33:38.720
+deze afgelopen juli, hadden we het 2e halverings event
+
+00:33:39.400 --> 00:33:42.600
+welke gepaard ging met verjaardagsfeestjes overal ter wereld
+
+00:33:43.560 --> 00:33:46.980
+en de bitcoin beloning ging van 25 naar 12 1/2
+
+00:33:47.460 --> 00:33:48.400
+bitcoin
+
+00:33:49.760 --> 00:33:54.640
+Omdat het systeem is ontworpen om een monetair beleid te hebben dat doelbewust deflationair is
+
+00:33:54.820 --> 00:33:57.460
+en de uitgave van edelmetalen simuleert
+
+00:33:57.820 --> 00:34:00.360
+Het wordt moeilijker en moeilijker en moeilijker om goud te mijnen
+
+00:34:00.460 --> 00:34:02.940
+tegen grotere en grotere en grotere kosten
+
+00:34:03.780 --> 00:34:05.360
+en Bitcoin is hetzelfde
+
+00:34:05.580 --> 00:34:09.460
+Met het idee dat minder en minder na verloop van tijd wordt uitgegeven
+
+00:34:10.060 --> 00:34:12.320
+Als je die geometrische curve volgt
+
+00:34:12.440 --> 00:34:14.440
+dan bereik je op enig moment het einde
+
+00:34:14.880 --> 00:34:16.880
+In het jaar 2141
+
+00:34:17.840 --> 00:34:19.840
+wordt Bitcoin niet langer uitgegeven
+
+00:34:19.900 --> 00:34:21.900
+21 miljoen coins
+
+00:34:22.140 --> 00:34:24.140
+is het asymptotisch maximum
+
+00:34:24.240 --> 00:34:27.020
+Het zal nooit 21 miljoen coins bereiken
+
+00:34:27.080 --> 00:34:30.440
+Dat is onderdeel van het protocol, een onveranderbaar deel van het protocol
+
+00:34:30.660 --> 00:34:35.340
+en het is een regel die wordt afgedwongen door ieder systeem dat meedoet in het bitcoin netwerk
+
+00:34:40.220 --> 00:34:42.360
+Het is bedoeld gedegen geld te zijn
+
+00:34:42.480 --> 00:34:45.160
+maar het is niet het enige monetaire beleid dat bestaat
+
+00:34:45.300 --> 00:34:48.720
+er zijn verschillende andere currencies die elk andere monetaire policies toepassen
+
+00:34:49.100 --> 00:34:55.640
+Het idee voor Bitcoin is echt te dienen als een heel, heel solide reserve currency
+
+00:34:55.640 --> 00:34:57.120
+voor veel andere dingen
+
+00:34:59.640 --> 00:35:08.520
+Wat kun je aan bedrijven meegeven, hier aanwezig die niet financieel zijn, hoe ze tactische stappen kunnen nemen
+
+00:35:08.680 --> 00:35:13.000
+om na te denken hoe te experimenteren met de blockchain als in het opslaan van waarde
+
+00:35:17.440 --> 00:35:20.300
+Ik denk te begrijpen dat het niet alleen currency is
+
+00:35:20.320 --> 00:35:24.600
+begrijpen dat het een platform van vertrouwen is en begrijpen dat het gebruikt kan worden
+
+00:35:25.220 --> 00:35:29.420
+als een historisch register van waarheid, dat informatie kan opslaan
+
+00:35:29.660 --> 00:35:34.600
+Dat gebruikt kan worden om allerlei soorten tokens te creëren die uitgewisseld kunnen worden met
+
+00:35:34.600 --> 00:35:36.500
+je klanten, je leveranciers, je producenten
+
+00:35:37.080 --> 00:35:40.220
+Maar dat ook simpelweg als een currency gebruikt kan worden
+
+00:35:40.840 --> 00:35:46.440
+Voor elke cross border transactie, im- en export activiteiten, stromen die op overmaking zijn gebaseerd
+
+00:35:46.620 --> 00:35:48.620
+het betalen van medewerkers en affilates
+
+00:35:48.780 --> 00:35:53.100
+al die dingen die tegenwoordig duur, langzaam en moeilijk zijn
+
+00:35:53.280 --> 00:35:58.660
+die worden simpel, snel en goedkoop als je één van die digitale currencies gebruikt, máár
+
+00:35:59.380 --> 00:36:01.780
+het is nog vroeg... Voor nu
+
+00:36:01.900 --> 00:36:05.220
+erover leren. Hier is het meest belangrijke wat je erover moet begrijpen
+
+00:36:05.480 --> 00:36:08.200
+Je zult veel horen over Blockchain
+
+00:36:09.980 --> 00:36:13.700
+En het meeste wat je zult horen over Blockchain is niet het internet van geld
+
+00:36:13.880 --> 00:36:16.320
+het is het intrAnet van geld
+
+00:36:17.180 --> 00:36:24.560
+Het intranet is waar je frontpage en outlook en bepaalde software gebruikt in een kleine, besloten enclave
+
+00:36:24.680 --> 00:36:29.600
+van je corporate achter wateren, met specifieke content en saaie apps.
+
+00:36:30.320 --> 00:36:34.260
+En uiteindelijk zit het vol met virussen want je kunt het niet veilig houden
+
+00:36:35.760 --> 00:36:41.800
+Blockchain die niet open is, niet publiek, niet grenzenloos, niet open voor innovatie
+
+00:36:43.400 --> 00:36:45.400
+is niet waar we het hier over hebben
+
+00:36:45.820 --> 00:36:47.820
+en dat is een heel belangrijk onderscheid
+
+00:36:48.180 --> 00:36:52.800
+het kan nuttig zijn, als je een verrekenkamer wilt runnen tussen 3 banken... misschien
+
+00:36:55.260 --> 00:36:57.260
+maar het is niet het internet van geld
+
+00:37:09.440 --> 00:37:11.440
+Iedereen die een vraag stelde krijgt een gratis exemplaar van mijn boek als je naar me toe komt hierachter. Ontzettend bedankt!
+

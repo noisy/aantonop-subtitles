@@ -1,0 +1,145 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:00.760 --> 00:00:05.840
+Bonsoir.
+Que voulez-vous dire lorsque vous parlez de transaction
+
+00:00:05.840 --> 00:00:09.640
+"incorrecte" ? Quelle est la différence entre "correcte"
+
+00:00:09.640 --> 00:00:10.640
+et "incorrecte" ?
+
+00:00:10.940 --> 00:00:12.240
+C'est une excellente question.
+
+00:00:12.520 --> 00:00:15.780
+Il y a un ensemble de règles à l'intérieur du système,
+
+00:00:15.840 --> 00:00:21.040
+probablement entre trente et quarante règles au total,
+
+00:00:21.040 --> 00:00:24.140
+que le logiciel analyse.
+
+00:00:24.140 --> 00:00:29.540
+Par exemple, si une transaction dit :
+« mon adresse paie
+
+00:00:29.680 --> 00:00:33.980
+à votre adresse un certain montant », d'accord ?
+eh bien...
+
+00:00:34.260 --> 00:00:35.700
+Cette transaction est correcte si :
+
+00:00:35.880 --> 00:00:40.500
+- mon adresse est correctement formatée et est une adresse valide;
+
+00:00:40.500 --> 00:00:43.220
+- votre adresse est correctement formatée et est une adresse valide;
+
+00:00:43.220 --> 00:00:48.940
+- le montant décrit est compris
+entre 0 et 21 millions de bitcoins
+
+00:00:48.940 --> 00:00:51.080
+(qui est le montant maximal possible);
+
+00:00:51.420 --> 00:00:56.100
+- je possède bien ce montant pour pouvoir vous payer
+
+00:00:56.480 --> 00:00:58.400
+(si je ne le possède pas, je ne peux pas le payer);
+
+00:00:59.480 --> 00:01:01.720
+- ce montant n'a pas déjà été dépensé depuis
+
+00:01:01.840 --> 00:01:04.620
+mon compte, donc il n'est pas en train d'être dépensé deux fois;
+
+00:01:05.060 --> 00:01:08.180
+- la transaction a suffisamment de frais associés pour rémunérer le réseau.
+
+00:01:08.340 --> 00:01:11.160
+Il y a plein de petites règles comme celles-ci, pas seulement pour les transactions
+
+00:01:11.340 --> 00:01:13.880
+mais aussi pour les blocs qui les contiennent.
+
+00:01:13.880 --> 00:01:15.540
+Elles sont cumulatives.
+
+00:01:15.540 --> 00:01:18.620
+- Ma signature doit être correctement formatée...
+
+00:01:19.000 --> 00:01:24.760
+Ce sont des sortes de règles logiques,
+qui se situent au niveau de l'humain.
+
+00:01:25.080 --> 00:01:28.240
+Il y a aussi environ une trentaine de règles
+qui sont plutôt au
+
+00:01:28.340 --> 00:01:32.360
+niveau de la programmation :
+Les 3 premiers bits du
+
+00:01:32.400 --> 00:01:35.360
+numéro de version de la transaction doivent être « x »
+
+00:01:35.420 --> 00:01:38.840
+à moins que le verrou temporel de cette transaction soit paramétré,
+
+00:01:38.840 --> 00:01:40.500
+auquel cas ces bits de version, etc.
+
+00:01:40.500 --> 00:01:43.620
+Vous voyez, toutes ces règles liées
+aux arcanes de Bitcoin, qui servent
+
+00:01:43.620 --> 00:01:47.200
+à analyser le format de la transaction.
+
+00:01:47.940 --> 00:01:49.980
+Mais votre logiciel fait tout ça,
+donc vous n'avez pas à vous
+
+00:01:49.980 --> 00:01:52.540
+en inquiéter. Vous dites juste :
+« J'ai de l'argent, je vous donne de l'argent... »
+
+00:01:52.900 --> 00:01:54.860
+Clic, clic, boum, terminé.
+
+00:01:54.860 --> 00:01:58.620
+Votre logiciel va produire une transaction valide.
+
+00:01:59.360 --> 00:02:01.120
+La chose importante à vérifier est
+
+00:02:01.300 --> 00:02:04.300
+que le logiciel ne va pas se mettre à demander :
+« - Êtes-vous quelqu'un de bien ?
+
+00:02:04.300 --> 00:02:08.500
+- Êtes-vous quelqu'un de mauvais ?
+- Êtes-vous sur une liste de bonnes
+
+00:02:08.700 --> 00:02:10.980
+ou de mauvaises personnes ?
+- Êtes-vous quelqu'un d'autorisé ?
+
+00:02:11.080 --> 00:02:13.440
+- Où êtes-vous né ?
+- Quel est votre sexe ?
+
+00:02:13.440 --> 00:02:16.920
+- Quelle est votre religion ? »
+Aucune de ces questions ne font partie des règles.
+
+00:02:17.760 --> 00:02:19.960
+C'est la distinction importante.
+
