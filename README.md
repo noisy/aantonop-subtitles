@@ -4,7 +4,7 @@ The goal of this project is simple - we want to help Andreas spread the word abo
 
 To achieve our goal, we decided to focus on translation of his best videos, to other languages - we belive, that this should help people, which do not speak English learn more about what is Bitcoin, how it works, what is Blockchain, and why all those questions are so important.
 
-# Based on Andreas Antonopoulos work under Creative Commons licenses
+### Based on Andreas Antonopoulos work under Creative Commons licenses
 
 As you can read on [Andreas website](https://antonopoulos.com/donate/):
 
