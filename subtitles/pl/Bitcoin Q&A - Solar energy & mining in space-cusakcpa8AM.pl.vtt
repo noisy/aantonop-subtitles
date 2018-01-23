@@ -1,0 +1,108 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:03.620
+[PYTAJĄCY]: Załóżmy, że technologia solarna rozwija się dobrze
+[ANDREAS]: Tak.
+
+00:00:03.620 --> 00:00:08.960
+[PYTAJĄCY]: Zyski z wykorzystania energii słonecznej z wysoką wydajnością ... Koszty będą zerowe.
+
+00:00:09.320 --> 00:00:14.000
+Czy system PoW dalej by działał pomimo zerowych kosztów?
+[ANDREAS]: Bardzo dobre pytanie
+
+00:00:14.000 --> 00:00:21.280
+Załóżmy, że panele słoneczne bardzo się rozwinęły i można w ten sposób pozyskać duże ilości energii ...
+
+00:00:21.280 --> 00:00:27.440
+Czy to sprawi, że Proof of Work przestanie działać, gdyż koszty energii (rachunki) są zerowe?
+
+00:00:27.440 --> 00:00:37.720
+Cóż, tak i nie. Głównie nie. Nawet jeśli masz naprawdę wydajną energię słoneczną, musisz wziąć pod uwagę trzy czynniki:
+
+00:00:37.880 --> 00:00:45.600
+pierwszy polega na tym, że płacisz za panele słoneczne, więc masz koszty kapitałowe; drugi to ty płacisz za ...
+
+00:00:45.600 --> 00:00:50.800
+.. sprzęt górniczy, więc masz więcej kosztów kapitałowych. 
+[PYTAJĄCY]: Konkurencja zależy od kosztu krańcowego.
+
+00:00:50.800 --> 00:00:57.740
+[ANDREAS]: Tak, ale jednocześnie rywalizujesz z ludźmi, którzy będą wkładać coraz więcej kapitału.
+
+00:00:58.280 --> 00:01:05.600
+Ale trzecia, najważniejsza to ta, w której przypuszczasz, że nie masz kosztów alternatywnych
+
+00:01:05.600 --> 00:01:13.360
+Oznacza to, że nie ma innej możliwości wykorzystania prądu niż kopanie, co oznacza, że do tej pory ...
+
+00:01:13.360 --> 00:01:19.240
+... przekroczył popyt na energię elektryczną, że masz całą nadwyżkę mocy.
+[PYTAJĄCY]: Zgadza się.
+
+00:01:19.600 --> 00:01:24.920
+[ANDREAS]: Racja. Problem polega na tym, że w tym momencie rozwiązaliśmy problem energii na świecie. W tym momencie,
+
+00:01:24.920 --> 00:01:33.540
+jeśli dowód pracy jest tym, który nie działa, poszedłeś do świata Star Trek, w którym pieniądze nie istnieją.
+
+00:01:33.540 --> 00:01:42.440
+[śmiech] prawda? Jeśli rozwiążesz fundamentalną kwestię niedoboru energii na tej planecie, rozwiąż ją całkowicie,
+
+00:01:42.440 --> 00:01:47.400
+aby koszty krańcowe spadły do zera, musisz mieć zero kosztów alternatywnych - co oznacza, że możesz ...
+
+00:01:47.400 --> 00:01:55.280
+generować obfite zasoby w dowolnym miejscu i czasie, a także zawsze mieć nadwyżkę mocy. Rozwiązałeś ...
+
+00:01:55.280 --> 00:02:01.900
+... znacznie większe problemy. Mam nadzieję, że się tam dostaniemy. Potem potrzebujemy kogoś równie błyskotliwego jak Satoshi Nakamoto ...
+
+00:02:01.900 --> 00:02:15.600
+z nowym algorytmem proof-of-work. Proponuję Sudoku. [śmiech] To działa. Sudoku jest asymetrycznym ...
+
+00:02:15.600 --> 00:02:22.720
+algorytmem, co oznacza, że jeśli zwiększysz rozmiar puzzli Sudoku, możesz go stosunkowo szybko zweryfikować ...
+
+00:02:22.720 --> 00:02:32.680
+czy jest poprawna. Jeśli sprawisz, że będzie miliardy i miliardy razy większe, wtedy będzie naprawdę ciężko ...
+
+00:02:32.680 --> 00:02:41.920
+Możesz zrobić to tak, że musisz zrobić to tylko na papierze, ołówkiem, z ludźmi ...
+
+00:02:41.920 --> 00:02:49.440
+Byłby to dosłownie algorytm dowodu pracy, podobnie jak niewolnicy Egiptu, którzy budowali piramidy. "Rozwiąż Sudoku trudniej!"
+
+00:02:49.440 --> 00:02:57.620
+Dobra, wystarczy tego. Tak?
+[PYTAJĄCY]: Kolejnym problemem z tym, co mówi, jest ...
+
+00:02:57.620 --> 00:03:03.420
+... to, że inna strona, która ma tę samą technologię-
+[ANDREAS]: Cóż, wyrównuje wszystkich. A więc chodzi o dostęp do ...
+
+00:03:03.420 --> 00:03:08.340
+górników, dostęp do przepustowości Internetu, dostęp do pamięci masowej, aby włączyć blockchain. Nadal są koszty.
+
+00:03:08.340 --> 00:03:12.860
+[PYTAJĄCY]: Po drugie, wciąż jesteś ograniczony ilością odbieranego promieniowania słonecznego, czyli 2000 watów.
+
+00:03:12.860 --> 00:03:16.880
+.. za metr kwadratowy, więc to fakty z technicznego punktu widzenia. 
+[ANDREAS]: Jesteś ograniczony ...
+
+00:03:16.880 --> 00:03:22.260
+.. przez 2000 watów na metr kwadratowy, co jest maksymalną energią, jaką możesz uzyskać - na powierzchni!
+
+00:03:22.560 --> 00:03:35.700
+Co oznacza: wydobywanie ... w ... przestrzeni! [śmiech] Właściwie to nie jest żart. Istnieje wiele powodów, dla których wydobycie ...
+
+00:03:35.700 --> 00:03:44.440
+... w kosmosie może stać się bardzo interesującą możliwością. Panele słoneczne, żadna atmosfera niczego nie przesłania ...
+
+00:03:44.620 --> 00:03:51.960
+Materiał Andreasa M. Antonopoulosa
+Tłumaczył na język Polski: Fervi
+
