@@ -1,0 +1,484 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.835 --> 00:00:01.835
+Hola
+
+00:00:02.235 --> 00:00:04.585
+(no se escucha bien para traducir)
+
+00:00:05.175 --> 00:00:07.075
+En realidad quisiera que nos explicaras las diferencias entre...
+
+00:00:07.465 --> 00:00:09.765
+Prueba de trabajo (PoW)...
+
+00:00:10.145 --> 00:00:13.355
+Prueba de participación (PoS) y Prueba de participación delegada (DPoS).
+
+00:00:13.735 --> 00:00:15.055
+Y también...
+
+00:00:15.880 --> 00:00:16.960
+...quizás hablar...
+
+00:00:17.260 --> 00:00:19.280
+...de como Bitcoin se diferencia
+
+00:00:19.760 --> 00:00:21.240
+...y como se compararia con otras
+
+00:00:21.920 --> 00:00:23.160
+criptomonedas en donde...
+
+00:00:23.600 --> 00:00:24.600
+(no se entiende)
+
+00:00:24.615 --> 00:00:25.755
+dentro y fuera de la cadena
+
+00:00:26.545 --> 00:00:29.725
+y los diferentes mecanismos de consenso entre Bitcoin y las otras criptomonedas.
+
+00:00:30.335 --> 00:00:31.475
+AA: es una buena pregunta.
+
+00:00:31.815 --> 00:00:34.795
+Prueba de trabajo (PoW) es el sistema que utiliza Bitcoin
+
+00:00:34.795 --> 00:00:36.465
+Prueba de trabajo es el sistema que
+
+00:00:36.835 --> 00:00:39.685
+provee seguridad a través de una inversión
+
+00:00:39.685 --> 00:00:42.705
+de energía. Es decir, debes conectar un sistema
+
+00:00:42.705 --> 00:00:45.535
+que quema electricidad, computadoras especiales de minería...
+
+00:00:45.535 --> 00:00:47.725
+Eso es Prueba de trabajo (PoW).
+
+00:00:48.035 --> 00:00:50.775
+Los sistemas alternativos han sido
+
+00:00:50.775 --> 00:00:53.855
+propuestos y algunos de ellos están corriendo en una
+
+00:00:53.855 --> 00:00:56.295
+escala mucho más baja.
+
+00:00:56.295 --> 00:00:59.035
+Prueba de participación (PoS) es un de ellos. En una sistema de Prueba de participación...
+
+00:00:59.035 --> 00:01:00.225
+...esto es lo que pasa:
+
+00:01:01.475 --> 00:01:03.165
+Digamos que tienes...
+
+00:01:04.045 --> 00:01:07.175
+...esta nueva moneda digital llamada "RigetCoin"
+
+00:01:07.175 --> 00:01:10.195
+y...
+
+00:01:10.195 --> 00:01:13.075
+en la cadena de bloques esta moneda digital
+
+00:01:13.075 --> 00:01:15.825
+en lugar de quemar electricidad, lo que sucede es que
+
+00:01:15.825 --> 00:01:18.155
+tu quieres que tu computadora revise las reglas
+
+00:01:18.505 --> 00:01:21.935
+y validar las transacciones para todos los demás.
+
+00:01:22.505 --> 00:01:28.595
+Y cada 10 minutos cuando estás validando las reglas, lo que haces es que bloqueas
+
+00:01:28.595 --> 00:01:31.705
+una parte de tus monedas en la cadena
+
+00:01:31.705 --> 00:01:37.135
+y se mantiene bloqueado por al menos treinta bloques o quizás cien bloques
+
+00:01:37.135 --> 00:01:40.405
+Al quedar bloqueado te comprometes a continuar validando
+
+00:01:40.405 --> 00:01:43.345
+las reglas... Si las validas
+
+00:01:43.345 --> 00:01:46.375
+incorrectamente, pierdes
+
+00:01:46.375 --> 00:01:47.375
+ese dinero.
+
+00:01:47.445 --> 00:01:50.675
+Si las validas correctamente, obtienes el dinero de regreso
+
+00:01:50.955 --> 00:01:52.395
+luego de digamos treinta bloques
+
+00:01:52.855 --> 00:01:55.865
+y obtienes una porción de comisiones.
+
+00:01:55.865 --> 00:01:58.775
+Ahora en vez de invertir energía, estás invirtiendo las
+
+00:01:58.775 --> 00:02:01.735
+mismas monedas dentro del sistema
+
+00:02:01.765 --> 00:02:04.925
+para probar que estás comprometido a validar
+
+00:02:04.925 --> 00:02:07.915
+las reglas de seguridad y ayudar con las seguridad
+
+00:02:07.915 --> 00:02:08.915
+de la red.
+
+00:02:09.885 --> 00:02:13.185
+Hay un par de problemas con la Prueba de participación (PoS)
+
+00:02:13.185 --> 00:02:16.365
+que muchas personas están tratando resolver, pero eso
+
+00:02:16.365 --> 00:02:18.665
+no quiere decir que sean problemas que se puedan resolver.
+
+00:02:18.665 --> 00:02:21.375
+Uno de los problemas es que las personas que tienen muchas monedas...
+
+00:02:21.375 --> 00:02:22.375
+ 
+
+00:02:23.445 --> 00:02:26.305
+...ganan más monedas. Los ricos se hacen más ricos.
+
+00:02:26.955 --> 00:02:27.965
+Ya hemos visto esto antes.
+
+00:02:28.525 --> 00:02:29.525
+Ammm
+
+00:02:30.195 --> 00:02:33.195
+El otro problema es que...
+
+00:02:33.525 --> 00:02:36.145
+Dado que lo que estas comprometiendo...
+
+00:02:36.145 --> 00:02:38.855
+...es parte del sistema y el sistema por si determina
+
+00:02:38.855 --> 00:02:41.835
+su valor. Puedes tener
+
+00:02:41.835 --> 00:02:44.975
+estas extrañas condiciones por ahí.
+
+00:02:44.975 --> 00:02:47.985
+Haciendo trampa en el sistema puedes perder esas monedas
+
+00:02:47.985 --> 00:02:50.365
+pero ganaste tanto en otras vías, que te compensan.
+
+00:02:50.865 --> 00:02:53.575
+Que cuando quemas electricidad, si la quemas...
+
+00:02:53.575 --> 00:02:55.385
+...fuera del sistema...
+
+00:02:56.055 --> 00:02:58.245
+...nunca la recuperarás.
+
+00:02:59.615 --> 00:03:01.395
+Entonces...
+
+00:03:01.395 --> 00:03:03.395
+....Prueba de trabajo (PoW) es...
+
+00:03:03.715 --> 00:03:06.315
+...es una sistema de compromiso extrínseco.
+
+00:03:06.315 --> 00:03:09.425
+Significa que lo que comprometes esta fuera del sistema.
+
+00:03:09.425 --> 00:03:12.925
+Estás comprometiendo electricidad por la que tienes que pagar una factura..
+
+00:03:12.955 --> 00:03:16.285
+...en el mundo real. Mas no en el sistema.
+
+00:03:16.305 --> 00:03:19.155
+La Prueba de participación es intrínseca...
+
+00:03:19.155 --> 00:03:21.985
+estás comprometiendo la moneda del sistema digital en el sistema digital...
+
+00:03:21.985 --> 00:03:24.175
+...para validar el sistema digital.
+
+00:03:25.375 --> 00:03:27.485
+Ammm... El...
+
+00:03:28.885 --> 00:03:31.845
+...otro problema tiene que ver con el almacenamiento de los
+
+00:03:31.845 --> 00:03:34.695
+registros históricos. Yo creo que una delas ventajas de la
+
+00:03:34.695 --> 00:03:37.795
+Prueba de trabajo, a pesar de que es muy costosa y utiliza mucha energía
+
+00:03:37.795 --> 00:03:40.725
+es que te permite crear un nivel de inmutabilidad
+
+00:03:40.725 --> 00:03:43.885
+para los registros.
+
+00:03:43.885 --> 00:03:46.825
+Una de las cosas interesantes de la cadena de bloques es..
+
+00:03:46.825 --> 00:03:49.875
+que una vez que algo es grabado en ella, no puedes ir a cambiarlo.
+
+00:03:49.875 --> 00:03:52.885
+Porque para cambiar algo que quedó diez bloques atrás
+
+00:03:53.595 --> 00:03:59.655
+Porque el proximo bloque depende de ellos y si lo cambias tienes que cambiar todos los bloques después de él.
+
+00:03:59.655 --> 00:04:02.565
+Y para cada uno de ellos también tienes que volver a hacer todo el minado
+
+00:04:02.565 --> 00:04:05.535
+lo que significa que tienes que re-invertir
+
+00:04:05.535 --> 00:04:08.825
+toda la electricidad.
+
+00:04:08.825 --> 00:04:11.795
+Y si lo haces estás invalidando la cadena previa
+
+00:04:11.795 --> 00:04:14.705
+así que cobras una vez, pero estás gastando electricidad doble.
+
+00:04:14.705 --> 00:04:17.080
+es decir que lo estas haciendo de gratis
+
+00:04:17.540 --> 00:04:20.225
+Lo que significa que es muy difícil cambiar
+
+00:04:20.225 --> 00:04:23.255
+algo que ha sido grabado en una cadena de bloques de
+
+00:04:23.255 --> 00:04:26.445
+Prueba de trabajo (PoW). Cuando digo difícil
+
+00:04:26.505 --> 00:04:29.605
+los números son absolutamente apilados.
+
+00:04:29.605 --> 00:04:32.735
+En este momento Bitcoin esta corriendo entre 500 mega watts
+
+00:04:32.735 --> 00:04:35.675
+y un giga watt de electricidad
+
+00:04:35.675 --> 00:04:38.845
+en tiempo real. Si quisieras cambiar
+
+00:04:38.845 --> 00:04:40.015
+un día...
+
+00:04:40.325 --> 00:04:43.405
+de transacciones Bitcoin. Eso es 144 bloques
+
+00:04:43.405 --> 00:04:46.405
+por 24 horas. Estarías mirando...
+
+00:04:46.405 --> 00:04:49.405
+a unos
+
+00:04:49.405 --> 00:04:51.255
+1.2 giga watts.
+
+00:04:51.835 --> 00:04:55.055
+1.2 giga watts por hora de electricidad
+
+00:04:55.055 --> 00:04:58.125
+Eso es mucha electricidad.
+
+00:04:58.125 --> 00:05:01.285
+Tendrías que invertir cantidades muy grandes
+
+00:05:01.285 --> 00:05:03.175
+para obtener...
+
+00:05:04.035 --> 00:05:06.865
+quizás nada a cambio, correcto?
+
+00:05:07.055 --> 00:05:10.375
+Sin embargo con el sistema de Prueba de participación
+
+00:05:10.375 --> 00:05:12.285
+no hay ese respaldo externo.
+
+00:05:12.775 --> 00:05:14.615
+Hay un tercer sistema llamado
+
+00:05:14.615 --> 00:05:16.835
+Prueba de participación delegada (DPoS)
+
+00:05:16.835 --> 00:05:19.695
+que es como Prueba de participación (PoS), pero lo que puedes hacer es que puedes decir...
+
+00:05:19.695 --> 00:05:22.275
+voy a poner mi dinero con este otro grupo.
+
+00:05:22.955 --> 00:05:25.605
+Van a ser bloqueados y ellos van a hacer todas las
+
+00:05:25.605 --> 00:05:27.545
+revisiones y validaciones.
+
+00:05:27.865 --> 00:05:31.315
+y vamos a compartir las recompensas.
+
+00:05:31.465 --> 00:05:34.605
+Eso es bastante como elegir representantes en el congreso
+
+00:05:34.605 --> 00:05:37.305
+y tenerlos a ellos tomando decisiones por cuatro años
+
+00:05:37.305 --> 00:05:39.445
+y después de cuatro años decides si los vas a despedir o no.
+
+00:05:40.265 --> 00:05:43.285
+Sólo que lo haces en un período de tiempo más corto
+
+00:05:43.285 --> 00:05:44.195
+ 
+
+00:05:44.195 --> 00:05:45.195
+ 
+
+00:05:45.195 --> 00:05:47.825
+De nuevo, muy interesante.
+
+00:05:47.825 --> 00:05:50.855
+De hecho creo que vamos a ver combinaciones de sistemas.
+
+00:05:50.855 --> 00:05:53.435
+Bitcoin pudiera terminar teniendo un sistema de Prueba de participación (PoS)
+
+00:05:53.545 --> 00:05:56.195
+La red relámpago (LN) que te permite ganar comisiones
+
+00:05:56.195 --> 00:05:59.175
+por crear canales de pago en donde  tienes
+
+00:05:59.175 --> 00:06:02.175
+que comprometer dinero en los canales de pago
+
+00:06:02.385 --> 00:06:05.265
+para hacerlos funcionar y luego debes
+
+00:06:05.265 --> 00:06:08.395
+validar todas las transacciones que están pasando por tu canal de pagos
+
+00:06:08.395 --> 00:06:14.235
+y si las validas correctamente obtienes comisiones.
+
+00:06:14.235 --> 00:06:17.095
+Lo cual suena como un sistema de Prueba de participación (PoS)
+
+00:06:17.095 --> 00:06:20.175
+para Bitcoin en donde parte de las  son validadas por Prueba de trabajo (PoW) dentro de la cadena
+
+00:06:20.175 --> 00:06:22.985
+y muchas de las transacciones fuera de la cadena son validadas
+
+00:06:22.985 --> 00:06:26.185
+por un sistema de Prueba de participación efectivamente.
+
+00:06:26.185 --> 00:06:27.395
+Puedes tener un híbrido.
+
+00:06:28.045 --> 00:06:30.195
+Todas son interesantes.
+
+00:06:30.665 --> 00:06:33.715
+¿Qué podemos decir de la seguridad de éstos sistemas?
+
+00:06:33.715 --> 00:06:36.865
+Podemos decir que las seguridad de Bitcoin logra resguardar
+
+00:06:36.865 --> 00:06:40.255
+setenta billones de dólares en Prueba de trabajo.
+
+00:06:40.435 --> 00:06:43.375
+¿Cómo lo sabemos? Porque hay setenta billones de dólares y nadie
+
+00:06:43.375 --> 00:06:44.785
+ha podido comprometerlos.
+
+00:06:45.275 --> 00:06:48.265
+¿Qué podemos decir de las Prueba de participación delegada (DPoS)
+
+00:06:48.265 --> 00:06:51.115
+Al momento podemos decir que es, creo, setecientos cincuenta millones de dólares
+
+00:06:51.115 --> 00:06:54.545
+...es decir que tenemos una diferencia en la escala.
+
+00:06:54.955 --> 00:06:55.965
+En el tiempo...
+
+00:06:56.635 --> 00:06:59.695
+ambos empujarán hacia adelante
+
+00:06:59.695 --> 00:07:03.125
+y veremos que pueden hacer cuando sean puestos bajo presión.
+
+00:07:03.275 --> 00:07:06.325
+Esto realmente importa cuando estás siendo atacado
+
+00:07:06.325 --> 00:07:07.305
+correcto?
+
+00:07:07.305 --> 00:07:09.975
+Puedes tener el mejor plan del mundo
+
+00:07:10.485 --> 00:07:11.485
+si no estás siendo atacado.
+
+00:07:12.705 --> 00:07:13.705
+ 
+
+00:07:14.435 --> 00:07:15.435
+ 
+
+00:07:16.765 --> 00:07:17.765
+ 
+
+00:07:19.875 --> 00:07:20.875
+ 
+
+00:07:23.055 --> 00:07:24.055
+ 
+
+00:07:27.305 --> 00:07:28.305
+ 
+
+00:07:29.195 --> 00:07:30.195
+ 
+
+00:07:30.545 --> 00:07:31.965
+ 
+

@@ -1,0 +1,466 @@
+WEBVTT
+Kind: captions
+Language: es-419
+
+00:00:00.220 --> 00:00:06.060
+Dennis pregunta: "Deberian mas personas correr nodos completos dado el reciente "contentious hardfork" ..
+
+00:00:06.480 --> 00:00:08.740
+y UASF softfork?
+
+00:00:10.180 --> 00:00:12.180
+Dennis, deberias correr..
+
+00:00:12.500 --> 00:00:16.180
+tu propio nodo para poder validar transacciones independientemente..
+
+00:00:16.380 --> 00:00:21.620
+si no estas corriendo un nodo y validando las reglas, no eres parte del consenso..
+
+00:00:21.620 --> 00:00:23.420
+no estas participando del consejo..
+
+00:00:23.640 --> 00:00:27.420
+y si tienes que preguntar a alguien mas si una transacción ocurrió..
+
+00:00:27.620 --> 00:00:29.620
+y cada vez que escribes ..
+
+00:00:30.000 --> 00:00:34.960
+la dirección de un explorador de bloques y preguntas "hey mi transacción se confirmo?"
+
+00:00:35.220 --> 00:00:38.160
+lo que estas haciendo es que estas delegando tu..
+
+00:00:38.880 --> 00:00:43.120
+habilidad para independientemente validar esa transacción ..
+
+00:00:43.320 --> 00:00:45.920
+y para descubrir si esta confirmada según las reglas de consenso..
+
+00:00:46.540 --> 00:00:50.280
+estas preguntando a alguien mas y estas delegando esa autoridad a alguien mas..
+
+00:00:50.800 --> 00:00:53.140
+y eso es centralización..asi que..
+
+00:00:54.920 --> 00:00:58.120
+Quien sabe? Que reglas de consenso están corriendo para decidir eso?
+
+00:00:58.660 --> 00:01:03.800
+te estas diciendo que esto fue validado en el fork que piensas que estas corriendo ?
+
+00:01:04.200 --> 00:01:06.300
+o quizás estén siguiendo el fork incorrecto..
+
+00:01:06.300 --> 00:01:07.460
+asi que..
+
+00:01:07.760 --> 00:01:11.540
+Deberias correr un nodo completo para poder responder esas preguntas por ti mismo...ahora..
+
+00:01:11.720 --> 00:01:14.760
+la realidad es que la mayoría de las personas no pueden hacer eso..
+
+00:01:14.800 --> 00:01:16.800
+tecnicamente, no es facil..
+
+00:01:17.520 --> 00:01:19.520
+Pero mas personas pueden..
+
+00:01:19.960 --> 00:01:23.220
+De hecho, es mucho mejor, si puedes correr un nodo completo..
+
+00:01:24.040 --> 00:01:30.000
+que opera en una conexión de internet independientemente pagada y controlada que no esta corriendo ..
+
+00:01:30.440 --> 00:01:32.440
+en un servidor virtual privado..
+
+00:01:32.700 --> 00:01:34.700
+en servicios webs de amazon, etcetera..
+
+00:01:34.860 --> 00:01:37.960
+si tienes una conexión a internet en tu casa y tienes ..
+
+00:01:38.840 --> 00:01:41.960
+el deseo de utilizar esta tecnologia..
+
+00:01:42.120 --> 00:01:44.120
+Corre un nodo..
+
+00:01:44.220 --> 00:01:47.360
+Puedes correr un nodo en una computadora que no necesariamente sea potente..
+
+00:01:47.500 --> 00:01:49.500
+no se necesita mucho para correr un nodo..
+
+00:01:49.760 --> 00:01:51.760
+cualquier desktop sirve..
+
+00:01:52.240 --> 00:01:54.460
+puedes limitar el espacio de disco duro que utilizas..
+
+00:01:54.740 --> 00:01:56.740
+puedes limitar el ancho de banda que utilizas..
+
+00:01:56.960 --> 00:02:00.180
+poniendo los parámetros correspondientes y las configuraciones ..
+
+00:02:00.720 --> 00:02:02.720
+para el software de bitcoin core..
+
+00:02:03.120 --> 00:02:05.700
+o puedes correr otro software si quieres..
+
+00:02:06.240 --> 00:02:07.140
+y..
+
+00:02:07.820 --> 00:02:12.580
+Puedes correr un nodo solo con un poquito de ancho de banda..
+
+00:02:12.920 --> 00:02:16.260
+y sin mantener una copia entera de la blockchain..
+
+00:02:16.260 --> 00:02:18.120
+sino que prunearlo..
+
+00:02:18.140 --> 00:02:20.140
+y eso te dara la habilidad de validar..
+
+00:02:21.480 --> 00:02:26.840
+no dara a la red el beneficio de tu ancho de banda y espacio de disco..
+
+00:02:27.100 --> 00:02:31.600
+para ayudar a bootstrap nuevos nodos y soportar clientes livianos y esas cosas..
+
+00:02:31.820 --> 00:02:35.800
+Si tienes una conexión que no esta limitada..
+
+00:02:35.800 --> 00:02:37.340
+O que esta limitada..
+
+00:02:37.980 --> 00:02:42.720
+a niveles razonables como 300 GB por mes, lo cual es lo normal..
+
+00:02:43.380 --> 00:02:46.480
+con servidores de cable y servidores de internet..
+
+00:02:46.940 --> 00:02:49.880
+entonces puedes ofrecer un servicio a la red lo que es..
+
+00:02:50.640 --> 00:02:54.820
+manten una copia entera de la blockchain y ayuda a bootstrap clientes livianos ..
+
+00:02:54.960 --> 00:02:57.360
+y eso mejora la resistencia ..
+
+00:02:57.600 --> 00:03:00.060
+la robustes, la seguridad...
+
+00:03:00.400 --> 00:03:03.320
+de la red entera...
+
+00:03:03.980 --> 00:03:05.980
+Asi que si puedes hacerlo, hazlo!
+
+00:03:06.200 --> 00:03:11.640
+Es una gran experiencia, aprendes un montón de un montón de tecnologías diferentes..
+
+00:03:12.080 --> 00:03:16.260
+aprendes un montón sobre software, como compilar software, como correr software...
+
+00:03:18.840 --> 00:03:24.080
+Mejor aun, si realmente quieres poner tus manos en un proyecto grande..
+
+00:03:25.580 --> 00:03:30.020
+Chequea el programa de Blockstream de satelites..
+
+00:03:30.420 --> 00:03:39.160
+por maso menos unos $150 dólares puedes comprar una banda KU de satelite de 40 cm..
+
+00:03:39.620 --> 00:03:43.280
+el cual es basicamente el mismo que ves en las casas por direct tv..
+
+00:03:43.720 --> 00:03:47.700
+o uno de esos servicios..es basicamente un disco de satélite para tv..
+
+00:03:48.160 --> 00:03:52.020
+puedes comprar uno de esos..
+
+00:03:52.860 --> 00:03:54.860
+poner el receptor correcto en el..
+
+00:03:55.180 --> 00:03:59.140
+y conectar eso a un software de usb para encontrar radio..
+
+00:03:59.420 --> 00:04:02.060
+jungle que también puedes comprar, y los venden en kits..
+
+00:04:02.800 --> 00:04:04.800
+Es un buen proyecto de fin de semana..
+
+00:04:05.060 --> 00:04:08.860
+subset al techo, pon un disco satelital, apuntalo en la dirección correcta..
+
+00:04:09.040 --> 00:04:13.500
+conectado a un desktop, enchufa un usb software para encontrar radio..
+
+00:04:13.700 --> 00:04:18.320
+y ahora tienes un nodo que esta recibiendo bloques y transacciones desde un satélite..
+
+00:04:18.900 --> 00:04:20.900
+y puedes comparar esos con..
+
+00:04:21.160 --> 00:04:25.500
+con bloques que se están recibiendo a traves de internet ..y quizás también servir..
+
+00:04:25.500 --> 00:04:27.140
+clientes de internet ..
+
+00:04:27.620 --> 00:04:29.620
+desde tu recepción satelital..
+
+00:04:29.800 --> 00:04:32.640
+eso masivamente incrementa la resiliencia de la red..
+
+00:04:32.900 --> 00:04:35.880
+asi que, si! puedes hacer un montón para ayudar..
+
+00:04:36.840 --> 00:04:38.840
+a incrementar la resiliencia de la red..
+
+00:04:39.560 --> 00:04:44.900
+Por que es la conexión satelital tan valiosa? Un rápido seguimiento a la conversación previa..
+
+00:04:45.360 --> 00:04:48.940
+La razón por la cual una conexión satelital es tan valiosa es por que..
+
+00:04:49.620 --> 00:04:52.760
+Inclusive con cortes de energia, o con cortes de internet ..
+
+00:04:52.960 --> 00:04:57.960
+en una region en particular, si tienes nodos que están conectados a un satélite..se mantendrán conectados..
+
+00:04:58.280 --> 00:05:04.620
+Y un satellite reproduce información de las ultimas 24 horas asi que tienes 144 bloques pasados para...
+
+00:05:04.860 --> 00:05:09.900
+inclusive si pierdes energia por medio dia, puedes ponerte al dia con tu conexión satelital cuando te reconectas..
+
+00:05:10.920 --> 00:05:14.060
+y si pierdes internet por dias o ..
+
+00:05:14.840 --> 00:05:20.780
+inclusive semanas puedes continuar sincronizado en la blockchain de bitcoin a traves de la conexión satelital ..
+
+00:05:20.980 --> 00:05:24.160
+Esto significa que hace al sistema resienta a apagones..
+
+00:05:24.280 --> 00:05:28.860
+inclusive apagones a proposito, bloqueo de puertos, u otras actividades de censura en internet ..
+
+00:05:30.880 --> 00:05:35.720
+Y cuando recuperas tu conexión a internet o quizás..
+
+00:05:35.980 --> 00:05:39.960
+a traves de conexion tor, o conexion vpn, o un puerto distinto..
+
+00:05:40.200 --> 00:05:43.480
+puedes servir esos mismos bloques y transacciones..
+
+00:05:43.760 --> 00:05:45.980
+a tus vecinos que no tienen un disco satelital..
+
+00:05:46.340 --> 00:05:53.020
+asi que no solo eres resistente a la censura sino que también evitas la censura de otros..
+
+00:05:53.320 --> 00:05:59.220
+dandoles bloques y transacciones a traves de otros varios tipos de redes como tor o vpn..
+
+00:05:59.960 --> 00:06:04.460
+Lazar pregunta: Cual seria el requisito para que alguien tenga un canal de pago de lightning network..
+
+00:06:04.640 --> 00:06:09.100
+y este sistema proof-of-stake hara a los ricos mas ricos?
+
+00:06:09.900 --> 00:06:14.480
+Lazar, pienso que los requisitos son bastante livianos en realidad..
+
+00:06:14.600 --> 00:06:17.740
+hay una implementación de lightning network daemon..
+
+00:06:18.400 --> 00:06:23.100
+que utiliza un cliente liviano llamado "neutrino"..
+
+00:06:24.060 --> 00:06:26.060
+asi que no tienes que correr un ...
+
+00:06:26.700 --> 00:06:28.700
+un completo..perdon..
+
+00:06:29.120 --> 00:06:33.480
+No tienes que correr un nodo con blockchain completa..
+
+00:06:33.820 --> 00:06:35.820
+un nodo que guarda la blockchain completa..
+
+00:06:36.140 --> 00:06:40.000
+ni siquiera tienes que correr un nodo completo que valide..
+
+00:06:40.600 --> 00:06:47.300
+en vez, corres este nodo liviano que valida los "heathers" ..y también valida transacciones..
+
+00:06:48.040 --> 00:06:51.860
+pero es un nodo mucho mas liviano que un nodo completo..
+
+00:06:52.740 --> 00:06:56.280
+y eso en conjunto con el nodo de lightning network..
+
+00:06:56.940 --> 00:06:59.900
+puede correr en un telefono inteligente..de hecho..
+
+00:07:01.260 --> 00:07:02.760
+Uno de los..
+
+00:07:03.440 --> 00:07:06.720
+Uno de los participantes en el desarrollo de lightning..
+
+00:07:08.220 --> 00:07:10.220
+un chico que se llama Jack Mallers..
+
+00:07:10.400 --> 00:07:12.400
+recientemente demostro un ..
+
+00:07:12.860 --> 00:07:17.180
+una transacción real de lightning network ..
+
+00:07:17.700 --> 00:07:19.700
+corriendo en un nodo lightning..
+
+00:07:20.160 --> 00:07:24.360
+un nodo completo de lightning administrando sus propios canales de pago e inclusive ruteando..
+
+00:07:24.680 --> 00:07:26.680
+en un telefono inteligente con android creeria..
+
+00:07:27.340 --> 00:07:29.340
+asi que puedes correr eso..
+
+00:07:29.540 --> 00:07:32.920
+Lightning network también va a correr en la forma de billeteras..
+
+00:07:33.060 --> 00:07:35.840
+y una billetera que corre un nodo de lightning network..
+
+00:07:36.500 --> 00:07:39.420
+Puede abrir canales de pago con otros nodos de lightning network..
+
+00:07:39.420 --> 00:07:41.180
+también puede rutear pagos entre ellos..
+
+00:07:42.080 --> 00:07:47.260
+y puede también utilizar una conexión con un nodo validador completo..
+
+00:07:47.260 --> 00:07:48.540
+como bitcoin core..
+
+00:07:49.620 --> 00:07:51.620
+corriendo en algún server que controlas..
+
+00:07:52.100 --> 00:07:56.920
+o puede correr un nodo liviano como neutrino..
+
+00:07:57.640 --> 00:07:59.640
+para poder soportar eso..asi que ..
+
+00:07:59.640 --> 00:08:01.240
+los requisitos son bastante bajos..
+
+00:08:01.400 --> 00:08:06.820
+y puedes correr un canal de pago lightning network y rutear pagos de lightning network..
+
+00:08:07.160 --> 00:08:10.240
+sin una computadora potente..de hecho..
+
+00:08:10.300 --> 00:08:13.680
+discutiblemente con menos recursos de lo que necesitas para correr un nodo completo de Bitcoin..
+
+00:08:15.680 --> 00:08:18.080
+Hara ese modelo a los ricos mas ricos?
+
+00:08:18.360 --> 00:08:22.760
+La idea de que si tienes mucho canales de pago, y fondeas esos mucho dinero..
+
+00:08:22.940 --> 00:08:26.320
+entonces puedes colectar mucho de las comisiones de lightning network..
+
+00:08:26.480 --> 00:08:28.960
+lo que te hace mas rico, lo que te permite correr mas canales..
+
+00:08:29.080 --> 00:08:31.700
+que te hacen mas rico, lo que te permite correr mas canales..
+
+00:08:32.040 --> 00:08:33.100
+ese es uno de los..
+
+00:08:34.180 --> 00:08:35.400
+miedos persistentes..
+
+00:08:36.520 --> 00:08:40.180
+Pienso que hay una presión en la dirección opuesta que es que..
+
+00:08:41.360 --> 00:08:44.540
+Puedes rutear pagos que son mas pequeños con..
+
+00:08:45.120 --> 00:08:48.860
+con canales de pagos, solo unos pocos canales de pago que no son muy ..
+
+00:08:49.300 --> 00:08:53.080
+grandes, y en términos de fondos puedes tomar quizás ..
+
+00:08:54.320 --> 00:08:55.600
+1/10 de un bitcoin..
+
+00:08:56.160 --> 00:09:01.880
+y correr 10 o 15 canales con un montón de nodos y puedes empezar a colectar comisiones pequeñas..
+
+00:09:01.880 --> 00:09:03.680
+y aumentar tus tenencias..
+
+00:09:04.540 --> 00:09:11.260
+asi que piensas, "bueno, por que no correr 500 canales, y fondearlos con 15 bitcoins y hacer lo mismo?"
+
+00:09:11.400 --> 00:09:15.160
+Bueno ahora por que has puesto 15 bitcoins en un sistema que esta controlando las llaves..
+
+00:09:15.940 --> 00:09:19.080
+y el riesgo de perder eso es mucho mas alto..
+
+00:09:19.080 --> 00:09:20.320
+asi que..
+
+00:09:20.900 --> 00:09:26.120
+Hay esta presión opuesta con lightning network que es que mientras centralizas nodos lightning ..
+
+00:09:26.480 --> 00:09:28.640
+incrementas el riesgo de robo..
+
+00:09:31.100 --> 00:09:37.780
+Por las mismas razones que los exchanges son menos seguros que, tu sabes, la billetera que esta en tu telefono inteligente..
+
+00:09:38.000 --> 00:09:40.720
+es por que un exchange esta tratando de proteger
+
+00:09:41.400 --> 00:09:43.640
+activos que valen millones de dólares ..
+
+00:09:44.220 --> 00:09:46.300
+bajo el control de unas pocas llaves..
+
+00:09:46.500 --> 00:09:48.500
+mientras que tu estas corriendo una sola billetera ..
+
+00:09:49.200 --> 00:09:51.200
+y eso es mucho mas difícil de hackear..
+

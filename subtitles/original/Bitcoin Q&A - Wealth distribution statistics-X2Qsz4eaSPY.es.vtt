@@ -1,0 +1,277 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.000 --> 00:00:01.970
+Johnatan pregunta: "Que piensas acerca del hecho de que...
+
+00:00:01.970 --> 00:00:04.120
+solo 15 millones de direcciones de Bitcoin contienen..
+
+00:00:04.120 --> 00:00:06.785
+mas de 1 dolar y menos de 5 millones..
+
+00:00:06.785 --> 00:00:10.760
+contienen mas de 100 dólares?
+
+00:00:12.500 --> 00:00:14.900
+He visto esta estadística un montón..
+
+00:00:14.900 --> 00:00:18.160
+y parte de la implicacion aquí es que ..
+
+00:00:18.160 --> 00:00:22.900
+esto muestra que la riqueza esta distribuida inequitativamente en Bitcoin..
+
+00:00:23.060 --> 00:00:27.940
+"5 direcciones solas contienen billones de dólares"
+
+00:00:29.800 --> 00:00:32.785
+Y la mayoría de las direcciones tienen pequeños montos..
+
+00:00:32.785 --> 00:00:34.735
+Bueno, aqui esta el tema..
+
+00:00:36.445 --> 00:00:37.785
+Las direcciones no son gente..
+
+00:00:38.425 --> 00:00:39.765
+y..
+
+00:00:41.175 --> 00:00:43.625
+A pesar del hecho que eso es obviamente..
+
+00:00:43.625 --> 00:00:46.805
+cierto si es que has investigado ..
+
+00:00:46.900 --> 00:00:50.400
+La gente aparentemente intenta manipular estas estadísticas para ..
+
+00:00:50.600 --> 00:00:52.720
+demostrar algún tipo de hecho..
+
+00:00:53.300 --> 00:00:56.980
+Utilizando el numero de direcciones y los montos que hay en ellas..
+
+00:00:56.985 --> 00:01:00.055
+y sacar conclusiones o simplemente..
+
+00:01:00.055 --> 00:01:03.245
+ya que estaria mal sacar conclusiones, simplemente..
+
+00:01:03.285 --> 00:01:06.275
+implicar cosas en una forma engañosa..
+
+00:01:06.275 --> 00:01:08.985
+Implicando que esto significa que ..
+
+00:01:08.985 --> 00:01:10.780
+la riqueza esta concentrada..
+
+00:01:11.380 --> 00:01:15.980
+o pueden sacar cualquier conclusion por el numero de personas que hacen x o y ..
+
+00:01:18.405 --> 00:01:19.715
+Aqui el por que esta mal eso..
+
+00:01:20.935 --> 00:01:23.995
+Si miras a una organización como Coinbase..
+
+00:01:23.995 --> 00:01:27.015
+uno de los grandes exchanges, pero esto aplica ..
+
+00:01:27.015 --> 00:01:30.225
+a todos los exchanges que utilizan cuentan custodiadas..
+
+00:01:30.225 --> 00:01:35.600
+Ellos tienen 12 o 14 millones de clientes en este momento..
+
+00:01:35.680 --> 00:01:39.380
+Crees que tienen 14 millones de direcciones de Bitcoin? Claro que no!
+
+00:01:40.580 --> 00:01:45.520
+La gran mayoría de los fondos se mantienen en un puñado de direcciones en almacenamiento en frío..
+
+00:01:46.400 --> 00:01:50.820
+Asi que una compañía con 15 millones de usuarios, quizás solo tenga ...
+
+00:01:52.000 --> 00:01:57.080
+150 direcciones de bitcoin que contienen la riqueza de 15 millones de usuarios..
+
+00:01:58.020 --> 00:02:00.920
+Ahora, eso parece ser una concentración de riqueza enorme..
+
+00:02:01.175 --> 00:02:02.985
+pero no pertenece a ..
+
+00:02:03.700 --> 00:02:09.860
+150 usuarios, pertenece a 150 millones de usuarios, aun asi siendo que esta concentrada en 150 ..
+
+00:02:10.440 --> 00:02:12.080
+direcciones..
+
+00:02:12.740 --> 00:02:16.640
+Pero eso no es todo, mientras tanto, en el lado opuesto del espectro..
+
+00:02:17.320 --> 00:02:23.420
+Cuantas direcciones un usurario usual de Bitcoin que utiliza bitcoin a diario..
+
+00:02:23.640 --> 00:02:26.555
+con una hardware wallet que no re-utiliza direcciones ..
+
+00:02:26.555 --> 00:02:29.045
+utiliza una dirección distinta por cada transacción..
+
+00:02:29.045 --> 00:02:31.180
+que genera direcciones de cambio..
+
+00:02:31.680 --> 00:02:34.935
+que quizás utiliza ambas, direcciones segwit y direcciones regulares, etcetera..
+
+00:02:34.935 --> 00:02:37.855
+o billeteras multiples, una en el movil..
+
+00:02:37.855 --> 00:02:41.125
+digamos una billetera tibia, que es para gastos comunes..
+
+00:02:41.125 --> 00:02:44.225
+una billetera caliente que esta en un teléfono inteligente para efectivo de centavos..
+
+00:02:44.225 --> 00:02:46.320
+y también un poco de almacenamiento en frío..
+
+00:02:46.740 --> 00:02:50.035
+Como se ve ese usuario en la blockchain ?
+
+00:02:50.040 --> 00:02:57.280
+Bueno, yo soy uno de esos usuarios, y puedo decirte que en los últimos 5 años probablemente he usado...
+
+00:02:58.060 --> 00:03:00.260
+20,000 direcciones de bitcoin?
+
+00:03:00.640 --> 00:03:04.460
+Y en cualquier punto en el tiempo mis billeteras quizás tengan..
+
+00:03:05.200 --> 00:03:07.140
+200, 300..
+
+00:03:07.335 --> 00:03:10.145
+500 direcciones con cambio..
+
+00:03:10.200 --> 00:03:13.760
+en muchas pequeñas cantidades, menos de 1 dolar cada una..
+
+00:03:14.360 --> 00:03:18.080
+o quizás un poquito mas de 1 dolar, quizás 1 a 3 dólares..
+
+00:03:19.760 --> 00:03:26.640
+Y esa actividad aparenta ser un montón de personas que tienen muy poquito..
+
+00:03:28.160 --> 00:03:31.135
+en términos de bitcoin..
+
+00:03:31.135 --> 00:03:33.155
+"15 millones de direcciones bitcoin contienen mas de..
+
+00:03:33.825 --> 00:03:36.875
+1 dolar.." Bueno puedo decirte que tengo un montón de direcciones de bitcoin...
+
+00:03:36.880 --> 00:03:38.280
+que contienen menos de 1 dolar..
+
+00:03:40.480 --> 00:03:43.660
+Asi que, no puedes hacer estas conclusiones..
+
+00:03:43.660 --> 00:03:48.780
+Es imposible sacar conclusiones de estadísticas que dividen ..
+
+00:03:49.480 --> 00:03:51.760
+o ponen en conjunto direcciones o valores..
+
+00:03:52.280 --> 00:03:54.640
+terminaras sacando conclusiones erradas todo el tiempo..
+
+00:03:55.460 --> 00:03:57.020
+Ok, y Honey Podge..
+
+00:03:57.780 --> 00:03:59.300
+buen nombre, dice..
+
+00:03:59.780 --> 00:04:02.320
+"La pregunta.." La que acabo de contestar sobre direcciones..
+
+00:04:02.880 --> 00:04:07.940
+"No fue en realidad sobre concentración de riqueza, en realidad fue que la mayoría de las personas no son dueñas de sus bitcoins..
+
+00:04:07.960 --> 00:04:10.440
+acaso eso no es muy peligroso para la red si sucediera un hackeo?
+
+00:04:10.440 --> 00:04:11.400
+Si!
+
+00:04:12.300 --> 00:04:15.920
+Si ese fue el punto de la pregunta, y person si la mal interprete..
+
+00:04:16.245 --> 00:04:19.295
+por que he visto ese tipo de estadísticas..
+
+00:04:19.295 --> 00:04:22.285
+durante semanas para hacer algunos puntos sobre ...
+
+00:04:22.285 --> 00:04:23.820
+la distribución de riqueza..
+
+00:04:27.060 --> 00:04:31.300
+Puedes de hecho utilizar esos datos para mostrar que ..
+
+00:04:32.380 --> 00:04:36.920
+Los exchanges concentran un montón de riqueza en pocas direcciones en cuentas custodiadas..
+
+00:04:37.400 --> 00:04:38.900
+y si, eso es peligroso!
+
+00:04:39.400 --> 00:04:41.400
+Es peligroso si hay un hackeo..
+
+00:04:43.620 --> 00:04:44.960
+Dejame de expresar eso..
+
+00:04:45.380 --> 00:04:47.540
+Dijiste "acaso eso no es muy peligroso para la red" ?
+
+00:04:48.100 --> 00:04:49.700
+'Si es que" hubiese un hackeo..
+
+00:04:50.420 --> 00:04:51.920
+No es un "si es que"..
+
+00:04:52.460 --> 00:04:53.540
+Es un "cuando"..
+
+00:04:54.380 --> 00:04:55.780
+Es peligroso??
+
+00:04:56.000 --> 00:04:59.320
+No es peligroso para la red en si misma pero muchas personas perderán dinero..
+
+00:04:59.460 --> 00:05:02.200
+pienso que bitcoin ha demostrado gran resiliencia inclusive con grandes hackeos..
+
+00:05:03.320 --> 00:05:05.300
+Inclusive si hay un hackeo..
+
+00:05:05.460 --> 00:05:08.680
+el dinero se re-distribuira en la economía eventualmente..asi que..
+
+00:05:09.640 --> 00:05:13.500
+La red no sufrirá, pero un montón de personas si van a perder dinero..
+
+00:05:14.160 --> 00:05:16.000
+Es muy peligroso..
+
+00:05:16.185 --> 00:05:19.375
+cuando hay un hackeo..no es..
+
+00:05:19.465 --> 00:05:20.465
+un "si es que"..
+

@@ -1,0 +1,212 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:30.340
+Możesz wyjaśnić różnicę między Proof of Work, Proof of Stake i Delegated Proof of Stake i jak się&nbsp;zapatrujesz na inne waluty, które chcą mieć wszystko On-Chain, a nie Off-chain.
+
+00:00:30.580 --> 00:00:40.940
+Dobre pytanie. Dowód pracy to system używany przez Bitcoina, PoW to system, który zabezpiecza sieć używając duże ilości energii
+
+00:00:41.000 --> 00:00:47.740
+Więc system "pali" energię elektryczną, głównie minerzy - to Proof of Work (dowód pracy).
+
+00:00:48.080 --> 00:00:57.660
+Od tego czasu powstały alternatywne systemy, zwykle działające na małych sieciach, Proof of Stake jest takim systemem (Dowód stawki).
+
+00:00:57.920 --> 00:01:00.480
+Oto co się dzieje w systemie PoS
+
+00:01:01.700 --> 00:01:03.700
+Powiedzmy, że masz ...
+
+00:01:04.260 --> 00:01:08.540
+nową kryptowalutę "Ringed coin"
+
+00:01:10.260 --> 00:01:15.960
+I na tej walucie zamiast palenia energii
+
+00:01:16.300 --> 00:01:22.100
+twój komputer nakłada zasady i weryfikuje transakcje od innych.
+
+00:01:22.760 --> 00:01:32.040
+I co 10 minut, kiedy weryfikujesz zasady to co robisz to blokujesz pewną część swoich coinów na łańcuchu
+
+00:01:32.360 --> 00:01:36.420
+i zostają zablokowane na 30 może 100 bloków.
+
+00:01:36.820 --> 00:01:41.900
+i kiedy one są zablokowane, kontynuujesz działanie reguł / zasad.
+
+00:01:42.140 --> 00:01:47.280
+Jeśli nie spełnisz poprawnie założeń, stracisz te pieniądze.
+
+00:01:47.680 --> 00:01:55.360
+Jeśli spełnisz - odzyskasz pieniądze po tych 30 blokach razem z opłatami transakcyjnymi
+
+00:01:55.640 --> 00:02:01.800
+więc zamiast energii inwestujesz kryptowalutę wewnątrz systemu
+
+00:02:02.200 --> 00:02:09.200
+by udowodnić, że zobowiązujesz się do przestrzegania bezpieczeństwa systemu i zabezpieczenia sieci.
+
+00:02:09.860 --> 00:02:17.740
+Jest parę problemów z PoS, które wiele osób próbuje rozwiązać, jednakże to nie oznacza, że są te problemy rozwiązywalne
+
+00:02:18.020 --> 00:02:22.340
+Jednym z nich jest to, że ludzie posiadający mnóstwo coinów
+
+00:02:23.040 --> 00:02:24.660
+Zarabiają więcej coinów
+
+00:02:24.900 --> 00:02:26.840
+Bogaty staje się&nbsp;bogatszy
+
+00:02:26.840 --> 00:02:28.500
+Widzieliśmy już to wcześniej.
+
+00:02:30.480 --> 00:02:39.880
+Innym problemem jest to, że system opiera się na tym co prześlesz i system potem ocenia tego wartość
+
+00:02:40.600 --> 00:02:49.500
+Możesz też dostać dziwne warunki, w których oszukując system stracisz coiny, ale dostaniesz więcej innymi drogami
+
+00:02:49.800 --> 00:02:55.700
+(że będzie ci to odpowiadało ??). Kiedy spalasz prąd, jeśli spalasz go poza systemem ...
+
+00:02:55.960 --> 00:02:59.140
+Nie odzyskasz tego.
+
+00:02:59.880 --> 00:03:03.440
+więc dowód pracy wymaga zewnętrznego systemu zobowiązań.
+
+00:03:06.420 --> 00:03:14.360
+Oznacza to, że dostarczasz do systemu rzeczy spoza systemu, jak prąd musisz zapłacić za to rachunek w prawdziwym świecie
+
+00:03:14.640 --> 00:03:24.380
+Ale nie w systemie, gdzie jest PoS nieodłącznie przypisuje się walutę systemu cyfrowego w systemie cyfrowym w celu zatwierdzenia w systemie cyfrowym
+
+00:03:27.660 --> 00:03:32.680
+Drugi problem jest z przetrzymywaniem historii
+
+00:03:32.780 --> 00:03:38.340
+Myślę, że jedną z zalet PoW jest to, że jest drogi i używa wiele energii
+
+00:03:38.600 --> 00:03:43.480
+Jest to, że pozwala stworzyć poziom niezmienności dla rekordów
+
+00:03:43.760 --> 00:03:49.720
+Ciekawą rzeczą jest to, że gdy coś zostanie rozgłoszone w Blockchain, nie możesz wziąć tego i zmienić.
+
+00:03:50.040 --> 00:03:53.500
+Bo jeśli chcesz zmienić 10 blok (od końca)
+
+00:03:53.860 --> 00:03:59.240
+Ponieważ każdy następny blok polega na poprzednim, jeśli chcesz zmienić jeden blok, musisz zmienić każdy następny
+
+00:03:59.720 --> 00:04:07.740
+I każdy ten blok musisz ponownie wykopać i zainwestować w prąd
+
+00:04:08.000 --> 00:04:12.820
+Jeśli to zrobisz to unieważniasz poprzedni łańcuch, więc jeśli otrzymałeś zapłatę na początku
+
+00:04:13.160 --> 00:04:16.280
+Ale za prąd płacisz podwójnie, więc robisz to za darmo
+
+00:04:16.600 --> 00:04:24.540
+Więc jest bardzo trudno zmienić coś zapisanego w systemie blockchain z proof of work
+
+00:04:24.900 --> 00:04:33.080
+Kiedy mówię "bardzo trudno" - liczby mówią same za siebie. Bitcoin używa około 500 megawattów energii
+
+00:04:33.360 --> 00:04:36.560
+i zużywa gigawaty energii w czasie rzeczywistym
+
+00:04:36.880 --> 00:04:39.940
+Jeśli chcesz zmienić jeden dzień transakcji Bitcoina (?)
+
+00:04:41.040 --> 00:04:45.280
+czyli 144 bloków z 24h
+
+00:04:45.740 --> 00:04:51.220
+Potrzebujesz 1.2GW
+
+00:04:52.020 --> 00:04:57.740
+albo 1.2GWh elektryczności, to bardzo dużo
+
+00:04:58.040 --> 00:05:05.580
+Musisz zainwestować bardzo dużo pieniędzy w coś co się prawdopodobnie nie zwróci
+
+00:05:07.460 --> 00:05:12.500
+W systemach Proof of Stake nie ma takiego systemu zabezpieczeń
+
+00:05:13.000 --> 00:05:22.300
+Jest też trzeci system nazwany "Delegated Proof of Stake" (DPoS), co jest drobną zmianą PoS, w której twoje pieniądze są udostępnione innym stronom
+
+00:05:22.780 --> 00:05:27.660
+oni blokują te środki w bloku i oni będą sprawdzać poprawność
+
+00:05:28.060 --> 00:05:30.860
+i będą się&nbsp;dzielić&nbsp;raportami
+
+00:05:31.720 --> 00:05:39.800
+To trochę w stylu, w którym wybierasz reprezentujący cię kongres, oni podejmują decyzje przez 4 lata, a potem mogą zostać wyrzuceni lub nie.
+
+00:05:41.200 --> 00:05:44.280
+tylko robicie to w krótszych odstępach czasu, gdyż czas jest liczony w blokach
+
+00:05:44.540 --> 00:05:53.340
+Znowu, bardzo ciekawe. W rzeczywistości myślę, że idziemy w stronę systemów łączonych i Bitcoin zaadoptuje (jakiś?) system PoS
+
+00:05:53.880 --> 00:05:58.360
+Lightning Network, która pozwala na zarabianie poprzez tworzenie kanałów płatności
+
+00:05:58.620 --> 00:06:08.040
+Gdzie musisz wpłacać pieniądze do kanałów płatności, by je uruchomić i wtedy transakcje weryfikujesz, które podróżują po twoim kanale płatności
+
+00:06:08.400 --> 00:06:12.800
+I kiedy zweryfikujesz je poprawnie - dostajesz opłaty transakcyjne. To brzmi trochę jak system Proof of Stake.
+
+00:06:13.180 --> 00:06:18.980
+Więc można mieć system hybrydowy w Bitcoin, część walidacji będzie wykonywana w systemie Dowodu Pracy na łańcuchu
+
+00:06:19.500 --> 00:06:26.200
+i część z nich poza łańcuchem w Lightning Network będą weryfikowane wydajniej w systemie Proof of Stake
+
+00:06:26.360 --> 00:06:27.820
+Dostaniemy system hybrydowy
+
+00:06:28.340 --> 00:06:30.520
+Wszystkie są interesujące
+
+00:06:30.920 --> 00:06:33.320
+Co możemy powiedzieć o bezpieczeństwie tych systemów
+
+00:06:33.600 --> 00:06:38.040
+Możemy powiedzieć, że bezpieczeństwo Bitcoina zapewnia ochronę 37 miliardów dolarów
+
+00:06:38.340 --> 00:06:39.360
+W systemie PoW
+
+00:06:39.720 --> 00:06:44.260
+Skąd to wiemy? Ponieważ mamy 37 miliardów dolarów, w których żaden z nich nie poszedł na systemy z kompromisem
+
+00:06:45.560 --> 00:06:52.280
+Co możemy powiedzieć o Delegated Proof of Stake? Na ten moment możemy powiedzieć, że to około 750 milionów dolarów
+
+00:06:52.680 --> 00:06:54.680
+Więc są różnice w skali
+
+00:06:55.240 --> 00:07:03.340
+Z czasem oba systemy posuną się naprzód i zobaczymy co się z nimi stanie podczas poddaniu ich presją.
+
+00:07:03.800 --> 00:07:07.180
+Wiele się dowiemy podczas gdy systemy zostaną zaatakowane
+
+00:07:07.680 --> 00:07:11.600
+Możesz mieć najlepsze plany na świecie, jeśli nigdy nie zostałeś zaatakowany.
+
+00:07:12.300 --> 00:07:19.560
+Materiał Andreasa M. Antonopoulosa
+Tłumaczył na język Polski: Fervi
+
