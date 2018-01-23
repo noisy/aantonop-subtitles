@@ -1,0 +1,1043 @@
+WEBVTT
+Kind: captions
+Language: pt-BR
+
+00:00:00.190 --> 00:00:02.190
+O tópico de hoje é
+
+00:00:02.560 --> 00:00:04.560
+"Forkologia"
+
+00:00:04.630 --> 00:00:06.339
+estudo dos "Forks"
+
+00:00:06.339 --> 00:00:12.839
+Para iniciantes. Quantos de vocês tem alguma idéia do que eu estou falando quando eu digo "Forks" ?
+
+00:00:14.740 --> 00:00:16.270
+Sim
+
+00:00:16.270 --> 00:00:17.590
+Ótimo
+
+00:00:17.590 --> 00:00:21.989
+Tudo bem, e quantos de vocês sabem o que é SEGWIT ou UASF 148
+
+00:00:22.960 --> 00:00:24.960
+ou Bitcoin 48 ?
+
+00:00:25.359 --> 00:00:30.269
+Ótimo. E quantos de vocês acham que isso que acabei de dizer soa como algo sem nexo ?
+
+00:00:32.649 --> 00:00:35.879
+Fantástico. OK, então vamos começar
+
+00:00:38.890 --> 00:00:46.050
+Nós estamos neste momento único de tempo onde estamos vivenciando o nascimento de uma nova tecnologia, uma
+
+00:00:46.270 --> 00:00:51.539
+nova tecnologia radicalmente disruptiva, que são essas blockchain públicas
+
+00:00:52.390 --> 00:00:53.620
+Bitcoin
+
+00:00:53.620 --> 00:00:58.289
+Ethereum e centenas de centenas de outras. Esses sistemas que operam
+
+00:00:59.230 --> 00:01:01.059
+abertamente para qualquer um
+
+00:01:01.059 --> 00:01:03.089
+acesso aberto, inovação aberta
+
+00:01:03.699 --> 00:01:10.829
+Sistemas onde ninguém está no controle, ninguém tem o poder sobre o sistema, onde ele funciona através
+
+00:01:11.320 --> 00:01:14.339
+de regras matemáticas simples que todos seguem.
+
+00:01:15.640 --> 00:01:18.449
+Exceto é claro que para a maioria das pessoas,
+
+00:01:19.030 --> 00:01:25.379
+essa tecnologia é dificil de compreender e se você frequenta alguns fóruns online
+
+00:01:25.780 --> 00:01:28.799
+você começa essa jornada e descobre
+
+00:01:30.189 --> 00:01:32.279
+Bitcoin ou ethereum
+
+00:01:33.430 --> 00:01:40.650
+Ou esse rapaz, que eu encontrei em Singapura. Que me disse, eu estou envolvido na indústria de Blockchain a um ano, e acabei de conhecer Bitcoin
+
+00:01:45.320 --> 00:01:48.849
+É sério, fizeram uma apresentação ao Banco da América
+
+00:01:49.520 --> 00:01:55.210
+Onde eles passaram 45 minutos falando sobre blockchain sem mencionar a temida palavra com B
+
+00:01:56.420 --> 00:01:57.500
+Bitcoin
+
+00:01:57.500 --> 00:02:02.289
+então essa pessoa passou um ano estudando hyperledger, R3
+
+00:02:02.810 --> 00:02:09.489
+e Corda e então ele descobriu o Bitcoin e então disse, Oh, isso é mais interessante
+
+00:02:13.310 --> 00:02:18.549
+Para vocês que são novos nesse espaço. Talvez vocês tenham tropeçado nele, talvez
+
+00:02:19.250 --> 00:02:20.989
+vocês tenham algum amigo irritante
+
+00:02:20.989 --> 00:02:27.789
+ou parente que tem falado a vocês sobre isso por dois anos e não fala sobre mais nada além disso
+
+00:02:28.120 --> 00:02:30.489
+Eu sou essa pessoa irritante para meus amigos
+
+00:02:31.069 --> 00:02:38.289
+talvez você tenha os tenha ignorado até ouvir que o preço subiu e você agora está realmente empolgado com a possibilidade de
+
+00:02:38.810 --> 00:02:43.209
+fazer dinheiro, e então agora você está interessado. Talvez você esteja envolvido com ciência da computação
+
+00:02:44.360 --> 00:02:48.880
+Não importa como todos nós vivamos aqui, muitos de nós caímos neste buraco de coelho onde nós
+
+00:02:49.910 --> 00:02:53.739
+escutamos sobre essa tecnologia, e então nos decidimos parar para ler a respeito
+
+00:02:54.560 --> 00:02:57.609
+e quando começamos a ler somos bombardeados com informação
+
+00:02:59.660 --> 00:03:01.660
+mineiração, blockchain
+
+00:03:01.760 --> 00:03:06.670
+confirmação, transações, hash digital, assinaturas, chaves privadas, chaves públicas
+
+00:03:07.280 --> 00:03:11.500
+addresses Base 58 Bid 32 and 39
+endereços Base 58, Bip 32, Bip 39
+
+00:03:12.079 --> 00:03:15.879
+sementes mnemonicas, frases de backup, que diabos está acontecendo e
+
+00:03:17.180 --> 00:03:21.310
+Talvez você avance através disso tudo, e então você instala sua carteira
+
+00:03:21.310 --> 00:03:25.929
+e você recebe uma transação e agora você está online e então você lê sobre uma
+
+00:03:26.690 --> 00:03:32.410
+guerra civil ocorrendo no bitcoin e essas pessoas estão ameaçando um "Fork"
+
+00:03:33.319 --> 00:03:37.689
+E você não sabe se isso é apenas uma forma diferente de dizer a maldita palavra
+
+00:03:38.510 --> 00:03:40.439
+ou eles querem dizer
+
+00:03:40.439 --> 00:03:44.689
+algum tipo de coisa técnica que você não faz idéia do que seja e quando
+
+00:03:45.930 --> 00:03:50.540
+você está prestes a entender o que é um fork então você descobre que
+
+00:03:50.700 --> 00:03:53.599
+existem oito tipos diferentes de fork e
+
+00:03:53.999 --> 00:03:59.659
+então esse é um soft (fork) e alguns deles são hard (fork) e agora você está ainda mais confuso
+
+00:03:59.909 --> 00:04:03.138
+Porque você apenas usa hard forks (garfos) em sua vida
+
+00:04:03.510 --> 00:04:08.000
+e você pensa que talvez soft forks (garfos moles) não seriam muito práticos ou
+
+00:04:09.209 --> 00:04:11.209
+Você cresceu com os "pauzinhos" (hashi)
+
+00:04:12.209 --> 00:04:18.048
+No entanto, tudo é muito confuso e nós usamos esses termos e não os definimos
+
+00:04:19.199 --> 00:04:23.659
+então vou levá-lo a uma pequena jornada em que falaremos sobre isso e
+
+00:04:24.720 --> 00:04:27.259
+explicar o que essas coisas são
+
+00:04:28.830 --> 00:04:30.830
+Um "Fork" é uma
+
+00:04:31.020 --> 00:04:33.680
+condição que ocorre numa blockchain pública
+
+00:04:34.500 --> 00:04:40.009
+onde o estado da blockchain diverge em duas condições distintas
+
+00:04:41.009 --> 00:04:43.009
+onde parte da rede
+
+00:04:43.680 --> 00:04:49.310
+tem uma perspectiva diferente do histórico de transações com relação a outra parte da rede
+
+00:04:49.830 --> 00:04:54.020
+Certo, isso é uma definição básica de um fork. É uma divergência na
+
+00:04:54.870 --> 00:05:00.169
+perspectiva do estado da blockchain. Agora, isso ocorre naturalmente
+
+00:05:01.020 --> 00:05:03.020
+duas a três vezes por semana
+
+00:05:03.389 --> 00:05:05.389
+você nunca fica sabendo disso e
+
+00:05:05.699 --> 00:05:06.949
+o motivo disso ocorrer
+
+00:05:06.949 --> 00:05:12.559
+naturalmente é porque existe uma diferença de tempo e na propagação dos blocos na rede
+
+00:05:13.020 --> 00:05:19.099
+Então, talvez haja uma minoria aqui, e eles estão fazendo sua coisa de mineração que vocês não entendem
+
+00:05:19.099 --> 00:05:25.789
+Mas vamos dizer que eles estejam fazendo tudo certo. Apenas imagine, você sabe que eles estão aqui e estão trabalhando com sua picareta corretamente
+
+00:05:26.639 --> 00:05:29.418
+e então eles encontram a prova de trabalho mágica
+
+00:05:29.419 --> 00:05:34.489
+Então eles pegam o bloco e o arremessam para o mundo e dizem "Eu encontrei"
+
+00:05:35.070 --> 00:05:40.729
+Enquanto isso, eles não perceberam isso aqui. Há outro mineirador, e eles estão fazendo sua mineiração e
+
+00:05:40.729 --> 00:05:46.579
+eles encontraram o bloco apenas com alguns segundos de diferença e eles arremessaram o bloco ao mundo e dizem "Eu encontrei"
+
+00:05:46.919 --> 00:05:52.789
+Então metade das pessoas nessa sala ouvirão esse e a outra metade da sala ouvirão aquele
+
+00:05:53.310 --> 00:05:55.220
+Imagine se você está num salão gigante
+
+00:05:55.220 --> 00:06:01.489
+e todo mundo está jogando bingo e duas pessoas gritaram bingo ao mesmo tempo em lados opostos da sala e metade da sala escuta a pessoa que está mais próxima
+
+00:06:01.490 --> 00:06:06.650
+e a outra metade da sala escuta a outra pessoa. É basicamente isso que acontece.
+
+00:06:07.920 --> 00:06:11.449
+agora, em uma blockchain pública
+
+00:06:12.240 --> 00:06:14.600
+nós nao podemos dizer, apenas pergunte
+
+00:06:15.420 --> 00:06:17.420
+a uma autoridade central
+
+00:06:17.700 --> 00:06:20.509
+Porque nós tomamos essa parte, não existe autoridade central
+
+00:06:21.240 --> 00:06:23.240
+então não podemos apenas perguntar
+
+00:06:23.790 --> 00:06:28.640
+a alguém qual é o bloco correto. Cada sistema da rede
+
+00:06:29.250 --> 00:06:32.600
+decide por sí mesmo baseado na informação que ele está ouvindo e
+
+00:06:33.390 --> 00:06:40.489
+validando aquela informação. Os dois blocos são válidos. Metade da rede terá validado o bloco que ela ouviu primeiro e esse será
+
+00:06:40.890 --> 00:06:44.629
+o bloco mais provável de extender a blockchain
+
+00:06:45.360 --> 00:06:47.360
+a outra metade ouviu uma história diferente
+
+00:06:48.780 --> 00:06:50.370
+não temam
+
+00:06:50.370 --> 00:06:56.209
+não estamos a mais de dez minutos de resolver esta situação bagunçada. Como
+
+00:06:57.300 --> 00:06:59.540
+cada grupo na rede
+
+00:07:01.230 --> 00:07:08.629
+estabelece o que eles pensam ser a blockchain e da perspectiva deles, começam a mineirar o próximo bloco, e quando eles fazem isso
+
+00:07:08.730 --> 00:07:10.730
+nesse próximo bloco
+
+00:07:11.490 --> 00:07:14.480
+Eles colocaram uma ligação para aquele que eles pensam ser o pai
+
+00:07:14.790 --> 00:07:21.019
+Metade da rede escolherá um bloco como pai, a outra metade escolherá o outro bloco, e a corrida começará
+
+00:07:21.020 --> 00:07:22.500
+Eles estão basicamente
+
+00:07:22.500 --> 00:07:24.500
+extendendo as duas pontas
+
+00:07:24.870 --> 00:07:29.120
+Certo, mas cada lado pegou uma ponta diferente para extender e agora
+
+00:07:29.250 --> 00:07:36.080
+Quais são as probabilidade de dois blocos serem descobertos em partes distantes da rede novamente em alguns segundos ?
+
+00:07:37.560 --> 00:07:44.989
+Muito, muito menor do que da primeira vez. Então na maioria dos casos em por volta de dez minutos alguém irá encontrar um bloco
+
+00:07:45.570 --> 00:07:49.730
+Eles irão montar aquele bloco em apenas um lado da cadeia e a
+
+00:07:50.250 --> 00:07:56.119
+cadeia está se tornando mais longa. Eles irão dizer a todo mundo na rede e as pessoas dirão
+
+00:07:56.789 --> 00:08:00.109
+"Hey, esse o que eu achei que fosse o correto", e algumas pessoas irão
+
+00:08:00.630 --> 00:08:04.770
+Parar por um segundo e dizer, "este novo bloco que acabou de tornar a cadeia mais longa
+
+00:08:05.230 --> 00:08:10.289
+"tem um pai diferente que eu não conhecia. Eu estou na cadeia errada..."
+
+00:08:11.410 --> 00:08:14.760
+Eles pegarão o bloco que achavam que era a ponta
+
+00:08:15.400 --> 00:08:20.130
+e eles vão pegar todas as transações e jogá-las de volta ao "pool" e
+
+00:08:20.770 --> 00:08:22.770
+escrevê-las no próximo bloco
+
+00:08:22.840 --> 00:08:28.500
+As transações terão cerca de dez minutos de atraso. De fato, os dois blocos provavelmente tiveram
+
+00:08:29.380 --> 00:08:31.559
+95% as mesmas transações de todos os modos
+
+00:08:31.690 --> 00:08:34.679
+Então, não é muita diferença e a vida segue em frente
+
+00:08:34.950 --> 00:08:39.569
+Isso ocorre duas a três vezes por semana no bitcoin por exemplo
+
+00:08:39.610 --> 00:08:43.860
+Isso ocorre muito mais frequentemente com ethereum e litecoin onde uma quantidade maior de blocos é mineirada
+
+00:08:46.240 --> 00:08:49.799
+Isso é um fork de blockchain e rede
+
+00:08:51.010 --> 00:08:53.010
+Isso não é deliberado
+
+00:08:53.680 --> 00:08:57.419
+Mas existem os tipos de Fork, e estes são forks onde
+
+00:08:58.750 --> 00:09:03.450
+uma parte da Rede decide alterar as Regras e
+
+00:09:04.210 --> 00:09:10.169
+quando eles alteram as regras, eles podem fazê-lo de uma maneira que não é compatível com o resto da rede
+
+00:09:11.200 --> 00:09:12.340
+se
+
+00:09:12.340 --> 00:09:14.320
+51% da rede
+
+00:09:14.320 --> 00:09:15.640
+especificamente
+
+00:09:15.640 --> 00:09:21.299
+51% dos mineiradores, o poder de processamento decidem mudar as regras isso é chamado de ataque de 51%
+
+00:09:22.120 --> 00:09:29.429
+E chamamos isso de ataque porque é meio grosseiro que apenas 51% da rede decidam mudar as regras sem
+
+00:09:30.130 --> 00:09:32.189
+sequer perguntar aos outros 49%
+
+00:09:33.790 --> 00:09:35.790
+Todos compreendendo até agora ?
+
+00:09:36.130 --> 00:09:37.450
+Ótimo
+
+00:09:37.450 --> 00:09:40.830
+Fantástico. Agora vamos falar sobre hard forks versus soft forks.
+
+00:09:41.560 --> 00:09:44.969
+Quando as regras mudam, elas podem mudar de duas formas
+
+00:09:46.060 --> 00:09:50.880
+regras podem ser afrouxadas ou podem ser apertadas. Se
+
+00:09:51.670 --> 00:09:53.670
+as regras são afrouxadas
+
+00:09:54.160 --> 00:09:56.729
+Isso que dizer que as coisas que anteriormente eram
+
+00:09:58.030 --> 00:10:01.919
+inválidas, agora com o afrouxamento das regras elas se tornaram válidas
+
+00:10:02.950 --> 00:10:04.900
+Isso é um hard fork
+
+00:10:04.900 --> 00:10:11.069
+Se as regras são apertadas, o que significa que o que era válido anteriormente agora não é mais
+
+00:10:12.280 --> 00:10:15.989
+então temos um soft fork e a diferença é realmente muito simples
+
+00:10:16.660 --> 00:10:19.110
+Um hard fork, expandindo as regras
+
+00:10:19.990 --> 00:10:25.049
+Significa que as coisas começaram a aparecer na rede e algumas pessoas irão considerar inválidas
+
+00:10:25.050 --> 00:10:31.620
+E eles não poderão participar das regras de consenso sem atualizar para as novas regras e isso
+
+00:10:31.839 --> 00:10:35.849
+os força a atualizar para as novas regras os eles serão deixados para trás e
+
+00:10:36.160 --> 00:10:42.089
+é por isso que chamamos de hard fork, porque é um upgrade forçado da cadeia minoritária
+
+00:10:43.480 --> 00:10:45.480
+em um soft fork
+
+00:10:45.640 --> 00:10:46.660
+anteriormente
+
+00:10:46.660 --> 00:10:51.510
+Coisas válidas agora se tornam inválidas, o que significa que as coisas irão aparecer na rede na forma de
+
+00:10:52.089 --> 00:10:53.200
+especificações mais restritas
+
+00:10:53.200 --> 00:10:55.089
+do que eram antes
+
+00:10:55.089 --> 00:10:56.620
+mas
+
+00:10:56.620 --> 00:10:58.620
+todo mundo pode continuar seguindo essas regras
+
+00:10:59.320 --> 00:11:00.640
+porque
+
+00:11:00.640 --> 00:11:04.589
+essas novas coisas ainda são validas pelas regras antigas, certo ?
+
+00:11:05.470 --> 00:11:12.720
+E isso é um soft upgrade. Esse é um caminho de alterar as regras de consenso e introduzir novas funcionalidades sem afrouxar as regras. Todo mundo comigo até aqui ?
+
+00:11:13.870 --> 00:11:15.870
+Muito bem
+
+00:11:16.360 --> 00:11:19.589
+Isso está ficando um pouco confuso agora, então irei usar uma analogia diferente
+
+00:11:20.200 --> 00:11:27.599
+Para explicar um pouco melhor e uma vez que estamos falando de forks (garfos), porque não entrar diretamente no negócio de restaurantes ?
+
+00:11:28.510 --> 00:11:33.239
+Então imagine se essa blockchain fosse como um grande restaurante descentralizado
+
+00:11:33.880 --> 00:11:37.320
+Imagine se tivessemos um restaurante sem um chef e sem gerentes
+
+00:11:37.930 --> 00:11:39.010
+certo
+
+00:11:39.010 --> 00:11:41.129
+algo como essas cozinhas comunitárias
+
+00:11:41.130 --> 00:11:48.059
+que vemos, por exemplo, em lugares como a Índia, onde voluntários alimentam vinte mil pessoas da comunidade e esse é
+
+00:11:48.520 --> 00:11:50.500
+um fenômeno fascinante
+
+00:11:50.500 --> 00:11:51.790
+então
+
+00:11:51.790 --> 00:11:53.790
+Imagine que a blockchain seja isso
+
+00:11:56.170 --> 00:11:58.170
+então atrás
+
+00:11:58.570 --> 00:12:00.570
+existem alguns cozinheiros e
+
+00:12:01.990 --> 00:12:06.299
+eles investiram em alguns grandes fornos, e eles estão usando muita eletricidade e
+
+00:12:07.209 --> 00:12:11.789
+Eles estão preparando blocos de refeições que eles entregam aos clientes
+
+00:12:13.480 --> 00:12:15.480
+Eles acreditam estar no comando
+
+00:12:18.020 --> 00:12:20.020
+Há um caixa recebendo as ordens
+
+00:12:21.170 --> 00:12:25.269
+Isso representa uma Exchange e eles acham que estão no comando
+
+00:12:26.780 --> 00:12:33.970
+Há pessoas que estão usando esse restaurante para fazer "catering" e comprar grandes quantidades de comida
+
+00:12:35.210 --> 00:12:37.749
+serviços comerciais, e eles pensam que estão no comando e
+
+00:12:38.840 --> 00:12:41.800
+Finalmente, há todas as pessoas que comem nos restaurantes e
+
+00:12:42.530 --> 00:12:46.089
+Ultimamente eles começaram a notar que talvez eles estejam no comando
+
+00:12:50.090 --> 00:12:57.759
+Então vamos voltar a nossa analogia com o hard fork e soft fork. Esse é um restaurante vegetariano.
+
+00:12:59.600 --> 00:13:01.220
+Se
+
+00:13:01.220 --> 00:13:06.490
+os cozinheiros decidirem acrescentar carne de porco ao cardápio isso é um hard fork
+
+00:13:07.460 --> 00:13:12.879
+Diversas pessoas que vem a esse restaurante vegetariano irão olhar para essas regras, irão parar e dizer
+
+00:13:13.340 --> 00:13:17.230
+Essas regras não são válidas. E então eles terão que ir a um restaurante diferente
+
+00:13:18.350 --> 00:13:19.850
+Certo ?
+
+00:13:19.850 --> 00:13:22.930
+então, expandindo essa receita
+
+00:13:23.450 --> 00:13:28.900
+Adicionando algo que não existia antes como porco. Este não é mais um restaurante vegetariano
+
+00:13:29.240 --> 00:13:35.649
+Isso é o que um hard fork exige. Todo mundo vai atualizar suas dietas se quiser continuar trabalhando lá ou comendo lá
+
+00:13:37.280 --> 00:13:44.079
+Mas se pegarmos a receita vegetariana, tirarmos a manteiga e fizermos uma receita vegana ?
+
+00:13:46.220 --> 00:13:50.379
+Todo mundo que é vegetariano ainda pode comer comida Vegana, não há problema
+
+00:13:51.740 --> 00:13:57.159
+você não precisa ser um vegano para comer ali. Você pode continuar sendo vegetariano e comer lá
+
+00:13:57.710 --> 00:13:59.710
+E comedores de carne podem comer lá também
+
+00:13:59.960 --> 00:14:02.980
+todo mundo pode comer comida vegana, pode não gostar mas
+
+00:14:04.190 --> 00:14:06.190
+se é uma boa comida vegana
+
+00:14:06.440 --> 00:14:13.930
+Então, isso é um soft fork que é um aperto das regras, uma redução no escopo. Não ampliando muito o escopo
+
+00:14:14.300 --> 00:14:16.300
+e
+
+00:14:16.940 --> 00:14:18.940
+Agora temos que olhar para estes cinco
+
+00:14:19.370 --> 00:14:20.390
+grupos
+
+00:14:20.390 --> 00:14:27.999
+Os mineiradores que estão cozinhando atrás, os usuários que estão fazendo transações, colocando ordens para refeições
+
+00:14:28.470 --> 00:14:30.060
+os comerciantes
+
+00:14:30.060 --> 00:14:34.700
+que estão comprando a maior parte dos serviços como um serviço de "catering"
+
+00:14:35.340 --> 00:14:40.009
+As exchanges que estão executando um serviço de entrega para os restaurantes e os caixas
+
+00:14:40.830 --> 00:14:43.039
+que estão trocando, e finalmente
+
+00:14:44.010 --> 00:14:50.840
+Em algum lugar lá, você pode ter notado que alguém escreveu as receitas. Eles realmente pensam que estão no comando, os desenvolvedores
+
+00:14:51.540 --> 00:14:58.969
+Mas eles acabam por ter provavelmente a bola menos alta porque ninguém tem que pedir no menu deles e ninguém precisa cozinhar as receitas desse cardápio
+
+00:14:59.910 --> 00:15:05.960
+Então eles escrevem as receitas, mas ninguém realmente deve segui-las, a menos que desejem e neste cenário
+
+00:15:06.570 --> 00:15:08.490
+Todo mundo acha que está no controle
+
+00:15:08.490 --> 00:15:14.479
+Mas na verdade, é preciso que todos trabalhem juntos para manter o sistema funcionando
+
+00:15:15.840 --> 00:15:17.430
+Se
+
+00:15:17.430 --> 00:15:21.080
+Se os mineiradores começam a cozinhar carne de porco em todas as refeições
+
+00:15:21.750 --> 00:15:23.750
+O que ocorre em seguida ?
+
+00:15:23.880 --> 00:15:29.119
+Bem, muitos usuários finais vão se afastar. Eles vão parar
+
+00:15:29.940 --> 00:15:31.940
+de validar essas receitas
+
+00:15:32.460 --> 00:15:37.159
+Se os desenvolvedores escrevem uma nova receita que ninguém cozinha e ninguém pede
+
+00:15:37.980 --> 00:15:39.980
+De fato não importa
+
+00:15:42.570 --> 00:15:49.489
+Agora temos esses vários tipos de forks que eu coloquei em duas categorias soft e hard, agora
+
+00:15:49.490 --> 00:15:56.089
+vamos falar sobre, como os forks são ativados. Temos dois novos conceitos que foram introduzidos no ano passado como parte da pesquisa
+
+00:15:57.030 --> 00:15:59.030
+miner activated e
+
+00:15:59.430 --> 00:16:03.560
+user activated, misture esses dois tipos com hard e soft forks
+
+00:16:03.560 --> 00:16:08.089
+e você terá miner activated hard forks e miner activated soft forks
+
+00:16:08.550 --> 00:16:13.880
+user activated hard forks e user activated soft forks e
+
+00:16:15.480 --> 00:16:17.480
+essas quatro categorias
+
+00:16:17.880 --> 00:16:24.650
+Realmente são a ponta do iceberg porque há coisas mais complexas acontecendo aqui
+
+00:16:26.310 --> 00:16:30.560
+user activated forks tornaram-se muito interessantes ultimamente porque
+
+00:16:32.520 --> 00:16:38.929
+Existe uma proposta para iniciar o user activated soft fork em 1º de agosto, de acordo de acordo com a especificação do
+
+00:16:39.600 --> 00:16:41.070
+BIP 148
+
+00:16:41.070 --> 00:16:46.700
+E o que este user activated soft fork envolve é todos os usuários de bitcoin que querem participar
+
+00:16:47.430 --> 00:16:51.140
+Parem de aceitar quaisquer blocos que não sinalizem
+
+00:16:51.720 --> 00:16:56.420
+o segregated witness, que é uma atualização que foi proposta há mais de um ano
+
+00:16:58.829 --> 00:17:00.829
+os usuários querem esse upgrade
+
+00:17:01.680 --> 00:17:04.040
+mineiradores não querem fazer esse upgrade e
+
+00:17:04.620 --> 00:17:12.469
+Os usuários decidiram dizer "bem se você não entregar isso vamos parar de aceitar seus blocos"
+
+00:17:13.949 --> 00:17:15.949
+para voltar a minha
+
+00:17:16.589 --> 00:17:23.539
+analogia do restaurante, os usuários disseram que vamos começar apenas a pedir o cardápio vegano
+
+00:17:26.939 --> 00:17:28.939
+você não tem que preparar comida vegana
+
+00:17:30.179 --> 00:17:35.839
+Mas se você não fizer, não vamos comer, Não vamos pedir e não vamos entregar
+
+00:17:36.990 --> 00:17:40.069
+Então, cozinhe o que você quiser, mas só vamos comer comida vegana
+
+00:17:41.100 --> 00:17:47.959
+Certo ? E isso é uma afirmação de poder pela comunidade de usuários dizendo "Sabe o que mais, estamos no comando"
+
+00:17:50.130 --> 00:17:52.130
+Aqui está um pequeno segredo
+
+00:17:53.309 --> 00:17:56.209
+Cada um que pensa estar no comando... saída
+
+00:17:57.360 --> 00:17:59.870
+Eles estão apenas no comando daqueles que concordarem com eles
+
+00:18:00.690 --> 00:18:02.690
+Eles estão apenas no comando
+
+00:18:02.700 --> 00:18:07.640
+Se eles se juntarem e formarem um consenso em grandes grupos destes cinco
+
+00:18:08.190 --> 00:18:12.470
+eleitores. Você pode talvez fazer alterações no bitcoin se você tiver três
+
+00:18:13.530 --> 00:18:21.169
+Provavelmente melhor se você tiver quatro dos eleitores se quiser manter o sistema funcionando de forma eficiente e manter todos na mesma página
+
+00:18:21.929 --> 00:18:27.679
+trabalhando em conjunto. Você precisa ter um consenso irresistível, caso contrário, pode ser inoportuno
+
+00:18:29.490 --> 00:18:33.799
+Os usuários estão certos de seu poder, desenvolvedores estão certos de seu poder, mineradores estão certos de seu poder
+
+00:18:34.230 --> 00:18:39.439
+Exchanges e comerciantes estão fazendo negócios e afirmando seu poder, todos estão afirmando seu poder
+
+00:18:40.440 --> 00:18:42.679
+Batendo os pés e dizendo "eu estou no comando"
+
+00:18:44.340 --> 00:18:46.340
+Não, você não está
+
+00:18:46.470 --> 00:18:50.030
+Nós todos estamos
+
+00:18:51.570 --> 00:18:53.309
+E nós temos essa tensão
+
+00:18:53.309 --> 00:18:56.809
+A tensão é o princípio de projeto das blockchain abertas
+
+00:18:57.510 --> 00:18:58.559
+Isso
+
+00:18:58.559 --> 00:19:02.989
+É um trade-off necessário que garanta que ninguém, não importa
+
+00:19:02.990 --> 00:19:08.959
+quão bem financiado, não importa quantas tropas ou bandidos violentos possam juntar
+
+00:19:09.570 --> 00:19:13.400
+Possa seqüestrar o sistema e fazê-lo fazer suas licitações
+
+00:19:15.059 --> 00:19:21.168
+Esse é o princípio de design por trás dele. E cria um problema de ineficiência
+
+00:19:23.640 --> 00:19:27.559
+No entanto, o sistema funcionou há quase oito anos
+
+00:19:28.890 --> 00:19:34.280
+Resistindo a todas essas tentativas de alterá-lo, de modificá-lo
+
+00:19:35.820 --> 00:19:37.880
+Aqui está algo que você precisa saber como usuário
+
+00:19:39.090 --> 00:19:41.689
+se uma dessas tentativas
+
+00:19:42.570 --> 00:19:45.590
+resulta em uma divisão, em um fork
+
+00:19:46.620 --> 00:19:48.620
+um fork é irreconciliável
+
+00:19:51.630 --> 00:19:58.160
+Você terá fundos em ambos os lados do fork, se você tiver fundos antes da divisão
+
+00:19:58.290 --> 00:20:02.149
+Isso foi o que ocorreu com o ethereum. Você terá fundos
+
+00:20:03.150 --> 00:20:05.150
+depois da divisão.
+
+00:20:05.160 --> 00:20:11.569
+Provavelmente é inteligente não mover esses fundos ou tentar enviar ou receber fundos
+
+00:20:11.820 --> 00:20:14.210
+Imediatamente após o fork
+
+00:20:14.730 --> 00:20:22.130
+Quando as coisas ainda são incertas e há a possibilidade de um lado do fork ser envolvido pelo outro
+
+00:20:23.490 --> 00:20:26.089
+Essa coisa particular é chamada de ray pat
+
+00:20:27.750 --> 00:20:29.750
+Deixe-me descrever como isso funciona.
+
+00:20:31.860 --> 00:20:34.760
+As pessoas começam a pedir o lado vegano do menu
+
+00:20:36.450 --> 00:20:38.450
+Há uma divisão na cozinha
+
+00:20:40.500 --> 00:20:44.959
+Os Veganos não comerão comida vegetariana porque ela não é vegana
+
+00:20:44.960 --> 00:20:51.049
+Mas os vegetarianos ainda podem comer a comida vegana. Eles aderiram aos dois lados da cozinha, certo ?
+
+00:20:52.980 --> 00:20:57.250
+Mas como vocês sabem, no negócios de restaurantes estou certo de que vocês já fizeram isso
+
+00:20:57.770 --> 00:21:00.849
+Você anda até um restaurante e espia pela janela
+
+00:21:00.850 --> 00:21:06.339
+E você diz "hmmm parece um pouco vazio, vou embora" e então você caminha algumas portas para baixo
+
+00:21:06.340 --> 00:21:10.569
+e você diz que "Ah, este lugar está realmente cheio. Vou comer aqui"
+
+00:21:11.750 --> 00:21:15.160
+agora, se o lado vegano do restaurante
+
+00:21:15.920 --> 00:21:18.279
+acaba tendo mais clientes
+
+00:21:19.400 --> 00:21:22.569
+talvez seja porque alguns dos vegetarianos podem
+
+00:21:23.120 --> 00:21:25.780
+Nenhum dos Veganos está indo para o outro lado, eles não podem
+
+00:21:26.300 --> 00:21:31.239
+Essa é a essência de um soft fork que pode se mover apenas em uma direção
+
+00:21:31.880 --> 00:21:38.770
+Ou você pode ameaçar os vegetarianos para não irem lá. Eles são veganos desagradáveis. Você vai perder a manteiga. eu prometo
+
+00:21:40.070 --> 00:21:47.620
+Mas, eventualmente, se todas as partes estão lá ou se você estiver cozinhando e ninguém está pedindo sua comida e você precisa fazer
+
+00:21:47.620 --> 00:21:49.930
+Dinheiro porque você abriu e funcionou o dia todo e também a noite
+
+00:21:50.630 --> 00:21:54.760
+você pode decidir cozinhar algumas refeições veganas porque é aí que o vento sopra e
+
+00:21:55.970 --> 00:21:57.970
+Você pode ter essa súbita
+
+00:21:58.280 --> 00:21:59.930
+situação que
+
+00:21:59.930 --> 00:22:04.749
+empurre a multidão e de repente o outro lugar está vazio
+
+00:22:05.090 --> 00:22:11.290
+Não, ninguém está cozinhando, ninguém está comendo ninguém comprando ninguém vendendo que se chama um "wipeout" em
+
+00:22:11.810 --> 00:22:15.369
+bitcoin ou outros sistemas de blockchain acontece devido a uma
+
+00:22:15.920 --> 00:22:19.689
+Reorganização da blockchain. Duas cadeias estão se movendo
+
+00:22:20.630 --> 00:22:27.939
+Os dois lados estão lutando bloco a bloco para ver quem vai ter a cadeia válida mais longa para um lado, considerar o outro lado
+
+00:22:28.250 --> 00:22:29.780
+Inválido
+
+00:22:29.780 --> 00:22:36.160
+Os Veganos não comerão a refeição vegetariana, e então há uma chance. É o lado
+
+00:22:37.460 --> 00:22:40.240
+que tem essa vantagem e fica um passo à frente
+
+00:22:40.910 --> 00:22:43.930
+do o outro lado e diz "quer saber essa é a corrente válida"
+
+00:22:44.660 --> 00:22:46.220
+e muda
+
+00:22:46.220 --> 00:22:48.819
+todas as transações são repetidas e
+
+00:22:49.700 --> 00:22:53.740
+A cadeia é aniquilada, isso é um risco se você fizer
+
+00:22:54.140 --> 00:23:01.839
+transações na outra cadeia, você pode ter um problema se você fizer transações em ambas as cadeias, você pode ter um problema com o gasto duplo
+
+00:23:02.750 --> 00:23:08.530
+Então, na sequência imediata de um fork, não gaste
+
+00:23:09.220 --> 00:23:10.779
+não
+
+00:23:10.779 --> 00:23:14.128
+receba, apenas fiquem sentados durante algum tempo. Quanto tempo ?
+
+00:23:15.070 --> 00:23:19.740
+Isso depende de como o joga anda, demorou cerca de duas semanas para a
+
+00:23:20.409 --> 00:23:21.879
+batalha entre
+
+00:23:21.879 --> 00:23:24.989
+Ethereum e Ethereum clássico estabilizar
+
+00:23:25.659 --> 00:23:26.860
+por volta de
+
+00:23:26.860 --> 00:23:33.269
+uma proporção de oitenta vinte, noventa dez que vemos hoje para todos decidirem e dizer "Sabe o que mais, o ethereum classic"
+
+00:23:33.639 --> 00:23:38.998
+"não está indo embora". No Bitcoin isso é um pouco mais difícil porque há um
+
+00:23:39.669 --> 00:23:42.689
+período de repetição de duas semanas por dificuldade
+
+00:23:43.240 --> 00:23:48.629
+Isso significa que depois de duas semanas as mudanças na cadeia minoritária mudarão sua
+
+00:23:48.789 --> 00:23:54.089
+dificuldade de mineiração para se adaptar às novas circunstâncias e acelerar novamente. Se
+
+00:23:55.029 --> 00:23:58.589
+cadeias minoritárias chegam a duas semanas, elas nunca mais vão embora.
+
+00:23:59.200 --> 00:24:01.200
+Agora temos dois Bitcoins
+
+00:24:01.480 --> 00:24:04.199
+Esse não é um cenário que eu gostaria de ver. Eu
+
+00:24:04.869 --> 00:24:06.869
+acredito que devemos estar procurando por
+
+00:24:08.230 --> 00:24:14.610
+Mudanças mínimas conservadoras que são feitas com segurança com bastante aviso prévio e interrupção mínima
+
+00:24:15.610 --> 00:24:21.629
+Muitas pessoas parecem acreditar no mesmo, mas também há aqueles que querem jogar um jogo de frango
+
+00:24:22.899 --> 00:24:28.319
+jogo de frango é onde você dirige dois carros um na direção do outro, só existe uma maneira de ganhar esse jogo como
+
+00:24:28.690 --> 00:24:36.570
+você está indo direto pra cima do seu oponente, puxa o volante e joga-o pra fora da janela e
+
+00:24:37.330 --> 00:24:39.749
+Se o outro motorista ver isso ele dirá, Oh
+
+00:24:41.409 --> 00:24:43.409
+O jogo acabou de mudar
+
+00:24:44.549 --> 00:24:48.199
+Agora eu tenho que desistir porque eles não podem mais
+
+00:24:49.860 --> 00:24:51.860
+UASF BIP 148
+
+00:24:51.929 --> 00:24:56.209
+Diz 1.o de agosto. Nós jogamos o volante pela janela e
+
+00:24:57.179 --> 00:24:59.179
+então, vemos o que acontece
+
+00:24:59.970 --> 00:25:01.740
+então isso é
+
+00:25:01.740 --> 00:25:03.740
+a ciência da "Forkologia"
+
+00:25:04.230 --> 00:25:06.890
+Nós veremos, e isso não é uma piada
+
+00:25:07.440 --> 00:25:09.440
+departamentos de ciência da computação
+
+00:25:09.539 --> 00:25:17.059
+Especializando-se em algoritmos de consenso e teoria dos jogos de modelos de consenso concorrentes em blockchains públicas
+
+00:25:18.510 --> 00:25:22.010
+alguns de vocês podem pensar depois de terem ouvido tudo isso e
+
+00:25:23.070 --> 00:25:25.070
+Talvez seja a sua primeira vez
+
+00:25:25.649 --> 00:25:27.649
+neste espaço
+
+00:25:28.169 --> 00:25:32.658
+Você está começando a pensar que isso parece completamente louco
+
+00:25:34.230 --> 00:25:36.649
+Por que você não escolheu apenas um chef ?
+
+00:25:37.380 --> 00:25:42.949
+Por que você não nomeou um gerente? Quem dirige um restaurante como este? Isso é loucura
+
+00:25:45.870 --> 00:25:47.870
+Estamos no mundo
+
+00:25:47.970 --> 00:25:52.399
+Onde decidimos qual alternativa não queremos
+
+00:25:53.610 --> 00:25:55.610
+a alternativa é
+
+00:25:56.070 --> 00:25:58.070
+um almoço de escola
+
+00:25:59.399 --> 00:26:06.889
+feito a partir de um cardápio escrito por um comitê no departamento de educação com cada intermediário na cadeia
+
+00:26:07.890 --> 00:26:09.600
+roubando a carne
+
+00:26:09.600 --> 00:26:11.490
+embolsando o pão e
+
+00:26:11.490 --> 00:26:18.109
+desviando comida podre para seus filhos, a fim de beneficiar a maioria e cada oito anos
+
+00:26:18.809 --> 00:26:24.019
+Há um surto de fome porque alguém não descobriu quanto aumentar de alimentos
+
+00:26:25.049 --> 00:26:27.408
+Esse é o sistema. Estamos substituindo e
+
+00:26:28.440 --> 00:26:36.200
+em comparação com esse sistema, nossos pequenos experimentos descentralizados e loucos onde qualquer pessoa pode ser uma cozinheira
+
+00:26:36.809 --> 00:26:40.158
+Soa muito interessante.
+
+00:27:06.680 --> 00:27:08.680
+Muito obrigado por terem vindo
+

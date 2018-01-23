@@ -1,0 +1,126 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:05.120
+Chciałbym zadać pytanie o coś, o czym właśnie wspomniałeś krótko, czyli o Lightning Network
+
+00:00:05.620 --> 00:00:06.120
+Tak?
+
+00:00:06.120 --> 00:00:07.980
+To mnie bardzo zafascynowało
+
+00:00:07.980 --> 00:00:13.020
+i wciąż pamiętam jak po raz pierwszy czytałem o Bitcoin i nie mogłem spać całą noc
+
+00:00:13.540 --> 00:00:17.300
+Po prostu byłem tym zafascynowany
+
+00:00:17.880 --> 00:00:21.440
+Miałem takie samo doświadczenie, jakie obserwowałem podczas debaty
+
+00:00:22.020 --> 00:00:27.640
+o skalowaniu i wszystkim, a potem czytałem o Lightning Network i pomyślałem sobie, o cholera, rozwiązali to, rozwiązali to!
+
+00:00:29.600 --> 00:00:32.540
+i dlatego, że to jest moje odczucie co do Lightning Network
+
+00:00:32.980 --> 00:00:35.800
+Ale to się&nbsp;wydarzyło 2 lata temu
+
+00:00:37.440 --> 00:00:38.580
+Zastanawiam się ...
+
+00:00:39.720 --> 00:00:44.020
+Czytałem także o SegWit Soft Fork
+
+00:00:45.100 --> 00:00:57.620
+Tak, ale rozumiem, że możemy, ale nie robimy sieci LN na aktualnym Bitcoinie bez SegWit
+
+00:00:58.340 --> 00:01:05.640
+Powiedziałeś wcześniej, tak jak każdy powinien mieć pierwsze doświadczenia z przeprowadzeniem transakcji bitcoin
+
+00:01:06.020 --> 00:01:14.660
+Myślę, że moje pierwsze doświadczenie z dokonaniem transakcji LN, nie wydawało mi się, że jestem częścią tego rozwiązania
+
+00:01:15.080 --> 00:01:21.920
+Bez SegWit, który zmienia architekturę transakcji
+
+00:01:23.400 --> 00:01:25.100
+Lightning Network może działać ...
+
+00:01:25.660 --> 00:01:28.400
+... ale usuwa bardzo przydatne funkcje
+
+00:01:28.700 --> 00:01:36.080
+Kiedy używasz Bitcoin, nie musisz być online, aby go otrzymać od kogoś.
+
+00:01:36.440 --> 00:01:50.820
+W Lightning musisz być online, aby zainicjować i musisz też pozostać online i monitorować kanał, aby uniemożliwić jednostronne zamknięcie kanału w sposób, który oszuka cię kradnąc pieniądze
+
+00:01:51.760 --> 00:01:56.840
+i LN ma tę fascynującą rynkową teorię gier, w której twoje oprogramowanie ogląda kanał
+
+00:01:57.060 --> 00:02:02.120
+i jeśli druga strona próbuje jednostronnie zamknąć i ukraść pieniądze
+
+00:02:02.560 --> 00:02:10.500
+masz wtedy około ośmiu godzin na przesłanie konkurencyjnej transakcji, która faktycznie bierze wszystko
+
+00:02:11.180 --> 00:02:14.480
+więc zostaną&nbsp;ukarani jeśli będą chcieli oszukiwać w LN tracąc wszystko
+
+00:02:15.760 --> 00:02:21.940
+ale aby zastosować tę karę, aby druga strona nie próbowała oszukiwać, musisz być online
+
+00:02:22.540 --> 00:02:27.920
+teraz jeśli SegWit został dodany, jest inny sposób na zrobienie tego, co jest naprawdę fascynujące, gdzie możesz zlecić na zewnątrz ...
+
+00:02:28.260 --> 00:02:33.800
+... za opłatą monitorowanie kanału płatności stronie trzeciej, która absolutnie nic nie wie o kanale
+
+00:02:34.400 --> 00:02:37.620
+Nie wiedzą, ile masz pieniędzy w kanale, nie wiedzą, z kim jest ten kanał ...
+
+00:02:37.820 --> 00:02:42.780
+... ale mogą to dla ciebie monitorować i nie musisz być już&nbsp;nigdy online.
+
+00:02:43.120 --> 00:02:47.600
+A jeśli ktoś spróbuje ukraść pieniądze z twojego kanału, dostaje karę
+
+00:02:48.000 --> 00:02:53.580
+Ktoś zarobi na tym trochę pieniędzy, ale nie musisz pozostać online. Ale jedyny sposób, aby to zrobić, to jest możliwe dzięki SegWitowi.
+
+00:02:54.080 --> 00:02:56.880
+Potrzebujemy transakcji zmodyfikowanej, aby to zrobić, więc ...
+
+00:02:58.020 --> 00:03:06.440
+Lightning z SegWit jest znacznie lepszy dla prywatności i bezpieczeństwa
+niż Lightning bez SegWit.
+
+00:03:06.920 --> 00:03:13.560
+I to bardzo. Jest łatwiejszy dla użytkowników, gdyż jest bardziej przejrzysty.
+
+00:03:13.840 --> 00:03:23.260
+Więc wolałbym trochę poczekać, ale jeśli chcesz go wypróbować, wypróbuj go już dziś w Testnecie. Już od pięciu miesięcy pracuje mój Lightning Node.
+
+00:03:24.940 --> 00:03:30.140
+To, co wydarzyło się w ciągu dwóch lat od czasu, kiedy po raz pierwszy omawiano, to oni go zbudowali
+
+00:03:30.520 --> 00:03:37.060
+i zbudowali go z pełnym i bliźniaczym, wielo-hubowym połączeniem cebulowym z szyfrowaniem
+
+00:03:37.300 --> 00:03:40.940
+To znacznie zwiększy prywatność.
+
+00:03:41.100 --> 00:03:46.320
+I sprawi, że Bitcoin stanie się o wiele bardziej anonimową siecią i znacznie trudniej będzie się go analizować
+
+00:03:46.820 --> 00:03:48.240
+Co jest fantastyczne!
+
+00:03:49.120 --> 00:03:57.600
+Materiał Andreasa M. Antonopoulosa
+Tłumaczył na język Polski: Fervi
+

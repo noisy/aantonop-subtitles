@@ -1,0 +1,694 @@
+WEBVTT
+Kind: captions
+Language: cs
+
+00:00:00.000 --> 00:00:02.879
+Dobrý večer, je mi potěšením tu dnes být s vámi.
+
+00:00:02.879 --> 00:00:07.738
+Jsem ve Švédsku poprvé a opravdu si to užívám. Kromě počasí tedy,
+
+00:00:08.290 --> 00:00:10.179
+vše ostatní je
+
+00:00:10.179 --> 00:00:11.380
+fantastické
+
+00:00:11.380 --> 00:00:16.800
+Je skvělé být na konferenci o internetu
+
+00:00:16.900 --> 00:00:20.439
+protože si pamatuji svoji první konferenci o internetu, na které jsem byl v roce 1992
+
+00:00:20.439 --> 00:00:22.529
+Bylo tam asi sto lidí
+
+00:00:23.260 --> 00:00:27.599
+a všichni byli buď počítačoví odborníci nebo studenti.
+
+00:00:27.910 --> 00:00:32.279
+A přestože jsme celému světu říkali, že svět se kompletně změní
+
+00:00:33.250 --> 00:00:38.309
+a nikdo nám nevěřil. Rozhodně nikdo nevěřil ani mě, bylo mi 19 let a
+
+00:00:39.190 --> 00:00:44.820
+byl jsem plachý a neohrabaný, takže to moc nefungovalo, ale naučilo mě to jednu věc.
+
+00:00:45.430 --> 00:00:49.439
+Naučilo mě to věřit svým instinktům, protože internet ve skutečnosti svět opravdu změnil
+
+00:00:49.780 --> 00:00:54.270
+Moje druhá kniha se jmenuje "Internet peněz" a důvod je ten,
+
+00:00:54.879 --> 00:00:59.849
+že technologie o které dnes budu mluvit změní svět
+
+00:01:00.129 --> 00:01:04.319
+a stejně tak změní samotný Internet.
+
+00:01:05.530 --> 00:01:11.189
+Bitcoin byl vynalezen 3.ledna 2009 anonymním tvůrcem
+
+00:01:11.920 --> 00:01:15.720
+a uvolněn jako open-source projekt přístupný každému a spravovaný komunitou dobrovolníků
+
+00:01:16.570 --> 00:01:18.570
+jako peer-to-peer network
+
+00:01:20.290 --> 00:01:21.310
+Zesměšňovaný
+
+00:01:21.310 --> 00:01:22.689
+vysmívaný
+
+00:01:22.689 --> 00:01:23.799
+a ignorovaný
+
+00:01:23.799 --> 00:01:27.839
+prvních pět, šest let. A dnes? Dnes už ne.
+
+00:01:28.299 --> 00:01:35.039
+Lidé mu začínají věnovat pozornost, stejně jako kdysi internetu. 
+To co bylo dříve nemyslitelné, je nyní možné.
+
+00:01:35.320 --> 00:01:42.329
+Lidé si začínají všímat, že je to něco víc, než co jim bylo řečeno. A co se jim snaží namluvit?
+
+00:01:43.630 --> 00:01:45.630
+Drogový dealeři
+
+00:01:46.600 --> 00:01:48.159
+Pornografie
+
+00:01:48.159 --> 00:01:49.630
+kriminální živly
+
+00:01:49.630 --> 00:01:53.100
+Hádejte, co říkali na první konferenci o Internetu v roce
+
+00:01:53.470 --> 00:01:57.929
+1993. Mýlili se v roce 1993 a mýlí se i teď.
+
+00:01:58.180 --> 00:02:04.469
+Pokaždé když potkáte nekoho, kdo je třeba zubař nebo kadeřník a používá Bitcoin tak
+
+00:02:04.899 --> 00:02:06.899
+to podkopává ta hloupá přirovnání.
+
+00:02:07.690 --> 00:02:12.599
+Bitcoin je protokol a kde jinde než zde mluvit o protokolu.
+
+00:02:13.440 --> 00:02:20.850
+V okamžiku, kdy začnete mluvit a přemýšlet o Bitcoinu, vyvolá to velmi obtížnou otázku:
+
+00:02:21.790 --> 00:02:23.440
+Co jsou
+
+00:02:23.440 --> 00:02:24.730
+peníze?
+
+00:02:24.730 --> 00:02:25.840
+ 
+
+00:02:25.840 --> 00:02:29.130
+A tím většinou konverzace skončí.
+
+00:02:29.130 --> 00:02:35.729
+Potkal jsem na celém světě tisíce lidí co nemají žádnou představu co jsou peníze a jak vlastně fungují.
+
+00:02:36.100 --> 00:02:40.859
+Je to jedna z těch technologií, co je tak hluboce zakořeněná v naší kultuře, že
+
+00:02:41.530 --> 00:02:49.230
+se stala kompletně neviditelnou. Pokud vše funguje, nemusíme vůbec přemýšlet, co jsou peníze. Než fungovat přestanou.
+
+00:02:50.350 --> 00:02:57.359
+V některých zemích si to uvědomili, když peníze přestali fungovat. A najednou měl každý nějaké zajímavé vysvětlení, co jsou peníze.
+
+00:02:58.600 --> 00:03:00.779
+Co jsou tedy peníze?
+
+00:03:01.450 --> 00:03:05.310
+Na nejzákladnějsí úrovni, peníze nenesou hodnotu.
+
+00:03:06.070 --> 00:03:11.309
+Používéme peníze, abychom hodnotné věci získali. Produkty, služby,
+
+00:03:11.310 --> 00:03:14.369
+ale peníze samotné žádnou hodnotu nemají.
+
+00:03:15.490 --> 00:03:18.239
+Peníze také nejsou umelá konstrukce nějaké autority
+
+00:03:18.760 --> 00:03:24.869
+Máme tendenci si to myslet, protože všechny naše peníze zatím pochází z různých autoritativních zdrojů.
+
+00:03:26.770 --> 00:03:31.079
+Někdo s korunou na hlavě říká, toto jsou vaše peníze
+
+00:03:31.239 --> 00:03:32.190
+a proto je považujete za platné.
+
+00:03:32.190 --> 00:03:36.959
+To je ta autorita která za vašimi penězi. Co když ale podobnou autoritu nepotřebujeme?
+
+00:03:37.420 --> 00:03:41.580
+Co když peníze mohou být vytvořeny pouhým používáním?
+
+00:03:42.280 --> 00:03:45.780
+Ukazuje se, že peníze jsou ve skutečnosti jenom další jazyk
+
+00:03:46.660 --> 00:03:52.290
+Je to řeč kterou lidé vytvořili aby dokázali vyjádřit hodnotu
+
+00:03:52.480 --> 00:03:57.359
+Řeč je jeden ze základních stavebních kamenů naší civilizace, řeč nám dovolila překonat
+
+00:03:57.640 --> 00:04:01.709
+takzvané Dunbarovo číslo. Dunbarovo číslo vyjadřuje maximální
+
+00:04:01.959 --> 00:04:05.789
+počet lidí, kteří dokáží spolupracovat jako jeden kmen
+
+00:04:06.519 --> 00:04:08.260
+na bázi
+
+00:04:08.260 --> 00:04:09.580
+pokrevních svazků
+
+00:04:09.580 --> 00:04:17.369
+a příbuznosti. Pokud ale mají dva kmeny spolupracovat, potřebují nějakou společnou vazbu. Ta vazba může být
+
+00:04:17.530 --> 00:04:19.530
+společná kultura
+
+00:04:19.600 --> 00:04:20.950
+jazyk, náboženství
+
+00:04:20.950 --> 00:04:28.209
+a peníze. Peníze jsou také jedním z těch základních kamenů, co nám umožnil překročit hranice jednoho kmene
+
+00:04:28.640 --> 00:04:32.979
+a zapojit se do obchodu s ostatními ve stále větším měřítku.
+
+00:04:33.830 --> 00:04:40.239
+Jak se naše peníze vyvíjeli, umožnilo nám to neustále zvětšovat
+
+00:04:40.460 --> 00:04:43.600
+míru spolupráce a participovat na obchodu čím dál většího rozsahu.
+
+00:04:44.390 --> 00:04:45.620
+Ale
+
+00:04:45.620 --> 00:04:47.620
+peníze jsou také,
+
+00:04:47.810 --> 00:04:49.810
+ironicky, systém kontroly, protože
+
+00:04:50.570 --> 00:04:54.339
+peníze dávájí obrovskou moc do ruky těm, kdo je kontrolují.
+
+00:04:55.250 --> 00:05:01.600
+A jako výsledek, králové a vlády vždy drželi kontrolu nad penězi pevně v rukou.
+
+00:05:01.910 --> 00:05:03.969
+Podobně jako kdysi, ze stejného
+
+00:05:04.490 --> 00:05:07.269
+důvodu, kontrolu nad náboženstvím.
+
+00:05:08.270 --> 00:05:14.470
+To se však změnilo. 3.ledna 2019 se svět změnil, protože kdosi neznámý
+
+00:05:14.930 --> 00:05:16.930
+vytvořil peer-to-peer
+
+00:05:16.940 --> 00:05:23.440
+protocol, nehierarchickou síť bez serverů a klientů, která umí vyjádřit peníze
+
+00:05:24.230 --> 00:05:26.000
+jako další typ obsahu.
+
+00:05:26.000 --> 00:05:30.820
+Internetový profesionálové budou rozumnět co jsem myslel frází "peníze jako další typ obsahu".
+
+00:05:32.240 --> 00:05:39.790
+Peníze jsou vyjádřeny čistě jako data, která mohou být poslána jakýmkoli komunikačním médiem, které umí přenést informaci.
+
+00:05:40.070 --> 00:05:45.129
+Bitcoinová transakce nemusí být nutně poslána před Bitcoinovou síť,
+
+00:05:45.200 --> 00:05:50.289
+přestože je to pohodlná cesta. Ale může být zakódována do smajlíju na Skype
+
+00:05:50.330 --> 00:05:56.080
+může být podána jako inzerát do novin a nebo nahrána na Facebook
+
+00:05:56.210 --> 00:05:59.260
+jako pozadí obrázku koťat co si hrají s klubíčkem.
+
+00:06:00.800 --> 00:06:03.580
+Peníze jako informace
+
+00:06:04.190 --> 00:06:08.290
+na veřejné síti, která je zároveň necenzurovatelná,
+
+00:06:08.900 --> 00:06:10.900
+otevřená všem,
+
+00:06:10.910 --> 00:06:12.440
+neutrální a
+
+00:06:12.440 --> 00:06:19.299
+globální. Neexistují žádné hranice této nové technologie, stejně jako nejsou hranice na Internetu.
+
+00:06:20.060 --> 00:06:25.540
+Každý ma přístup, protože to není produkt. Není to firma.
+
+00:06:25.540 --> 00:06:30.580
+Není potřeba se nikde registrovat, prostě stáhnete program.
+
+00:06:31.070 --> 00:06:33.879
+Bitcoin klient je něco jako webový prohlížeč
+
+00:06:33.880 --> 00:06:41.769
+Je to uživatelské rozhranní, které umí komunikovat s ostatními klienty na síti. V okamžiku, kdy stáhnete tuto aplikaci
+
+00:06:42.440 --> 00:06:45.579
+můžete se zapojit do globální ekonomiky
+
+00:06:46.100 --> 00:06:50.739
+která je otevřená pro všechny, bez ohledu na rasu, náboženství, vyznání
+
+00:06:51.320 --> 00:06:53.320
+etnikum, věk,
+
+00:06:53.330 --> 00:06:55.330
+kdekoli na světě.
+
+00:06:55.370 --> 00:06:59.380
+Většina lidí tento nový koncept ještě neuchopila
+
+00:07:01.880 --> 00:07:03.860
+Děti, které se dnes narodí
+
+00:07:03.860 --> 00:07:07.060
+nebudou znát svět ve kterém existují banky
+
+00:07:07.550 --> 00:07:15.130
+Nebudou znát svět, ve kterém existují papírové peníze, stejně tak jako mladí lidé dnes
+
+00:07:15.260 --> 00:07:19.330
+nemají tušení, jak vypadal svět bez internetu.
+
+00:07:20.090 --> 00:07:27.429
+Kolik z vás si pamatuje vyhledávání knih v katalogu v knihovně?
+Potom je vám víc než 40, jako mě.
+
+00:07:27.950 --> 00:07:29.950
+dostal jsem vás!
+
+00:07:30.560 --> 00:07:34.299
+Dnes narozené děti nikdy nebudou řídit auto
+
+00:07:34.370 --> 00:07:40.840
+Nikdy nebudou znát svět bez internetu a také nebudou znát svět, kde banky kontrolují peníze,
+
+00:07:40.880 --> 00:07:43.149
+kde peníze vydávají pouze králové
+
+00:07:43.400 --> 00:07:51.130
+nebo národní státy.
+Peníze budou nedílnou součástí internetu, protokol a obsah, který může kdokoli, kdekoli na světě posílat.
+
+00:07:52.790 --> 00:07:54.140
+To ale není všechno.
+
+00:07:54.140 --> 00:07:56.120
+Pojďme to udělat ještě zábavnější.
+
+00:07:56.120 --> 00:08:03.549
+Všechny formy peněz co dnes známe, mohou být vlastněny a spravovány pouze lidmi.
+
+00:08:03.770 --> 00:08:09.490
+Fyzickou osobou a nebo skupinou lidí tvořících právní uskupení -  legální fikce známá pod názvem "firma".
+
+00:08:10.190 --> 00:08:12.700
+Bitcoin je jiný, je to protokol.
+
+00:08:13.340 --> 00:08:16.929
+Autonomní agenti mohou vlastnit a spravovat peníze sami
+
+00:08:17.810 --> 00:08:19.810
+bez přístupu lidí.
+
+00:08:19.970 --> 00:08:23.499
+Představte si firmu bez ředitelů, bez akcionářů
+
+00:08:24.169 --> 00:08:27.609
+bez zaměstnanců, firmu jako program
+
+00:08:28.729 --> 00:08:33.939
+využívající strojové učení, nebo fungující jen na základě jednoduchých pravidel,
+
+00:08:34.219 --> 00:08:39.219
+který pracuje nezávisle na lidech a který může spravovat
+
+00:08:39.830 --> 00:08:41.830
+miliardy dolarů.
+
+00:08:44.000 --> 00:08:47.260
+V tomto okamžiku se posluchači rozdělí na dva tábory
+
+00:08:48.020 --> 00:08:51.520
+Část lidí si myslí, ah, to zní
+
+00:08:52.160 --> 00:08:53.600
+strašně.
+
+00:08:53.600 --> 00:09:01.029
+Co když to bude virus, inteligentní ransomware, který se sám šíří a platí si datové služby u Amazonu?
+
+00:09:01.550 --> 00:09:08.050
+Systém, který poroste, pokud bude úspěšný. Co když začne sám testovat nové varianty tak, že si zaplatí
+
+00:09:08.180 --> 00:09:10.180
+programátory za to, že ho vylepší?
+
+00:09:11.420 --> 00:09:13.659
+Jasně, to všechno se stane.
+
+00:09:15.470 --> 00:09:23.259
+Co když to na druhou stranu bude inteligentní charita, která sama rozpozná přírodní katastrofu
+
+00:09:24.110 --> 00:09:29.889
+a okamžitě automaticky uvolní potřebné prostředky přímo lidem, co je nejvíc potřebují,
+
+00:09:30.860 --> 00:09:34.810
+to celé bez jakéhokoli lidského zásahu a na rozdíl od většiny dnešních charit
+
+00:09:35.900 --> 00:09:41.530
+100% darovaných prostředků bude doručeno lidem, kteří to nejvíc potřebují. Svět se změní.
+
+00:09:42.260 --> 00:09:50.140
+Samořiditelná auta už známe, co třeba auto, co samo sebe vlastní. Auto, co nepatří žádné korporaci, auto, co se
+
+00:09:50.780 --> 00:09:52.190
+chová jako malá firma.
+
+00:09:52.190 --> 00:09:54.249
+Platí si účty za elekřinu nebo plyn,
+
+00:09:55.010 --> 00:10:00.370
+opravy a leasing tím, že vozí po městě zákazníky, kteří platí krypto-měnou.
+
+00:10:01.580 --> 00:10:08.050
+Představte si program, inteligentní novinový článek, co se sám šíří po internetu
+
+00:10:09.380 --> 00:10:11.000
+a zvětšuje svůj dosah
+
+00:10:11.000 --> 00:10:17.830
+protože lidé, co ho čtou, mu dovolí koupit si větší hosting a dál zasáhnout více a více čtenářů.
+
+00:10:18.530 --> 00:10:23.019
+Tohle nejsou peníze vašich prarodičů. Tohle nejsou ani peníze vašich rodičů.
+
+00:10:23.900 --> 00:10:26.230
+Tohle jsou peníze, které lze kompletně programovat,
+
+00:10:27.050 --> 00:10:33.729
+jejichž vlastnosti může majitel přesně specifikovat kdo k nim má přístup a kdy a
+
+00:10:34.100 --> 00:10:38.709
+za co mohou být utraceny. To otevírá celé pole nových možností,
+
+00:10:38.870 --> 00:10:41.200
+kterým se nyní spolenčně říká "smart contract" chytré kontrakty.
+
+00:10:41.600 --> 00:10:49.269
+tenhle systém umožňuje lidem naprogramovat chování celých systémů
+které mimo jiní umí spravují peníze.
+
+00:10:50.360 --> 00:10:53.829
+Pojem "peníze" je v tomto případě příliš úzký, aby to celé popsal
+
+00:10:54.500 --> 00:10:58.660
+protože zatím jsme používali systémy, který vypadají celou dobu jako peníze,
+
+00:10:58.900 --> 00:11:02.920
+ale ve skutečnosti to peníze nejsou, jako věrnostní body,
+
+00:11:03.770 --> 00:11:08.229
+karty na městskou dopravu, letecké míle.
+
+00:11:09.350 --> 00:11:16.060
+Co třeba token pro fanoušky Justina Biebera s plným přístupem ke všem jeho albům?
+
+00:11:16.490 --> 00:11:23.529
+A co všechny ostatní digitální produkty, které mohou být navázány na token a proměněny
+
+00:11:24.350 --> 00:11:25.880
+na globální
+
+00:11:25.880 --> 00:11:30.010
+výměnný systém - skrze tento nový internetový protokol.
+
+00:11:32.540 --> 00:11:34.190
+3 ledna 2009
+
+00:11:34.190 --> 00:11:39.249
+se změnil svět a od té doby vzniklo víc než 1000 kryptoměn,
+
+00:11:39.440 --> 00:11:42.249
+všechny na základě stejného receptu.
+
+00:11:43.040 --> 00:11:47.079
+Téměř všechny mají volně dostupný kód a expandují do všech možných směrů
+
+00:11:48.110 --> 00:11:50.860
+zkoumají všechny možné tržní niky,
+
+00:11:51.500 --> 00:11:54.579
+všechny možné variany a vlastnosti,
+
+00:11:56.300 --> 00:12:01.359
+vytvářejí nové trhy a získávají prostředky pro tisíce startupů na celém světě.
+
+00:12:02.120 --> 00:12:07.149
+Tisíce inženýrů, programátorů a vývojářů se učí používat tuto novou technologii.
+
+00:12:07.850 --> 00:12:09.850
+Samotný internet
+
+00:12:10.399 --> 00:12:17.919
+se velice rychle mění. Máme autonomní programy, kteří používají peníze na internetu a jsou v mnoha případech
+
+00:12:18.529 --> 00:12:21.429
+mimo kontrolu jakékoli národní legislativy.
+
+00:12:23.930 --> 00:12:28.389
+Co udělají nadnárodní korporace s touto kouzelnou, novou, volně dostupnou
+
+00:12:28.699 --> 00:12:32.169
+decentralizovanou a neutrální sítí, která je bez hranic a nejde cenzurovat?
+
+00:12:33.529 --> 00:12:34.930
+Řeknou to je skvělé
+
+00:12:34.930 --> 00:12:35.829
+to se nám líbí
+
+00:12:35.829 --> 00:12:43.299
+ale můžete odebrat tuhle otevřenost, decentralizaci, neutralitu nedostatek hranic a cenzury a nabalit na to uživatelské smlouvy
+
+00:12:43.579 --> 00:12:45.470
+12-měsíční licence
+
+00:12:45.470 --> 00:12:46.790
+a kontrolu.
+
+00:12:46.790 --> 00:12:52.630
+Kontrolu pro nás. Korporace vezmou Internet, a udělají intranety.
+
+00:12:53.449 --> 00:12:59.529
+Udělají uzavřené ohrady s nudným a statickým obsahem, které jsou navíc špatně zabezpečené
+
+00:13:00.230 --> 00:13:06.579
+a sedí v zadním traktu korporací, které sice dodají maličko přidané hodnoty, ale to vše
+
+00:13:06.829 --> 00:13:08.829
+bez účasti globální komunity
+
+00:13:09.500 --> 00:13:12.969
+izolované od vlny inovací všude kolem.
+
+00:13:13.069 --> 00:13:16.659
+Korporace vyrobí intranety a prohlásí to za výhru,
+
+00:13:17.000 --> 00:13:21.580
+ohlásí zákazníkům že vynalezli blockchain.
+
+00:13:22.790 --> 00:13:30.310
+Ale to se pletou a jejich projekty zkrachují, protože princip, to co je na této technologii nové a převratné
+
+00:13:31.279 --> 00:13:39.009
+není blockchain, což je jen databáze, kterou tento nový protokol vytváří. Co je klíčové je schopnost dosáhnout
+
+00:13:39.710 --> 00:13:45.549
+distrubuované shody mezi všemi účastníky, kteří si navzájem nevěří, rozsetými
+
+00:13:47.029 --> 00:13:51.159
+po celém světě bez jakékoli centrální autority,
+
+00:13:51.800 --> 00:13:57.219
+bez jakéhokoli prostředníka. Decentralizované dosahování shody může z venku vypadat chaoticky,
+
+00:13:57.320 --> 00:14:00.369
+nepřehledně a vypadat divně.
+
+00:14:01.339 --> 00:14:07.299
+Hmm, každý v této místosti už ale zná něco, co je otevřené, zcela určitě divné
+
+00:14:07.880 --> 00:14:13.630
+a nepochopené ze strany velkých korporací - Internet. Už jsme to udělali jednou a uděláme to znova.
+
+00:14:13.630 --> 00:14:18.400
+A tentokrát se k nám přidá celý svět.
+
+00:14:19.070 --> 00:14:22.210
+Na pozadí tohoto velkého příběhu je ještě jeden,
+
+00:14:22.210 --> 00:14:27.219
+další příběh. Za 25 let co máme internet
+
+00:14:27.709 --> 00:14:32.859
+stále trvá 3 až 5 dní poslat peníze z jedné země do druhé, která není v Evropě.
+
+00:14:33.380 --> 00:14:37.150
+Za poslaní peněz stále zaplatíte 30 až 40 dolarů
+
+00:14:37.150 --> 00:14:42.819
+a to pouze v případě, že země do které peníze posíláte není rozvojová země, v tom případě to bude
+
+00:14:43.010 --> 00:14:45.669
+mnohem dražší a bude to trvat o dost déle
+
+00:14:46.310 --> 00:14:51.130
+Gigantická sít centrálních, uzavřených a zkorumpovaných systémů
+
+00:14:51.500 --> 00:14:55.179
+odsává peníze nejchudších lidí na planetě.
+
+00:14:56.060 --> 00:15:00.339
+V roce 2017 2,5 miliardy lidí stále nemá přístup k bankovnictví.
+
+00:15:00.740 --> 00:15:06.549
+To znamená nulový přístup k bankovním službám, používají pouze bankovky. Toto číslo zahrnuje pouze
+
+00:15:06.920 --> 00:15:12.670
+hlavy domácností, ne jejich ženy a děti. Nikoho totiž nezajímají.
+
+00:15:12.770 --> 00:15:15.189
+To jsou data Mezinárodní Měnové Banky
+
+00:15:18.050 --> 00:15:20.770
+Nyní si představte, co se stane, když zpřístupníte
+
+00:15:21.410 --> 00:15:26.740
+bankovní služby jako Android aplikaci každému, kdo má chytrý telefon za dvacet dolarů.
+
+00:15:27.770 --> 00:15:30.999
+3.5 miliardy lidí má dnes přístup k internetu
+
+00:15:32.000 --> 00:15:38.679
+a pouze něco málo přes 1 miliardu lidí na světě má přístup k bankovnictví a finančním službám.
+
+00:15:39.350 --> 00:15:43.389
+Nyní dokážeme dostat bankovní služby k těm zbylým 6 miliardám.
+
+00:15:43.939 --> 00:15:49.118
+Rychle. A toto změní svět rychleji než mobilní telefony.
+
+00:15:49.759 --> 00:15:56.229
+Představte si Android telefon za dvacet dolarů ve odlehlé vesnici v Keni a najednou už to není pouze komunikační zařízení.
+
+00:15:56.959 --> 00:16:02.529
+Je to banka. Ne bankovní účet. BANKA.
+
+00:16:02.869 --> 00:16:08.439
+Umí posílat a přijímat platby od kohokoliv na světě, přijímat půjčky
+
+00:16:08.629 --> 00:16:14.259
+na nákup sazenic pro zdevastovaná pole po katastrofách
+
+00:16:14.839 --> 00:16:19.898
+propojit mezinárodně všechny lidi na planetě a to vše v horizontu deseti let.
+
+00:16:20.419 --> 00:16:25.149
+Svět se radikálně změní když přinesete možnosti
+
+00:16:25.549 --> 00:16:33.069
+široké ekonomické inkluze všem lidem na planetě. 
+Mužete si myslet, že banky to chtějí také. Špatně.
+
+00:16:35.779 --> 00:16:37.779
+Není to pro ně profitabilní.
+
+00:16:37.790 --> 00:16:45.189
+Nabízet služby lidem co nemají moc peněz, mají omezený přístup k internetu a k průkazům totožnosti, v totalitních zemích s příšernou vládou.
+
+00:16:46.009 --> 00:16:52.808
+Také ve většině těchto zemí jsou banky kriminální organizace, případně organizace
+
+00:16:53.389 --> 00:16:55.389
+těžko odlišitelné od místní mafie.
+
+00:16:56.419 --> 00:16:58.419
+Jak to napravit?
+
+00:16:58.699 --> 00:17:05.018
+Až do dneška jsme u všech techologií, ať už to byl PayPal nebo jiné technologie,
+
+00:17:05.019 --> 00:17:10.899
+které jsme viděli vznikat ve finanční technologii, žádali opatrně a slušně
+
+00:17:11.569 --> 00:17:13.569
+o povolení pro přístup.
+
+00:17:14.389 --> 00:17:16.749
+Bitcoin o žádné povolení nežádá
+
+00:17:17.750 --> 00:17:24.609
+nejak se na to zapomělo. A tak rozšíříme bankovnictví do celého světa bez toho
+
+00:17:24.889 --> 00:17:26.889
+abychom kohokoli žádali o povolení.
+
+00:17:27.110 --> 00:17:29.049
+Bitcoin protokol se šíří dál
+
+00:17:29.049 --> 00:17:31.449
+a pokud ho někdo vypne
+
+00:17:31.820 --> 00:17:36.039
+14-leté děcko s kopií mé knihy v ruce udělá přes víkend
+
+00:17:36.139 --> 00:17:43.689
+v libovolném programovacím jazyce nový protokol s novým jménem
+a pustí ho znovu a znovu, tak dlouho než uspějeme.
+
+00:17:43.970 --> 00:17:47.919
+Svět je nyní kompletně propojený, finanční služby jsou
+
+00:17:48.500 --> 00:17:50.500
+aplikace a peníze jsou
+
+00:17:50.960 --> 00:17:53.769
+jen další obsah co koluje na internetu. Vítejte na naší nové planetě
+
+00:17:54.499 --> 00:17:56.499
+Děkuji
+

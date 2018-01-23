@@ -1,0 +1,279 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.280
+[AUDIENCE] My question's just around 
+the next couple of weeks and months with Bitcoin.
+
+00:00:04.420 --> 00:00:05.000
+[ANDREAS]  Yes.
+
+00:00:05.000 --> 00:00:08.040
+[AUDIENCE]  Would you be able to just talk us
+through, or provide some comments,
+
+00:00:08.040 --> 00:00:11.240
+in relation to the whole SegWit [debate]
+and scaling issues with Bitcoin?
+
+00:00:11.240 --> 00:00:17.100
+How you think that will play out over the next month
+or two with a few of the key dates coming up?
+
+00:00:17.100 --> 00:00:23.340
+ANDREAS:  Well ... I wasn't prepared for that question.
+[Laughter] I didn't think anybody was going to...
+
+00:00:23.340 --> 00:00:28.940
+ask me that tonight. Or bring a UASF hat.
+
+00:00:29.820 --> 00:00:36.940
+Okay, first let me get a quick feel for the audience.
+How many people have heard of forks or SegWit
+
+00:00:36.940 --> 00:00:39.040
+in this audience? [Hands raise]
+
+00:00:39.040 --> 00:00:43.900
+Okay, great. How many people
+ understand what forks and SegWit are?
+
+00:00:44.680 --> 00:00:50.000
+About half of the previous group. All right.
+Bitcoin, within its protocol,
+
+00:00:50.000 --> 00:01:01.380
+has this ability to fork, which means partition
+- split in two. When you have coordination of
+
+00:01:01.380 --> 00:01:06.820
+10,000 computers around the world,
+if they disagree you need a way for them...
+
+00:01:06.820 --> 00:01:14.100
+to temporarily disagree, come back together, and agree again. The blockchain does this. It's a fork function.
+
+00:01:14.300 --> 00:01:19.460
+It happens two or three times a week.
+Nobody even notices it. The reason it happens is:
+
+00:01:19.460 --> 00:01:26.240
+In order to keep all of these systems synchronised, if one side of the network goes out of sync for one block,
+
+00:01:26.240 --> 00:01:28.480
+by the next block they re-converge.
+
+00:01:28.560 --> 00:01:32.000
+There's a different kind of fork,
+which is when the rules change,
+
+00:01:32.000 --> 00:01:37.260
+but only part of the network changes the rules.
+Remember I was talking about these rules...
+
+00:01:37.260 --> 00:01:42.140
+you have to validate? One of the fundamental
+rules determines how big a block is.
+
+00:01:42.320 --> 00:01:47.360
+Today there is a rule in the system 
+that says a block is one megabyte.
+
+00:01:47.360 --> 00:01:54.420
+That's it. Every ten minutes, one megabyte.
+Six megabytes per hour, 144 megabytes per day.
+
+00:01:54.580 --> 00:01:59.100
+That's it for capacity. You have to fit
+your transaction in that space.
+
+00:01:59.340 --> 00:02:04.760
+That causes some fee and capacity issues.
+Some people want to change that rule,
+
+00:02:04.760 --> 00:02:09.620
+to about 2 megabytes, 4 megabytes,
+8 megabytes, or whatever megabytes.
+
+00:02:10.000 --> 00:02:18.200
+In order to do that, they either have to
+convince everyone or they split the network.
+
+00:02:18.380 --> 00:02:24.700
+They go off and do their own "Bitcoin," which has a different set of rules than the other Bitcoin...
+
+00:02:24.700 --> 00:02:29.800
+that has the original set of rules.
+That's called a contentious fork.
+
+00:02:31.760 --> 00:02:36.660
+There has been an ongoing scaling debate
+for the last two years, which is about
+
+00:02:36.660 --> 00:02:43.280
+how to make Bitcoin support more transactions.
+The problem isn't that it's difficult to
+
+00:02:43.280 --> 00:02:51.400
+make Bitcoin support more transactions. The problem is
+it's difficult to make Bitcoin support more transactions
+
+00:02:51.400 --> 00:02:56.580
+without giving more power
+to some participants than others.
+
+00:02:57.160 --> 00:03:04.600
+Keeping it free, open, decentralised,
+while doing more transactions, is the hard question.
+
+00:03:04.840 --> 00:03:12.380
+The easy answer is, "Let's make it less free and open."
+But a lot of people in Bitcoin don't like that answer,
+
+00:03:12.380 --> 00:03:16.200
+so they're not willing to do that.
+That's the debate which has been going on.
+
+00:03:16.200 --> 00:03:19.880
+It's coming to a head on August 1st, 
+in just about three weeks,
+
+00:03:20.060 --> 00:03:24.060
+with three competing proposals 
+working at the same time.
+
+00:03:24.800 --> 00:03:32.140
+One is a proposal called Segregated Witness,
+which restructures transactions in such a way...
+
+00:03:32.140 --> 00:03:36.740
+that there are two parts to a transaction:
+one which contains the signatures
+
+00:03:36.740 --> 00:03:41.200
+and one which contains everything else.
+Signatures are a big part of the transaction.
+
+00:03:41.380 --> 00:03:49.880
+This reorganisation increases the space [in blocks]
+by about 1.7, so you get almost twice the amount
+
+00:03:49.880 --> 00:03:56.620
+of space to do transactions. An alternative
+proposal is to just increase the block size by two.
+
+00:03:56.780 --> 00:04:06.180
+And the third proposal is to do both, that's called SegWit2x. First do SegWit and then three months later,
+
+00:04:06.180 --> 00:04:10.380
+also increase the size of the block by 2 megabytes.
+
+00:04:10.380 --> 00:04:15.820
+Those are competing at the moment. The way this competition works is that everybody gets to choose...
+
+00:04:15.820 --> 00:04:22.820
+what software they use. When you run a specific set of software, if you run your own Bitcoin software,
+
+00:04:22.820 --> 00:04:30.200
+if you choose a specific wallet or exchange,
+the software you're running determines the outcome.
+
+00:04:30.480 --> 00:04:35.500
+Then, depending on how many people are running different sets of rules at the end of the day,
+
+00:04:35.500 --> 00:04:41.200
+there might be a change in the 
+underlying rules if enough people agree.
+
+00:04:41.360 --> 00:04:48.540
+If this plays out as I expect, and many people expect,
+we're going to have a fairly uneventful situation.
+
+00:04:48.740 --> 00:04:55.100
+85% of the network is going to change the rules on July 31st. On August 1st we're going to have a new network,
+
+00:04:55.100 --> 00:05:00.720
+which will have SegWit activated.
+Everybody's money continues to run as it was before.
+
+00:05:00.900 --> 00:05:06.580
+All of the transactions continue to operate 
+as they were before. There is a small possibility
+
+00:05:06.580 --> 00:05:15.420
+that you have a small chain of the 10-20% who disagree.
+They create a separate Bitcoin.
+
+00:05:15.600 --> 00:05:19.180
+Now, if that happens... 
+Pay attention, because this is important.
+
+00:05:19.460 --> 00:05:29.340
+If you control your bitcoin, if you have a wallet that controls your bitcoin, not parked at an exchange...
+
+00:05:29.600 --> 00:05:33.460
+If you put your money on an exchange,
+you don't control it. The exchange does,
+
+00:05:33.460 --> 00:05:35.700
+and it matters what they will choose to do.
+
+00:05:35.840 --> 00:05:45.980
+But if you control it [in a non-custodial wallet], then after such a fork you now control "bitcoin" on both sides.
+
+00:05:46.080 --> 00:05:54.000
+So if you had one bitcoin before, now you have one bitcoin "alpha" and one bitcoin "beta." Right?
+
+00:05:54.220 --> 00:06:01.060
+Then you can choose to keep both, sell one, or buy more of the other. Do whatever you want.
+
+00:06:01.320 --> 00:06:09.460
+So all you have to do, is do nothing for a few days before. A few days after, see how things play out.
+
+00:06:09.740 --> 00:06:13.180
+But you must control your own bitcoin.
+If you do not control your own bitcoin,
+
+00:06:13.300 --> 00:06:21.600
+if you put your bitcoin on an exchange,
+you are violating the most important rule of Bitcoin.
+
+00:06:21.800 --> 00:06:32.040
+Bitcoin is about individual participants controlling their
+own systems, not trust somebody else with their money.
+
+00:06:32.040 --> 00:06:37.160
+We already have a system of institutions where you can trust someone else with your own money.
+
+00:06:37.160 --> 00:06:43.680
+It's called banking. Right? The problem is, in order to trust other people with your money,
+
+00:06:43.800 --> 00:06:47.780
+you have to have all of these organisations whose main purpose is to make sure...
+
+00:06:47.780 --> 00:06:55.260
+that those people don't run away with your money, because they have a tendency to keep doing that.
+
+00:06:55.260 --> 00:07:00.380
+Pretty much any time in [human history] when someone has been trusted with other people's money,
+
+00:07:00.380 --> 00:07:03.420
+very quickly after that they've run away with the money.
+
+00:07:03.420 --> 00:07:09.320
+Banking is two systems: a system where other people hold your money and a whole other system where...
+
+00:07:09.320 --> 00:07:14.500
+people watch them to make sure they don't run away with the money. Bitcoin isn't like that.
+
+00:07:14.540 --> 00:07:20.800
+You hold your own money. If you give your money to an exchange for them to hold for you,
+
+00:07:20.880 --> 00:07:25.840
+here's the problem: there's no system watching them to make sure they don't run away.
+
+00:07:25.840 --> 00:07:30.840
+Guess what they're going to do?
+[whispers] Run away with your money! [Laughter]
+

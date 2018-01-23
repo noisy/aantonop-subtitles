@@ -1,0 +1,1222 @@
+WEBVTT
+Kind: captions
+Language: de
+
+00:00:01.720 --> 00:00:05.940
+Und sein neuestes Buch, erschienen gerade vor acht Tagen, mit dem Titel "The Internet of Money"
+
+00:00:05.940 --> 00:00:07.800
+welches ein Meisterwerk ist.
+
+00:00:07.860 --> 00:00:11.920
+Bitte helfen Sie mir, Andreas Antonopoulos willkommen zu heißen
+
+00:00:16.420 --> 00:00:19.140
+Guten Morgen, alle zusammen!
+
+00:00:19.180 --> 00:00:22.360
+Fangen wir mit einer kurzen Umfrage an.
+
+00:00:22.420 --> 00:00:30.160
+Wie viele von Ihnen haben mindestens einmal eine digitale Währung wie Bitcoin benutzt?
+
+00:00:30.680 --> 00:00:35.660
+Und wie viele von Ihnen besitzen Bitcoin in diesem Moment oder eine andere digitale Währung?
+
+00:00:36.480 --> 00:00:40.820
+Okay, das können wir beheben.
+
+00:00:43.600 --> 00:00:50.640
+Wenn Sie später noch mögen, kommen Sie zu mir. Ich würde Ihnen gerne zeigen,
+
+00:00:51.280 --> 00:00:54.360
+wie Sie ein Bitcoin Wallet auf Ihrem Smartphone einrichten können,
+
+00:00:55.180 --> 00:00:58.160
+und ich werde Ihnen ihren ersten
+
+00:00:58.800 --> 00:01:01.540
+Bruchteil eines Bitcoins geben, kein ganzer Bitcoin
+
+00:01:03.040 --> 00:01:05.420
+Und ich werde Ihnen zeigen, wie eine Transaktion funktioniert
+
+00:01:06.000 --> 00:01:11.800
+weil Bitcoin und die digitale Währungsrevolution, die es ausgelöst hat
+
+00:01:12.060 --> 00:01:17.240
+am besten demonstriert und erfahren wird, als es lediglich erklärt zu erhalten
+
+00:01:18.060 --> 00:01:23.440
+Es ist wirklich sehr schwierig, Bitcoin zu erklären. Ich habe die letzten fünf Jahre damit verbracht
+
+00:01:23.720 --> 00:01:26.880
+zu lernen, wie man Bitcoin erklärt.
+
+00:01:26.880 --> 00:01:28.640
+Das ist meine Vollzeitberuf.
+
+00:01:29.400 --> 00:01:36.440
+Leider machen die Entwickler immer wieder neue Sachen, die ich dann wieder von vorn erklären muss.
+
+00:01:38.260 --> 00:01:44.920
+Vergessen Sie also für einen Moment alles, was Sie über Bitcoin wissen.
+
+00:01:45.360 --> 00:01:51.080
+Vergessen Sie alles, was Sie über Blockchain gehört haben und fangen wir mit den Grundlagen an.
+
+00:01:52.520 --> 00:01:56.380
+2011 hörte ich zum ersten Mal von Bitcoin
+
+00:01:57.120 --> 00:02:04.100
+und meine Reaktion war genau die gleiche wie die Reaktion aller anderen, die zum ersten Mal von Bitcoin gehört haben
+
+00:02:04.100 --> 00:02:09.920
+einschließlich seiner Gründer und diese Reaktion war: "hah, Nerd Geld!"
+
+00:02:10.440 --> 00:02:13.860
+Das ist wahrscheinlich nur für Glücksspiel.
+
+00:02:14.600 --> 00:02:18.080
+Sechs Monate später hörte ich wieder von Bitcoin
+
+00:02:18.880 --> 00:02:24.340
+und diesmal las ich das Weißbuch, das dieses System auf den Markt brachte
+
+00:02:25.040 --> 00:02:29.400
+und mein Hintergrund in Informatik und verteilten Systemen erlaubte mir
+
+00:02:29.540 --> 00:02:33.540
+hinter die Illusion zu sehen von dem, was ich dachte, was Bitcoin war,
+
+00:02:33.840 --> 00:02:36.120
+und es hat mich umgehauen.
+
+00:02:36.540 --> 00:02:43.520
+In meinem Leben hatte ich jetzt sechs Gelegenheiten, in denen ich absolut besessen war
+
+00:02:44.260 --> 00:02:50.880
+von einer Technologie, bis zum Punkt dass ich vergaß zu essen, vergaß zu schlafen
+
+00:02:51.180 --> 00:02:55.860
+und so viel Wissen wie möglich konsumierte.
+
+00:02:56.820 --> 00:03:00.860
+Mein erster Computer, als ich 10 Jahre alt war.
+
+00:03:01.680 --> 00:03:04.960
+Meine erste Erfahrung mit einer Programmiersprache.
+
+00:03:04.960 --> 00:03:06.360
+Mein erstes Modem.
+
+00:03:06.780 --> 00:03:11.940
+Mein erster Zugang zum Internet, als ich das erste Mal den Webbrowser benutze.
+
+00:03:12.680 --> 00:03:18.480
+Das erste Mal, als ich das Linux-Betriebssystem heruntergeladen und installiert habe.
+
+00:03:19.160 --> 00:03:20.640
+Und dann Bitcoin.
+
+00:03:21.820 --> 00:03:29.720
+Als ich es entdeckt habe, habe ich vier Monate damit verbracht, so viel wie möglich in mich aufzunehmen, ausser Essen.
+
+00:03:30.400 --> 00:03:39.400
+Ich verlor 26 Pfund auf der absolut nicht empfehlenswerten Diät der Obsession.
+
+00:03:40.220 --> 00:03:43.720
+Ich bin davon nicht rehabilitiert,
+
+00:03:43.980 --> 00:03:49.480
+weil ich immer wieder neue Tiefenschichten finde, um all dies zu verstehen.
+
+00:03:50.120 --> 00:03:52.620
+Und der Grund, warum es so faszinierend ist,
+
+00:03:53.280 --> 00:03:58.380
+ist, weil es nicht das ist, was es auf den ersten Blick zu sein scheint.
+
+00:03:59.140 --> 00:04:00.880
+Bitcoin ist kein Geld.
+
+00:04:02.260 --> 00:04:09.620
+Die Blockchain ist kein Währungssystem. Es ist eine Plattform des Vertrauens.
+
+00:04:10.560 --> 00:04:17.980
+Es ist kein Unternehmen, es ist kein Produkt, es ist kein Service, für den Sie sich anmelden.
+
+00:04:19.060 --> 00:04:22.020
+Es ist keine Währung.
+
+00:04:22.560 --> 00:04:25.900
+Währung ist nur die erste Anwendung.
+
+00:04:27.000 --> 00:04:30.680
+Es ist das Konzept der Dezentralisierung
+
+00:04:31.160 --> 00:04:36.300
+angewendet auf die menschliche Kommunikation von Wert.
+
+00:04:37.040 --> 00:04:46.760
+Denn was ist Geld? NQ sagte uns, es ist eine Illusion. Es ist imaginär.
+
+00:04:47.840 --> 00:04:54.340
+Und der Grund, warum wir das nicht begreifen, ist weil es so tief in unserer Zivilisation eingebettet ist.
+
+00:04:54.900 --> 00:04:59.080
+Geld ist eine der ältesten Technologien der Menschheit.
+
+00:04:59.900 --> 00:05:01.980
+Es geht der Schrift voraus.
+
+00:05:02.820 --> 00:05:04.140
+Woher wissen wir das?
+
+00:05:04.420 --> 00:05:10.600
+Die allerersten Schriften, die wir gefunden haben, sind Kalkulationstabellen.
+
+00:05:11.420 --> 00:05:19.400
+Sie sind Aufzeichnungen  von Schulden, also existierte Geld schon vor dem Schreiben.
+
+00:05:21.080 --> 00:05:26.260
+Sie könnten sogar spekulieren, dass Geld eine mündliche Tradition hatte
+
+00:05:26.940 --> 00:05:35.000
+Bis es eine schriftliche Tradition erfinden musste, also wurde die Schrift dafür erfunden
+
+00:05:35.900 --> 00:05:40.280
+In der Geschichte des Geldes, die jetzt Zehntausende von Jahren umfasst,
+
+00:05:40.280 --> 00:05:45.480
+gab es vielleicht fünf bedeutende Veränderungen.
+
+00:05:46.140 --> 00:05:51.980
+Vom reinen Tauschhandel zur Einführung der ersten Abstraktion von Wert,
+
+00:05:51.980 --> 00:06:02.220
+Muscheln, Federn, Perlen, Nüsse, Steine ​​und dann Edelmetalle.
+
+00:06:02.980 --> 00:06:12.480
+Und dann Papiergeld und dann Plastikgeld und jetzt Netzwerkgeld.
+
+00:06:13.500 --> 00:06:21.680
+Bitcoin führt eine Plattform ein, auf der Sie Währungen als Anwendung ausführen können
+
+00:06:22.100 --> 00:06:25.440
+in einem Netzwerk ohne zentrale Kontrollpunkte
+
+00:06:26.060 --> 00:06:30.120
+Ein System, das komplett dezentralisiert ist, wie das Internet selbst.
+
+00:06:30.180 --> 00:06:36.280
+Es ist kein Geld für das Internet, sondern das Internet des Geldes.
+
+00:06:37.040 --> 00:06:38.940
+Und was ist Geld?
+
+00:06:38.940 --> 00:06:41.440
+Geld ist eine Sprache.
+
+00:06:42.180 --> 00:06:55.680
+Geld ist eine sprachliche Abstraktion. Geld ist eine Sprache, mit der wir einander Werte vermitteln.
+
+00:06:56.960 --> 00:07:00.880
+Geld erlaubt uns einfach, Wert auszudrücken
+
+00:07:01.420 --> 00:07:09.160
+und dieser Wert kann wirtschaftliche Konsequenzen haben, hat aber auch andere Konsequenzen.
+
+00:07:09.400 --> 00:07:15.900
+Wir benutzen Geld, um soziale Bindungen auszudrücken und zu schaffen,
+
+00:07:17.180 --> 00:07:19.180
+und Beziehungen,
+
+00:07:20.040 --> 00:07:26.340
+und Assoziationen, und um Organisationen zu schaffen.
+
+00:07:29.000 --> 00:07:36.480
+Bitcoin ist das erste System von Geld, das von keiner einzelnen Stelle kontrolliert wird,
+
+00:07:36.860 --> 00:07:40.420
+welches komplett dezentralisiert ist.
+
+00:07:42.040 --> 00:07:50.580
+Und daraus folgt, dass die gleichen Dinge eingeführt werden, die das Internet für die Kommunikation eingeführt hat.
+
+00:07:51.500 --> 00:07:59.080
+Wenn Geld Sprache ist, wenn Geld eine Sprache ist und man schneidet es von allen anderen Medien ab,
+
+00:07:59.580 --> 00:08:02.800
+und man macht daraus reine Rede, reinen Inhalt,
+
+00:08:03.160 --> 00:08:07.660
+ein Internet-Inhaltstyp, eine Protokollbezeichnung
+
+00:08:08.460 --> 00:08:11.700
+Geld über IP,
+
+00:08:12.960 --> 00:08:18.980
+Das trennt es vollständig von all diesen früheren Vorstellungen von Nationen,
+
+00:08:20.000 --> 00:08:25.160
+staatlicher Aussteller, Instituten, die kontrollieren.
+
+00:08:26.300 --> 00:08:30.660
+Und so gehen wir von institutionellem Geld über zu netzbasiertem Geld.
+
+00:08:31.580 --> 00:08:36.180
+Und natürlich wird jeder das mit offenen Armen begrüssen.
+
+00:08:36.980 --> 00:08:38.980
+Keine Chance.
+
+00:08:39.960 --> 00:08:43.260
+Was glauben Sie, wurde gesagt, als das erste Mal jemandem
+
+00:08:43.260 --> 00:08:47.800
+ein Gold-Depot-Zertifikat anstelle einer Goldmünze gezeigt wurde?
+
+00:08:48.440 --> 00:08:51.660
+Sie sagten: "Hah, das ist kein Geld!
+
+00:08:52.140 --> 00:08:53.780
+Geh weg!"
+
+00:08:55.020 --> 00:08:58.860
+Was denken Sie ist im Jahre 1950 passiert, als zum ersten Mal jemand
+
+00:08:59.480 --> 00:09:09.280
+in einem Motel auftauchte, seine Diners Club Mitgliedskarte präsentierte und sagte: "Ich werde mit diesem Stück Papier bezahlen!"
+
+00:09:09.820 --> 00:09:13.260
+"Das ist kein Geld. Geh weg!"
+
+00:09:14.660 --> 00:09:20.080
+Und jetzt stehen wir am Rande einer neuen Umwandlung des Geldes.
+
+00:09:20.920 --> 00:09:25.380
+Wir stehen kurz davor, das erste vollständig globale,
+
+00:09:26.520 --> 00:09:28.540
+völlig grenzenlose,
+
+00:09:28.920 --> 00:09:33.900
+völlig dezentralisierte und völlig offene Form des Geldes,
+
+00:09:34.280 --> 00:09:38.900
+eine, auf der man Anwendungen erstellen kann, weil dieses Geld programmierbar ist.
+
+00:09:39.200 --> 00:09:43.260
+Und Sie müssen niemandem um Erlaubnis bitten, eine Anwendung zu starten
+
+00:09:43.360 --> 00:09:48.580
+Ebensowenig wie Sie um Erlaubnis bitten müssen, eine Anwendung im Internet zu starten.
+
+00:09:49.040 --> 00:09:53.660
+Und die einzige Voraussetzung für eine erfolgreiche Anwendung im Internet des Geldes
+
+00:09:53.720 --> 00:10:00.740
+sind zwei interessierte Teilnehmer. Das ist Ihr Marktsegment und Sie haben eine Anwendung.
+
+00:10:01.460 --> 00:10:04.020
+Und eine Million Anwendungen werden gedeihen.
+
+00:10:04.820 --> 00:10:08.060
+Wenn Sie Innovation an die Randgebiete des Netzwerks bringen,
+
+00:10:08.640 --> 00:10:12.980
+wenn Sie die Anforderung für Genehmigung entfernen, was wird passieren?
+
+00:10:13.420 --> 00:10:17.740
+Exponentielle Explosion der Innovation.
+
+00:10:18.780 --> 00:10:22.320
+Die Anwendungen, die nicht auf den alten Geldsystemen aufgebaut werden konnten,
+
+00:10:22.320 --> 00:10:27.960
+weil sie eine Genehmigung benötigten, weil sie ein erheblich großes Marktsegment benötigten,
+
+00:10:27.960 --> 00:10:34.300
+weil sie von vielen übernommen werden mussten, um überhaupt verfügbar zu sein.
+
+00:10:35.260 --> 00:10:39.400
+Nun existieren keine dieser Anforderungen mehr.
+
+00:10:40.060 --> 00:10:47.340
+Jeder auf der Welt kann eine Anwendung herunterladen oder sogar ein Feature-Telefon mit Textnachrichten verwenden
+
+00:10:47.960 --> 00:10:55.240
+und sofort die gleiche Macht erhalten, die Banken heute haben.
+
+00:10:56.140 --> 00:11:00.940
+Und wenn ich "jeder" sage, kratzt das nur an der Oberfläche.
+
+00:11:01.540 --> 00:11:08.860
+Denn ironischerweise erkennt Bitcoin und die Blockchain-Währung nicht nur keine Grenzen,
+
+00:11:09.340 --> 00:11:13.120
+Es erkennt auch keine Menschen.
+
+00:11:14.340 --> 00:11:18.020
+Es spielt keine Rolle, ob Sie eine Person sind
+
+00:11:18.820 --> 00:11:23.100
+oder ein Kühlschrank oder ein selbstfahrendes Auto.
+
+00:11:23.840 --> 00:11:28.400
+Während der gesamten Geschichte des Geldes erforderte der Besitz einer Währung
+
+00:11:29.020 --> 00:11:38.100
+Rechtspersönlichkeit entweder als Einzelperson oder als eine Vereinigung von Einzelpersonen in einem Unternehmen.
+
+00:11:39.140 --> 00:11:41.140
+Bitcoin kann von Maschinen besessen werden,
+
+00:11:41.400 --> 00:11:45.580
+Bitcoin kann Softwareagenten gehören, Maschinen können sich gegenseitig bezahlen
+
+00:11:46.120 --> 00:11:49.360
+und es geht nicht nur um wirtschaftliche Tätigkeit.
+
+00:11:50.060 --> 00:11:53.040
+Es ist die Grundlage für marktbasierte Sicherheitssysteme.
+
+00:11:53.340 --> 00:11:57.580
+Es ist die Grundlage für die Schaffung von Authentifizierungsbindungen zwischen Geräten.
+
+00:11:57.640 --> 00:12:01.540
+Es ist die Grundlage für neue Anwendungen, die noch nie zuvor gemacht wurden
+
+00:12:02.120 --> 00:12:07.160
+Die Bitcoin- und Blockchain-Technologie vereinheitlicht die Geldsysteme.
+
+00:12:07.760 --> 00:12:10.740
+Heute haben wir Geldsysteme für kleine Zahlungen,
+
+00:12:11.060 --> 00:12:13.020
+Geldsysteme für große Zahlungen.
+
+00:12:13.320 --> 00:12:16.320
+Wir haben Geldsysteme für Zahlungen zwischen Einzelpersonen,
+
+00:12:16.400 --> 00:12:19.120
+Wir haben Geldsysteme für Zahlungen zwischen Unternehmen,
+
+00:12:19.240 --> 00:12:22.080
+Wir haben Geldsysteme für Zahlungen zwischen Regierungen.
+
+00:12:22.600 --> 00:12:24.320
+Erinnert Sie das an etwas?
+
+00:12:24.860 --> 00:12:28.100
+So war die Kommunikation vor dem Internet.
+
+00:12:28.580 --> 00:12:34.200
+Wir hatten Kommunikationssysteme für Bilder, Kommunikationssysteme für Briefe,
+
+00:12:34.540 --> 00:12:41.280
+Kommunikationssysteme für Kurz- und Ferngespräche und das Internet kam und vereinigte all dies.
+
+00:12:41.860 --> 00:12:46.980
+Was das Internet des Geldes macht, es schafft ein einziges Netzwerk, in welchem
+
+00:12:47.000 --> 00:12:51.560
+eine Mikrotransaktion, genau so wie eine Giga-Transaktion
+
+00:12:52.320 --> 00:12:58.540
+in Sekunden, überall auf der Welt für jeden Teilnehmer ohne Erlaubnis durchgeführt werden kann.
+
+00:12:59.460 --> 00:13:03.720
+Aber wenn Sie nur auf die Anwendung von Geld schauen, verpassen Sie das Wesentliche
+
+00:13:04.120 --> 00:13:09.120
+weil Sie die Sprache, die Bausteine ​​dieser Plattform, nehmen können
+
+00:13:09.740 --> 00:13:16.120
+um sie dazu zu verwenden, andere Sprachen zu konstruieren, die Wert kommunizieren.
+
+00:13:16.960 --> 00:13:23.980
+Token, Bonuspunkte, Markentreue-Münzen.
+
+00:13:25.020 --> 00:13:31.900
+Heute gibt es über tausend digitale Währungen, die das Designmuster, das Rezept von Bitcoin, verwenden.
+
+00:13:32.800 --> 00:13:35.020
+Die meisten von ihnen sind Müll.
+
+00:13:35.500 --> 00:13:37.700
+Einige davon nicht.
+
+00:13:38.280 --> 00:13:46.580
+Und im nächsten Jahrzehnt werden wir Zehntausende und dann Hunderttausende von Coins sehen.
+
+00:13:47.600 --> 00:13:53.860
+Einige werden einen wirtschaftlichen Nutzen haben, andere werden einfach Ausdruck von Loyalität sein.
+
+00:13:54.980 --> 00:13:59.240
+Sie werden Gegenstände in der physischen Welt darstellen.
+
+00:13:59.900 --> 00:14:02.840
+Den Titel für ein Haus.
+
+00:14:03.640 --> 00:14:06.560
+Den Zündschlüssel für ein Auto,
+
+00:14:07.040 --> 00:14:10.980
+der von einem Besitzer zum anderen übertragen werden können und fünf Sekunden später
+
+00:14:11.260 --> 00:14:18.480
+kann dieser Besitzer ins Auto steigen und wegfahren, weil das Auto den neuen Besitzzustand validieren kann
+
+00:14:19.460 --> 00:14:24.080
+Wir können uns noch nicht vorstellen, welche Anwendungen wir darauf aufbauen werden.
+
+00:14:24.840 --> 00:14:28.140
+Aber eines der interessanten Dinge, die wir zu beobachten beginnen
+
+00:14:28.640 --> 00:14:36.400
+ist, dass Geld spontan aus dem sozialen Konstrukt des Homo sapiens entsteht.
+
+00:14:36.940 --> 00:14:39.200
+Es entsteht sogar bei Primaten.
+
+00:14:39.780 --> 00:14:42.880
+Sie können Affen Geld lehren.
+
+00:14:43.240 --> 00:14:46.200
+Sie können Delphinen Geld beibringen.
+
+00:14:46.680 --> 00:14:50.760
+Sie können Papageien Geld beibringen.
+
+00:14:51.460 --> 00:14:58.140
+Und sie werden lernen, abstrakte Zeichen für Nahrung auszutauschen und sie dann dazu nutzen, um soziale Beziehungen aufzubauen.
+
+00:14:58.880 --> 00:15:02.900
+Sie werden auch einen Raubüberfall erfinden,
+
+00:15:03.560 --> 00:15:08.200
+Schlage den anderen Affen zusammen, nimm seine Kieselsteine ​​weg, iss die Bananen.
+
+00:15:09.160 --> 00:15:13.520
+Und wir sehen, dass bei Kindern dasselbe passiert.
+
+00:15:14.180 --> 00:15:17.400
+Kleinkinder erfinden Geld im Kindergarten,
+
+00:15:17.820 --> 00:15:24.100
+Blöcke und Gummibänder und Pokemon-Karten und andere kleine Wertmarken,
+
+00:15:24.380 --> 00:15:31.320
+Abstraktionen von Wert, die sie austauschten, um soziale Bindungen zu stärken, um Loyalität und Freundschaft auszudrücken,
+
+00:15:32.040 --> 00:15:35.640
+um Teilen zu lernen.
+
+00:15:36.660 --> 00:15:39.520
+Kinder werden Währungen bauen.
+
+00:15:40.060 --> 00:15:48.240
+Nur dieses Mal werden diese Währungen global, fälschungssicher und skalierbar sein - vom ersten Tag an.
+
+00:15:49.060 --> 00:15:57.440
+In wenigen Jahren wird Maria in ihrem Kindergarten Maria-Coin einführen, um gegen Joey-Coin anzutreten
+
+00:15:58.320 --> 00:16:00.880
+und es wird niemanden wirklich interessieren.
+
+00:16:01.340 --> 00:16:07.580
+Bis Justin Bieber natürlich Justin Bieber-Coin auf den Markt bringt und zufällig die Marktkapitalisierung übertrifft
+
+00:16:07.580 --> 00:16:13.760
+von 30 Nationen auf diesem Planeten, und wir schreiben alle entsetzte Artikel
+
+00:16:13.760 --> 00:16:18.400
+darüber, wie die Welt vor die Hunde geht.
+
+00:16:23.860 --> 00:16:29.780
+Was mit dieser Technologie passiert, ist erstaunlich tief.
+
+00:16:30.860 --> 00:16:37.680
+Und für einige der Unternehmen in diesem Raum ist es ein bisschen beängstigend.
+
+00:16:38.520 --> 00:16:43.680
+Das Bankwesen war noch nie der innovativste Sektor der Welt
+
+00:16:44.260 --> 00:16:52.340
+weil es ein sehr sorgfältiges Gleichgewicht zwischen Innovation und der konservativen Treuepflicht gibt
+
+00:16:52.900 --> 00:17:00.240
+die im Bankwesen existiert, die es geben muss, wenn man das Geld anderer Leute kontrolliert.
+
+00:17:01.080 --> 00:17:05.560
+Und doch kontrollieren Sie mit Bitcoin nicht das Geld anderer Leute.
+
+00:17:06.340 --> 00:17:09.620
+Bei Bitcoin kontrolliere ich mein Geld.
+
+00:17:10.140 --> 00:17:19.240
+Ich habe vollständige und totale Autorität über meinen Bitcoin. Es kann nicht beschlagnahmt werden, es kann nicht eingefroren werden,
+
+00:17:19.240 --> 00:17:25.900
+es kann nicht zensiert werden, meine Transaktionen können nicht abgefangen werden, und sie können nicht gestoppt werden.
+
+00:17:25.900 --> 00:17:30.780
+Und das kann ich mit fast vollständiger Anonymität tun und das kann auch jeder andere tun,
+
+00:17:31.040 --> 00:17:33.680
+5 Minuten nachdem er eine Anwendung heruntergeladen hat.
+
+00:17:33.780 --> 00:17:40.140
+Und so hat Geld sich für immer verändert, und das Bankwesen hat sich für immer verändert.
+
+00:17:41.940 --> 00:17:49.040
+Die Idee, dass Sie in der Industrie des Geldes, in den Industrien des Handels fortfahren können
+
+00:17:49.240 --> 00:17:52.800
+während Sie die gleiche konservative Einstellung  beibehalten
+
+00:17:53.720 --> 00:17:56.860
+welche nun seit Jahrhunderten existiert hat
+
+00:17:57.840 --> 00:18:04.260
+seit Händler in Venedig und Amsterdam
+
+00:18:04.640 --> 00:18:10.000
+mit der Ausgabe von Depotzertifikaten und der Erbringung von Bankdienstleistungen begannen.
+
+00:18:10.840 --> 00:18:12.840
+Das ist vorüber.
+
+00:18:13.820 --> 00:18:15.820
+Das ist vorüber!
+
+00:18:16.720 --> 00:18:26.440
+Sie können nicht geschlossene Systeme, die Grenzen haben und die Erlaubnis zum Beitritt erfordern betreiben
+
+00:18:26.820 --> 00:18:31.780
+während die Innovationsrate von den konservativsten Tendenzen in ihrer Organisationsstruktur vorgegeben wird
+
+00:18:32.180 --> 00:18:37.200
+weil Sie jetzt mit einer Technologie konkurrieren, die exponentielles Wachstum ermöglicht,
+
+00:18:37.400 --> 00:18:44.220
+exponentielle Innovation an den Randgebieten ohne Erlaubnis von irgendjemandem auf der Welt.
+
+00:18:44.900 --> 00:18:48.000
+Und es geht nicht um irgendjemanden in diesem Raum
+
+00:18:48.920 --> 00:18:52.860
+Warum? Wir vertreten die privilegierte Elite.
+
+00:18:54.320 --> 00:18:58.740
+Ich kann zu einem Broker-Konto gehen, mich online anmelden
+
+00:18:59.200 --> 00:19:03.240
+und an der Börse in Tokio innerhalb von 12 Stunden in Yen handeln
+
+00:19:04.100 --> 00:19:06.920
+Das ist das Privileg, das ich habe.
+
+00:19:07.880 --> 00:19:10.860
+Anderthalb Milliarden Menschen haben dieses Privileg.
+
+00:19:12.460 --> 00:19:16.380
+Sechs Milliarden Menschen können hauptsächlich in einer Währung arbeiten
+
+00:19:16.820 --> 00:19:22.500
+und vielleicht einige grundlegende Bankdienstleistungen haben. Vier Milliarden Menschen sind deutlich unterversorgt durch das Bankwesen
+
+00:19:22.660 --> 00:19:28.840
+und erstaunliche zweieinhalb Milliarden Menschen sind völlig ohne Bankkonto.
+
+00:19:30.280 --> 00:19:32.760
+Sie werden aufschließen.
+
+00:19:33.420 --> 00:19:36.380
+Sie werden niemals eine Beziehung zu einer Bank haben.
+
+00:19:37.160 --> 00:19:39.320
+Jedes einzelne Kind, das heute geboren wird
+
+00:19:39.880 --> 00:19:43.360
+wird niemals ein Bankkonto haben.
+
+00:19:43.960 --> 00:19:46.320
+Sie werden eine Bank-App haben.
+
+00:19:46.840 --> 00:19:52.860
+Eine Bank App, die ihnen kein Konto gibt. Eine Bank App, die sie zum Banker macht,
+
+00:19:53.220 --> 00:19:57.480
+ein internationaler Banker in einer App.
+
+00:19:58.720 --> 00:20:03.260
+Ihnen wird nicht erlaubt, ein Bankkonto zu eröffnen, bis sie 16 Jahre alt sind.
+
+00:20:03.880 --> 00:20:07.420
+Bis dahin hoffe ich, dass sie zumindest
+
+00:20:07.680 --> 00:20:11.780
+sechs oder mehr Jahre Erfahrung mit digitalen Währungen haben.
+
+00:20:11.780 --> 00:20:16.780
+Und ich würde gerne sehen, wie sie in eine Bankfiliale gehen, um sich von jemandem erklären zu lassen, was
+
+00:20:17.280 --> 00:20:21.320
+"drei bis fünf Werktage" bedeutet.
+
+00:20:23.420 --> 00:20:29.360
+Es ist sehr wahrscheinlich, dass die heute geborenen Kinder niemals einen Führerschein bekommen werden, weil sie selbstfahrende Autos haben werden
+
+00:20:29.460 --> 00:20:33.200
+Aber sie werden auch nie Papiergeld benutzen.
+
+00:20:34.660 --> 00:20:40.720
+Denn bis sie in ein Alter kommen, in dem sie wirklich Geld verwenden, gibt es kein Papiergeld mehr.
+
+00:20:42.200 --> 00:20:49.960
+Es wird so anachronistisch wirken wie ein Faxgerät oder ein Pferdewagen.
+
+00:20:51.440 --> 00:20:59.200
+Exponentielle Innovation auf globaler Basis, die den anderen sechs Milliarden Zugang gibt.
+
+00:20:59.980 --> 00:21:02.900
+Sie haben ein enormes Bedürfnis.
+
+00:21:03.940 --> 00:21:07.260
+Und dieses System bietet ihnen eine Lösung.
+
+00:21:08.540 --> 00:21:10.540
+Es ist noch nicht fertig.
+
+00:21:11.400 --> 00:21:18.540
+Es ist im Entstehen, es ist komplex, es ist unmöglich zu benutzen. Für die meisten Leute.
+
+00:21:19.280 --> 00:21:28.220
+In 1989 schickte ich meine erste E-Mail. Dazu musste ich eine Version des Unix-Mailprogramms kompilieren
+
+00:21:28.220 --> 00:21:32.120
+mittels eines C-Compilers und Unix-Befehlszeilenfähigkeiten.
+
+00:21:32.360 --> 00:21:40.120
+Ich musste es in der Befehlszeile einrichten, meine E-Mail eingeben und diese E-Mail wurde übertragen
+
+00:21:41.000 --> 00:21:47.340
+über das großartige Internet in erstaunlichen drei Tagen.
+
+00:21:48.740 --> 00:21:58.260
+Genau 20 Jahre später replizierte meine Mutter diese Erfahrung mit einem Wisch.
+
+00:21:59.800 --> 00:22:01.180
+Bitcoin heute
+
+00:22:01.880 --> 00:22:09.680
+und alle Währungen, die auf diesem Rezept basieren, sind genau auf dem gleichen Niveau wie das Internet im Jahr 1991.
+
+00:22:11.140 --> 00:22:14.300
+Nur jetzt haben wir das Internet.
+
+00:22:16.040 --> 00:22:20.980
+Und so hat die exponentielle Wachstumsrate bereits begonnen.
+
+00:22:21.580 --> 00:22:25.940
+Die Innovation wächst rasant.
+
+00:22:26.280 --> 00:22:34.600
+Ich verbringe jeden Tag ganztägig mit dem Versuch, mit Bitcoin Schritt zu halten. Nur eine Währung, und es ist fast unmöglich.
+
+00:22:36.920 --> 00:22:45.040
+Unterschätzen Sie das nicht. Hören Sie nicht auf die Leute, die ihnen sagen, dass Bitcoin nur für
+
+00:22:45.160 --> 00:22:51.700
+Pornografen, Terroristen, Drogenhändler und Glücksspieler da ist.
+
+00:22:52.780 --> 00:22:57.740
+Denken Sie daran, dass sie genau dasselbe über das Internet gesagt haben.
+
+00:22:58.700 --> 00:23:05.060
+Und wenn man es zwei oder drei Milliarden Menschen gibt, sind sie nicht an diesen Dingen interessiert.
+
+00:23:05.360 --> 00:23:08.160
+Sie sind daran interessiert, Katzenvideos zu teilen.
+
+00:23:09.300 --> 00:23:12.400
+Und jetzt haben wir ein Internet von einer Milliarde Katzenvideos.
+
+00:23:13.140 --> 00:23:20.060
+Wenn Sie die digitale Währung in den Mittelpunkt stellen und sie den vier Milliarden Menschen geben, die isoliert wurden
+
+00:23:20.340 --> 00:23:25.680
+aus dem internationalen Finanzwesen und Handel, und Sie geben ihnen die Möglichkeit, ihr Geld zu kontrollieren
+
+00:23:25.820 --> 00:23:30.960
+gegen despotische Regierungen und korrupte Banken, die von ihnen stehlen,
+
+00:23:31.600 --> 00:23:33.260
+Sie geben ihnen die Möglichkeit
+
+00:23:33.260 --> 00:23:38.600
+um ihre Zukunft zu kontrollieren, geben ihnen die Möglichkeit, mit jedem auf der Welt zu handeln.
+
+00:23:38.700 --> 00:23:45.880
+Den Titel auf ihrem eigenen Eigentum in Gestalt einer vollständig übertragbaren digitalen Wertmarke zu besitzen, die überall anerkannt wird.
+
+00:23:46.880 --> 00:23:52.440
+Kontrolle über Finanzen, die nicht beschlagnahmt, eingefroren oder zensiert werden können.
+
+00:23:53.640 --> 00:24:02.540
+Sie werden Essen, Gesundheitsversorgung, Hygiene, Bildung, Unterkunft kaufen
+
+00:24:03.100 --> 00:24:04.820
+Denn das machen wir.
+
+00:24:05.860 --> 00:24:10.800
+Und diese Technologie wird ihnen nicht verwehrt bleiben.
+
+00:24:11.660 --> 00:24:15.440
+Unterschätzen Sie nicht, wohin das führt.
+
+00:24:16.120 --> 00:24:20.800
+Das Internet des Geldes wurde am 3. Januar 2009 gestartet.
+
+00:24:21.480 --> 00:24:25.280
+Es kommt. Es kommt schneller als Sie sich vorstellen können.
+
+00:24:25.360 --> 00:24:31.600
+Es ist tiefer, als Sie ergründen können. Es ist anspruchsvoller als Sie unmittelbar verstehen können.
+
+00:24:31.840 --> 00:24:37.700
+Es braucht Jahre des Studiums, nur um alle Implikationen zu sehen.
+
+00:24:38.960 --> 00:24:42.580
+Und es ist ein Geschenk an die ganze Welt.
+
+00:24:43.200 --> 00:24:48.240
+Eine Technologie, die die sechstgrößte Innovation darstellt
+
+00:24:48.820 --> 00:24:54.700
+in der Technologie des Geldes, der ältesten Technologie unserer Zivilisation. Vielen Dank.
+
+00:25:02.600 --> 00:25:05.900
+Sollten wir ein paar Fragen stellen? Wir haben viel Zeit für Fragen.
+
+00:25:13.140 --> 00:25:15.700
+Was bestimmt die Kaufkraft der Währung?
+
+00:25:16.140 --> 00:25:21.100
+Wie stabilisiert sie sich und was wird benötigt, um sie zu stabilisieren? Wenn ich also Bitcoins kaufen würde,
+
+00:25:21.560 --> 00:25:24.120
+Wer kann den Wert davon manipulieren?
+
+00:25:24.240 --> 00:25:25.720
+Mhm, alle zusammen.
+
+00:25:26.760 --> 00:25:30.960
+Die Kaufkraft von Bitcoin wird genau so bestimmt wie die Kaufkraft des
+
+00:25:30.960 --> 00:25:36.040
+Euro, dem Britische Pfund, dem Japanische Yen oder dem US-Dollar durch Marktkräfte bestimmt werden
+
+00:25:36.040 --> 00:25:40.760
+durch Angebot und Nachfrage in internationalen liquiden Märkten, die rund um die Uhr tätig sind.
+
+00:25:41.360 --> 00:25:45.260
+Einer der grundlegenden Unterschiede ist, dass der Handel mit Bitcoin nie aufhört.
+
+00:25:45.680 --> 00:25:49.040
+Seit sieben Jahren läuft das Netzwerk ununterbrochen.
+
+00:25:49.040 --> 00:25:52.440
+Alle zehn Minuten schlägt Bitcoins Herz
+
+00:25:53.180 --> 00:25:59.620
+und Transaktionen werden verarbeitet, die Börsen schließen nie. Es gibt keinen Schlusskurs für Bitcoin.
+
+00:25:59.620 --> 00:26:02.660
+Es ist ein gleitender Durchschnitt und in diesem Handel
+
+00:26:03.380 --> 00:26:08.220
+wird eine Marktkapitalisierung von rund zwölf Milliarden Dollar heute international gehandelt.
+
+00:26:08.640 --> 00:26:11.080
+Was sind zwölf Milliarden Dollar für eine globale Währung?
+
+00:26:11.940 --> 00:26:16.140
+Es ist ein Guppy, der in haiverseuchten Gewässern schwimmt
+
+00:26:16.700 --> 00:26:20.340
+und jeder Händler, jeder Wal geht hinein
+
+00:26:20.840 --> 00:26:23.060
+und kickt diesen Preis einfach herum.
+
+00:26:23.460 --> 00:26:30.880
+Also die Erfahrung, von Bitcoin zu leben, die ich seit mehr als drei Jahren durchgehend mache,
+
+00:26:31.320 --> 00:26:33.040
+ist eine Achterbahn.
+
+00:26:33.440 --> 00:26:35.500
+Es ist eine absolute Achterbahn.
+
+00:26:36.320 --> 00:26:40.060
+Ich habe Verschiebungen von 20 oder 30 Prozent an einem Tag gesehen
+
+00:26:40.900 --> 00:26:44.180
+Und dennoch. Wenn man sich den langfristigen Trend anschaut:
+
+00:26:45.020 --> 00:26:50.840
+Das Handelsvolumen steigt, die Transaktionen steigen und die Volatilität sinkt weiter.
+
+00:26:51.540 --> 00:26:57.680
+Und das Schöne daran ist, dass ich das einem Amerikaner nicht verkaufen kann. Ich kann das nicht an einen Briten verkaufen.
+
+00:26:58.940 --> 00:27:04.640
+Ich muss es nicht an einen Argentinier verkaufen. Ich muss es nicht an einen Brasilianer verkaufen.
+
+00:27:04.940 --> 00:27:08.100
+Ich muss es nicht an einen Venezolaner verkaufen.
+
+00:27:08.380 --> 00:27:12.120
+Ich ging zu einer Konferenz und ein Argentinier erzählte mir
+
+00:27:13.580 --> 00:27:19.460
+"Ich mache mir keine Sorgen über die Volatilität, unsere Währung hat eine Volatilität, die so aussieht..."
+
+00:27:20.520 --> 00:27:27.300
+"Bitcoin hat eine solche Volatilität... Ich würde lieber in diese Richtung gehen."
+
+00:27:29.080 --> 00:27:31.700
+Und man musst ihnen nicht sagen warum.
+
+00:27:32.400 --> 00:27:39.020
+Ihre Regierung hat Menschen vor nicht mehr als 35 Jahren aus Flugzeugen geworfen, weil sie widersprachen
+
+00:27:39.540 --> 00:27:44.000
+Sie wissen bereits, warum die Trennung von Staat und Geld eine gute Idee ist.
+
+00:27:45.660 --> 00:27:49.860
+Und so ist die Volatilität relativ.
+
+00:27:54.760 --> 00:27:56.920
+Irgendwelche anderen Fragen? Kommen Sie. Ja?
+
+00:27:57.700 --> 00:27:59.540
+Lassen Sie uns Ihnen schnell ein Mikrofon geben.
+
+00:28:04.720 --> 00:28:12.160
+Danke, das war eine grossartige Rede. Offensichtlich klang es ein bisschen wie eine Seite der Münze. Wir lesen auch
+
+00:28:12.700 --> 00:28:19.560
+über all die großen Hacks, und Bitfinex, wissen sie, ich glaube, sie haben 40% des Geldes gestohlen.
+
+00:28:19.880 --> 00:28:23.520
+Ich denke, auch diese autonome Organisation wurde gehackt
+
+00:28:23.520 --> 00:28:28.560
+und all diese Dinge. Können Sie nur ein bisschen die dunkle Seite reflektieren?
+
+00:28:28.840 --> 00:28:34.200
+Oder jene Aspekte, die unser volles Vertrauen in diese Entwicklung nicht gewinnen könnten.
+
+00:28:34.480 --> 00:28:35.740
+Absolut.
+
+00:28:38.100 --> 00:28:44.100
+Das Lenkrad wurde erst 30 Jahre nach der Einführung des Automobils erfunden.
+
+00:28:45.140 --> 00:28:50.320
+Warum? Weil die ersten Autos zwei Lederriemen hatten, die man nach links oder rechts zog
+
+00:28:50.940 --> 00:28:53.640
+um das Auto zu bewegen, um das Auto zu lenken.
+
+00:28:54.520 --> 00:28:58.540
+Sie benutzten Pferdezügel, um Autos zu steuern.
+
+00:28:59.220 --> 00:29:01.320
+Das nennt man skeuomorphes Design.
+
+00:29:01.880 --> 00:29:08.880
+Es bedeutet, einen Schatten der früheren Vergangenheit in Ihrem neuen System zu bewahren und die neue Dimension nicht zu sehen
+
+00:29:09.560 --> 00:29:11.900
+und die Vergangenheit zu replizieren.
+
+00:29:12.420 --> 00:29:17.240
+Hier ist eine Währung, die nicht zentralisiert ist, wo ihr Geld, ihr Geld ist.
+
+00:29:18.060 --> 00:29:21.320
+Ihre Schlüssel, ihr Geld.
+
+00:29:21.920 --> 00:29:25.080
+Nicht ihre Schlüssel, nicht ihr Geld.
+
+00:29:25.700 --> 00:29:29.500
+Was machen wir als erstes mit diesem neuen System?
+
+00:29:29.960 --> 00:29:40.000
+Wir bauen zentralisierte Institutionen zur Kontrolle und Verwahrung, die das Geld anderer Menschen nehmen und für sie aufbewahren.
+
+00:29:40.760 --> 00:29:44.120
+Rate Sie mal? Die gesamte Geschichte des Bankwesens,
+
+00:29:44.220 --> 00:29:48.680
+das gesamte System der Regulierung und Aufsicht basiert auf dem einfachen
+
+00:29:48.700 --> 00:29:52.720
+Jahrhunderte alten Verständnis, dass, wenn jemand anderes dein Geld hält,
+
+00:29:52.920 --> 00:29:56.080
+werden sie damit wahrscheinlich davonlaufen.
+
+00:29:56.440 --> 00:30:03.160
+Und das ganze Regulierungssystem soll das verhindern, und doch geschieht es immer noch.
+
+00:30:03.800 --> 00:30:09.420
+In Hedgefonds, in Banken, in nationalen Währungen, die ganze Zeit.
+
+00:30:09.420 --> 00:30:12.920
+Und natürlich, wenn Sie Depotkonten replizieren,
+
+00:30:13.000 --> 00:30:16.520
+Börsen, die Bitcoins anderer Leute aufbewahren und diese konzentriert
+
+00:30:17.240 --> 00:30:23.820
+Es passiert wieder, noch schlimmer, weil es in den meisten dieser Bereiche keine Aufsicht und Vorschriften gibt.
+
+00:30:24.500 --> 00:30:26.140
+Die Antwort ist wirklich einfach.
+
+00:30:26.340 --> 00:30:32.660
+Stoppen Sie die Zentralisierung der dezentralen Währung. Hören Sie auf zu versuchen, die Bank-Vergangenheit zu replizieren
+
+00:30:33.260 --> 00:30:34.920
+in der Zukunft des Geldes.
+
+00:30:35.520 --> 00:30:38.660
+Und das ist wichtig zu erkennen
+
+00:30:38.940 --> 00:30:42.660
+Sicherheit ist eine aufstrebende Eigenschaft von  Bitcoin
+
+00:30:43.540 --> 00:30:50.900
+welche existiert wegen der Dezentralisierung von Kontrolle und Macht. Wenn ich eine Million Bitcoinnutzer hacken will,
+
+00:30:50.960 --> 00:30:55.400
+Und sie halten ihre Schlüssel, muss ich eine Million Nutzer hacken.
+
+00:30:55.900 --> 00:31:00.940
+Wenn sie alle ihre Schlüssel einer Person oder einer Organisation geben,
+
+00:31:01.940 --> 00:31:04.220
+Dann haben wir einen Honigtopf.
+
+00:31:04.700 --> 00:31:09.580
+Ein Honigtopf, der die Aufmerksamkeit jedes Hackers auf dem Planeten auf sich zieht.
+
+00:31:10.360 --> 00:31:12.100
+Und beachten Sie, was passiert ist.
+
+00:31:12.520 --> 00:31:17.420
+Über sieben Jahre und mit einer Marktkapitalisierung von zwölf Milliarden Dollar,
+
+00:31:17.780 --> 00:31:22.940
+ist Bitcoin die grösste kryptographische Entwicklung der Welt,
+
+00:31:22.940 --> 00:31:30.420
+die grösste öffentliche Schlüsselinfrastruktur der Welt, der größte Sicherheits-Honigtopf der Welt
+
+00:31:31.040 --> 00:31:34.080
+und es ist nicht sicher, weil es nicht angegriffen wird.
+
+00:31:34.420 --> 00:31:40.620
+Es ist sicher, weil es Immunität erzeugt, indem es die ganze Zeit angegriffen wird,
+
+00:31:41.100 --> 00:31:46.200
+24 Stunden am Tag von den raffiniertesten Angreifern dieses Planeten.
+
+00:31:46.980 --> 00:31:58.000
+Und wenn Sie in dieser Umgebung eine zentralisierte Börse mit PHP und MySQL einrichten
+
+00:31:58.980 --> 00:32:02.880
+und Sie deponieren dort einen 150 Millionen Dollar großen Honigtopf,
+
+00:32:03.360 --> 00:32:06.340
+laden Sie die Haie ein.
+
+00:32:06.560 --> 00:32:10.340
+Bitcoin-Banken werden gehackt, Bitcoin-Börsen werden gehackt,
+
+00:32:10.760 --> 00:32:19.420
+Bitcoin wurde nicht gehackt und kann nicht gehackt werden, da es keinen zentralen Punkt gibt
+
+00:32:19.700 --> 00:32:23.560
+auf den Sie Druck ausüben können. Es ist komplett dezentralisiert.
+
+00:32:23.940 --> 00:32:25.980
+Okay, vielleicht noch eine Frage.
+
+00:32:28.200 --> 00:32:33.620
+Woher kommt das Bitcoin-Angebot und sind Sie sicher, dass der Markt nicht überlastet wird?
+
+00:32:34.180 --> 00:32:37.500
+Die Bereitstellung von Bitcoin wird algorithmisch festgelegt
+
+00:32:37.500 --> 00:32:42.480
+basierend auf einer geometrisch abfallenden Lieferfunktion, das bedeutet,
+
+00:32:42.980 --> 00:32:47.420
+am Anfang wurden alle 10 Minuten 50 neue Bitcoins erstellt,
+
+00:32:47.920 --> 00:32:53.840
+Also jeder Block - der Herzschlag, alle 10 Minuten - erstellte 50 neue Bitcoins.
+
+00:32:54.160 --> 00:33:00.140
+Diese Bitcoins werden als Belohnung in einem Spieltheorie basierten Sicherheitsmodell verwendet
+
+00:33:00.140 --> 00:33:04.900
+Dies stellt sicher, dass jede Transaktion unabhängig von völlig anonymen Akteuren validiert wird,
+
+00:33:05.180 --> 00:33:09.980
+welche Strom als Garantie für die Sicherheitsarbeit, die sie geleistet haben, einsetzen müssen
+
+00:33:10.340 --> 00:33:14.700
+und wenn es ihnen gelingt, die Sicherheitsarbeit korrekt zu erbringen, während sie die Transaktion validieren,
+
+00:33:14.700 --> 00:33:19.700
+verdienen Sie als Belohnung, basierend auf einer wahrscheinlichkeitsregulierten Ausschüttung
+
+00:33:20.180 --> 00:33:25.380
+Diese Belohnung, 50 Bitcoin alle 10 Minuten. So wird Währung in die Wirtschaft eingeführt.
+
+00:33:25.880 --> 00:33:28.740
+Alle vier Jahre wird es halbiert.
+
+00:33:29.380 --> 00:33:32.440
+50 bis 25 im November 2012.
+
+00:33:32.940 --> 00:33:38.720
+Und dieses Jahr im Juli, im vergangenen Juli, hatten wir unsere zweite Halbierung,
+
+00:33:39.080 --> 00:33:42.600
+die mit Geburtstagsfeiern auf der ganzen Welt gefeiert wurde.
+
+00:33:43.360 --> 00:33:48.240
+und Bitcoins Belohnung ging von 25 auf 12,5 Bitcoin.
+
+00:33:49.500 --> 00:33:54.540
+Als ein System ist es dazu geschaffen, eine Geldpolitik zu besitzen die absichtlich deflationär ist
+
+00:33:54.540 --> 00:33:57.660
+und die Emission von Edelmetallen zu simulieren.
+
+00:33:57.660 --> 00:34:03.040
+Es wird immer schwieriger, Gold zu immer höheren und höheren Kosten abzubauen.
+
+00:34:03.660 --> 00:34:09.520
+Und Bitcoin ist das Gleiche. Die Idee ist, dass immer weniger im Laufe der Zeit ausgegeben wird.
+
+00:34:10.020 --> 00:34:16.940
+Wenn Sie dieser geometrischen Kurve folgen, erreichen Sie irgendwann das Ende. Im Jahre 2141
+
+00:34:17.780 --> 00:34:19.980
+werden keine Bitcoins mehr ausgegeben.
+
+00:34:19.980 --> 00:34:26.580
+21 Millionen Münzen ist die asymptotische Obergrenze. Es wird nie 21 Millionen Münzen erreichen.
+
+00:34:26.580 --> 00:34:30.300
+Das ist Teil des Protokolls, es ist ein unveränderbarer Teil des Protokolls
+
+00:34:30.300 --> 00:34:36.260
+und es ist eine Regel, die von jedem System durchgesetzt wird, das am Bitcoin-Netzwerk teilnimmt.
+
+00:34:39.460 --> 00:34:42.180
+Es soll gesundes Geld sein
+
+00:34:42.180 --> 00:34:44.800
+aber es ist nicht die einzige Geldpolitik, die es gibt.
+
+00:34:44.800 --> 00:34:48.620
+Es gibt mehrere andere Währungen, die unterschiedliche Geldpolitiken umsetzen.
+
+00:34:48.940 --> 00:34:58.000
+Die Idee ist wirklich, dass Bitcoin als sehr sehr solide Reservewährung für viele andere Dinge dient.
+
+00:35:00.660 --> 00:35:03.680
+Was müssen Unternehmen wissen,
+
+00:35:03.680 --> 00:35:09.300
+die von Nicht-Finanzinstitutionen sind, darüber, wie sie taktische Schritte unternehmen sollten, um darüber nachzudenken,
+
+00:35:09.340 --> 00:35:15.100
+mit der Blockchain zu experimentieren in Bezug auf die Aufbewahrung von Wert?
+
+00:35:17.220 --> 00:35:22.440
+Ich glaube zu verstehen, dass es nicht nur Währung ist, sondern dass es eine Plattform für Vertrauen ist.
+
+00:35:22.440 --> 00:35:29.260
+Zu verstehen, dass es als eine historische Aufzeichnung von Wahrheiten verwendet werden kann, die Informationen registrieren können
+
+00:35:29.260 --> 00:35:33.780
+dass es verwendet werden kann, um alle Arten von Wertmarken zu erstellen, die ausgetauscht werden können
+
+00:35:33.780 --> 00:35:36.820
+zwischen Ihren Kunden, Ihren Lieferanten, Ihren Herstellern,
+
+00:35:36.820 --> 00:35:42.600
+dass es auch einfach als Währung für alle grenzüberschreitenden Transaktionen verwendet werden kann
+
+00:35:42.600 --> 00:35:48.520
+Import / Export Aktivitäten, Remittances basierte Flüsse, zahlende Partner und verbundene Unternehmen.
+
+00:35:48.520 --> 00:35:52.880
+All die Dinge, die heute teuer, langsam und schwierig sind
+
+00:35:52.880 --> 00:35:57.780
+werden billig, schnell und einfach, wenn Sie eine dieser digitalen Währungen verwenden.
+
+00:35:57.800 --> 00:36:02.580
+Aber es ist noch früh. Vorerst sollten Sie sich darüber bilden.
+
+00:36:02.820 --> 00:36:09.080
+Hier ist die eine wichtige Sache, die Sie verstehen müssen. Sie werden viel über Blockchain hören
+
+00:36:09.840 --> 00:36:16.000
+und das meiste, was Sie über Blockchain hören, ist nicht das Internet des Geldes. Es ist das Intranet des Geldes.
+
+00:36:16.880 --> 00:36:23.600
+Im Intranet läuft FrontPage und Outlook und antiquierte Software in einer geschlossenen kleinen
+
+00:36:23.600 --> 00:36:29.540
+Enklave Ihrer Unternehmensrückgewässer mit abgestandenem Inhalt und langweiligen Apps.
+
+00:36:30.060 --> 00:36:34.980
+Und am Ende ist es sowieso voller Viren, weil man es nicht sicher halten kann.
+
+00:36:35.660 --> 00:36:42.680
+Blockchains, die nicht offen ist, die nicht öffentlich sind, die nicht grenzenlos sind, die nicht für Innovation offen sind,
+
+00:36:43.480 --> 00:36:47.520
+sind nicht, worüber wir hier reden. Und das ist ein wirklich wichtiger Unterschied.
+
+00:36:47.960 --> 00:36:54.500
+Es kann nützlich sein, wenn Sie eine Verrechnungsstelle zwischen drei Banken betreiben möchten.
+
+00:36:55.140 --> 00:36:57.140
+Aber es ist nicht das Internet des Geldes.
+
+00:36:59.880 --> 00:37:00.580
+Vielen Dank.
+
+00:37:00.840 --> 00:37:01.440
+Übrigens
+
+00:37:06.380 --> 00:37:12.600
+Jeder der eine Frage gestellt hat bekommt eine kostenlose Ausgabe meines Buchs, kommen sie zu mir dort drüben. Danke vielmals
+
