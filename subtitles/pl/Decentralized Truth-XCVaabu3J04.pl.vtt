@@ -1,0 +1,753 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.000 --> 00:00:06.960
+Chcę porozmawiać o decentralizacji prawdy i, dziękuję, Elyse. Zapewniłaś mi fantastyczne otwarcie przed
+
+00:00:07.630 --> 00:00:14.519
+dzisiejszą rozmową. A zatem, ile osób porusza się w temacie Bitcoina lub kryptowalut od mniej niż roku?
+
+00:00:16.299 --> 00:00:18.299
+OK. Mniej więcej około
+
+00:00:18.400 --> 00:00:25.379
+jednej piątej widowni. To jest coś, co stale się zdarza. Jeśli stale chodzisz na tego typu spotkania, zauważysz, że
+
+00:00:26.590 --> 00:00:29.879
+jakiś procent osób zawsze jest nowych.  Dlaczego?
+
+00:00:30.099 --> 00:00:36.569
+Ponieważ rośniemy w bardzo szybkim tempie. Cała społeczność, cały przemysł, wszystkie kryptowaluty,
+
+00:00:37.120 --> 00:00:42.059
+zaangażowanie w nie rośnie bardzo szybko. A zatem większość ludzi, którzy w to wchodzą jest nowych. OK.
+
+00:00:42.059 --> 00:00:44.339
+A więc działa to tak. Wchodzisz w tę przestrzeń
+
+00:00:44.950 --> 00:00:48.089
+i coś już słyszałeś o tej dziwnej, nerdowskiej rzeczy zwanej Bitcoinem - być może.
+
+00:00:48.160 --> 00:00:54.090
+Wiele osób właśnie przez Bitcoin zdobywa pierwsze doświadczenie w kryptowalutach
+
+00:00:55.030 --> 00:00:57.989
+i zaczynasz zadawać pytania, i nic z tego wszystkiego
+
+00:00:58.660 --> 00:01:00.660
+totalnie nie ma sensu. Zupełnie nic.
+
+00:01:01.210 --> 00:01:03.039
+"Kto to wszystko prowadzi?"
+
+00:01:03.039 --> 00:01:04.689
+"Nikt."
+
+00:01:04.689 --> 00:01:09.360
+"OK, OK, rozumiem - nikt - ale, no ale po prostu, po prostu mi powiedz. No weź.
+
+00:01:09.360 --> 00:01:10.379
+Kto tym zarządza?
+
+00:01:11.710 --> 00:01:18.720
+Zajmujesz się tym wszystkim już od 2012. Na pewno wiesz, kto to wszystko prowadzi."
+
+00:01:20.530 --> 00:01:24.059
+"Jak to działa? Przez co jest wspierane? Czemu to ma swoją wartość?"
+
+00:01:25.479 --> 00:01:27.479
+"Co się dzieje?"
+
+00:01:27.520 --> 00:01:33.630
+Przychodzą wszystkie te pytania, a potem mówisz coś w stylu "To niepodobne do wszystkich pieniędzy, jakie znam.
+
+00:01:34.329 --> 00:01:38.759
+To nie przypomina niczego, co znam." I na początku żadne odpowiedzi nie mają sensu.
+
+00:01:39.579 --> 00:01:43.859
+I stopniowo zaczynasz wspinać się na tą bardzo stromą krzywą uczenia się,
+
+00:01:45.250 --> 00:01:51.869
+a ona jest pełna pułapek, bo widzisz szczyt i mówisz "Prawie to łapię. Zaczynam rozumieć.
+
+00:01:51.880 --> 00:01:54.060
+Mam taki moment przełomu
+
+00:01:54.060 --> 00:02:00.810
+Wreszcie potrafię zrozumieć, o czym wszyscy mówią -  ledwo - ale trochę." I zdobywasz ten szczyt i mówisz "Udało mi się!"
+
+00:02:01.450 --> 00:02:04.229
+I patrzysz w górę, a to nie jest ostatni szczyt
+
+00:02:04.479 --> 00:02:10.829
+To tylko równina i znowu zaczynasz się wspinać, bo "OK, powiedzmy że trochę rozumiem
+
+00:02:11.560 --> 00:02:14.729
+Bitcoina, ale teraz słyszę o tym czymś jak łańcuch blokowy
+
+00:02:14.730 --> 00:02:19.289
+i Hyperledger, i technologie ksiąg rozproszonych. Więcej pytań. Więcej pytań
+
+00:02:19.540 --> 00:02:27.030
+na ten temat, a potem alternatywne monety. "Co to u licha są alternatywne monety? Są ich tysiące? Kiedy to się wydarzyło?
+
+00:02:27.550 --> 00:02:33.809
+Dopiero co ogarnąłem Bitcoina, a teraz zrzucasz na mnie tysiąc innych rzeczy!" I znowu wspinasz się na tę stromą krzywą uczenia się
+
+00:02:34.870 --> 00:02:39.720
+i w miarę rozumiesz alternatywne monety, a potem, kiedy już myślisz, że zaczynasz rozumieć,
+
+00:02:41.260 --> 00:02:43.500
+jakiś dzieciak o zabawnym nazwisku
+
+00:02:44.170 --> 00:02:50.130
+buduje platformę, która pozwala wszystkim stworzyć ICO w 3 minuty, i nagle następuje zalew
+
+00:02:50.230 --> 00:02:56.009
+ICO z każdej strony, i wszystko znów się zaczyna. "Co to u licha wszystko jest? Czy to monety? Czy to łańcuchy blokowe?"
+
+00:02:56.010 --> 00:02:58.950
+Nie. To platforma dla monety zbudowana na innej platformie,
+
+00:02:58.959 --> 00:03:04.859
+która wykorzystuje kontrakty typu smart. "A co to jest kontrakt typu smart?". I znowu wspinasz się na tę krzywą uczenia się
+
+00:03:06.250 --> 00:03:12.299
+No i kiedy już myślisz, że zaczynasz rozumieć i patrzysz wstecz, mówisz "OK, Bitcoin, to w miarę rozumiem.
+
+00:03:12.850 --> 00:03:14.850
+Przynajmniej to jedno rozumiem
+
+00:03:15.579 --> 00:03:17.579
+A co to znaczy forking? (śmiech)
+
+00:03:18.819 --> 00:03:20.819
+Czym do licha jest fork (rozdzielenie łańcucha)?
+
+00:03:22.660 --> 00:03:24.550
+I co mam teraz zrobić?
+
+00:03:24.550 --> 00:03:29.129
+Czy coś z tego rozumiem? Jeśli mam forka, to czy jestem po obu jego stronach?
+
+00:03:29.190 --> 00:03:32.309
+Jak mogę być po obu jego stronach, a jeśli jestem już po obu
+
+00:03:32.310 --> 00:03:35.940
+to jak mam to wydać? Które mam wydać? Który to prawdziwy Bitcoin?
+
+00:03:37.090 --> 00:03:39.090
+Co, znowu łańcuch się rozdziela? (śmiech)
+
+00:03:39.730 --> 00:03:41.730
+A nie stało się to dopiero co, ze dwa tygodnie temu?
+
+00:03:42.489 --> 00:03:48.479
+OK, i kolejny fork. Znowu się zaczyna. Dobra, panika. Jak mam uzyskać ten fork? A co z następnym?
+
+00:03:49.090 --> 00:03:53.819
+I kolejnym, i kolejnym? A co jeśli będzie się tak forkowało w nieskończoność?
+
+00:03:54.849 --> 00:03:59.099
+A jeśli to studnia forkingu bez dna? A może w ogóle chodzi tylko o forking? (śmiech)
+
+00:03:59.680 --> 00:04:05.970
+Może to przeoczyłem. A teraz tworzymy ICO dla Bitcoina? Już nic nie rozumiem. Myślałem, że tak,
+
+00:04:05.970 --> 00:04:08.009
+ale znowu nic nie ogarniam."
+
+00:04:08.860 --> 00:04:16.799
+I w tym wszystkim próbujesz znaleźć jakąś kotwicę, coś znajomego, co możesz załapać, coś co da ci
+
+00:04:17.169 --> 00:04:21.239
+podstawę do zrozumienia, co u licha dzieje się z tą technologią.
+
+00:04:22.360 --> 00:04:24.360
+I to jest ta pułapka.
+
+00:04:24.760 --> 00:04:25.990
+Ponieważ
+
+00:04:25.990 --> 00:04:27.580
+dorastaliśmy
+
+00:04:27.580 --> 00:04:29.609
+wierząc w pewien model,
+
+00:04:30.280 --> 00:04:35.190
+model dochodzenia do prawdy. A tym modelem dochodzenia do prawdy
+
+00:04:36.250 --> 00:04:37.960
+jest autorytet.
+
+00:04:37.960 --> 00:04:44.190
+Więc jeśli nagle staramy się zrozumieć "Jaka jest prawda? Co naprawdę dzieje się w tej przestrzeni?
+
+00:04:44.190 --> 00:04:48.239
+Co robimy instynktownie? Instynktownie szukamy autorytetu.
+
+00:04:50.020 --> 00:04:53.460
+"Czekaj. Czy Andreas nie mówił, że to ruch bez lidera?
+
+00:04:55.090 --> 00:05:02.190
+No to kto ma władzę? Kto mówi nam, co jest prawdą? Jak mamy się dowiedzieć, co jest prawdą jeśli nie ma lidera?
+
+00:05:03.480 --> 00:05:05.100
+I nieuchronnie
+
+00:05:05.100 --> 00:05:09.620
+ktoś wyskakuje z krzaków i mówi: "Będę liderem!"
+
+00:05:09.620 --> 00:05:13.980
+Przykro mi, nie ogłaszaliśmy wolnego stanowiska, mówiąc o ruchu bez lidera (śmiech)
+
+00:05:16.000 --> 00:05:18.540
+Chcemy pozostać bez lidera
+
+00:05:19.510 --> 00:05:26.249
+Więc jeśli spojrzysz na wszystko to, a niektórzy mówią ci, że Bitcoin Cash to nowy Bitcoin - to prawdziwy Bitcoin,
+
+00:05:26.680 --> 00:05:30.989
+albo Bitcoin 1X to prawdziwy Bitcoin,
+
+00:05:30.990 --> 00:05:37.109
+a może to nowy 2X, albo Bitcoin Gold, albo czymkolwiek będzie kolejny fork. Który - "Czy prawdziwy Bitcoin
+
+00:05:37.270 --> 00:05:41.970
+może wstać? Czy ktoś mi powie, który to prawdziwy Bitcoin?"
+
+00:05:44.380 --> 00:05:48.420
+Nie ma prawdziwego Bitcoina. Nie ma obiektywnej prawdy.
+
+00:05:49.810 --> 00:05:51.810
+Nie ma władzy ostatecznej.
+
+00:05:52.600 --> 00:05:54.600
+Nie będzie żadnych odpowiedzi.
+
+00:05:54.670 --> 00:06:02.489
+Nikt nie może ci powiedzieć. Nie może tego zrobić dlatego, że nie możemy odwołać się do autorytetu.
+
+00:06:04.540 --> 00:06:07.799
+Jesteśmy przyzwyczajeni do szukania kogoś, kto nam powie.
+
+00:06:08.140 --> 00:06:12.779
+A czemu potrzebujemy tej odpowiedzi? Po co musimy wiedzieć, który Bitcoin jest prawdziwy?
+
+00:06:13.990 --> 00:06:19.440
+Bo to jasne, że jeśli jeden z nich jest prawdziwy, to tylko ten jeden jest coś wart, prawda?
+
+00:06:20.530 --> 00:06:22.480
+Wartość pochodzi
+
+00:06:22.480 --> 00:06:24.070
+z autentyczności
+
+00:06:24.070 --> 00:06:26.070
+a może nie?
+
+00:06:26.650 --> 00:06:31.830
+"Cóż znaczy nazwa? To, co zwiemy różą, pod inną nazwą nie mniej by pachniało" (cytat Szekspira z Romea i Julii)
+
+00:06:34.300 --> 00:06:42.120
+Czym jest nazwa? Czy to autentyczność nadaje wartość, czy to wartość nadaje autentyczność?
+
+00:06:43.900 --> 00:06:45.900
+Skąd pochodzi ta wartość?
+
+00:06:46.870 --> 00:06:51.000
+I nie wiemy jak sobie z tym poradzić, bo to nie zdarzyło się nigdy wcześniej.
+
+00:06:51.760 --> 00:06:53.410
+Zadam wam więc pytanie.
+
+00:06:53.410 --> 00:06:55.439
+Jak możesz poznać, czym jest prawdziwy dolar?
+
+00:06:58.450 --> 00:06:59.800
+Prawda?
+
+00:06:59.800 --> 00:07:01.630
+Ma jakąś pieczątkę,
+
+00:07:01.630 --> 00:07:05.279
+trochę poważnych numerów seryjnych.
+Może możesz to określić - włożyć go pod światło,
+
+00:07:05.800 --> 00:07:09.840
+zaznaczyć markerem. "OK, ten jest prawdziwy". A co jest napisane z przodu?
+
+00:07:10.479 --> 00:07:12.479
+Czy jest napisane "Jeden dolar"?
+
+00:07:13.000 --> 00:07:17.399
+Otóż nie. Nie przeczytałeś tego wcale. Jest napisane "Banknot Rezerwy Federalnej".
+
+00:07:18.830 --> 00:07:23.949
+To, co trzymasz w portfelu, to figurant. To tylko symbol srebrnego certyfikatu.
+
+00:07:25.220 --> 00:07:32.979
+Kiedyś to był srebrny certyfikat. Te dni się skończyły. Teraz to Banknot Rezerwy Federalnej". A co to jest?
+
+00:07:34.699 --> 00:07:36.699
+Czy to ma znaczenie
+
+00:07:36.860 --> 00:07:40.330
+czy to jest ten prawdziwy dolar? Zabawmy się w ćwiczenie umysłowe.
+
+00:07:42.440 --> 00:07:43.850
+Przez noc
+
+00:07:43.850 --> 00:07:45.770
+wszystkie twoje
+
+00:07:45.770 --> 00:07:51.460
+dolary zostały zamienione na fałszywki. Budzisz się następnego dnia i masz w portfelu podrobione dolary,
+
+00:07:51.919 --> 00:07:55.239
+ale nikt poza tobą chyba tego nie zauważa. Ty wiesz, że są podrobione
+
+00:07:55.310 --> 00:08:02.139
+Wiesz, że dolary wszystkich są fałszywe. Widzisz, jak obracają twoimi fałszywymi dolarami, a wszyscy inni zdają się nie zauważać tej fałszywości.
+
+00:08:02.630 --> 00:08:08.469
+Co się dzieje z wartością systemu? Co się stanie z wartością dolara, jeśli jutro rano wszystkie z nich będą podrobione?
+
+00:08:09.830 --> 00:08:11.830
+Nic.
+
+00:08:11.870 --> 00:08:14.440
+Wciąż będą mieć dokładnie taką samą wartość. O ile wszyscy
+
+00:08:15.110 --> 00:08:20.620
+wierzymy w tę samą rzecz, ona ma dokładnie taką samą wartość. Nieważne, kto ją wydrukował.
+
+00:08:21.349 --> 00:08:23.409
+A zatem jakie to ma znaczenie,
+
+00:08:24.289 --> 00:08:30.249
+który jest prawdziwy? Skąd pochodzi wartość? Nie z autentyczności, ani od
+
+00:08:30.949 --> 00:08:32.360
+władzy.
+
+00:08:32.360 --> 00:08:34.360
+Przychodzi wraz z użytkowaniem.
+
+00:08:34.580 --> 00:08:39.009
+Jeśli używamy tej rzeczy, to jeśli chodzi o nas, jest prawdziwa.
+
+00:08:39.770 --> 00:08:43.059
+To wszystko, co się liczy. I wartość pochodzi właśnie z użytku
+
+00:08:43.250 --> 00:08:49.869
+Banknot nie jest wartościowy jako dolar, bo ma znaczek. Tak naprawdę chodzi
+
+00:08:50.300 --> 00:08:53.740
+tylko o upewnienie się, że nie wydrukowano ich zbyt wiele
+
+00:08:53.930 --> 00:08:56.709
+Zależy ci na autentyczności tylko dlatego,
+
+00:08:56.990 --> 00:09:02.589
+że nie chcesz, aby nagle zalały rynek, bo wtedy zaczną tracić na wartości.
+
+00:09:02.839 --> 00:09:09.249
+A co jeśli to władze, które stawiają pieczątki, zalewają rynek, drukując ich coraz więcej?
+
+00:09:09.500 --> 00:09:11.500
+Teraz mamy już niezłe zamieszanie.
+
+00:09:11.690 --> 00:09:14.469
+Który jest prawdziwy? To nie ma znaczenia.
+
+00:09:15.470 --> 00:09:17.620
+A zatem jeśli pytasz siebie, który to ten prawdziwy
+
+00:09:18.470 --> 00:09:26.010
+Bitcoin, szukasz autentyczności. A problem z jej poszukiwaniem polega na tym, że autentyczność może zapewnić ci
+
+00:09:26.200 --> 00:09:30.420
+tylko autorytet. Ktoś musi to zrobić i ci powiedzieć,
+
+00:09:31.420 --> 00:09:37.439
+podjąć za ciebie tę decyzję, powiedzieć co jest prawdziwe, a co nie, na który fork się zdecydować,
+
+00:09:37.440 --> 00:09:41.280
+i który łańcuch ma znaczenie, który zachowa swoją wartość.
+
+00:09:42.130 --> 00:09:44.130
+I nikt ci tego nie powie.
+
+00:09:44.290 --> 00:09:47.369
+Bo jedyny Bitcoin, który się liczy
+
+00:09:47.680 --> 00:09:52.410
+to ten, który ty postanowisz uznać za właściwy.
+Jeśli prowadzisz swój węzeł, i wybierasz
+
+00:09:52.780 --> 00:09:58.319
+zasady, którymi będziesz się kierować, to dla Ciebie i tylko dla Ciebie to prawdziwy Bitcoin
+
+00:09:58.870 --> 00:10:02.820
+Nie ma obiektywnej prawdy. Jest tylko empiryczna,
+
+00:10:03.730 --> 00:10:05.500
+subiektywna prawda.
+
+00:10:05.500 --> 00:10:09.929
+Czy wiesz, że wszyscy podejmują taką samą decyzję? Nie. Do tego
+
+00:10:10.630 --> 00:10:15.540
+potrzebujesz rynku, a to co robi rynek, to bierze subiektywną
+
+00:10:15.790 --> 00:10:18.839
+opinię każdej osoby o tym, który to prawdziwy Bitcoin
+
+00:10:19.510 --> 00:10:21.510
+i przyznaje mu cenę
+
+00:10:22.270 --> 00:10:26.309
+i zbiera wszystkie decyzje, które podejmujecie, każda z osób,
+
+00:10:26.440 --> 00:10:30.690
+decydując o tym, czy kupić czy sprzedać, za jaką cenę kupić i sprzedać,
+
+00:10:31.930 --> 00:10:35.370
+i tworzy pewien obraz wartości, który mówi:
+
+00:10:36.130 --> 00:10:44.040
+Nie wiem, który jest prawdziwy, ale ludzie chyba myślą, że ten, bo wynika tak z ich decyzji.
+
+00:10:45.520 --> 00:10:49.800
+A zatem najlepszym sposobem by to zrobić, utrzymać prawdziwego Bitcoina,
+
+00:10:50.770 --> 00:10:55.679
+to mieć swój własny węzeł i działać według własnych zasad, jak wiele osób w tej sali taki robi?
+
+00:10:58.660 --> 00:11:02.969
+15 osób z 275. To nie wystarczy.
+
+00:11:03.280 --> 00:11:09.959
+Większość z nas deleguje tę decyzję. Mówimy "OK, jeśli wybiorę portfel
+
+00:11:11.050 --> 00:11:15.959
+stworzony przez zespół, który deklaruje, że podziela moje zasady i wartości
+
+00:11:16.570 --> 00:11:23.879
+i działa według tych samych zasad dotyczących Bitcoina, które według mnie tworzą prawdziwego Bitcoina, to w ten sposób
+
+00:11:24.790 --> 00:11:26.790
+wyrażam swoją
+
+00:11:26.800 --> 00:11:29.340
+opinię o tym, co jest prawda, co jest prawdziwe,
+
+00:11:29.340 --> 00:11:36.239
+który to prawdziwy Bitcoin." A problem dotyczy nie tylko Bitcoina. No bo, Ethereum czy Ethereum Classic?
+
+00:11:37.450 --> 00:11:39.450
+Podnieście ręce: Ethereum,
+
+00:11:40.690 --> 00:11:44.249
+Classic, Ethereum, Classic. (śmiech)
+
+00:11:46.600 --> 00:11:48.600
+Który jest prawdziwy?
+
+00:11:48.730 --> 00:11:50.969
+Co ciekawe, ludzie którzy są
+
+00:11:51.850 --> 00:11:56.520
+nauczeni autorytetów, poszukują swego rodzaju ochrony autentyczności.
+
+00:11:57.340 --> 00:11:59.669
+"Pozwać tych drani o naruszenie znaku firmowego!"
+
+00:12:01.780 --> 00:12:03.839
+"Próbują ukraść markę."
+
+00:12:04.600 --> 00:12:11.820
+To oldschoolowe myślenie. To jest podstawa starych walut. Nie jesteśmy już w grze o sumie zerowej.
+
+00:12:13.510 --> 00:12:15.510
+A oto złe wieści.
+
+00:12:17.080 --> 00:12:18.580
+Mielibyśmy naszą
+
+00:12:18.580 --> 00:12:21.419
+odpowiedź, jeśli jedna z tych rzeczy by przetrwała
+
+00:12:21.430 --> 00:12:28.080
+a inne by po prostu odeszły, umarły. Prawda? Jakby było fantastycznie, gdyby
+
+00:12:28.510 --> 00:12:30.599
+jedna waluta - ta prawdziwa -
+
+00:12:31.180 --> 00:12:34.859
+wyłoniła się jako zwycięzca, i w końcu te inne
+
+00:12:36.280 --> 00:12:38.819
+by zniknęły. Aby coś mogło wygrać,
+
+00:12:39.850 --> 00:12:44.730
+coś musi przegrać i to w taki sposób, że zniknie.
+
+00:12:45.580 --> 00:12:48.719
+Żadna z tych rzeczy nigdy nie zniknie.
+
+00:12:49.540 --> 00:12:55.830
+O ile przynajmniej dwie osoby pracują na algorytmie konsensusu, moneta trwa. Istnieją monety z 2012 roku
+
+00:12:56.350 --> 00:13:00.659
+z bardzo wczesnego boomu alternatywnych monet, które wciąż funkcjonują.
+
+00:13:01.480 --> 00:13:06.930
+Nikt już nie wie czym one są, ale są i mogą tak być już zawsze.
+
+00:13:08.650 --> 00:13:14.609
+Mamy zatem dziś tysiąc łańcuchów blokowych, a za kilka lat
+
+00:13:14.610 --> 00:13:20.430
+będziemy mieć 10.000, a potem sto tysiący, potem milion, i potem
+
+00:13:20.970 --> 00:13:22.970
+10 milionów, i żaden z nich nigdy nie umrze,
+
+00:13:23.220 --> 00:13:25.249
+bo gdzieś, prawdopodobnie
+
+00:13:26.730 --> 00:13:28.730
+w małym domku w Montanie
+
+00:13:29.760 --> 00:13:35.599
+z anteną satelitarną i raspberry pie znajdzie się ten jeden niezłomny
+
+00:13:37.170 --> 00:13:38.640
+użytkownik
+
+00:13:38.640 --> 00:13:44.299
+Bitcoin Flooze, czy jakikolwiek jest najnowszy fork - mówiąc: "To ten jest prawdziwy, a Ty
+
+00:13:44.940 --> 00:13:48.799
+możesz go wyrwać z moich zimnych, martwych rąk!"
+
+00:13:50.520 --> 00:13:52.879
+I tak ten jeden będzie istniał zawsze.
+
+00:13:54.420 --> 00:13:56.420
+Nie będzie zwycięzcy,
+
+00:13:56.880 --> 00:13:59.090
+bo to nie jest ani konkurs
+
+00:14:00.270 --> 00:14:02.270
+eliminacji, bo to nie jest
+
+00:14:03.030 --> 00:14:08.599
+sezon gier, to nie jest World Series. To nie jest mecz, w którym pozbywasz się przeciwnika.
+
+00:14:10.440 --> 00:14:14.330
+To system, w którym każdy może zdecydować się iść swoją własną ścieżką,
+
+00:14:14.730 --> 00:14:21.500
+stworzyć swoją własną monetę, i tak będą ich tysiące, potem setki tysięcy, potem miliony, i to nie ma znaczenia,
+
+00:14:23.130 --> 00:14:28.700
+która jest prawdziwa, bo nie ma prawdy absolutnej. Nie ma obiektywnej odpowiedzi.
+
+00:14:29.190 --> 00:14:31.190
+Musimy się przyzwyczaić
+
+00:14:32.430 --> 00:14:35.060
+do niepewności. Musimy zrozumieć,
+
+00:14:35.460 --> 00:14:41.509
+że one wszystkie będą istnieć, a jedyna rzecz, która się liczy to to, której postanowisz użyć,
+
+00:14:41.970 --> 00:14:45.560
+ponieważ wartość nie wynika z jej autentyczności,
+
+00:14:46.200 --> 00:14:51.559
+autoryzacji, namaszczenia czy wygranej. Pochodzi z użytkowania.
+
+00:14:52.260 --> 00:14:57.109
+Jedyna wartość to wartość użytkowania. Aż wreszcie zdajesz sobie sprawę,
+
+00:14:57.600 --> 00:15:00.830
+że tak jest z wszystkimi walutami. Żadna z nich nie ma wewnętrznej wartości.
+
+00:15:01.560 --> 00:15:04.640
+Żadna z nich się nie liczy, jeśli chodzi o autorytet.
+
+00:15:04.640 --> 00:15:09.410
+Mają znaczenie jedynie w sensie użytkowania. Okazuje się, że euro, jen,
+
+00:15:09.720 --> 00:15:17.150
+dolar amerykański, one wszystkie mają wartość nie dlatego, że powiedział tak rząd, ale dlatego że uwierzyliśmy,
+
+00:15:18.480 --> 00:15:25.610
+i będą mieć wartość, tak długo jak będziemy w to wierzyć. Nawet ten autorytet jest fałszywy.
+
+00:15:27.210 --> 00:15:28.910
+Nawet te pieniądze
+
+00:15:28.910 --> 00:15:30.910
+są fałszywe. To iluzja.
+
+00:15:31.770 --> 00:15:39.410
+Jedyne co się liczy, to to, czego postanowimy używać. Nie ma autentyczności. Nie ma prawdy obiektywnej.
+
+00:15:40.290 --> 00:15:41.820
+I oto niebezpieczeństwo.
+
+00:15:41.820 --> 00:15:48.860
+Ludziom jest bardzo niewygodnie z tą ideą. Chcą odpowiedzi. Chcą prostej,
+
+00:15:49.560 --> 00:15:57.349
+obiektywnej prawdy, której mogą się trzymać i powiedzieć "To ta jest prawdziwa", a oni nigdy tego nie zrozumieją, albo zdelegują
+
+00:15:58.080 --> 00:15:59.970
+swoją odpowiedzialność na innych ludzi.
+
+00:15:59.970 --> 00:16:03.830
+Powiedzą "E tam, niech Coinbase zdecyduje.
+
+00:16:04.290 --> 00:16:11.300
+Niech zdecyduje hostowany portfel, niech kursy walut za mnie zdecydują. Którykolwiek fork wspierają, to będzie mój fork."
+
+00:16:12.960 --> 00:16:14.960
+Delegując tę odpowiedzialność,
+
+00:16:16.110 --> 00:16:18.259
+jest taki bardzo niebezpieczny moment,
+
+00:16:19.650 --> 00:16:21.510
+w którym firmy, które
+
+00:16:21.510 --> 00:16:23.810
+odniosły sukcesy w tej przestrzeni
+
+00:16:24.840 --> 00:16:26.070
+zapominają,
+
+00:16:26.070 --> 00:16:29.270
+że służą swoim użytkownikom,
+
+00:16:29.970 --> 00:16:31.970
+a nie reprezentują
+
+00:16:32.220 --> 00:16:36.589
+swoich użytkowników. Nie otrzymali mandatu od elektoratu
+
+00:16:37.320 --> 00:16:42.020
+dzięki 10 milionom użytkowników, aby ich reprezentować,
+
+00:16:42.660 --> 00:16:46.850
+czy ogólnej zgody do bycia ich wybranymi reprezentantami poprzez biznes.
+
+00:16:47.520 --> 00:16:53.300
+Służą klientom. To nie klienci służą im
+
+00:16:54.300 --> 00:17:00.409
+A przez ostatnich kilka lat mogliśmy zaobserwować stopniowy spadek, gdy ludzie, którzy zaczęli obsługiwać klientów
+
+00:17:01.050 --> 00:17:03.000
+zaczęli wierzyć,
+
+00:17:03.000 --> 00:17:09.560
+że mają mandat do reprezentowania swojej bazy klientów, podejmowania decyzji na temat
+
+00:17:10.080 --> 00:17:17.569
+konsensusu, ani narzucać tych decyzji komukolwiek innemu. To jest bardzo niebezpieczna ścieżka.
+To ścieżka,
+
+00:17:18.150 --> 00:17:20.330
+tak jak wspominała Elyse, centralizacji.
+
+00:17:21.120 --> 00:17:23.120
+Jeśli zrezygnujesz ze swojej
+
+00:17:23.460 --> 00:17:26.269
+odpowiedzialności za wybory w oparciu o własne zasady
+
+00:17:26.270 --> 00:17:31.700
+i przekażesz tę władzę komuś innemu, tak jak oddanie komuś swoich kluczy,
+
+00:17:32.340 --> 00:17:34.110
+to już nie należysz
+
+00:17:34.110 --> 00:17:38.390
+do społeczeństwa, już nie uczestniczysz w konsensusie, to już
+
+00:17:39.420 --> 00:17:41.420
+nie wyrażasz swoich zasad poprzez wybór.
+
+00:17:42.300 --> 00:17:49.070
+Delegujesz je centralnej władzy, i wszystko odtąd zaczyna się psuć
+
+00:17:49.740 --> 00:17:54.380
+bardzo, bardzo szybko, ponieważ władza korumpuje, a władza absolutna korumpuje absolutnie.
+
+00:17:56.460 --> 00:18:03.230
+Nie popełniaj błędu przez poszukiwania prostej odpowiedzi, bezpośredniego autorytetu, który powie Ci, który jest prawdziwy.
+
+00:18:03.300 --> 00:18:05.040
+Wszystkie są prawdziwe.
+
+00:18:05.040 --> 00:18:08.810
+Nie ma różnicy między prawdziwym a fałszywym.
+
+00:18:09.840 --> 00:18:11.840
+Który jest użyteczny?
+
+00:18:13.020 --> 00:18:15.020
+Który dodaje mocy?
+
+00:18:15.900 --> 00:18:18.829
+Który jest zgodny z twoimi zasadami?
+
+00:18:20.010 --> 00:18:23.839
+Który pozwala osiągać te rzeczy, które chcesz zobaczyć na świecie?
+
+00:18:25.470 --> 00:18:27.470
+Czy to dla ciebie dostatecznie prawdziwe?
+
+00:18:28.080 --> 00:18:34.340
+Podążaj za tym, i pozwól rynkowi zebrać wszystkie te opinie, abyś mógł wyrazić swój wybór.
+
+00:18:36.000 --> 00:18:38.000
+Nie będzie zwycięzców,
+
+00:18:38.490 --> 00:18:43.609
+ale razem możemy się upewnić, że podejmując samodzielnie te decyzje,
+
+00:18:44.430 --> 00:18:51.919
+przejmując kontrolę nad swoimi kluczami, i kontrolę nad konsensusem kiedy tylko możemy, a wyrażając tę opinię,
+
+00:18:53.130 --> 00:18:58.940
+nie dotrzemy do prawdy ostatecznej, ale wrzucimy swoje własne trzy grosze,
+
+00:18:59.850 --> 00:19:03.770
+swój własny wybór na rynek. Dołożymy go i mamy nadzieję, że rynek
+
+00:19:04.590 --> 00:19:06.420
+to odzwierciedli,
+
+00:19:06.420 --> 00:19:08.420
+tak abyśmy mieli coś, co
+
+00:19:09.030 --> 00:19:16.489
+przetrwa, co jest odporne na cenzurę, neutralne, otwarte, co dodaje sił
+
+00:19:16.620 --> 00:19:19.370
+jednostkom i nie można tego
+
+00:19:19.980 --> 00:19:21.980
+łatwo odebrać.
+
+00:19:22.560 --> 00:19:27.440
+Tym, co robimy, to decentralizowanie prawdy. Dziękuję.
