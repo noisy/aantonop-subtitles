@@ -16,3 +16,8 @@ As you can read on [Andreas website](https://antonopoulos.com/donate/):
 
 This repository is under MIT licence.
 
+# Donations
+
+* STEEM: `@andreas-m-videos`
+* BTC: `1MNWekz65At8iTCdNyqRemHWhcwSeaGNFu`
+* ETH: `0x267d6e5BEb6e4529066Aef87c277105820FdaE71`
