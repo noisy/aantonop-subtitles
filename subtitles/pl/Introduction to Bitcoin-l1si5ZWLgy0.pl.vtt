@@ -1,1222 +1,1222 @@
 WEBVTT
 Kind: captions
-Language: en
+Language: pl
 
 00:00:01.720 --> 00:00:05.940
-And his newest book just came out eight days ago called "The Internet of Money"
+Jego najnowsza książka "Internet pieniądza" pojawiła się 8 dni temu
 
 00:00:05.940 --> 00:00:07.800
-which is a masterpiece to read.
+i jest arcydziełem wartym przeczytania.
 
 00:00:07.860 --> 00:00:10.020
-Please help me welcome, Andreas Antonopoulos!
+Proszę powitajcie ze mną, Andreas Antonopoulos!
 
 00:00:16.420 --> 00:00:18.420
-Good morning everyone!
+Dzień dobry wszystkim!
 
 00:00:19.540 --> 00:00:22.080
-Let's start with a quick poll here.
+Zacznijmy od szybkiej ankiety.
 
 00:00:22.420 --> 00:00:28.420
-How many of you have used a digital currency like Bitcoin at least once?
+Ilu z Was używało cyfrowej waluty takiej jak Bitcoin przynajmniej raz?
 
 00:00:30.680 --> 00:00:35.660
-And how many of you own Bitcoin at this moment or any other digital currency?
+A jak wielu z Was posiada Bitcoiny w tym momencie lub jakąkolwiek inną cyfrową walutę?
 
 00:00:36.480 --> 00:00:39.380
-Okay, we can fix that.
+Ok, możemy to naprawić.
 
 00:00:43.600 --> 00:00:50.640
-If you like, later on, today, come find me. I would be delighted to demonstrate to you how to set up
+Jeśli ktoś zechce, później, dzisiaj, niech mnie znajdzie. Byłbym zachwycony, mogąc pokazać, jak skonfigurować
 
 00:00:51.280 --> 00:00:54.360
-a Bitcoin wallet on your smartphone,
+portfel Bitcoina na Twoim smartfonie,
 
 00:00:55.180 --> 00:00:58.160
-and I will give you your first
+I dam Ci Twój pierwszy ułamek 
 
 00:00:58.800 --> 00:01:01.540
-fraction of a bitcoin, not a whole Bitcoin,
+Bitcoina, nie całego Bitcoina.
 
 00:01:03.040 --> 00:01:05.420
-and show you how a transaction works
+I pokażę jak działa transakcja,
 
 00:01:06.000 --> 00:01:11.800
-because Bitcoin and the digital currency revolution it has started is best
+ponieważ Bitcoin i rewolucja walut cyfrowych właśnie się zaczęła, lepiej 
 
 00:01:12.060 --> 00:01:17.240
-demonstrated and experienced, then explained.
+zademonstrować i doświadczyć tego samemu niż tłumaczyć teoretycznie.
 
 00:01:18.060 --> 00:01:23.440
-It's actually very difficult to explain Bitcoin. I've spent the last five years
+Tak naprawdę bardzo trudno jest wytłumaczyć czym jest Bitcoin. 
 
 00:01:23.720 --> 00:01:26.880
-learning how to explain Bitcoin.
+Spędziłem ostatnie 5 lat ucząc się jak tłumaczyć działanie Bitcoina.
 
 00:01:26.880 --> 00:01:28.640
-That is my full-time job.
+To jest moja pełnoetatowa praca.
 
 00:01:29.400 --> 00:01:36.440
-Unfortunately, the developers keep making new stuff which I then have to explain all over again.
+Niestety programiści tworzą nowe rzeczy, które później muszę wyjaśniać od nowa.
 
 00:01:38.260 --> 00:01:44.920
-So, for a moment, forget everything you think you know about Bitcoin.
+Tak więc, na chwilę zapomnijcie o wszystkim, co wam się wydaje że wiecie o Bitcoinie.
 
 00:01:45.360 --> 00:01:51.080
-Forget everything you've heard about blockchain and let's start from basics.
+Zapomnijcie o wszystkim, co słyszeliście o blockchain i zacznijmy od podstaw.
 
 00:01:52.520 --> 00:01:56.380
-In 2011, I heard about Bitcoin for the first time
+W 2011 roku po raz pierwszy usłyszałem o Bitcoinie, a moja reakcja była dokładnie
 
 00:01:57.120 --> 00:02:04.100
-and my reaction was exactly the same as the reaction of everybody else who heard about Bitcoin the first time
+taka sama jak reakcja wszystkich, którzy po raz pierwszy usłyszeli o Bitcoinie,
 
 00:02:04.100 --> 00:02:09.380
-including its founder and that reaction was: "hah, nerd money!"
+łącznie z jej założycielem. Ta reakcja była następująca: "hah, pieniądze dla geeków!"
 
 00:02:10.800 --> 00:02:13.160
-That's probably just for gambling.
+To prawdopodobnie tylko do hazardu.
 
 00:02:14.600 --> 00:02:17.600
-Six months later, I heard about Bitcoin again
+Sześć miesięcy później znowu usłyszałem o Bitcoinie
 
 00:02:18.880 --> 00:02:23.600
-and this time, I read the white paper that launched this system
+i tym razem przeczytałem białą księgę (whitepaper) tego systemu,
 
 00:02:25.040 --> 00:02:30.120
-and my background in computer science and distributed systems allowed me to see
+a moje doświadczenie w informatyce i systemach rozproszonych pozwoliło mi zobaczyć to,
 
 00:02:30.240 --> 00:02:33.300
-behind the illusion of what I thought Bitcoin was
+co się kryje za moimi pierwszymi wyobrażeniami Bitcoina
 
 00:02:33.840 --> 00:02:35.580
-and It blew my mind.
+i to totalnie mnie wciągnęło.
 
 00:02:36.540 --> 00:02:43.520
-In my life, I have now had six occasions in which I have become absolutely obsessed
+W moim życiu miałem dotychczas sześć przypadków, kiedy wpadłem w całkowitą obsesję
 
 00:02:44.260 --> 00:02:50.880
-with a system of technology to the point of forgetting to eat, forgetting to sleep
+na punkcie systemu technologii do tego stopnia, że zapominałem o jedzeniu, zapominałem o spaniu
 
 00:02:51.180 --> 00:02:54.500
-and consuming as much knowledge as I possibly can.
+i pochłaniałem tak dużo wiedzy, ile tylko byłem w stanie.
 
 00:02:56.820 --> 00:03:00.080
-My first computer when I was 10 years old,
+Mój pierwszy komputer, gdy miałam 10 lat,
 
 00:03:01.680 --> 00:03:04.960
-my first programming language experience,
+moje pierwsze doświadczenie w programowaniu,
 
 00:03:04.960 --> 00:03:06.360
-my first modem,
+mój pierwszy modem,
 
 00:03:06.780 --> 00:03:11.940
-my first access to the web the first time I use the web browser.
+mój pierwszy dostęp do Internetu przy użyciu przeglądarki internetowej.
 
 00:03:12.680 --> 00:03:16.640
-The first time I downloaded and installed the Linux operating system
+Pierwszy raz jak pobrałem i zainstalowałem system operacyjny Linux,
 
 00:03:19.160 --> 00:03:20.640
-and then Bitcoin.
+a następnie Bitcoin.
 
 00:03:21.820 --> 00:03:29.720
-When I've discovered it, I spent four months consuming as much as I could, except food.
+Kiedy go odkryłem, spędziłem cztery miesiące, pochłaniając tyle ile mogłem, pomijając jedzenie.
 
 00:03:30.400 --> 00:03:37.260
-I lost 26 pounds on the highly inadvisable diet of obsession.
+Straciłem 26 funtów na wysoce niewskazanej diecie obsesji.
 
 00:03:40.220 --> 00:03:43.720
-I have not emerged from that
+Nie wynurzyłem się z tego,
 
 00:03:43.980 --> 00:03:49.080
-because I keep finding new layers of depth to understand this
+ponieważ wciąż znajduję nowe warstwy do zrozumienia coraz głębiej
 
 00:03:50.120 --> 00:03:52.620
-and the reason it's so fascinating
+i jest to tak fascynujące dlatego, że 
 
 00:03:53.280 --> 00:03:57.020
-is because it isn't what it appears to be at first glance.
+nie jest tak, jak się wydaje na pierwszy rzut oka.
 
 00:03:59.140 --> 00:04:00.880
-Bitcoin isn't money.
+Bitcoin to nie pieniądze.
 
 00:04:02.260 --> 00:04:09.620
-The blockchain isn't a system of currency. It is a platform of trust.
+Blockchain nie jest systemem walutowym. To platforma zaufania.
 
 00:04:10.560 --> 00:04:16.840
-It's not a company, it's not a product, it's not a service you sign up for.
+To nie jest firma, to nie produkt, to nie jest usługa, do której się rejestrujesz.
 
 00:04:19.060 --> 00:04:22.020
-it's not a currency.
+To nie jest waluta.
 
 00:04:22.560 --> 00:04:25.900
-Currency is just the first application.
+Waluta jest tylko pierwszą aplikacją.
 
 00:04:27.000 --> 00:04:30.680
-It is the concept of decentralization
+Jest to koncepcja decentralizacji zastosowana do ludzkiego
 
 00:04:31.160 --> 00:04:35.400
-applied to the human communication of value.
+sposobu komunikacji przy pomocy przekazywania wartości.
 
 00:04:37.040 --> 00:04:45.540
-Because what is money? (UNINTELLIGIBLE) told us it's an illusion. It's imaginary.
+Bo czym są pieniądze? Ktoś powiedziałby to złudzenie, fikcja.
 
 00:04:47.840 --> 00:04:54.340
-And the reason we don't grasp that is because it's so deeply embedded in our civilization.
+Nie zauważamy tego, ponieważ są głęboko osadzone w naszej cywilizacji.
 
 00:04:54.900 --> 00:04:58.560
-Money is one of the oldest technologies humanity has.
+Pieniądze to jedna z najstarszych technologii, jakie ma ludzkość.
 
 00:04:59.900 --> 00:05:01.980
-It precedes writing.
+Poprzedzają pismo.
 
 00:05:02.820 --> 00:05:04.140
-How do we know that?
+Skąd to wiemy?
 
 00:05:04.420 --> 00:05:09.160
-The very first samples of writing we have are spreadsheets.
+Pierwszymi próbkami pisma, jakie mamy, są arkusze obliczeniowe.
 
 00:05:11.420 --> 00:05:19.400
-They are tallies and ledgers of debts owed and money pre-existed that writing.
+Są to rachunki i księgi wierzytelności, a pieniądze istniały przed tymi zapisami.
 
 00:05:21.080 --> 00:05:26.260
-You might even speculate that money had an oral tradition
+Można by spekulować, że pieniądze mają ustną tradycję.
 
 00:05:26.940 --> 00:05:33.780
-Until it needed to invent a written tradition so writing was created for it.
+Aż powstała potrzeba wynalezienia pisemnej tradycji, więc w tym celu wynaleziono pismo.
 
 00:05:35.900 --> 00:05:40.280
-In the history of money that now spans tens of thousands of years,
+W historii pieniędzy, które obecnie obejmują dziesiątki tysięcy lat,
 
 00:05:40.280 --> 00:05:44.420
-there have been maybe five major changes.
+było może pięć poważnych zmian.
 
 00:05:46.140 --> 00:05:51.980
-From pure barter exchange to the introduction of the first abstraction of value,
+Od czystej wymiany barterowej do wprowadzenia pierwszej abstrakcyjnej wartości,
 
 00:05:51.980 --> 00:06:01.320
-shells, feathers, beads, nuts, stones, and then precious metals.
+muszle, pióra, koraliki, orzechy, kamienie, a następnie metale szlachetne.
 
 00:06:02.980 --> 00:06:11.420
-And then paper money, and then plastic money, and now, network money.
+A potem papierowe pieniądze, potem plastikowe pieniądze, a teraz pieniądze sieciowe.
 
 00:06:13.500 --> 00:06:21.680
-Bitcoin introduces a platform on which you can run currency as an application
+Bitcoin wprowadza platformę, na której można uruchomić walutę jako aplikację
 
 00:06:22.100 --> 00:06:25.440
-on a network without any central points of control
+w sieci, bez centralnych punktów kontrolnych.
 
 00:06:26.060 --> 00:06:30.120
-A system completely decentralized like the Internet itself.
+System całkowicie zdecentralizowany, podobnie jak sam Internet.
 
 00:06:30.180 --> 00:06:35.740
-It is not money for the Internet but The Internet of Money.
+To nie pieniądz Internetu, ale Internet pieniądza.
 
 00:06:37.040 --> 00:06:38.940
-And what is money?
+A czym są pieniądze?
 
 00:06:38.940 --> 00:06:40.940
-Money is a language.
+Pieniądze to język.
 
 00:06:42.180 --> 00:06:52.660
-Money is a linguistic abstraction. Money is a language that we use to communicate value to each other.
+Pieniądze to lingwistyczna abstrakcja. Pieniądz to język, którego używamy do przekazywania sobie nawzajem wartości.
 
 00:06:56.960 --> 00:07:00.500
-Money simply allows us to express value
+Pieniądze po prostu pozwalają nam wyrazić wartość
 
 00:07:01.420 --> 00:07:09.160
-and that value may have economic consequences but it also has other consequences.
+i ta wartość może mieć ekonomiczne konsekwencje, ale ma również inne konsekwencje.
 
 00:07:09.400 --> 00:07:14.920
-We use money to express and create social bonds,
+Używamy pieniędzy do wyrażania i tworzenia więzi społecznych,
 
 00:07:17.180 --> 00:07:19.180
-and relationships,
+i relacji,
 
 00:07:20.040 --> 00:07:25.280
-and associations, and to create organization.
+i stowarzyszeń, i aby stworzyć organizację.
 
 00:07:29.000 --> 00:07:36.480
-Bitcoin is the first system of money that is not controlled by any entity,
+Bitcoin to pierwszy system pieniądza, który nie jest kontrolowany przez żadną jednostkę,
 
 00:07:36.860 --> 00:07:39.260
-that is completely decentralized.
+jest całkowicie zdecentralizowany.
 
 00:07:42.040 --> 00:07:49.360
-And what that does is it introduces the very same things that the Internet brought to communication.
+I to właśnie wprowadza te same rzeczy, które Internet wniósł do komunikacji.
 
 00:07:51.500 --> 00:07:59.080
-If money is speech, if money is a language and you disconnected from all other media,
+Jeśli pieniądze są mową, jeśli pieniądze są językiem, a ty odłączasz się od wszystkich innych mediów,
 
 00:07:59.580 --> 00:08:02.800
-and you make it pure speech, pure content,
+i zrobisz z niego czystą mowę, czystą treść,
 
 00:08:03.160 --> 00:08:07.100
-an Internet content type, a protocol designation
+typem treści internetowej, oznaczeniem protokołu
 
 00:08:08.460 --> 00:08:10.460
-money over IP,
+Money over IP
+(pieniądze przesyłane internetowym protokołem)
 
 00:08:12.960 --> 00:08:18.980
-it completely separates it from all of these previous notions of nations,
+to całkowicie oddzielasz to od wszystkich poprzednich używanych przez narody notacji,
 
 00:08:20.000 --> 00:08:23.660
-sovereign issuers, institutions that control.
+emitentów państwowych, instytucji sprawujących kontrolę.
 
 00:08:26.300 --> 00:08:30.660
-And so we go from institution-based money to network-based money.
+I tak przechodzimy od pieniędzy bazujących na instytucjach do pieniędzy opartych na sieci.
 
 00:08:31.580 --> 00:08:36.180
-And of course, everyone will welcome this with open arms.
+I oczywiście wszyscy przyjmą to z otwartymi ramionami.
 
 00:08:36.980 --> 00:08:38.980
-Not a chance.
+Nie ma mowy.
 
 00:08:39.960 --> 00:08:43.260
-What do you think they said the first time someone was presented
+Jak myślisz, co powiedzieli, gdy po raz pierwszy ktoś przedstawił
 
 00:08:43.260 --> 00:08:47.480
-with a gold depository certificate instead of a gold coin?
+certyfikat depozytu złota zamiast złotej monety?
 
 00:08:48.440 --> 00:08:51.660
-They said: "Hah, that's not money!
+Powiedzieli: "Hah, to nie pieniądze!
 
 00:08:52.140 --> 00:08:53.780
-Go away!"
+Odejdź!
 
 00:08:55.020 --> 00:08:58.860
-What do you think happened in 1950 the first time someone showed up
+Jak sądzicie, co wydarzyło się w 1950 roku, kiedy po raz pierwszy ktoś przedstawił
 
 00:08:59.480 --> 00:09:08.100
-at a motel and presented their diners club membership card and said: "I'll pay with this piece of paper!"
+w motelu kartę członkowską klubu dla dinerów i stwierdził: "Zapłacę tym kawałkiem papieru!"
 
 00:09:09.820 --> 00:09:13.260
-"That's not money. Go away!"
+"To nie pieniądze. Odejdź!"
 
 00:09:14.660 --> 00:09:19.540
-And now we're on the verge of a new transformation of money.
+A teraz jesteśmy na skraju nowej transformacji pieniędzy.
 
 00:09:20.920 --> 00:09:25.380
-We're on the verge of creating the first completely global,
+Jesteśmy bliscy stworzenia pierwszej całkowicie globalnej,
 
 00:09:26.520 --> 00:09:28.540
-completely borderless,
+całkowicie bez granic,
 
 00:09:28.920 --> 00:09:33.900
-completely decentralized, and completely open form of money,
+całkowicie zdecentralizowanej i całkowicie otwartej formy pieniędzy.
 
 00:09:34.280 --> 00:09:38.900
-one where you can build applications because this money is programmable,
+Takiej, w której można tworzyć aplikacje, ponieważ te pieniądze są programowalne,
 
 00:09:39.200 --> 00:09:43.260
-and you don't need to ask anyone's permission to launch an application
+i nie musisz więcej pytać nikogo o pozwolenie na uruchomienie aplikacji
 
 00:09:43.360 --> 00:09:48.580
-any more than you need to ask permission to launch an application on the Internet.
+tak samo jak nie musisz prosić o pozwolenie na uruchomienie aplikacji w Internecie.
 
 00:09:49.040 --> 00:09:53.660
-And the only requirement to have a successful application on The Internet of Money
+Jedynym wymogiem, aby mieć udaną aplikację w Internecie pieniądza
 
 00:09:53.720 --> 00:10:00.260
-is two interested participants. That is your market segment and you have an application.
+jest istnienie dwóch zainteresowanych stron. To jest twój segment rynku i masz aplikację.
 
 00:10:01.460 --> 00:10:04.020
-And a million applications will flourish.
+I milion aplikacji będzie się rozwijać.
 
 00:10:04.820 --> 00:10:08.060
-When you push innovation to the edges of the network,
+Kiedy wprowadzisz innowacje na margines sieci,
 
 00:10:08.640 --> 00:10:12.980
-when you remove the requirement for permission, what happens?
+kiedy usuniesz wymóg uzyskania pozwolenia, co się dzieje?
 
 00:10:13.420 --> 00:10:17.740
-Exponential explosion in innovation.
+Następuje wykładniczy wybuch innowacji.
 
 00:10:18.780 --> 00:10:22.320
-The applications that could not be built on the old systems of money
+Aplikacje, których nie można zbudować na starych systemach pieniężnych,
 
 00:10:22.320 --> 00:10:27.960
-because they required permission because they required a significantly large market segment,
+ponieważ wymagały pozwolenia, ponieważ wymagały znaczącego segmentu rynku,
 
 00:10:27.960 --> 00:10:32.960
-because they required adoption by many, in order to be available at all.
+ponieważ wymagały przyjęcia przez wielu, aby w ogóle były dostępne,
 
 00:10:35.260 --> 00:10:38.840
-Now, none of those requirements exist.
+teraz żadne z tych wymagań nie istnieje.
 
 00:10:40.060 --> 00:10:47.340
-Anyone in the world can download an application or use even a feature phone with text messaging
+Każdy użytkownik na świecie może pobrać aplikację lub skorzystać z telefonu z funkcjami wiadomości tekstowych
 
 00:10:47.960 --> 00:10:54.400
-and immediately acquire the same powers that institutions of banking have today.
+i natychmiast uzyskać te same uprawnienia, które mają dziś instytucje bankowe.
 
 00:10:56.140 --> 00:11:00.940
-And when I say anyone, that's only scratching the surface.
+A kiedy opowiadam o tym, to tylko drapie powierzchnię istniejących możliwości.
 
 00:11:01.540 --> 00:11:08.860
-Because ironically enough, not only does Bitcoin and blockchain currency not recognize borders,
+Ponieważ na ironię, Bitcoin i waluta blockchain nie tylko nie rozpoznają granic,
 
 00:11:09.340 --> 00:11:11.820
-it also does not recognize people.
+nie rozpoznają też ludzi.
 
 00:11:14.340 --> 00:11:17.460
-It doesn't matter if you're a person
+Nie ma znaczenia, czy jesteś osobą,
 
 00:11:18.820 --> 00:11:23.100
-or a refrigerator, or a self-driving car.
+lodówką czy samo jeżdżącym samochodem.
 
 00:11:23.840 --> 00:11:27.880
-Thought-out the history of money ownership of currency required
+Patrząc na historię posiadania pieniędzy dotychczasowe waluty wymagają istnienia osobowości
 
 00:11:29.020 --> 00:11:37.040
-personhood either as an individual or as an association of individuals in a corporation.
+w znaczeniu indywidualnej osoby fizycznej lub stowarzyszenia pojedynczych osób w przedsiębiorstwie.
 
 00:11:39.140 --> 00:11:41.140
-Bitcoin can be owned by machines,
+Bitcoin może być własnością maszyn,
 
 00:11:41.400 --> 00:11:45.580
-Bitcoin can be owned by software agents, machines can pay each other
+Bitcoin może być własnością zaprogramowanego agenta, maszyny mogą sobie nawzajem płacić
 
 00:11:46.120 --> 00:11:49.360
-and that is not just about economic activity.
+i nie chodzi tylko o aktywność ekonomiczną.
 
 00:11:50.060 --> 00:11:53.040
-It's the basis for market-based security systems.
+Jest to podstawa dla systemów bezpieczeństwa opartych na rynku.
 
 00:11:53.340 --> 00:11:57.580
-It's the basis for creating bonds of authentication between devices.
+Jest to podstawa do tworzenia więzi uwierzytelniania między urządzeniami.
 
 00:11:57.640 --> 00:12:01.180
-It's the basis of new applications that have never been done before
+Jest to podstawa nowych aplikacji, które nigdy wcześniej nie istniały.
 
 00:12:02.120 --> 00:12:07.160
-Bitcoin and blockchain technology unifies the systems of money.
+Technologia Bitcoin i blockchain ujednolica systemy pieniężne.
 
 00:12:07.760 --> 00:12:10.740
-Today we have systems of money for small payments,
+Dzisiaj mamy systemy pieniężne dla małych płatności,
 
 00:12:11.060 --> 00:12:13.020
-systems of money for large payments.
+systemy pieniężne dla dużych płatności.
 
 00:12:13.320 --> 00:12:16.320
-We have systems of money for payments between individuals,
+Mamy systemy pieniędzy na płatności między osobami prywatnymi,
 
 00:12:16.400 --> 00:12:19.120
-we have systems of money for payments between companies,
+Mamy systemy pieniędzy na płatności między firmami,
 
 00:12:19.240 --> 00:12:22.080
-we have systems of money for payments between governments.
+Mamy systemy pieniędzy na płatności między rządami,
 
 00:12:22.600 --> 00:12:24.320
-Does that remind you of something?
+Czy to Wam czegoś nie przypomina?
 
 00:12:24.860 --> 00:12:28.100
-That's how communication used to be before the Internet.
+Tak właśnie była komunikacja przed Internetem.
 
 00:12:28.580 --> 00:12:34.200
-We had systems of communication for pictures, systems of communication for letters,
+Mieliśmy systemy komunikacji dla obrazów, systemy komunikacji dla listów,
 
 00:12:34.540 --> 00:12:40.720
-systems of communication for short distance and long distance and the Internet came and unified all of those.
+systemy komunikacji na krótkich dystansach i dalekich trasach, a Internet przyszedł i zunifikował wszystkie.
 
 00:12:41.860 --> 00:12:46.980
-What The Internet of Money does is, it creates a single network which can do
+To, co robi Internet Pieniądza, to jest stworzenie pojedynczej sieci, która może zrobić
 
 00:12:47.000 --> 00:12:51.140
-a micro transaction to a giga transaction
+od mikrotransakcji po gigantyczną transakcję w sekundach,
 
 00:12:52.320 --> 00:12:57.560
-in seconds, anywhere in the world for any participant without permission.
+w dowolnym miejscu na świecie dla każdego uczestnika bez pozwolenia.
 
 00:12:59.460 --> 00:13:03.560
-But if you just look at the application of money, you're missing the point
+Ale jeśli spojrzysz tylko na zastosowanie tej technologii jako pieniędzy, miniesz się z główną ideą,
 
 00:13:04.120 --> 00:13:08.540
-because you can take the language, the building blocks of this platform
+ponieważ możesz wziąć język, budulec tej platformy
 
 00:13:09.740 --> 00:13:15.540
-and use them to construct other languages that communicate value.
+i używać ich do konstruowania innych języków, które przekazują wartość.
 
 00:13:16.960 --> 00:13:22.880
-Tokens, reward points, brand loyalty coins.
+Tokeny, punkty nagrody, monety lojalnościowe marki.
 
 00:13:25.020 --> 00:13:31.900
-Today there are over a thousand digital currencies using the design pattern, the recipe of Bitcoin.
+Obecnie istnieje ponad tysiąc cyfrowych walut na bazie wzoru, receptury Bitcoin.
 
 00:13:32.800 --> 00:13:35.020
-Most of them are junk.
+Większość z nich to śmieci.
 
 00:13:35.500 --> 00:13:37.700
-Some of them are not.
+Ale niektóre z nich nie.
 
 00:13:38.280 --> 00:13:46.580
-And over the next decade, we are going to see tens of thousands and then hundreds of thousands of coins.
+A w ciągu następnej dekady zobaczymy dziesiątki tysięcy, a potem setki tysięcy monet.
 
 00:13:47.600 --> 00:13:53.860
-Some will have economic use, some will simply be expressions of loyalty, affiliation.
+Niektóre będą miały zastosowanie gospodarcze, inne będą jedynie wyrazem lojalności, przynależności.
 
 00:13:54.980 --> 00:13:59.240
-They will represent items in the physical world.
+Będą reprezentować przedmioty w świecie fizycznym.
 
 00:13:59.900 --> 00:14:02.340
-The title for a house,
+Własność domu,
 
 00:14:03.640 --> 00:14:06.560
-the controlling key for a car
+klucz sterujący do samochodu
 
 00:14:07.320 --> 00:14:11.260
-that can be transferred from one owner to another and five seconds later,
+które można przenieść z jednego właściciela na drugiego i pięć sekund później,
 
 00:14:11.260 --> 00:14:15.500
-that owner can step into the car and drive away because the car can validate
+właściciel może wejść do samochodu i odjechać, ponieważ samochód może potwierdzić
 
 00:14:16.180 --> 00:14:18.480
-the new standard of ownership.
+nowy standard własności.
 
 00:14:19.460 --> 00:14:23.640
-We cannot yet imagine what applications we're going to build around this.
+Nie możemy sobie jeszcze wyobrazić, jakie aplikacje zamierzamy na tym zbudować.
 
 00:14:24.840 --> 00:14:28.140
-But one of the interesting things we're beginning to observe
+Ale jedna z interesujących rzeczy, które można zaobserwować to to, że 
 
 00:14:28.640 --> 00:14:36.080
-is that money arises out of the social construct of Homo sapiens spontaneously.
+pieniądze takie powstają spontanicznie poza społecznością Homo sapiens.
 
 00:14:36.940 --> 00:14:38.940
-It even arises in primates.
+Powstają nawet u naczelnych.
 
 00:14:39.780 --> 00:14:42.880
-You can teach monkeys money.
+Możesz nauczyć pieniądza małpy.
 
 00:14:43.240 --> 00:14:46.200
-You can teach dolphins money.
+Możesz nauczyć pieniądza delfiny.
 
 00:14:46.680 --> 00:14:50.760
-You can teach greys, parrots money.
+Możesz nauczyć pieniądza papugi.
 
 00:14:51.460 --> 00:14:58.140
-And they will learn how to exchange abstract tokens for food and then use them to build social relationships.
+Nauczą się wymieniać abstrakcyjne tokeny na żywność, a następnie wykorzystają je do budowania relacji społecznych.
 
 00:14:58.880 --> 00:15:02.120
-They'll also invent strong-arm robbery,
+Wymyślą też napad rabunkowy,
 
 00:15:03.560 --> 00:15:07.640
-beat up the other monkey, take away its pebbles, eat the bananas.
+pobiją drugą małpę, zabiorą jej kamyki, zjedzą banany.
 
 00:15:09.160 --> 00:15:13.520
-And we see that same thing happen in children.
+I widzimy, że to samo dzieje się wśród dzieci.
 
 00:15:14.180 --> 00:15:17.400
-Toddlers invent money in kindergarten,
+Maluchy wynajdują pieniądze w przedszkolu,
 
 00:15:17.820 --> 00:15:24.100
-blocks and rubber bands and Pokemon cards and other little tokens,
+bloki i gumki i karty Pokemonów oraz inne małe tokeny,
 
 00:15:24.380 --> 00:15:31.040
-abstractions of value that they exchanged strengthen social bonds, to express loyalty and friendship,
+abstrakcyjne wartości, które wymieniają, wzmacniają więzi społeczne, wyrażają lojalność i przyjaźń,
 
 00:15:32.040 --> 00:15:34.720
-to learn about sharing.
+uczą dzielenia się.
 
 00:15:36.660 --> 00:15:39.520
-Children will be building currencies.
+Dzieci będą budować waluty.
 
 00:15:40.060 --> 00:15:47.620
-Only this time these currencies will be global, unforgeable, and scalable on day one.
+Tylko tym razem te waluty będą globalne, trudne do podrobienia i skalowalne od pierwszego dnia.
 
 00:15:49.060 --> 00:15:57.440
-Few years from now, Maria will be launching Maria coin in her kindergarten to compete against Joey coin
+Za kilka lat Maria uruchomi w swoim przedszkolu monetę Maria i będzie konkurować z monetą Joey'a
 
 00:15:58.320 --> 00:16:00.480
-and It won't really matter to anyone.
+I nie będzie to miało dla nikogo znaczenia.
 
 00:16:01.340 --> 00:16:07.580
-Until of course, Justin Bieber launches Justin Bieber coin and it happens to surpass the market capitalization
+Do tego czasu Justin Bieber wprowadzi monety Justin Bieber i może zdarzyć się tak, że przekroczą kapitalizację rynkową
 
 00:16:07.580 --> 00:16:13.760
-of 30 nations on this planet, and we are all writing horrified opinion editorials
+30 narodów na tej planecie, a my wszyscy będziemy pisać przerażające artykuły
 
 00:16:13.760 --> 00:16:17.160
-about how the world is going to hell.
+o tym, jak świat się stacza.
 
 00:16:24.020 --> 00:16:28.760
-What's happening with this technology is astonishingly deep.
+To, co dzieje się z tą technologią, jest zadziwiająco głębokie.
 
 00:16:30.860 --> 00:16:36.960
-And for certainly some of the companies in this room, it's a bit scary.
+I na pewno dla niektórych firm w tym pokoju, to trochę przerażające.
 
 00:16:38.520 --> 00:16:43.680
-Banking has never been the most innovative sector in the world
+Bankowość nigdy nie była najbardziej innowacyjnym sektorem na świecie,
 
 00:16:44.260 --> 00:16:52.340
-because there is a very careful balance between innovation and the conservative fiduciary duty
+ponieważ istnieje należyta równowaga pomiędzy innowacją a konserwatywnym obowiązkiem powierniczym,
 
 00:16:52.900 --> 00:16:59.320
-that exists in banking, that must exist when you control other people's money.
+który istnieje w bankowości, który musi istnieć, gdy kontroluje się pieniądze innych ludzi.
 
 00:17:01.080 --> 00:17:05.560
-And yet with Bitcoin, you don't control other people's money.
+A jednak z Bitcoinem nie kontroluje się pieniędzy innych ludzi.
 
 00:17:06.340 --> 00:17:09.620
-In Bitcoin, I control my money.
+W Bitcoinie to ja kontroluję swoje pieniądze.
 
 00:17:10.140 --> 00:17:19.240
-I have complete and total authority over my Bitcoin. It cannot be seized, it cannot be frozen,
+Mam pełną i całkowitą władzę nad moim Bitcoinem. Nie można go wykorzystać, nie można go zamrozić,
 
 00:17:19.240 --> 00:17:25.900
-it cannot be censored, my transactions cannot be intercepted, and they cannot be stopped.
+nie można go ocenzurować, moje transakcje nie mogą zostać przechwycone i nie można ich zatrzymać.
 
 00:17:25.900 --> 00:17:30.780
-And I can do so with almost complete anonymity and so can anyone
+Mogę to zrobić z niemal całkowitą anonimowością i tak samo każdy może
 
 00:17:31.040 --> 00:17:33.680
-5 minutes after they download an application
+5 minut po pobraniu aplikacji.
 
 00:17:33.780 --> 00:17:37.920
-and money has changed forever and banking has changed forever.
+Pieniądze zmieniły się na zawsze i bankowość zmieniła się na zawsze.
 
 00:17:41.940 --> 00:17:49.040
-The idea that you can proceed in the industry of money, in the industries of commerce
+Idea, aby brać udział w przemyśle pieniądza, w branżach handlu
 
 00:17:49.240 --> 00:17:52.800
-and maintain the same conservative attitude
+i zachować tą samą konserwatywną postawę,
 
 00:17:53.720 --> 00:17:56.860
-that has existed now for centuries
+która istniała od wieków,
 
 00:17:57.840 --> 00:18:04.260
-ever since merchants in Venice and Amsterdam
+od czasów kupców w Wenecji i Amsterdamie,
 
 00:18:04.640 --> 00:18:10.000
-started issuing depository certificates and providing banking services.
+którzy rozpoczęli wydawanie certyfikatów depozytowych i świadczenie usług bankowych,
 
 00:18:10.840 --> 00:18:12.840
-That is gone.
+to już minęło.
 
 00:18:13.820 --> 00:18:15.820
-That is gone!
+To już minęło!
 
 00:18:16.720 --> 00:18:24.140
-You cannot operate closed systems that have borders
+Nie można obsługiwać zamkniętych systemów, które mają granice i wymagają pozwolenia na dołączenie,
 
 00:18:24.140 --> 00:18:30.820
-and require permission to join at a rate of innovation that is controlled by the most conservative tendencies within
+w tempie innowacji kontrolowanym przez najbardziej konserwatywne tendencje wewnątrz Twojej organizacji,
 
 00:18:30.820 --> 00:18:37.200
-your organization because now you are competing with a technology that enables exponential growth,
+ponieważ teraz konkurujesz z technologią umożliwiającą wykładniczy wzrost innowacyjności,
 
 00:18:37.400 --> 00:18:43.540
-exponential Innovation at the edges without permission by anyone in the world.
+wykładniczy wzrost innowacji na krawędziach, bez pozwolenia wydanego przez kogokolwiek na świecie.
 
 00:18:44.900 --> 00:18:48.000
-And it's not about anyone in this room
+I nie chodzi o nikogo w tym pokoju.
 
 00:18:48.920 --> 00:18:52.860
-Why? We represent the privileged elite.
+Czemu? Reprezentujemy uprzywilejowaną elitę.
 
 00:18:54.320 --> 00:18:58.740
-I can go on to a brokerage account open it up online
+Mogę przejść do rachunku maklerskiego, otworzyć go online
 
 00:18:59.200 --> 00:19:03.240
-and be trading on the Tokyo stock market within 12 hours in yen.
+i handlować na giełdzie w Tokio w ciągu 12 godzin w jenach.
 
 00:19:04.100 --> 00:19:06.920
-That is the privilege that I have.
+To jest mój przywilej.
 
 00:19:07.880 --> 00:19:10.860
-One and a half billion people have that privilege.
+Półtora miliarda ludzi ma ten przywilej.
 
 00:19:12.460 --> 00:19:16.380
-Six billion people can operate mainly in one currency
+Sześć miliardów ludzi może działać głównie w jednej walucie
 
 00:19:16.820 --> 00:19:22.500
-and perhaps have some basic banking services. Four billion people are significantly underbanked
+i może mieć kilka podstawowych usług bankowych. Cztery miliardy ludzi jest znacznie odciętych od usług bankowych
 
 00:19:22.660 --> 00:19:27.060
-and an astonishing two and a half billion people are completely unbanked.
+a zdumiewające dwa i pół miliarda ludzi jest zupełnie odciętych od bankowości.
 
 00:19:30.280 --> 00:19:32.280
-They will leapfrog.
+Oni przeskoczą pewien etap.
 
 00:19:33.420 --> 00:19:36.380
-They will never have a relationship with a bank.
+Nigdy nie będą mieć relacji z bankiem.
 
 00:19:37.160 --> 00:19:39.320
-Every single child born today
+Każde dziecko urodzone dzisiaj,
 
 00:19:39.880 --> 00:19:43.360
-will never have a bank account.
+nigdy nie będzie mieć konta bankowego.
 
 00:19:43.960 --> 00:19:46.320
-They will have a bank app.
+Będą mieć aplikację bankową.
 
 00:19:46.840 --> 00:19:52.860
-A bank app that doesn't give them an account. A bank app that makes them a banker,
+Aplikacja bankowa, która nie daje im konta. Aplikacja bankowa, która czyni z nich bankiera,
 
 00:19:53.220 --> 00:19:56.900
-an international banker in an app.
+międzynarodowego bankiera w ramach aplikacji.
 
 00:19:58.720 --> 00:20:03.260
-They will not be permitted to open a bank account until they're 16 years old.
+Nie będą mieli pozwolenia na otwarcie konta bankowego, dopóki nie ukończą 16 lat.
 
 00:20:04.420 --> 00:20:07.420
-By that time, I hope they will have at least
+Do tego czasu mam nadzieję, że będą mieli przynajmniej 
 
 00:20:07.680 --> 00:20:11.780
-six or more years of experience with digital currencies.
+sześć lub więcej lat doświadczenia z cyfrowymi walutami.
 
 00:20:11.780 --> 00:20:16.780
-And I would like to watch them walk into a bank branch to have someone explained to them what
+I chciałbym zobaczyć, jak wchodzą do oddziału banku, aby ktoś im wytłumaczył
 
 00:20:17.280 --> 00:20:20.040
-three to five business days means.
+co oznacza trzy do pięciu dni roboczych.
 
 00:20:23.420 --> 00:20:29.360
-It is highly likely the children born today will never get a driving license because they'll have self-driving cars
+Jest wysoce prawdopodobne, że urodzone dzisiaj dzieci nigdy nie zdobędą prawa jazdy, ponieważ będą miały autonomiczne auta.
 
 00:20:29.460 --> 00:20:33.200
-But they will also never use paper money.
+Ale nigdy nie będą też używać papierowych pieniędzy.
 
 00:20:34.660 --> 00:20:40.720
-Because by the time they get to an age where they really start using money, there is no paper money.
+Ponieważ zanim osiągną wiek, w którym naprawdę zaczyna się używać pieniędzy, nie będzie już papierowych pieniędzy.
 
 00:20:42.200 --> 00:20:48.620
-It will seem as anachronistic as a fax machine or horse and buggy seems to us.
+Będzie się to wydawać anachroniczne, tak jak dla nas wydaje faks lub koń z powozem.
 
 00:20:51.440 --> 00:20:59.200
-Exponential innovation on a global basis giving access to the other six billion.
+Innowacje o wykładniczym tempie wzrostu na poziomie globalnym, dające dostęp dla pozostałych sześciu miliardów ludzi.
 
 00:20:59.980 --> 00:21:02.900
-They have enormous need.
+Jest na to ogromne zapotrzebowanie.
 
 00:21:03.940 --> 00:21:07.260
-And this system offers them a solution.
+I ten system oferuje rozwiązanie.
 
 00:21:08.540 --> 00:21:10.540
-It's not ready yet.
+Nie jest jeszcze gotowy.
 
 00:21:11.400 --> 00:21:18.540
-It's nascent, its complex, It's impossible to use. For most people.
+Dopiero powstaje, jest złożony i niemożliwy do użycia przez większość ludzi.
 
 00:21:19.280 --> 00:21:28.220
-In 1989, I sent my first email. In order to do so, I had to compile a version of the Unix mail program
+W 1989 roku wysłałem swój pierwszy e-mail. W tym celu musiałem skompilować wersję programu pocztowego na system Unix
 
 00:21:28.220 --> 00:21:32.120
-using a C compiler and Unix command line skills.
+przy użyciu kompilatora C i umiejętnością obsługi linii poleceń Unix.
 
 00:21:32.360 --> 00:21:40.120
-I had to set it up on the command line, type out my email and that email was transmitted
+Musiałem skonfigurować go w linii poleceń, napisać mój e-mail i ten e-mail został przesłany
 
 00:21:41.000 --> 00:21:46.280
-across the great Internet in an astonishing three days.
+przez wielki Internet w zadziwiającym tempie trzech dni.
 
 00:21:48.740 --> 00:21:57.520
-Exactly 20 years later, my mother replicated that experience with a swipe.
+Dokładnie 20 lat później moja mama powtórzyła to doświadczenie za pomocą machnięcia.
 
 00:21:59.800 --> 00:22:01.180
-Bitcoin today
+Dzisiaj Bitcoin i wszystkie waluty
 
 00:22:01.880 --> 00:22:08.280
-and all of the currencies that are built on that recipe are just at the same level that the Internet was in 1991.
+zbudowane na tym rozwiązaniu, są na tym samym poziomie, co Internet w 1991 roku.
 
 00:22:11.140 --> 00:22:14.300
-Only now we have the Internet.
+Tylko teraz mamy Internet.
 
 00:22:16.040 --> 00:22:20.980
-And so the rate of exponential growth has already started.
+I dlatego tempo wzrostu wykładniczego już się zaczęło.
 
 00:22:21.580 --> 00:22:25.940
-The innovation is growing at an astonishing rate.
+Innowacja rośnie w zadziwiającym tempie.
 
 00:22:26.280 --> 00:22:34.600
-I spend every single day full-time trying to keep up with Bitcoin. Just one currency, and it's almost impossible.
+Każdego dnia spędzam cały dzień pracy próbując nadążyć za Bitcoinem. Tylko jedna waluta, a to prawie niemożliwe.
 
 00:22:36.920 --> 00:22:45.040
-Do not underestimate this. Do not listen to the people who tell you that Bitcoin is just for
+Nie lekceważ tego. Nie słuchaj ludzi, którzy mówią Ci, że Bitcoin jest właśnie dla
 
 00:22:45.160 --> 00:22:51.700
-pornographers, terrorists, drug dealers, and gamblers.
+przemysłu pornograficznego, terrorystów, handlarzy narkotyków i hazardzistów.
 
 00:22:52.780 --> 00:22:56.540
-Remember that they said the exact same thing about the Internet.
+Pamiętaj, że powiedzieli dokładnie to samo o Internecie.
 
 00:22:58.700 --> 00:23:05.060
-And when you give it to two or three billion people, they're not interested in those things.
+A kiedy dasz go dwóm lub trzem miliardom ludzi, którzy nie są zainteresowani takimi rzeczami.
 
 00:23:05.360 --> 00:23:07.720
-They're interested in sharing cat videos.
+Są zainteresowani udostępnianiem filmów o kotach.
 
 00:23:09.300 --> 00:23:12.400
-And now we have an Internet of a billion cat videos.
+I teraz mamy Internet z miliardem filmów o kotach.
 
 00:23:13.140 --> 00:23:20.060
-When you take digital currency mainstream and give it to the four billion people who have been isolated
+Kiedy weźmiesz główny nurt cyfrowej waluty i przekażesz go czterem miliardom ludzi, którzy zostali wyizolowani
 
 00:23:20.340 --> 00:23:25.680
-from international finance and commerce, and you give them the opportunity to control their money
+z międzynarodowych finansów i handlu, a Ty dajesz im możliwość kontrolowania swoich pieniędzy
 
 00:23:25.820 --> 00:23:29.640
-against the spotted governments and corrupt banks that are stealing from them,
+w przeciwieństwie do skorumpowanych rządów i banków, które ich okradają.
 
 00:23:31.600 --> 00:23:33.260
-you give them the opportunity
+Dajesz im możliwość do kontrolowania własnej przyszłości,
 
 00:23:33.260 --> 00:23:38.600
-to control their future, you give them the opportunity to transact with everyone in the world.
+dajesz im możliwość zawierania transakcji w każdym miejscu na świecie.
 
 00:23:38.700 --> 00:23:45.880
-To own title on their own property in a fully transferable digital token that is recognized everywhere.
+Posiadanie tytułu do własnego dobytku w pełni przenośnym tokenie cyfrowym, który jest wszędzie rozpoznawany.
 
 00:23:46.880 --> 00:23:50.860
-Control over finance that cannot be seized frozen or censored.
+Kontrola nad finansami, które nie mogą być zamrożone lub ocenzurowane.
 
 00:23:53.640 --> 00:24:02.540
-They will buy food, health care, sanitation, education, shelter
+Będą kupować żywność, opiekę zdrowotną, urządzenia sanitarne, edukację, schronienie,
 
 00:24:03.100 --> 00:24:04.820
-because that's what we do.
+ponieważ to jest to co robimy.
 
 00:24:05.860 --> 00:24:10.100
-And they will not be denied this technology.
+I nie odrzucą tej technologii.
 
 00:24:11.680 --> 00:24:15.460
-Do not underestimate where this is going.
+Nie lekceważ kierunku tych zmian.
 
 00:24:16.120 --> 00:24:20.800
-The Internet of Money was launched on January 3rd, 2009.
+Internet pieniądza został uruchomiony 3 stycznia 2009 roku.
 
 00:24:21.480 --> 00:24:25.280
-It's coming. It's coming faster than you can imagine.
+Nadchodzi. Nadchodzi szybciej, niż możesz sobie wyobrazić.
 
 00:24:25.360 --> 00:24:31.600
-It's deeper than you can fathom. It's more sophisticated than you can immediately understand.
+Jest głębszy, niż możesz pojąć. Jest bardziej wyrafinowany, niż możesz od razu zrozumieć.
 
 00:24:31.840 --> 00:24:36.360
-It takes years of study just to see all of the implications.
+Trzeba lat studiów, aby zobaczyć wszystkie implikacje.
 
 00:24:38.960 --> 00:24:42.580
-And it is a gift to the entire world.
+I jest darem dla całego świata.
 
 00:24:43.200 --> 00:24:48.240
-A technology that represents the sixth greatest innovation
+Technologia reprezentująca szóstą największą innowację w technologii pieniądza,
 
 00:24:48.820 --> 00:24:54.700
-in the technology of money, the most ancient technology of our civilization. Thank you.
+najstarszej technologii naszej cywilizacji. Dziękuję.
 
 00:25:02.600 --> 00:25:05.900
-Should we do some questions? We've got plenty of time for questions.
+Powinniśmy zrobić teraz czas na pytania? Mamy mnóstwo czasu na pytania.
 
 00:25:13.140 --> 00:25:15.700
-What determines the buying power of the currency?
+Co decyduje o sile nabywczej waluty?
 
 00:25:16.140 --> 00:25:21.100
-How does it stabilize and what's required to stabilize it, so if I would buy some Bitcoins,
+To czy jest stabilna. A co jest wymagane żeby była stabilna? 
 
 00:25:21.560 --> 00:25:24.120
-who can manipulate the value of that?
+Jeśli kupiłbym Bitcoiny, kto może manipulować ich wartością?
 
 00:25:24.240 --> 00:25:25.720
-Mhm, everyone.
+Mhm, wszyscy.
 
 00:25:26.760 --> 00:25:30.960
-The buying power of Bitcoin is determined in exactly the same way that the buying power of
+Siła nabywcza Bitcoina jest określana w dokładnie taki sam sposób, jak siła nabywcza euro,
 
 00:25:30.960 --> 00:25:36.040
-the euro, the British sterling, the Japanese yen, or the US Dollar is determined through market forces
+brytyjskiego funta szterlinga, japoński jena, czy dolara amerykańskiego. Jest określana przez siły rynkowe
 
 00:25:36.040 --> 00:25:40.760
-of supply and demand in international liquid markets that operate around the clock.
+podaży i popytu na międzynarodowych płynnych rynkach, które działają przez całą dobę.
 
 00:25:41.360 --> 00:25:45.260
-One of the fundamental differences is that bitcoin trading never ceases.
+Jedną z podstawowych różnic jest to, że handel Bitcoinami nigdy nie ustaje.
 
 00:25:45.680 --> 00:25:49.040
-Has been going continuously for seven years the network never stops.
+Od siedmiu lat działa nieprzerwanie, a sieć nigdy się nie zatrzymuje.
 
 00:25:49.040 --> 00:25:52.440
-Every ten minutes Bitcoins heart beats
+Co dziesięć minut bije serce Bitcoina i transakcje są przetwarzane,
 
 00:25:53.180 --> 00:25:59.620
-and transactions are processed, the exchanges never close. There is no closing price for Bitcoin.
+wymiany nigdy się nie zamykają. Nie ma ceny zamknięcia dla Bitcoina.
 
 00:25:59.620 --> 00:26:02.660
-It is a rolling average and in that trading
+Jest to średnia krocząca i w tym handlu
 
 00:26:03.380 --> 00:26:08.220
-a market capitalization of approximately twelve billion dollars is now traded internationally.
+kapitalizacja rynkowa w wysokości około dwunastu miliardów dolarów jest obecnie przedmiotem obrotu międzynarodowego.
 
 00:26:08.640 --> 00:26:11.080
-What is twelve billion dollars for a global currency?
+Co to jest dwanaście miliardów dolarów za globalną walutę?
 
 00:26:11.940 --> 00:26:16.140
-It's a guppy, swimming in shark-infested waters
+To gupik, pływający w wodach inwestycyjnych rekinów.
 
 00:26:16.700 --> 00:26:20.340
-and every trader, every whale goes in there
+I każdy spekulant, każdy wieloryb (inwestor z dużymi pieniędzmi),
 
 00:26:20.840 --> 00:26:23.060
-and just kicks that price around.
+idzie tam i po prostu kopie tę cenę.
 
 00:26:23.460 --> 00:26:30.880
-So right now the experience of living on Bitcoin which I have been doing full-time for more than three years
+Tak więc teraz życie na Bitcoinie, którego doświadczam pracując nad nim od ponad trzech lat
 
 00:26:31.320 --> 00:26:33.040
-is a roller coaster.
+to kolejka górska.
 
 00:26:33.440 --> 00:26:35.500
-It's an absolute roller coaster.
+To absolutna kolejka górska.
 
 00:26:36.320 --> 00:26:40.060
-I've seen shifts of 20 or 30 percent in a day
+Widziałem zmiany rzędu 20 lub 30 procent dziennie,
 
 00:26:40.900 --> 00:26:44.180
-and yet, if you look at the long-term trend,
+a jednak, jeśli spojrzeć na długoterminowy trend,
 
 00:26:45.020 --> 00:26:50.840
-volume goes up, transactions go up, and volatility keeps dropping.
+Wolumen obrotów rośnie, transakcje idą w górę, a zmienność ciągle spada.
 
 00:26:51.540 --> 00:26:57.680
-And the beauty of it is, I can't sell that to an American. I can't sell that to a Brit.
+Jest to piękne, ponieważ nie mogę sprzedać tej technologii Amerykanom. Nie mogę sprzedać Brytyjczykom.
 
 00:26:58.940 --> 00:27:04.640
-I don't need to sell it to an Argentinean. I don't need to sell it to a Brazilian.
+Nie muszę sprzedawać tego Argentyńczykom. Nie muszę sprzedawać tego Brazylijczykom.
 
 00:27:04.940 --> 00:27:08.100
-I don't need to sell it to a Venezuelan
+Nie muszę jej sprzedawać Wenezuelczykom.
 
 00:27:08.380 --> 00:27:12.120
-I went to a conference and an Argentinian told me
+Poszedłem na konferencję i Argentyńczyk powiedział mi, 
 
 00:27:13.580 --> 00:27:19.460
-I'm not worried about volatility, our currency has volatility like this.
+że nie martwi się o zmienność, bo ich państwowa waluta też ma taką niestabilność.
 
 00:27:20.520 --> 00:27:26.240
-Bitcoin has volatility like this. I'd rather be going in that direction.
+Bitcoin ma taką zmienność. Wolałbym iść w tym kierunku.
 
 00:27:29.080 --> 00:27:31.080
-And you don't need to tell them why.
+I nie musisz im mówić, dlaczego.
 
 00:27:32.400 --> 00:27:38.780
-Their government through people out of airplanes not more than 35 years ago for disagreeing.
+Ich rząd zrzucał ludzi z samolotów nie więcej niż 35 lat temu za odmienne zdania.
 
 00:27:39.540 --> 00:27:44.000
-They already know why the separation of state and money is a good idea.
+Wiedzą już, dlaczego rozdzielenie państwa i pieniędzy jest dobrym pomysłem.
 
 00:27:45.660 --> 00:27:49.860
-And so volatility is relative.
+A zatem zmienność jest względna.
 
 00:27:54.760 --> 00:27:56.920
-Any other questions, come on. Yeah?
+Jakieś inne pytania, proszę bardzo. Tak?
 
 00:27:57.600 --> 00:27:59.680
-Let's get a microphone to you one second.
+Znajdźmy Ci mikrofon, sekundę.
 
 00:28:04.720 --> 00:28:11.780
-Thanks, a great speech. Obviously, it sounded a little bit like one side of the coin, so we also read
+Dzięki, świetna mowa. Oczywiście, brzmiało to trochę jak jedna strona medalu, więc czytamy również
 
 00:28:12.700 --> 00:28:19.560
-all these you know big hacks, and I don't know, Bitfinex, you know they, I think they stole 40% of the money.
+o tych wszystkich atackach hackerskich, i nie wiem, Bitfinex, wiecie, że zostało ukradzionych z tej giełdy około 40% pieniędzy.
 
 00:28:19.880 --> 00:28:23.520
-I think also this autonomous organization has been hacked
+Myślę, że również ta autonomiczna organizacja (The DAO) została zhakowana i wszystkie tego typu rzeczy.
 
 00:28:23.520 --> 00:28:28.560
-and all these things. Can you just reflect a little bit on the dark side or
+Czy możesz po prostu zastanowić się trochę nad ciemną stroną lub tymi aspektami,
 
 00:28:28.840 --> 00:28:34.200
-of those aspects that might not win our full trust into this evolution.
+które mogą nie wzbudzić pełnego zaufania do tej ewolucji?
 
 00:28:34.480 --> 00:28:35.740
-Absolutely.
+Absolutnie.
 
 00:28:38.100 --> 00:28:43.040
-The steering wheel was not invented until 30 years after the automobile was introduced.
+Kierownica nie została wynaleziona przez 30 lat po wprowadzeniu samochodu.
 
 00:28:45.140 --> 00:28:50.320
-Why? Because the first automobiles had two leather straps that you pulled left or right
+Czemu? Ponieważ pierwsze samochody miały dwa skórzane paski, które ciągnąłeś w lewo lub w prawo,
 
 00:28:50.940 --> 00:28:53.300
-to move the car, to steer the car.
+aby poruszać samochodem, aby sterować samochodem.
 
 00:28:54.520 --> 00:28:58.540
-They used horse reins to steer cars.
+Użyto końskich lejców do kierowania samochodami.
 
 00:28:59.220 --> 00:29:01.320
-That's called skeuomorphic design.
+To się nazywa projektowanie skeumorficzne.
 
 00:29:01.880 --> 00:29:08.880
-It means keeping a shadow of the former past in your new system, failing to see the new dimension
+Oznacza to zachowanie cienia przeszłości w nowym systemie, nie dostrzegając nowego wymiaru
 
 00:29:09.560 --> 00:29:11.600
-and replicating the past.
+i w ten sposób powielanie przeszłości.
 
 00:29:12.420 --> 00:29:17.240
-Here's a currency that is not centralized where your money is your money.
+Oto waluta, która nie jest scentralizowana, gdzie Twoje pieniądze są Twoimi pieniędzmi.
 
 00:29:18.060 --> 00:29:20.700
-Your keys, your money.
+Twoje klucze, Twoje pieniądze.
 
 00:29:21.920 --> 00:29:25.080
-Not your keys, not your money.
+Nie twoje klucze, nie Twoje pieniądze.
 
 00:29:25.700 --> 00:29:29.500
-So, what is the first thing we do with this new system?
+A więc, co jest pierwszą rzeczą, jaką robimy z tym nowym systemem?
 
 00:29:29.960 --> 00:29:40.180
-We build centralized institutional's of custodial control that take other peoples money and hold it for them.
+Budujemy scentralizowane instytucje nadzorcze, które biorą pieniądze innych ludzi i trzymają je dla nich.
 
 00:29:40.760 --> 00:29:44.120
-Well, guess what? The entire history of banking,
+Coś Wam powiem. Cała historia bankowości,
 
 00:29:44.220 --> 00:29:48.680
-the entire system of regulation and oversight is based on the simple
+cały system regulacji i nadzoru opiera się na prostej
 
 00:29:48.700 --> 00:29:52.720
-centuries-old understanding that when somebody else holds your money,
+wielowiekowej prawdzie, że kiedy ktoś inny trzyma Twoje pieniądze,
 
 00:29:52.920 --> 00:29:55.580
-chances are they're going to run away with it.
+są szanse, że z nimi ucieknie.
 
 00:29:56.440 --> 00:30:02.920
-And the entire system of regulation is designed to prevent that and yet it still happens all the time.
+Cały system regulacji jest stworzony w celu zapobiegania temu, a jednak ciągle się to zdarza.
 
 00:30:03.800 --> 00:30:09.420
-In hedge funds, in banks, in national currencies, all the time.
+W funduszach hedgingowych, w bankach, w walutach krajowych, przez cały czas.
 
 00:30:09.420 --> 00:30:12.920
-And so of course, if you replicate custodial accounts,
+I oczywiście, jeśli powielimy rachunki powiernicze tworząc giełdy,
 
 00:30:13.000 --> 00:30:16.520
-exchanges that take other people's Bitcoin and concentrate it
+które biorą Bitcoin innych ludzi i koncentrują go, zdarzy się to ponownie,
 
 00:30:17.240 --> 00:30:23.420
-It happens again, even worse because there are no oversight and regulations in most of these spaces.
+a jest to gorsza sytuacja, ponieważ nie ma żadnego nadzoru i regulacji w większości z tych przestrzeni.
 
 00:30:24.500 --> 00:30:26.140
-The answer is really simple.
+Odpowiedź jest naprawdę prosta.
 
 00:30:26.340 --> 00:30:32.660
-Stop centralizing the decentralized currency. Stop trying to replicate the banking past
+Przestać centralizować zdecentralizowaną walutę. Przestać próbować replikować bankową przeszłość
 
 00:30:33.260 --> 00:30:34.920
-in the future of money.
+w stosunku do pieniądza przyszłości.
 
 00:30:35.520 --> 00:30:38.660
-And the important thing to realize is that
+I ważna rzecz do uświadomienia sobie, że
 
 00:30:38.940 --> 00:30:42.660
-security in Bitcoin is an emergent property
+bezpieczeństwo w Bitcoinie jest kwestią własności.
 
 00:30:43.540 --> 00:30:50.900
-that exists because of the decentralization of control and power. If I want to hack a million customers Bitcoin,
+Istnieje ponieważ zdecentralizowana jest kontrola i władza. Jeśli zechcę zhakować milion klientów Bitcoina,
 
 00:30:50.960 --> 00:30:55.400
-And they're holding their keys, I have to hack a million customers.
+i oni sami przechowują swoje klucze, muszę zhakować milion klientów.
 
 00:30:55.900 --> 00:31:00.360
-If they all give their keys to one person or one organization,
+Jeśli Ci klienci oddadzą swoje klucze jednej osobie lub organizacji,
 
 00:31:01.940 --> 00:31:03.940
-then we've got a honeypot.
+powstanie wabik (honeypot).
 
 00:31:04.700 --> 00:31:09.580
-A honeypot that attracts the attention of every hacker on the planet.
+Wabik (honeypot), który przyciąga uwagę każdego hakera na tej planecie.
 
 00:31:10.360 --> 00:31:12.100
-And notice what's happened.
+I zauważcie, co się stało.
 
 00:31:12.520 --> 00:31:17.420
-Over seven years and with a market capitalization of twelve billion dollars,
+Przez 7 lat i przy kapitalizacji rynkowej w wysokości 12 miliardów dolarów,
 
 00:31:17.780 --> 00:31:22.940
-Bitcoin is the largest cryptographic deployment in the world,
+Bitcoin jest największym wdrożeniem kryptograficznym na świecie,
 
 00:31:22.940 --> 00:31:29.940
-the largest public key infrastructure in the world, the largest security honeypot in the world
+największa infrastruktura klucza publicznego na świecie, największy na świecie wabik (honeypot) w zakresie zabezpieczeń
 
 00:31:31.040 --> 00:31:34.080
-and it is not secure because it doesn't get attacked.
+I nie jest bezpieczny dlatego, że nie został zhakowany.
 
 00:31:34.420 --> 00:31:40.620
-It is secure because it generates immunity by being attacked all the time,
+Jest bezpieczny, ponieważ zapewnia odporność na ciągłe ataki,
 
 00:31:41.100 --> 00:31:45.620
-24 hours a day by the most sophisticated attackers this planet has.
+24 godziny na dobę przez najbardziej wyrafinowanych napastników na tej planecie.
 
 00:31:46.980 --> 00:31:58.000
-And if you in that environment set up a centralized custodial exchange using PHP and MySQL
+A jeśli w tym środowisku ustanowiono scentralizowaną wymianę depozytów przy użyciu PHP i MySQL
 
 00:31:58.980 --> 00:32:02.600
-and you park a 150 million dollar Honeypot in there,
+i zaparkujesz tam 150 milionów dolarów w takim wabiku (honeypot),
 
 00:32:03.360 --> 00:32:05.360
-you're inviting the sharks.
+zapraszasz rekiny.
 
 00:32:06.560 --> 00:32:10.080
-Bitcoin banks get hacked, Bitcoin exchanges get hacked,
+Banki Bitcoina zostają zhakowane, wymiana Bitcoinów zostaje zhakowana,
 
 00:32:10.760 --> 00:32:19.420
-Bitcoin has not been hacked and cannot be hacked because there is no point of control
+Bitcoin nie został zhakowany i nie można go zhackować, ponieważ nie ma punktu zbiorczego,
 
 00:32:19.700 --> 00:32:23.260
-that you can apply pressure on. It's completely decentralized.
+który można by było zaatakować. Jest całkowicie zdecentralizowany.
 
 00:32:23.940 --> 00:32:25.980
-All right, Maybe one more question.
+W porządku, może jeszcze jedno pytanie.
 
 00:32:28.200 --> 00:32:33.620
-Where does the supply of Bitcoin come from and are you sure the market doesn't get oversupplied?
+Skąd bierze się podaż Bitcoina i czy na pewno rynek nie jest nadmiernie zaopatrywany?
 
 00:32:34.180 --> 00:32:37.500
-The supply of Bitcoin is determined algorithmically
+Podaż Bitcoin jest określana algorytmicznie.
 
 00:32:37.500 --> 00:32:42.220
-based on a geometrically declining supply function, meaning that,
+Jest oparta na geometrycznie malejącej funkcji podaży, co oznacza, że
 
 00:32:42.980 --> 00:32:47.080
-in the beginning every 10 minutes, 50 new Bitcoin are created,
+na początku co 10 minut powstaje 50 nowych Bitcoinów,
 
 00:32:47.940 --> 00:32:53.860
-so every block, the heartbeat, 10 minutes, created 50 new Bitcoin.
+więc każdy blok, jak uderzenie serca, w 10 minut, stworzy 50 nowych Bitcoinów.
 
 00:32:54.160 --> 00:33:00.140
-This Bitcoin is used as a reward in a game theory based security model
+Bitcoin jest używany jako nagroda w modelu bezpieczeństwa opartym na teorii gier.
 
 00:33:00.140 --> 00:33:04.900
-that ensures that every transaction is independently validated by completely anonymous actors
+Zapewnia to, że każda transakcja jest niezależnie zatwierdzana przez całkowicie anonimowych aktorów,
 
 00:33:05.180 --> 00:33:09.980
-who have to stake electricity as a guarantee of the security work they've done
+którzy muszą opłacać elektryczność jako gwarancję zabezpieczenia jakie wykonali,
 
 00:33:10.340 --> 00:33:14.700
-and if they succeed in doing the security work validating transactions correctly,
+i jeśli uda im się poprawnie przeprowadzić walidację transakcji bezpieczeństwa,
 
 00:33:14.700 --> 00:33:19.300
-they earn as a reward based on a probabilistic return.
+zarabiają nagrodę w oparciu o prawdopodobieństwo zwrotu.
 
 00:33:20.180 --> 00:33:25.380
-That reward, 50 Bitcoin every 10 minutes. That's how currency is introduced into the economy.
+Ta nagroda to 50 Bitcoinów co 10 minut. W ten sposób wprowadza się walutę do gospodarki.
 
 00:33:25.880 --> 00:33:28.740
-Every four years it gets cut in half.
+Co cztery lata ilość ta zostaje zmniejszona o połowę.
 
 00:33:29.380 --> 00:33:32.440
-50 to 25 in November of 2012.
+50 do 25 w listopadzie 2012 r.
 
 00:33:32.940 --> 00:33:38.720
-And this year in July, this past July, we had our second having event
+I w tym roku w lipcu, w ubiegłym lipcu, mieliśmy drugie takie wydarzenie
 
 00:33:39.080 --> 00:33:42.600
-which was celebrated with birthday parties all over the world
+który był obchodzony na przyjęciach urodzinowych na całym świecie
 
 00:33:43.360 --> 00:33:48.240
-and Bitcoins reward went from 25 to 12.5 Bitcoin.
+a nagroda zmalała z 25 do 12,5 Bitcoinów.
 
 00:33:49.500 --> 00:33:54.540
-As a system, it's designed to have a monetary policy that is purposely deflationary
+Jako system jest zaprojektowany tak, aby mieć politykę pieniężną celowo deflacyjną
 
 00:33:54.540 --> 00:33:57.660
-and simulates the issuance of precious metals.
+i symuluje emisję metali szlachetnych.
 
 00:33:57.660 --> 00:34:03.040
-It gets harder and harder and harder to mine gold at greater and greater and greater cost.
+Coraz trudniej jest zdobywać złoto przy coraz większych i większych kosztach.
 
 00:34:03.660 --> 00:34:09.520
-And Bitcoin is the same. The idea being that less and less is issued over time.
+Bitcoin jest taki sam. Coraz mniej można go pozyskać z biegiem czasu.
 
 00:34:10.020 --> 00:34:16.940
-If you follow that geometric curve, at some point, you reach the end. In the year 2141
+Podążając za tą krzywą geometryczną, w pewnym momencie dotrzemy do końca.
 
 00:34:17.780 --> 00:34:19.980
-Bitcoin is no longer issued.
+W roku 2141 nie będzie już nowych Bitcoinów do pozyskania.
 
 00:34:19.980 --> 00:34:26.580
-21 million coins is the asymptotic cap. It will never reach 21 million coins.
+21 milionów monet to asymptotyczna objętość. 21 milionów monet nigdy nie zostanie osiągnięte.
 
 00:34:26.580 --> 00:34:30.300
-That is part of the protocol, it is an unchangeable part of the protocol
+Jest to część protokołu, niezmienna część,
 
 00:34:30.300 --> 00:34:35.540
-and it is a rule enforced by every system that participates in the Bitcoin network.
+jest to reguła egzekwowana przez każdy system, który uczestniczy w sieci Bitcoin.
 
 00:34:40.040 --> 00:34:42.180
-It is meant to be sound money
+Są to zdrowe pieniądze,
 
 00:34:42.180 --> 00:34:44.800
-but it's not the only monetary policy that exists.
+ale nie jest to jedyna polityka pieniężna, która istnieje.
 
 00:34:44.800 --> 00:34:48.620
-There are several other currencies that implement different monetary policies.
+Istnieje kilka innych walut, które implementują różne polityki pieniężne.
 
 00:34:48.940 --> 00:34:56.960
-The idea is really for Bitcoin to serve as a very very solid reserve currency for many other things.
+Pomysł polega na tym, że Bitcoin może służyć jako bardzo stabilna waluta rezerwowa na wiele innych rzeczy.
 
 00:35:00.660 --> 00:35:03.680
-What do you have to give to companies here
+Co trzeba dać na zachętę firmom,
 
 00:35:03.680 --> 00:35:09.300
-who are from non-financial institutions about how they should take tactical steps to think about
+które wywodzą się z niefinansowych instytucji oraz jakie kroki taktyczne powinny one podjąć w kierunku
 
 00:35:09.340 --> 00:35:12.960
-experimenting with the blockchain in terms of storing value?
+eksperymentowania z blockchainem pod względem przechowywania wartości?
 
 00:35:17.220 --> 00:35:22.440
-I think understanding that it's not just currency, understanding that it is a platform for trust.
+Myślę, że powinny zrozumieć, że to nie tylko waluta, zrozumieć, że jest to platforma zaufania.
 
 00:35:22.440 --> 00:35:29.260
-Understanding that it can be used as a historical record of truths that can register information
+Rozumiejąc to, technologia ta może być użyta jako zapamiętany w historii wiarygodny rekord z zapisanymi w nim informacjami.
 
 00:35:29.260 --> 00:35:33.780
-that it can be used to create all kinds of tokens that can be exchanged
+Można go wykorzystać do tworzenia wszelkiego rodzaju tokenów, które mogą być wymienione
 
 00:35:33.780 --> 00:35:36.820
-between your customers, your suppliers, your manufacturers,
+między klientami, dostawcami, producentami.
 
 00:35:36.820 --> 00:35:42.600
-that it can also be used simply as a currency for any cross-border transactions
+Może być również używany po prostu jako waluta dla transakcji transgranicznych.
 
 00:35:42.600 --> 00:35:48.520
-import/export activities, remittances based flows, paying associates and affiliates.
+Operacje importu / eksportu, przepływy oparte na przekazach pieniężnych, opłacanie współpracowników i przedsiębiorstw powiązanych.
 
 00:35:48.520 --> 00:35:52.880
-All of the things that today are expensive, slow, and difficult
+Wszystkie te rzeczy, które dziś są drogie, powolne i trudne staną się tanie,
 
 00:35:52.880 --> 00:35:57.780
-become cheap, fast, and easy when you use one of these digital currencies.
+szybkie i łatwe, przy wykorzystaniu jednej z tych cyfrowych walut.
 
 00:35:57.800 --> 00:36:02.580
-But It's still early. For now, learning about it.
+Ale wciąż jest wcześnie. Na razie, uczcie się o tym.
 
 00:36:02.820 --> 00:36:08.100
-Here's the one important thing you must understand. You will hear a lot about blockchain
+Oto jedna ważna rzecz, którą musisz zrozumieć. Usłyszysz wiele o blockchain,
 
 00:36:09.840 --> 00:36:16.000
-and most of what you hear about blockchain is not The Internet of Money. It is The Intranet of Money.
+a większość tego, co słyszysz o blockchain, to nie Internet Pieniądza. To jest INTRANET pieniędzy.
 
 00:36:16.880 --> 00:36:23.600
-The Intranet is where you run FrontPage and Outlook and antiquated software in a closed little
+Intranet to miejsce, w którym uruchamiasz FrontPage i Outlook oraz inne przestarzałe oprogramowanie w zamkniętym środowisku,
 
 00:36:23.600 --> 00:36:29.540
-enclave of your corporate back waters with stale content and boring apps.
+enklawie zaściankowych systemów korporacyjnych z nieaktualnymi treściami i nudnymi aplikacjami.
 
 00:36:30.060 --> 00:36:34.240
-And in the end, it's full of viruses anyway because you can't keep it secure.
+I w końcu jest pełno wirusów, ponieważ nie możesz tego zabezpieczyć.
 
 00:36:35.660 --> 00:36:41.780
-Blockchain that is not open, that is not public, that is not borderless that is not open for innovation
+Blockchain, który nie jest otwarty, nie jest publiczny, nie jest bez granic i nie jest otwarty na innowacje,
 
 00:36:43.480 --> 00:36:47.520
-is not what we're talking about here. And that's a really important distinction.
+nie o tym tutaj mówimy. I to naprawdę ważne rozróżnienie.
 
 00:36:47.960 --> 00:36:53.500
-It may be useful if you want to run a clearing house between three banks, maybe.
+Może się przydać, jeśli chcesz uruchomić izbę rozrachunkową między trzema bankami.
 
 00:36:55.140 --> 00:36:57.140
-But it's not The Internet of Money.
+Ale to nie jest Internet pieniądza.
 
 00:36:59.880 --> 00:37:00.580
-Thank you.
+Dziękuję.
 
 00:37:10.340 --> 00:37:11.420
-Thank you so much.
-
+Dziękuję bardzo.
